@@ -1,0 +1,8 @@
+<map id="SCR_BaseSupportStationEnableEditorAttribute" name="SCR_BaseSupportStationEnableEditorAttribute">
+<area shape="rect" id="node1" title=" " alt="" coords="223,101,435,141"/>
+<area shape="rect" id="node3" href="$interfaceSCR__SupportStationEnableFuelEditorAttribute.html" title=" " alt="" coords="483,5,665,45"/>
+<area shape="rect" id="node4" href="$interfaceSCR__SupportStationEnableHealEditorAttribute.html" title=" " alt="" coords="483,69,665,109"/>
+<area shape="rect" id="node5" href="$interfaceSCR__SupportStationEnableRepairEditorAttribute.html" title=" " alt="" coords="483,133,665,173"/>
+<area shape="rect" id="node6" href="$interfaceSCR__SupportStationEnableResupplyEditorAttribute.html" title=" " alt="" coords="483,197,665,237"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseEditorAttribute.html" title="Base Attribute Script for other attributes to inherent from to get and set varriables in Editor Attri..." alt="" coords="5,109,175,134"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="SCR_ScenarioFrameworkPlugin" name="SCR_ScenarioFrameworkPlugin">
+<area shape="rect" id="node1" title=" " alt="" coords="168,109,375,134"/>
+<area shape="rect" id="node3" href="$interfaceSCR__ScenarioFrameworkPluginOnDestroyEvent.html" title=" " alt="" coords="423,5,629,45"/>
+<area shape="rect" id="node4" href="$interfaceSCR__ScenarioFrameworkPluginOnInventoryChange.html" title=" " alt="" coords="423,69,629,109"/>
+<area shape="rect" id="node5" href="$interfaceSCR__ScenarioFrameworkPluginSpawnPoint.html" title=" " alt="" coords="423,133,629,173"/>
+<area shape="rect" id="node6" href="$interfaceSCR__ScenarioFrameworkPluginTrigger.html" title=" " alt="" coords="423,197,629,237"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,109,120,134"/>
+</map>

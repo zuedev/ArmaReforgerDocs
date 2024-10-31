@@ -1,0 +1,4 @@
+<map id="SCR_RandomPositionalInsects" name="SCR_RandomPositionalInsects">
+<area shape="rect" id="node1" title="Spawns Insect particles around camera based on define behaviour." alt="" coords="5,79,208,104"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AmbientInsectsEffect.html" title=" " alt="" coords="17,5,196,31"/>
+</map>

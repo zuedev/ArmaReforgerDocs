@@ -1,0 +1,4 @@
+<map id="SCR_NotificationNumber" name="SCR_NotificationNumber">
+<area shape="rect" id="node1" title="Notification nr Displays a notification: %1 = given int converted to float devided by SCR_Notificatio..." alt="" coords="18,79,183,104"/>
+<area shape="rect" id="node2" href="$interfaceSCR__NotificationDisplayData.html" title="Used to get the display information for each notification." alt="" coords="5,5,196,31"/>
+</map>

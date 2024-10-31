@@ -1,0 +1,6 @@
+<map id="SCR_CampaignSpawnPointGroup" name="SCR_CampaignSpawnPointGroup">
+<area shape="rect" id="node1" title=" " alt="" coords="5,225,224,251"/>
+<area shape="rect" id="node2" href="$interfaceSCR__SpawnPoint.html" title="Spawn point entity defines positions on which players can possibly spawn." alt="" coords="52,152,177,177"/>
+<area shape="rect" id="node3" href="$interfaceSCR__Position.html" title=" " alt="" coords="63,79,166,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="64,5,165,31"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="Physics6DOFSpringJoint" name="Physics6DOFSpringJoint">
+<area shape="rect" id="node1" title="6 DOF spring joint simulation." alt="" coords="5,225,172,251"/>
+<area shape="rect" id="node2" href="$interfacePhysics6DOFJoint.html" title="6 DOF joint simulation." alt="" coords="23,152,154,177"/>
+<area shape="rect" id="node3" href="$interfacePhysicsJoint.html" title="Wrapper over joint simulation." alt="" coords="41,79,137,104"/>
+<area shape="rect" id="node4" href="$interfacepointer.html" title="Plain C++ pointer, no weak pointers, no memory management." alt="" coords="58,5,119,31"/>
+</map>

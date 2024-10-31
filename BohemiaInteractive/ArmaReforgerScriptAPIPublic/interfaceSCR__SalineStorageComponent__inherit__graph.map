@@ -1,0 +1,13 @@
+<map id="SCR_SalineStorageComponent" name="SCR_SalineStorageComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="19,783,221,808"/>
+<area shape="rect" id="node2" href="$interfaceSCR__EquipmentStorageComponent.html" title="Equipment storage are slots which are part of their parent entity but not taking up the standard carg..." alt="" coords="5,709,235,735"/>
+<area shape="rect" id="node3" href="$interfaceEquipmentStorageComponent.html" title="Current storage variant uses equipment storage slots to attach equipment to different item variants (..." alt="" coords="23,636,217,661"/>
+<area shape="rect" id="node4" href="$interfaceBaseEquipmentStorageComponent.html" title=" " alt="" coords="7,563,233,588"/>
+<area shape="rect" id="node5" href="$interfaceUniversalInventoryStorageComponent.html" title=" " alt="" coords="35,475,205,515"/>
+<area shape="rect" id="node6" href="$interfaceBaseUniversalInventoryStorageComponent.html" title=" " alt="" coords="20,387,220,427"/>
+<area shape="rect" id="node7" href="$interfaceScriptedBaseInventoryStorageComponent.html" title=" " alt="" coords="22,299,218,339"/>
+<area shape="rect" id="node8" href="$interfaceBaseInventoryStorageComponent.html" title=" " alt="" coords="13,225,227,251"/>
+<area shape="rect" id="node9" href="$interfaceInventoryItemComponent.html" title=" " alt="" coords="38,152,202,177"/>
+<area shape="rect" id="node10" href="$interfaceGameComponent.html" title=" " alt="" coords="59,79,181,104"/>
+<area shape="rect" id="node11" title=" " alt="" coords="53,5,187,31"/>
+</map>

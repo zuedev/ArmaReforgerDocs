@@ -1,0 +1,4 @@
+<map id="PhysicsRagdoll" name="PhysicsRagdoll">
+<area shape="rect" id="node1" title="Wrapper over Ragdoll simulation." alt="" coords="5,79,117,104"/>
+<area shape="rect" id="node2" href="$interfacepointer.html" title="Plain C++ pointer, no weak pointers, no memory management." alt="" coords="31,5,92,31"/>
+</map>

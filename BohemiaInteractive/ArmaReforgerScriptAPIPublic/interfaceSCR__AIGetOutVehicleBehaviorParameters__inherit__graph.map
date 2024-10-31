@@ -1,0 +1,6 @@
+<map id="SCR_AIGetOutVehicleBehaviorParameters" name="SCR_AIGetOutVehicleBehaviorParameters">
+<area shape="rect" id="node1" title=" " alt="" coords="5,225,208,265"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AIGetActionParameters.html" title="Base class of node which outputs action parameters to Behavior Tree variables." alt="" coords="10,152,203,177"/>
+<area shape="rect" id="node3" href="$interfaceSCR__AIActionTask.html" title=" " alt="" coords="40,79,173,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="51,5,162,31"/>
+</map>

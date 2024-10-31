@@ -1,0 +1,4 @@
+<map id="SCR_QuickslotCommandContainer" name="SCR_QuickslotCommandContainer">
+<area shape="rect" id="node1" title=" " alt="" coords="5,79,231,104"/>
+<area shape="rect" id="node2" href="$interfaceSCR__QuickslotBaseContainer.html" title="SCR_QuickslotBaseContainer is intended to be used for quickslots, to allow quickslotting of non&#45;item ..." alt="" coords="20,5,216,31"/>
+</map>

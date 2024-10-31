@@ -1,0 +1,4 @@
+<map id="PhysicsMaterial" name="PhysicsMaterial">
+<area shape="rect" id="node1" title="Surface properties relevant for physics simulation." alt="" coords="5,79,120,104"/>
+<area shape="rect" id="node2" href="$interfacepointer.html" title="Plain C++ pointer, no weak pointers, no memory management." alt="" coords="32,5,93,31"/>
+</map>

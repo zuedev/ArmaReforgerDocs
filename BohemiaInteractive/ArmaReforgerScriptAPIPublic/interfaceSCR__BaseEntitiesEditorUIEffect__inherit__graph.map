@@ -1,0 +1,5 @@
+<map id="SCR_BaseEntitiesEditorUIEffect" name="SCR_BaseEntitiesEditorUIEffect">
+<area shape="rect" id="node1" title=" " alt="" coords="95,5,305,31"/>
+<area shape="rect" id="node2" href="$interfaceSCR__DisabledEntitiesEditorUIEffect.html" title=" " alt="" coords="5,79,189,119"/>
+<area shape="rect" id="node3" href="$interfaceSCR__OpacityEntitiesEditorUIEffect.html" title=" " alt="" coords="213,79,392,119"/>
+</map>

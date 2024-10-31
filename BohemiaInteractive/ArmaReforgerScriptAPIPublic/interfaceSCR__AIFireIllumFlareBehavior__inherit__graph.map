@@ -1,0 +1,7 @@
+<map id="SCR_AIFireIllumFlareBehavior" name="SCR_AIFireIllumFlareBehavior">
+<area shape="rect" id="node1" title=" " alt="" coords="5,299,200,324"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AIBehaviorBase.html" title=" " alt="" coords="29,225,176,251"/>
+<area shape="rect" id="node3" href="$interfaceSCR__AIActionBase.html" title=" " alt="" coords="35,152,170,177"/>
+<area shape="rect" id="node4" href="$interfaceAIActionBase.html" title=" " alt="" coords="52,79,153,104"/>
+<area shape="rect" id="node5" title=" " alt="" coords="45,5,160,31"/>
+</map>

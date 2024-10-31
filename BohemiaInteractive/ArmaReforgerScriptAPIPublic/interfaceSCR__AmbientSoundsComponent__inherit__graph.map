@@ -1,0 +1,7 @@
+<map id="SCR_AmbientSoundsComponent" name="SCR_AmbientSoundsComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="5,299,220,324"/>
+<area shape="rect" id="node2" href="$interfaceAmbientSoundsComponent.html" title=" " alt="" coords="23,225,203,251"/>
+<area shape="rect" id="node3" href="$interfaceSoundComponent.html" title=" " alt="" coords="50,152,175,177"/>
+<area shape="rect" id="node4" href="$interfaceSimpleSoundComponent.html" title=" " alt="" coords="30,79,195,104"/>
+<area shape="rect" id="node5" title=" " alt="" coords="35,5,190,31"/>
+</map>

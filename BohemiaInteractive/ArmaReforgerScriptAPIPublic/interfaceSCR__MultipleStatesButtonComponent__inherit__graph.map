@@ -1,0 +1,7 @@
+<map id="SCR_MultipleStatesButtonComponent" name="SCR_MultipleStatesButtonComponent">
+<area shape="rect" id="node1" title="Multiple states button." alt="" coords="22,299,199,339"/>
+<area shape="rect" id="node2" href="$interfaceSCR__ButtonBaseComponent.html" title="Base class for any button, regardless its own content." alt="" coords="15,225,206,251"/>
+<area shape="rect" id="node3" href="$interfaceSCR__WLibComponentBase.html" title="Base class for all final Reforger interactive elements." alt="" coords="19,152,202,177"/>
+<area shape="rect" id="node4" href="$interfaceSCR__ScriptedWidgetComponent.html" title=" " alt="" coords="5,79,216,104"/>
+<area shape="rect" id="node5" title=" " alt="" coords="22,5,199,31"/>
+</map>

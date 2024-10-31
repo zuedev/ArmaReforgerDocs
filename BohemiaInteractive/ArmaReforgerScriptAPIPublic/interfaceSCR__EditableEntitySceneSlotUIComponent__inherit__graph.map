@@ -1,0 +1,6 @@
+<map id="SCR_EditableEntitySceneSlotUIComponent" name="SCR_EditableEntitySceneSlotUIComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="5,167,203,207"/>
+<area shape="rect" id="node4" href="$interfaceSCR__EditableEntityCustomSlotUIComponent.html" title=" " alt="" coords="13,255,195,295"/>
+<area shape="rect" id="node2" href="$interfaceSCR__EditableEntityBaseSlotUIComponent.html" title="Slot for icons representing editable entity." alt="" coords="9,79,199,119"/>
+<area shape="rect" id="node3" title=" " alt="" coords="15,5,193,31"/>
+</map>

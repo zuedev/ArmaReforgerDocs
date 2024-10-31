@@ -1,0 +1,6 @@
+<map id="SCR_DpsConditionBarBaseTooltipDetail" name="SCR_DpsConditionBarBaseTooltipDetail">
+<area shape="rect" id="node1" title=" " alt="" coords="68,79,289,119"/>
+<area shape="rect" id="node3" href="$interfaceSCR__BloodTooltipDetail.html" title=" " alt="" coords="5,167,165,192"/>
+<area shape="rect" id="node4" href="$interfaceSCR__HealthTooltipDetail.html" title=" " alt="" coords="190,167,354,192"/>
+<area shape="rect" id="node2" href="$interfaceSCR__EntityTooltipDetail.html" title=" " alt="" coords="98,5,259,31"/>
+</map>

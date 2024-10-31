@@ -1,0 +1,6 @@
+<map id="SCR_FieldManualUI" name="SCR_FieldManualUI">
+<area shape="rect" id="node1" title=" " alt="" coords="5,225,144,251"/>
+<area shape="rect" id="node2" href="$interfaceMenuRootBase.html" title="Scripted menu base class." alt="" coords="19,152,130,177"/>
+<area shape="rect" id="node3" href="$interfaceChimeraMenuBase.html" title="Constant variables used in various menus." alt="" coords="9,79,141,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="33,5,117,31"/>
+</map>

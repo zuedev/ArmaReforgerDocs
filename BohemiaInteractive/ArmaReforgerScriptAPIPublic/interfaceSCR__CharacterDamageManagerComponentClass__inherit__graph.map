@@ -1,0 +1,10 @@
+<map id="SCR_CharacterDamageManagerComponentClass" name="SCR_CharacterDamageManagerComponentClass">
+<area shape="rect" id="node1" title=" " alt="" coords="21,577,231,617"/>
+<area shape="rect" id="node2" href="$interfaceSCR__ExtendedDamageManagerComponentClass.html" title=" " alt="" coords="21,489,231,529"/>
+<area shape="rect" id="node3" href="$interfaceExtendedDamageManagerComponentClass.html" title=" " alt="" coords="5,401,247,441"/>
+<area shape="rect" id="node4" href="$interfaceSCR__DamageManagerComponentClass.html" title=" " alt="" coords="16,313,236,353"/>
+<area shape="rect" id="node5" href="$interfaceDamageManagerComponentClass.html" title=" " alt="" coords="17,240,235,265"/>
+<area shape="rect" id="node6" href="$interfaceHitZoneContainerComponentClass.html" title=" " alt="" coords="33,152,219,192"/>
+<area shape="rect" id="node7" href="$interfaceGameComponentClass.html" title=" " alt="" coords="48,79,204,104"/>
+<area shape="rect" id="node8" title=" " alt="" coords="43,5,209,31"/>
+</map>

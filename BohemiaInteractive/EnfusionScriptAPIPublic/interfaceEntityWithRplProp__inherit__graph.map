@@ -1,0 +1,6 @@
+<map id="EntityWithRplProp" name="EntityWithRplProp">
+<area shape="rect" id="node1" title="[RplProp example]" alt="" coords="5,225,135,251"/>
+<area shape="rect" id="node2" href="$interfaceGenericEntity.html" title="Base entity class." alt="" coords="19,152,121,177"/>
+<area shape="rect" id="node3" href="$interfaceIEntity.html" title=" " alt="" coords="41,79,99,104"/>
+<area shape="rect" id="node4" href="$interfaceManaged.html" title=" " alt="" coords="33,5,107,31"/>
+</map>

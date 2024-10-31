@@ -1,0 +1,8 @@
+<map id="SCR_CampaignBaseTaskClass" name="SCR_CampaignBaseTaskClass">
+<area shape="rect" id="node1" title=" " alt="" coords="222,152,427,177"/>
+<area shape="rect" id="node4" href="$interfaceSCR__CampaignBuildingTaskClass.html" title=" " alt="" coords="5,225,193,265"/>
+<area shape="rect" id="node5" href="$interfaceSCR__CampaignDefendTaskClass.html" title=" " alt="" coords="217,233,432,258"/>
+<area shape="rect" id="node6" href="$interfaceSCR__CampaignTaskClass.html" title=" " alt="" coords="456,233,631,258"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseTaskClass.html" title=" " alt="" coords="251,79,398,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="257,5,392,31"/>
+</map>

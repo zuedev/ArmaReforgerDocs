@@ -1,0 +1,5 @@
+<map id="SCR_SpawnLogic" name="SCR_SpawnLogic">
+<area shape="rect" id="node1" title=" " alt="" coords="108,5,235,31"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AutoSpawnLogic.html" title=" " alt="" coords="5,79,159,104"/>
+<area shape="rect" id="node3" href="$interfaceSCR__MenuSpawnLogic.html" title=" " alt="" coords="183,79,341,104"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="SCR_CheckboxComponent" name="SCR_CheckboxComponent">
+<area shape="rect" id="node1" title="This is refactored checkbox preserving its own class and API for compatability purposes." alt="" coords="25,445,205,471"/>
+<area shape="rect" id="node2" href="$interfaceSCR__ToolboxComponent.html" title=" " alt="" coords="32,372,199,397"/>
+<area shape="rect" id="node3" href="$interfaceSCR__SelectionWidgetComponent.html" title=" " alt="" coords="7,299,224,324"/>
+<area shape="rect" id="node4" href="$interfaceSCR__ChangeableComponentBase.html" title="Base class for all widgets that can change their internal state as editbox or spinbox." alt="" coords="5,225,225,251"/>
+<area shape="rect" id="node5" href="$interfaceSCR__WLibComponentBase.html" title="Base class for all final Reforger interactive elements." alt="" coords="24,152,207,177"/>
+<area shape="rect" id="node6" href="$interfaceSCR__ScriptedWidgetComponent.html" title=" " alt="" coords="10,79,221,104"/>
+<area shape="rect" id="node7" title=" " alt="" coords="27,5,204,31"/>
+</map>

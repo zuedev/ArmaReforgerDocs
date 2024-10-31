@@ -1,0 +1,7 @@
+<map id="BaseSerializationLoadContainer" name="BaseSerializationLoadContainer">
+<area shape="rect" id="node1" title="Base class providing interface for load container." alt="" coords="93,152,299,177"/>
+<area shape="rect" id="node4" href="$interfaceBinSerializationLoadContainer.html" title="Implementation of BaseLoadContainer to read data from json format." alt="" coords="5,225,200,251"/>
+<area shape="rect" id="node5" href="$interfaceJsonLoadContainer.html" title="Container for loading data in json format." alt="" coords="225,225,357,251"/>
+<area shape="rect" id="node2" href="$interfaceBaseSerializationContainer.html" title="Base class for serialization containers." alt="" coords="107,79,285,104"/>
+<area shape="rect" id="node3" href="$interfaceManaged.html" title=" " alt="" coords="159,5,233,31"/>
+</map>

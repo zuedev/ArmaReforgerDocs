@@ -1,0 +1,4 @@
+<map id="SCR_MapMarkerSyncComponent" name="SCR_MapMarkerSyncComponent">
+<area shape="rect" id="node1" title="Used for Client&#45;&gt;Server RPC ask methods for spawn and removal of static version of networked markers ..." alt="" coords="5,79,223,104"/>
+<area shape="rect" id="node2" title=" " alt="" coords="53,5,175,31"/>
+</map>

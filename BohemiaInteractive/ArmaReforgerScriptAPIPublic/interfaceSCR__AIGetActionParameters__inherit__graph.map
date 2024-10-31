@@ -1,0 +1,34 @@
+<map id="SCR_AIGetActionParameters" name="SCR_AIGetActionParameters">
+<area shape="rect" id="node1" title="Base class of node which outputs action parameters to Behavior Tree variables." alt="" coords="345,797,539,822"/>
+<area shape="rect" id="node4" href="$interfaceSCR__AIFireIllumFlareBehaviorParameters.html" title=" " alt="" coords="612,5,807,45"/>
+<area shape="rect" id="node5" href="$interfaceSCR__AIGetAttackBehaviorParameters.html" title=" " alt="" coords="588,70,831,95"/>
+<area shape="rect" id="node6" href="$interfaceSCR__AIGetDefendActivityParameters.html" title=" " alt="" coords="590,119,829,145"/>
+<area shape="rect" id="node7" href="$interfaceSCR__AIGetDefendBehaviorParameters.html" title=" " alt="" coords="587,169,832,194"/>
+<area shape="rect" id="node8" href="$interfaceSCR__AIGetFirePositionBehaviorParameters.html" title=" " alt="" coords="606,219,813,259"/>
+<area shape="rect" id="node9" href="$interfaceSCR__AIGetFollowActivityParameters.html" title=" " alt="" coords="592,283,827,309"/>
+<area shape="rect" id="node10" href="$interfaceSCR__AIGetGetInActivityParameters.html" title=" " alt="" coords="595,333,824,358"/>
+<area shape="rect" id="node11" href="$interfaceSCR__AIGetGetInVehicleBehaviorParameters.html" title=" " alt="" coords="603,383,815,423"/>
+<area shape="rect" id="node12" href="$interfaceSCR__AIGetGetOutActivityParameters.html" title=" " alt="" coords="589,447,829,473"/>
+<area shape="rect" id="node13" href="$interfaceSCR__AIGetHealActivityParameters.html" title=" " alt="" coords="597,497,821,522"/>
+<area shape="rect" id="node14" href="$interfaceSCR__AIGetHealWaitBehaviorParameters.html" title=" " alt="" coords="614,547,805,587"/>
+<area shape="rect" id="node15" href="$interfaceSCR__AIGetInvestigateBehaviorParameters.html" title=" " alt="" coords="610,611,809,651"/>
+<area shape="rect" id="node16" href="$interfaceSCR__AIGetMedicHealBehaviorParameters.html" title=" " alt="" coords="610,675,809,715"/>
+<area shape="rect" id="node17" href="$interfaceSCR__AIGetMoveActivityParameters.html" title=" " alt="" coords="595,739,823,765"/>
+<area shape="rect" id="node18" href="$interfaceSCR__AIGetMoveFromDangerBehaviorParameters.html" title=" " alt="" coords="590,789,829,829"/>
+<area shape="rect" id="node19" href="$interfaceSCR__AIGetMoveIndividuallyBehaviorParameters.html" title=" " alt="" coords="619,853,800,893"/>
+<area shape="rect" id="node20" href="$interfaceSCR__AIGetObserveUnknownFireBehaviorParameters.html" title=" " alt="" coords="604,917,815,957"/>
+<area shape="rect" id="node21" href="$interfaceSCR__AIGetOutVehicleBehaviorParameters.html" title=" " alt="" coords="608,981,811,1021"/>
+<area shape="rect" id="node22" href="$interfaceSCR__AIGetPerformActionActivityParameters.html" title=" " alt="" coords="603,1045,816,1085"/>
+<area shape="rect" id="node23" href="$interfaceSCR__AIGetPerformActionBehaviorParameters.html" title=" " alt="" coords="599,1109,819,1149"/>
+<area shape="rect" id="node24" href="$interfaceSCR__AIGetPickupInventoryItemsParameters.html" title=" " alt="" coords="619,1173,799,1213"/>
+<area shape="rect" id="node25" href="$interfaceSCR__AIGetPilotMoveFromIncomingVehicleBehaviorParameters.html" title=" " alt="" coords="596,1237,823,1277"/>
+<area shape="rect" id="node26" href="$interfaceSCR__AIGetProvideAmmoBehaviorParameters.html" title=" " alt="" coords="600,1301,819,1341"/>
+<area shape="rect" id="node27" href="$interfaceSCR__AIGetResupplyActivityParameters.html" title=" " alt="" coords="617,1365,802,1405"/>
+<area shape="rect" id="node28" href="$interfaceSCR__AIGetRetreatFromTargetBehaviorParameters.html" title=" " alt="" coords="611,1429,808,1469"/>
+<area shape="rect" id="node29" href="$interfaceSCR__AIGetRetreatWhileLookAtBehaviorParameters.html" title=" " alt="" coords="613,1493,805,1533"/>
+<area shape="rect" id="node30" href="$interfaceSCR__AIGetSuppressActivityParameters.html" title=" " alt="" coords="616,1557,803,1597"/>
+<area shape="rect" id="node31" href="$interfaceSCR__AIGetSuppressBehaviorParameters.html" title=" " alt="" coords="613,1621,806,1661"/>
+<area shape="rect" id="node32" href="$interfaceSCR__AIGetThrowGrenadeToBehaviorParameters.html" title=" " alt="" coords="592,1685,827,1725"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AIActionTask.html" title=" " alt="" coords="164,797,297,822"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,797,116,822"/>
+</map>

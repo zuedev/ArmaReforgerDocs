@@ -1,0 +1,9 @@
+<map id="DestructibleEntity" name="DestructibleEntity">
+<area shape="rect" id="node1" title=" " alt="" coords="53,79,179,104"/>
+<area shape="rect" id="node3" href="$interfaceSCR__DestructibleEntity.html" title=" " alt="" coords="37,152,195,177"/>
+<area shape="rect" id="node2" title=" " alt="" coords="53,5,179,31"/>
+<area shape="rect" id="node4" href="$interfacePowerPoleEntity.html" title=" " alt="" coords="57,225,175,251"/>
+<area shape="rect" id="node5" href="$interfaceSCR__PowerPole.html" title=" " alt="" coords="57,299,175,324"/>
+<area shape="rect" id="node6" href="$interfaceSCR__JunctionPowerPole.html" title=" " alt="" coords="33,372,199,397"/>
+<area shape="rect" id="node7" href="$interfaceSCR__BranchedJunctionPowerPole.html" title=" " alt="" coords="5,445,227,471"/>
+</map>

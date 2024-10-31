@@ -1,0 +1,7 @@
+<map id="SCR_DeployMenuBaseScreenComponentClass" name="SCR_DeployMenuBaseScreenComponentClass">
+<area shape="rect" id="node1" title=" " alt="" coords="137,167,336,207"/>
+<area shape="rect" id="node4" href="$interfaceSCR__DebriefingScreenComponentClass.html" title=" " alt="" coords="5,255,225,295"/>
+<area shape="rect" id="node5" href="$interfaceSCR__WelcomeScreenComponentClass.html" title=" " alt="" coords="250,255,469,295"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseGameModeComponentClass.html" title=" " alt="" coords="127,79,346,119"/>
+<area shape="rect" id="node3" title=" " alt="" coords="159,5,314,31"/>
+</map>

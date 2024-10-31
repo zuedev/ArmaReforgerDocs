@@ -1,0 +1,9 @@
+<map id="SCR_MilitaryBaseMapDescriptorComponent" name="SCR_MilitaryBaseMapDescriptorComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="13,387,225,427"/>
+<area shape="rect" id="node7" href="$interfaceSCR__CampaignMilitaryBaseMapDescriptorComponent.html" title=" " alt="" coords="25,475,212,515"/>
+<area shape="rect" id="node2" href="$interfaceSCR__RadioCoverageMapDescriptorComponent.html" title=" " alt="" coords="5,299,232,339"/>
+<area shape="rect" id="node3" href="$interfaceSCR__MapDescriptorComponent.html" title=" " alt="" coords="15,225,222,251"/>
+<area shape="rect" id="node4" href="$interfaceMapDescriptorComponent.html" title=" " alt="" coords="33,152,205,177"/>
+<area shape="rect" id="node5" href="$interfaceGameComponent.html" title=" " alt="" coords="57,79,180,104"/>
+<area shape="rect" id="node6" title=" " alt="" coords="52,5,185,31"/>
+</map>

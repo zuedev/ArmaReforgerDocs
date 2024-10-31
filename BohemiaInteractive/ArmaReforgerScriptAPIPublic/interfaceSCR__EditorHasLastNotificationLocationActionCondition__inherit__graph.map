@@ -1,0 +1,4 @@
+<map id="SCR_EditorHasLastNotificationLocationActionCondition" name="SCR_EditorHasLastNotificationLocationActionCondition">
+<area shape="rect" id="node1" title="Returns true if has last notification location and time was less then given var." alt="" coords="5,79,208,119"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AvailableActionCondition.html" title="A single available action condition representation." alt="" coords="7,5,206,31"/>
+</map>

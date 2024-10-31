@@ -1,0 +1,5 @@
+<map id="SCR_MilitarySymbol_TextureBase" name="SCR_MilitarySymbol_TextureBase">
+<area shape="rect" id="node1" title=" " alt="" coords="88,5,231,45"/>
+<area shape="rect" id="node2" href="$interfaceSCR__MilitarySymbol__TextureAmplifier.html" title=" " alt="" coords="5,93,148,133"/>
+<area shape="rect" id="node3" href="$interfaceSCR__MilitarySymbol__TextureIcon.html" title=" " alt="" coords="172,93,315,133"/>
+</map>

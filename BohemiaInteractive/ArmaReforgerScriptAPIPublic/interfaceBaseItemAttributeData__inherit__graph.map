@@ -1,0 +1,23 @@
+<map id="BaseItemAttributeData" name="BaseItemAttributeData">
+<area shape="rect" id="node1" title=" " alt="" coords="168,376,321,401"/>
+<area shape="rect" id="node3" href="$interfaceAimingModifierAttributes.html" title=" " alt="" coords="397,5,560,31"/>
+<area shape="rect" id="node4" href="$interfaceAttachmentAttributes.html" title=" " alt="" coords="406,55,551,80"/>
+<area shape="rect" id="node6" href="$interfaceCharacterModifierAttributes.html" title=" " alt="" coords="389,104,568,129"/>
+<area shape="rect" id="node7" href="$interfaceHolsteredItemAttributes.html" title=" " alt="" coords="399,153,558,179"/>
+<area shape="rect" id="node8" href="$interfaceItemActionAnimAttributes.html" title=" " alt="" coords="393,203,564,228"/>
+<area shape="rect" id="node9" href="$interfaceItemAnimationAttributes.html" title=" " alt="" coords="398,252,559,277"/>
+<area shape="rect" id="node10" href="$interfaceItemMovementSwayAttributes.html" title=" " alt="" coords="381,301,576,327"/>
+<area shape="rect" id="node11" href="$interfaceItemOneHandAnimAttributes.html" title=" " alt="" coords="385,351,572,376"/>
+<area shape="rect" id="node12" href="$interfaceItemPhysicalAttributes.html" title=" " alt="" coords="402,400,555,425"/>
+<area shape="rect" id="node13" href="$interfacePreviewRenderAttributes.html" title=" " alt="" coords="397,449,560,475"/>
+<area shape="rect" id="node16" href="$interfaceSCR__AlternativeModel.html" title=" " alt="" coords="403,499,554,524"/>
+<area shape="rect" id="node17" href="$interfaceSCR__ArmoredClothItemData.html" title=" " alt="" coords="385,548,572,573"/>
+<area shape="rect" id="node18" href="$interfaceSCR__InventoryVehicleVisibilityAttribute.html" title=" " alt="" coords="379,598,578,638"/>
+<area shape="rect" id="node19" href="$interfaceSCR__ItemOfInterestAttribute.html" title=" " alt="" coords="385,663,572,688"/>
+<area shape="rect" id="node20" href="$interfaceSCR__RecoilCameraShakeParams.html" title=" " alt="" coords="369,712,588,737"/>
+<area shape="rect" id="node21" href="$interfaceSCR__SelectionMenuPreviewAttributes.html" title="Custom seletion menu preview class for indentification Goal is to specify fov and setup icon size." alt="" coords="385,762,572,802"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,376,120,401"/>
+<area shape="rect" id="node5" href="$interfaceWeaponAttachmentAttributes.html" title=" " alt="" coords="643,55,836,80"/>
+<area shape="rect" id="node14" href="$interfaceSCR__CharacterInventoryPreviewAttributes.html" title=" " alt="" coords="636,414,843,454"/>
+<area shape="rect" id="node15" href="$interfaceSCR__VONPreviewAttributes.html" title="Render widget preview attributes for VON menu." alt="" coords="647,479,831,504"/>
+</map>

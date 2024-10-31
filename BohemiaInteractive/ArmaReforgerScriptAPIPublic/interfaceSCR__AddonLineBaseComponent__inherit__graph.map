@@ -1,0 +1,8 @@
+<map id="SCR_AddonLineBaseComponent" name="SCR_AddonLineBaseComponent">
+<area shape="rect" id="node1" title="Class for addon line button base." alt="" coords="149,225,363,251"/>
+<area shape="rect" id="node5" href="$interfaceSCR__AddonLineDSConfigComponent.html" title=" " alt="" coords="5,299,243,324"/>
+<area shape="rect" id="node6" href="$interfaceSCR__WorkshopAddonLineComponent.html" title=" " alt="" coords="267,299,509,324"/>
+<area shape="rect" id="node2" href="$interfaceSCR__ListMenuEntryComponent.html" title=" " alt="" coords="153,152,359,177"/>
+<area shape="rect" id="node3" href="$interfaceSCR__ScriptedWidgetComponent.html" title=" " alt="" coords="151,79,361,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="167,5,345,31"/>
+</map>

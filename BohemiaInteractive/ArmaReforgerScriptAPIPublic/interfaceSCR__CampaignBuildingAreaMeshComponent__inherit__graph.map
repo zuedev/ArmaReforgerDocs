@@ -1,0 +1,6 @@
+<map id="SCR_CampaignBuildingAreaMeshComponent" name="SCR_CampaignBuildingAreaMeshComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="22,225,209,265"/>
+<area shape="rect" id="node2" href="$interfaceSCR__TriggerAreaMeshComponent.html" title=" " alt="" coords="5,152,225,177"/>
+<area shape="rect" id="node3" href="$interfaceSCR__BaseAreaMeshComponent.html" title=" " alt="" coords="10,79,221,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="54,5,177,31"/>
+</map>

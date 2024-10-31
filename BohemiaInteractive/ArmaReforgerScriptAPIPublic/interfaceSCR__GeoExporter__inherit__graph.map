@@ -1,0 +1,5 @@
+<map id="SCR_GeoExporter" name="SCR_GeoExporter">
+<area shape="rect" id="node1" title=" " alt="" coords="114,5,243,31"/>
+<area shape="rect" id="node2" href="$interfaceSCR__GeoJSONExporter.html" title=" " alt="" coords="5,79,168,104"/>
+<area shape="rect" id="node3" href="$interfaceSCR__GeoSVGExporter.html" title=" " alt="" coords="192,79,349,104"/>
+</map>

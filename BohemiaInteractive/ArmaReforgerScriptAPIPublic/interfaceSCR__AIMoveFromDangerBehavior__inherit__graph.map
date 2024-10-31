@@ -1,0 +1,12 @@
+<map id="SCR_AIMoveFromDangerBehavior" name="SCR_AIMoveFromDangerBehavior">
+<area shape="rect" id="node1" title="Behavior for short&#45;lived fast reactions to get away from some danger source." alt="" coords="695,120,913,145"/>
+<area shape="rect" id="node6" href="$interfaceSCR__AIMoveFromGrenadeBehavior.html" title=" " alt="" coords="961,5,1188,31"/>
+<area shape="rect" id="node7" href="$interfaceSCR__AIMoveFromIncomingVehicleBehavior.html" title=" " alt="" coords="963,55,1186,95"/>
+<area shape="rect" id="node8" href="$interfaceSCR__AIMoveFromUnknownFire.html" title=" " alt="" coords="973,120,1176,145"/>
+<area shape="rect" id="node9" href="$interfaceSCR__AIMoveFromVehicleHornBehavior.html" title=" " alt="" coords="975,170,1174,210"/>
+<area shape="rect" id="node10" href="$interfaceSCR__AIPilotMoveFromIncomingVehicleBehavior.html" title="Special behavior for pilot when he&#39;s about to collide with another vehicle." alt="" coords="971,234,1178,274"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AIBehaviorBase.html" title=" " alt="" coords="500,120,647,145"/>
+<area shape="rect" id="node3" href="$interfaceSCR__AIActionBase.html" title=" " alt="" coords="317,120,452,145"/>
+<area shape="rect" id="node4" href="$interfaceAIActionBase.html" title=" " alt="" coords="168,120,269,145"/>
+<area shape="rect" id="node5" title=" " alt="" coords="5,120,120,145"/>
+</map>

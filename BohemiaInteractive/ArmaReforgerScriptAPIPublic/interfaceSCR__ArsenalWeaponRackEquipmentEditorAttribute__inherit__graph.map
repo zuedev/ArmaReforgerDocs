@@ -1,0 +1,9 @@
+<map id="SCR_ArsenalWeaponRackEquipmentEditorAttribute" name="SCR_ArsenalWeaponRackEquipmentEditorAttribute">
+<area shape="rect" id="node1" title=" " alt="" coords="5,475,245,515"/>
+<area shape="rect" id="node2" href="$interfaceSCR__ArsenalBaseEditorAttribute.html" title=" " alt="" coords="19,401,232,427"/>
+<area shape="rect" id="node3" href="$interfaceSCR__LoadoutBaseEditorAttribute.html" title=" " alt="" coords="18,328,233,353"/>
+<area shape="rect" id="node4" href="$interfaceSCR__BaseMultiSelectPresetsEditorAttribute.html" title=" " alt="" coords="27,240,223,280"/>
+<area shape="rect" id="node5" href="$interfaceSCR__BasePresetsEditorAttribute.html" title="Attribute base for Name, icon and float value for other attributes to inherent from." alt="" coords="18,167,233,192"/>
+<area shape="rect" id="node6" href="$interfaceSCR__BaseFloatValueHolderEditorAttribute.html" title="Attribute base for Name, icon and float value for other attributes to inherent from." alt="" coords="33,79,218,119"/>
+<area shape="rect" id="node7" href="$interfaceSCR__BaseEditorAttribute.html" title="Base Attribute Script for other attributes to inherent from to get and set varriables in Editor Attri..." alt="" coords="41,5,210,31"/>
+</map>

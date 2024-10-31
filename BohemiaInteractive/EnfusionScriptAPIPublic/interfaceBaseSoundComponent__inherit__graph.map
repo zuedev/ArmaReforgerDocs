@@ -1,0 +1,6 @@
+<map id="BaseSoundComponent" name="BaseSoundComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="11,79,166,104"/>
+<area shape="rect" id="node3" href="$interfaceSndComponent.html" title=" " alt="" coords="33,152,144,177"/>
+<area shape="rect" id="node2" href="$interfaceGenericComponent.html" title=" " alt="" coords="22,5,155,31"/>
+<area shape="rect" id="node4" href="$interfaceCharacterSndComponent.html" title=" " alt="" coords="5,225,172,251"/>
+</map>

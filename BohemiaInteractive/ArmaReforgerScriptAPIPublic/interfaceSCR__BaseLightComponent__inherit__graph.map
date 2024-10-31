@@ -1,0 +1,8 @@
+<map id="SCR_BaseLightComponent" name="SCR_BaseLightComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="207,79,387,104"/>
+<area shape="rect" id="node3" href="$interfaceSCR__BaseInteractiveLightComponent.html" title=" " alt="" coords="211,152,383,192"/>
+<area shape="rect" id="node2" title=" " alt="" coords="235,5,358,31"/>
+<area shape="rect" id="node4" href="$interfaceSCR__FireplaceComponent.html" title=" " alt="" coords="5,240,180,265"/>
+<area shape="rect" id="node5" href="$interfaceSCR__FlareEffectComponent.html" title=" " alt="" coords="205,240,389,265"/>
+<area shape="rect" id="node6" href="$interfaceSCR__LampComponent.html" title=" " alt="" coords="413,240,567,265"/>
+</map>

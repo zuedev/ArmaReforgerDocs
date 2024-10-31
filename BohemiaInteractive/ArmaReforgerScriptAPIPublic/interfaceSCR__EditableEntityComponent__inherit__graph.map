@@ -1,0 +1,20 @@
+<map id="SCR_EditableEntityComponent" name="SCR_EditableEntityComponent">
+<area shape="rect" id="node1" title="Component defining editable entity." alt="" coords="176,232,379,257"/>
+<area shape="rect" id="node3" href="$interfaceSCR__EditableCharacterComponent.html" title=" " alt="" coords="427,5,652,31"/>
+<area shape="rect" id="node4" href="$interfaceSCR__EditableCommentComponent.html" title=" " alt="" coords="427,55,652,80"/>
+<area shape="rect" id="node5" href="$interfaceSCR__EditableDecalComponent.html" title="Component for managing editable decal entities." alt="" coords="438,104,641,129"/>
+<area shape="rect" id="node6" href="$interfaceSCR__EditableFactionComponent.html" title=" " alt="" coords="433,153,645,179"/>
+<area shape="rect" id="node7" href="$interfaceSCR__EditableGroupComponent.html" title=" " alt="" coords="437,203,641,228"/>
+<area shape="rect" id="node8" href="$interfaceSCR__EditablePlayerDelegateComponent.html" title="Editable entity representing a player." alt="" coords="444,253,635,293"/>
+<area shape="rect" id="node9" href="$interfaceSCR__EditablePreviewComponent.html" title=" " alt="" coords="433,317,646,343"/>
+<area shape="rect" id="node10" href="$interfaceSCR__EditableSystemComponent.html" title=" " alt="" coords="432,367,647,392"/>
+<area shape="rect" id="node17" href="$interfaceSCR__EditableVehicleComponent.html" title=" " alt="" coords="433,416,645,441"/>
+<area shape="rect" id="node18" href="$interfaceSCR__EditableWaypointComponent.html" title=" " alt="" coords="427,465,651,491"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,232,128,257"/>
+<area shape="rect" id="node11" href="$interfaceSCR__EditableDescriptorComponent.html" title=" " alt="" coords="700,309,928,335"/>
+<area shape="rect" id="node15" href="$interfaceSCR__EditableExplosiveChargeComponent.html" title=" " alt="" coords="715,359,913,399"/>
+<area shape="rect" id="node16" href="$interfaceSCR__EditableMineComponent.html" title=" " alt="" coords="715,424,913,449"/>
+<area shape="rect" id="node12" href="$interfaceSCR__EditableSpawnPointComponent.html" title=" " alt="" coords="976,260,1215,285"/>
+<area shape="rect" id="node13" href="$interfaceSCR__EditableTaskComponent.html" title=" " alt="" coords="997,309,1194,335"/>
+<area shape="rect" id="node14" href="$interfaceSCR__EditableWorldEntityComponent.html" title=" " alt="" coords="977,359,1214,384"/>
+</map>

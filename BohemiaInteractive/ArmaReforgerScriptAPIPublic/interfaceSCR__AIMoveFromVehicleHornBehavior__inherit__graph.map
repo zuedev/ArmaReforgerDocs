@@ -1,0 +1,8 @@
+<map id="SCR_AIMoveFromVehicleHornBehavior" name="SCR_AIMoveFromVehicleHornBehavior">
+<area shape="rect" id="node1" title=" " alt="" coords="15,372,214,412"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AIMoveFromDangerBehavior.html" title="Behavior for short&#45;lived fast reactions to get away from some danger source." alt="" coords="5,299,224,324"/>
+<area shape="rect" id="node3" href="$interfaceSCR__AIBehaviorBase.html" title=" " alt="" coords="41,225,188,251"/>
+<area shape="rect" id="node4" href="$interfaceSCR__AIActionBase.html" title=" " alt="" coords="47,152,182,177"/>
+<area shape="rect" id="node5" href="$interfaceAIActionBase.html" title=" " alt="" coords="64,79,165,104"/>
+<area shape="rect" id="node6" title=" " alt="" coords="57,5,172,31"/>
+</map>

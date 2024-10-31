@@ -1,0 +1,9 @@
+<map id="SCR_InputButtonComponent" name="SCR_InputButtonComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="83,299,271,324"/>
+<area shape="rect" id="node6" href="$interfaceSCR__DeployButton.html" title="Component that handles the request respawn button." alt="" coords="5,372,140,397"/>
+<area shape="rect" id="node7" href="$interfaceSCR__InventoryNavigationButtonBack.html" title="Interactive non&#45;focus button showing hint, and triggering actions." alt="" coords="165,372,399,397"/>
+<area shape="rect" id="node2" href="$interfaceSCR__ButtonBaseComponent.html" title="Base class for any button, regardless its own content." alt="" coords="81,225,272,251"/>
+<area shape="rect" id="node3" href="$interfaceSCR__WLibComponentBase.html" title="Base class for all final Reforger interactive elements." alt="" coords="85,152,268,177"/>
+<area shape="rect" id="node4" href="$interfaceSCR__ScriptedWidgetComponent.html" title=" " alt="" coords="71,79,282,104"/>
+<area shape="rect" id="node5" title=" " alt="" coords="88,5,265,31"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="DoorComponent" name="DoorComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="25,152,140,177"/>
+<area shape="rect" id="node4" href="$interfaceSlidingDoorComponent.html" title=" " alt="" coords="5,225,160,251"/>
+<area shape="rect" id="node2" href="$interfaceGameComponent.html" title=" " alt="" coords="21,79,144,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="16,5,149,31"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="SCR_NotificationGroupName" name="SCR_NotificationGroupName">
+<area shape="rect" id="node1" title="Notification Custom group name Displays a notification: %1 = Custom Group name (Will fall back to cal..." alt="" coords="6,79,195,104"/>
+<area shape="rect" id="node2" href="$interfaceSCR__NotificationDisplayData.html" title="Used to get the display information for each notification." alt="" coords="5,5,196,31"/>
+</map>

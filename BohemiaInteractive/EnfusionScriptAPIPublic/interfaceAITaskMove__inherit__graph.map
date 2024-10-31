@@ -1,0 +1,9 @@
+<map id="AITaskMove" name="AITaskMove">
+<area shape="rect" id="node1" title=" " alt="" coords="100,299,192,324"/>
+<area shape="rect" id="node6" href="$interfaceAITaskMoveToEntity.html" title=" " alt="" coords="5,372,145,397"/>
+<area shape="rect" id="node7" href="$interfaceAITaskOrient.html" title=" " alt="" coords="169,372,267,397"/>
+<area shape="rect" id="node2" href="$interfaceAITask.html" title=" " alt="" coords="115,225,177,251"/>
+<area shape="rect" id="node3" href="$interfaceNode.html" title=" " alt="" coords="120,152,172,177"/>
+<area shape="rect" id="node4" href="$interfaceScriptAndConfig.html" title="Base class for classes which combine enf::Class and enf::BaseClass (in C++)." alt="" coords="89,79,203,104"/>
+<area shape="rect" id="node5" href="$interfaceManaged.html" title=" " alt="" coords="109,5,183,31"/>
+</map>

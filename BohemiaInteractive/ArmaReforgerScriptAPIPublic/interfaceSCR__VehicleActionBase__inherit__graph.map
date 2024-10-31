@@ -1,0 +1,12 @@
+<map id="SCR_VehicleActionBase" name="SCR_VehicleActionBase">
+<area shape="rect" id="node1" title=" " alt="" coords="515,104,681,129"/>
+<area shape="rect" id="node5" href="$interfaceSCR__EngineAction.html" title=" " alt="" coords="769,5,902,31"/>
+<area shape="rect" id="node7" href="$interfaceSCR__HelicopterHoverAction.html" title=" " alt="" coords="744,55,927,80"/>
+<area shape="rect" id="node8" href="$interfaceSCR__VehicleAction.html" title=" " alt="" coords="767,104,903,129"/>
+<area shape="rect" id="node9" href="$interfaceSCR__VehicleLockControlsAction.html" title=" " alt="" coords="729,153,941,179"/>
+<area shape="rect" id="node10" href="$interfaceSCR__VehicleTakeControlsAction.html" title=" " alt="" coords="729,203,941,228"/>
+<area shape="rect" id="node2" href="$interfaceScriptedUserAction.html" title=" " alt="" coords="332,104,467,129"/>
+<area shape="rect" id="node3" href="$interfaceBaseUserAction.html" title=" " alt="" coords="168,104,284,129"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,104,120,129"/>
+<area shape="rect" id="node6" href="$interfaceSCR__HelicopterEngineAction.html" title=" " alt="" coords="989,5,1180,31"/>
+</map>

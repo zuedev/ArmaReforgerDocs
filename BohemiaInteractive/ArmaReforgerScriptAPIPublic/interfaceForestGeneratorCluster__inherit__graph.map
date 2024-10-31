@@ -1,0 +1,5 @@
+<map id="ForestGeneratorCluster" name="ForestGeneratorCluster">
+<area shape="rect" id="node1" title="This class defines forest generator clusters &#45; which trees with which density should be present in th..." alt="" coords="127,5,285,31"/>
+<area shape="rect" id="node2" href="$interfaceForestGeneratorCircleCluster.html" title=" " alt="" coords="5,79,196,104"/>
+<area shape="rect" id="node3" href="$interfaceForestGeneratorStripCluster.html" title=" " alt="" coords="221,79,405,104"/>
+</map>

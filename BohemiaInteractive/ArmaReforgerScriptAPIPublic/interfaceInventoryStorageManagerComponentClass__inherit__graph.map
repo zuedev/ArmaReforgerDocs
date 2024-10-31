@@ -1,0 +1,11 @@
+<map id="InventoryStorageManagerComponentClass" name="InventoryStorageManagerComponentClass">
+<area shape="rect" id="node1" title=" " alt="" coords="424,101,659,141"/>
+<area shape="rect" id="node4" href="$interfaceScriptedInventoryStorageManagerComponentClass.html" title=" " alt="" coords="707,69,878,109"/>
+<area shape="rect" id="node9" href="$interfaceSerializerInventoryStorageManagerComponentClass.html" title=" " alt="" coords="707,133,879,173"/>
+<area shape="rect" id="node2" href="$interfaceGameComponentClass.html" title=" " alt="" coords="220,109,376,134"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,109,172,134"/>
+<area shape="rect" id="node5" href="$interfaceSCR__ArsenalInventoryStorageManagerComponentClass.html" title=" " alt="" coords="930,5,1126,45"/>
+<area shape="rect" id="node6" href="$interfaceSCR__InventoryStorageManagerComponentClass.html" title=" " alt="" coords="927,69,1129,109"/>
+<area shape="rect" id="node8" href="$interfaceSCR__VehicleInventoryStorageManagerComponentClass.html" title=" " alt="" coords="931,133,1125,173"/>
+<area shape="rect" id="node7" href="$interfaceSCR__TurretInventoryStorageManagerComponentClass.html" title=" " alt="" coords="1177,69,1363,109"/>
+</map>

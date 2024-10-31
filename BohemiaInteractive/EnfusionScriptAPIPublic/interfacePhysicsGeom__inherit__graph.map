@@ -1,0 +1,4 @@
+<map id="PhysicsGeom" name="PhysicsGeom">
+<area shape="rect" id="node1" title="Geometric shapes relevant for physics simulation." alt="" coords="5,79,109,104"/>
+<area shape="rect" id="node2" href="$interfacepointer.html" title="Plain C++ pointer, no weak pointers, no memory management." alt="" coords="27,5,88,31"/>
+</map>

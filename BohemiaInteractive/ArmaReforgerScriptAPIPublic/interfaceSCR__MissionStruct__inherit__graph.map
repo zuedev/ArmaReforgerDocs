@@ -1,0 +1,5 @@
+<map id="SCR_MissionStruct" name="SCR_MissionStruct">
+<area shape="rect" id="node1" title="Base struct for use in SCR_MissionStruct." alt="" coords="6,152,142,177"/>
+<area shape="rect" id="node2" href="$interfaceSCR__JsonApiStruct.html" title="Base struct for use in SCR_DSSessionCallback." alt="" coords="5,79,143,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="23,5,125,31"/>
+</map>

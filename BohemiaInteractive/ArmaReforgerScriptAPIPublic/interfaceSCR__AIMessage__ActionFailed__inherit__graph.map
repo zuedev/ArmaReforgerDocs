@@ -1,0 +1,6 @@
+<map id="SCR_AIMessage_ActionFailed" name="SCR_AIMessage_ActionFailed">
+<area shape="rect" id="node1" title=" " alt="" coords="5,225,205,251"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AIMessageInfo.html" title=" " alt="" coords="35,152,176,177"/>
+<area shape="rect" id="node3" href="$interfaceSCR__AIMessageBase.html" title=" " alt="" coords="30,79,181,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="62,5,149,31"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="RplTestEntity" name="RplTestEntity">
+<area shape="rect" id="node1" title="Used for testing CPP side of replication." alt="" coords="6,225,106,251"/>
+<area shape="rect" id="node2" href="$interfaceGenericEntity.html" title="Base entity class." alt="" coords="5,152,107,177"/>
+<area shape="rect" id="node3" href="$interfaceIEntity.html" title=" " alt="" coords="27,79,85,104"/>
+<area shape="rect" id="node4" href="$interfaceManaged.html" title=" " alt="" coords="19,5,93,31"/>
+</map>

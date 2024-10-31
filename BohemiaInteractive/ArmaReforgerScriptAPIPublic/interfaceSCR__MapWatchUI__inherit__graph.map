@@ -1,0 +1,7 @@
+<map id="SCR_MapWatchUI" name="SCR_MapWatchUI">
+<area shape="rect" id="node1" title=" " alt="" coords="35,225,165,251"/>
+<area shape="rect" id="node5" href="$interfaceSCR__MapWatchUIDeploy.html" title=" " alt="" coords="15,299,185,324"/>
+<area shape="rect" id="node2" href="$interfaceSCR__MapRTWBaseUI.html" title="Base map UI component for map tools which are using RenderTargetWidget to display." alt="" coords="24,152,176,177"/>
+<area shape="rect" id="node3" href="$interfaceSCR__MapUIBaseComponent.html" title=" " alt="" coords="5,79,195,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="11,5,189,31"/>
+</map>

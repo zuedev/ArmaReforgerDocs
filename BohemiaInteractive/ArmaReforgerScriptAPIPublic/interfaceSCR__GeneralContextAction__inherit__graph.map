@@ -1,0 +1,6 @@
+<map id="SCR_GeneralContextAction" name="SCR_GeneralContextAction">
+<area shape="rect" id="node1" title="Base container class for general editor context actions, not related to a hovered/selected entity." alt="" coords="10,152,193,177"/>
+<area shape="rect" id="node4" href="$interfaceSCR__TeleportCameraContextAction.html" title=" " alt="" coords="5,225,197,265"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseContextAction.html" title="Base container class for editor context actions." alt="" coords="17,79,185,104"/>
+<area shape="rect" id="node3" href="$interfaceSCR__BaseEditorAction.html" title="Base container class for all editor action types (ContextActions, WaypointActions,..." alt="" coords="23,5,180,31"/>
+</map>

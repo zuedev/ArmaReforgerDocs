@@ -1,0 +1,5 @@
+<map id="WorldDecalClass" name="WorldDecalClass">
+<area shape="rect" id="node1" title=" " alt="" coords="11,152,134,177"/>
+<area shape="rect" id="node2" href="$interfaceGenericEntityClass.html" title=" " alt="" coords="5,79,140,104"/>
+<area shape="rect" id="node3" href="$interfaceEntityPrefabData.html" title="Shared object with constant data for enf::EntitySource from prefab." alt="" coords="13,5,133,31"/>
+</map>

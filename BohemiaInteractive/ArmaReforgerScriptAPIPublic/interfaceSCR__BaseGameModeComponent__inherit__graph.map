@@ -1,0 +1,48 @@
+<map id="SCR_BaseGameModeComponent" name="SCR_BaseGameModeComponent">
+<area shape="rect" id="node1" title="Interface for game mode extending components." alt="" coords="176,937,395,963"/>
+<area shape="rect" id="node3" href="$interfaceSCR__ArsenalManagerComponent.html" title=" " alt="" coords="460,45,676,71"/>
+<area shape="rect" id="node4" href="$interfaceSCR__BaseGameModeStateComponent.html" title="Base component for handling game mode states." alt="" coords="443,95,693,120"/>
+<area shape="rect" id="node8" href="$interfaceSCR__BaseScoringSystemComponent.html" title="This component serves as a base and interface for game mode scoring system." alt="" coords="447,144,689,169"/>
+<area shape="rect" id="node10" href="$interfaceSCR__CallsignManagerComponent.html" title=" " alt="" coords="459,193,677,219"/>
+<area shape="rect" id="node11" href="$interfaceSCR__CampaignBuildingManagerComponent.html" title="Interface for game mode extending components." alt="" coords="463,243,673,283"/>
+<area shape="rect" id="node12" href="$interfaceSCR__CampaignTutorialArlandComponent.html" title=" " alt="" coords="471,307,665,347"/>
+<area shape="rect" id="node13" href="$interfaceSCR__CommandingManagerComponent.html" title=" " alt="" coords="444,372,692,397"/>
+<area shape="rect" id="node14" href="$interfaceSCR__DataCollectorComponent.html" title=" " alt="" coords="468,421,668,447"/>
+<area shape="rect" id="node15" href="$interfaceSCR__DeployMenuBaseScreenComponent.html" title="Base class for Deploy menu components." alt="" coords="469,471,667,511"/>
+<area shape="rect" id="node18" href="$interfaceSCR__EntityCatalogManagerComponent.html" title=" " alt="" coords="476,535,660,575"/>
+<area shape="rect" id="node19" href="$interfaceSCR__FiringRangeScoringComponent.html" title=" " alt="" coords="451,600,685,625"/>
+<area shape="rect" id="node20" href="$interfaceSCR__GameModeSFManager.html" title=" " alt="" coords="473,649,663,675"/>
+<area shape="rect" id="node22" href="$interfaceSCR__GameOverScreenManagerComponent.html" title=" " alt="" coords="464,699,672,739"/>
+<area shape="rect" id="node23" href="$interfaceSCR__GroupsManagerComponent.html" title=" " alt="" coords="461,764,675,789"/>
+<area shape="rect" id="node24" href="$interfaceSCR__HintManagerComponent.html" title=" " alt="" coords="471,813,665,839"/>
+<area shape="rect" id="node25" href="$interfaceSCR__InitWeatherComponent.html" title=" " alt="" coords="474,863,662,888"/>
+<area shape="rect" id="node26" href="$interfaceSCR__MapMarkerManagerComponent.html" title="Map marker manager, keeps array of markers and takes care of synchronization Attached to GameMode ent..." alt="" coords="449,912,687,937"/>
+<area shape="rect" id="node27" href="$interfaceSCR__NightModeGameModeComponent.html" title=" " alt="" coords="443,961,693,987"/>
+<area shape="rect" id="node28" href="$interfaceSCR__NotificationSenderComponent.html" title=" " alt="" coords="455,1011,681,1036"/>
+<area shape="rect" id="node29" href="$interfaceSCR__PlayerListedAdminManagerComponent.html" title=" " alt="" coords="461,1061,675,1101"/>
+<area shape="rect" id="node30" href="$interfaceSCR__PlayerProfileManagerComponent.html" title=" " alt="" coords="479,1125,657,1165"/>
+<area shape="rect" id="node31" href="$interfaceSCR__PlayerSpawnPointManagerComponent.html" title=" " alt="" coords="462,1189,674,1229"/>
+<area shape="rect" id="node32" href="$interfaceSCR__PossessingManagerComponent.html" title=" " alt="" coords="448,1253,688,1279"/>
+<area shape="rect" id="node33" href="$interfaceSCR__ReconnectComponent.html" title="Takes care of managing player reconnects in case of involuntary disconnect Authority&#45;only component a..." alt="" coords="476,1303,660,1328"/>
+<area shape="rect" id="node34" href="$interfaceSCR__RespawnBriefingComponent.html" title=" " alt="" coords="459,1352,677,1377"/>
+<area shape="rect" id="node36" href="$interfaceSCR__RespawnTimerComponent.html" title="Must be attached to a GameMode." alt="" coords="465,1401,671,1427"/>
+<area shape="rect" id="node39" href="$interfaceSCR__RestoreEditorModesComponent.html" title=" " alt="" coords="448,1451,688,1476"/>
+<area shape="rect" id="node40" href="$interfaceSCR__RewindComponent.html" title=" " alt="" coords="486,1500,650,1525"/>
+<area shape="rect" id="node41" href="$interfaceSCR__SaveLoadComponent.html" title="Game mode&#45;specific settings for session saving." alt="" coords="479,1549,657,1575"/>
+<area shape="rect" id="node42" href="$interfaceSCR__SpawnProtectionComponent.html" title=" " alt="" coords="458,1599,678,1624"/>
+<area shape="rect" id="node43" href="$interfaceSCR__SpawnerAIGroupManagerComponent.html" title=" " alt="" coords="467,1649,669,1689"/>
+<area shape="rect" id="node44" href="$interfaceSCR__TimeAndWeatherHandlerComponent.html" title=" " alt="" coords="468,1713,668,1753"/>
+<area shape="rect" id="node45" href="$interfaceSCR__VotingManagerComponent.html" title=" " alt="" coords="463,1777,673,1803"/>
+<area shape="rect" id="node46" href="$interfaceSCR__XPHandlerComponent.html" title=" " alt="" coords="477,1827,659,1852"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,937,128,963"/>
+<area shape="rect" id="node5" href="$interfaceSCR__GameGameModeStateComponent.html" title=" " alt="" coords="741,5,996,31"/>
+<area shape="rect" id="node6" href="$interfaceSCR__PostGameGameModeStateComponent.html" title="Game mode component that handles the post&#45;game period." alt="" coords="761,55,977,95"/>
+<area shape="rect" id="node7" href="$interfaceSCR__PreGameGameModeStateComponent.html" title="Game mode component that handles the pre&#45;game period." alt="" coords="764,119,973,159"/>
+<area shape="rect" id="node9" href="$interfaceSCR__ScoringSystemComponent.html" title="This component implements logic of handling certain score limits." alt="" coords="763,184,974,209"/>
+<area shape="rect" id="node16" href="$interfaceSCR__DebriefingScreenComponent.html" title="Debriefing screen component intended to be added to the GameMode." alt="" coords="759,455,979,480"/>
+<area shape="rect" id="node17" href="$interfaceSCR__WelcomeScreenComponent.html" title="Welcome screen component intended to be added to the GameMode." alt="" coords="759,504,978,529"/>
+<area shape="rect" id="node21" href="$interfaceSCR__GameModeCombatOpsManager.html" title=" " alt="" coords="747,649,990,675"/>
+<area shape="rect" id="node35" href="$interfaceSCR__EditorRespawnBriefingComponent.html" title=" " alt="" coords="775,1337,962,1377"/>
+<area shape="rect" id="node37" href="$interfaceSCR__TimedSpawnPointComponent.html" title=" " alt="" coords="755,1401,982,1427"/>
+<area shape="rect" id="node38" href="$interfaceSCR__WaveRespawnTimerComponent.html" title="Must be attached to a GameMode." alt="" coords="749,1451,988,1476"/>
+</map>

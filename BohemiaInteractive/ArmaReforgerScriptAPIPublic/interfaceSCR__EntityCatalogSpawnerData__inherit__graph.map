@@ -1,0 +1,5 @@
+<map id="SCR_EntityCatalogSpawnerData" name="SCR_EntityCatalogSpawnerData">
+<area shape="rect" id="node1" title="Info for Entity Spawner." alt="" coords="5,79,216,104"/>
+<area shape="rect" id="node3" href="$interfaceSCR__EntityCatalogSpawnerOverrideData.html" title=" " alt="" coords="19,152,203,192"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseEntityCatalogData.html" title="Base Class for Entity catalog data." alt="" coords="15,5,206,31"/>
+</map>

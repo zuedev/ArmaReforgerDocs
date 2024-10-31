@@ -1,0 +1,6 @@
+<map id="SCR_AIMessage_SitRep" name="SCR_AIMessage_SitRep">
+<area shape="rect" id="node1" title=" " alt="" coords="5,225,172,251"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AIMessageInfo.html" title=" " alt="" coords="18,152,159,177"/>
+<area shape="rect" id="node3" href="$interfaceSCR__AIMessageBase.html" title=" " alt="" coords="13,79,164,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="45,5,132,31"/>
+</map>

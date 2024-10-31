@@ -1,0 +1,13 @@
+<map id="BaseContainer" name="BaseContainer">
+<area shape="rect" id="node1" title=" " alt="" coords="308,153,415,179"/>
+<area shape="rect" id="node4" href="$interfaceContactSurface.html" title="surface properties that influence wheel traction etc." alt="" coords="491,5,601,31"/>
+<area shape="rect" id="node5" href="$interfaceIEntityComponentSource.html" title=" " alt="" coords="463,55,629,80"/>
+<area shape="rect" id="node6" href="$interfaceIEntitySource.html" title=" " alt="" coords="496,104,596,129"/>
+<area shape="rect" id="node7" href="$interfaceMetaFile.html" title=" " alt="" coords="510,153,582,179"/>
+<area shape="rect" id="node8" href="$interfaceSurfaceProperties.html" title="General surface properties." alt="" coords="483,203,609,228"/>
+<area shape="rect" id="node10" href="$interfaceUserSettings.html" title=" " alt="" coords="497,252,595,277"/>
+<area shape="rect" id="node11" href="$interfaceWidgetSource.html" title=" " alt="" coords="494,301,598,327"/>
+<area shape="rect" id="node2" href="$interfaceBaseResourceObject.html" title=" " alt="" coords="115,153,260,179"/>
+<area shape="rect" id="node3" href="$interfacepointer.html" title="Plain C++ pointer, no weak pointers, no memory management." alt="" coords="5,153,67,179"/>
+<area shape="rect" id="node9" href="$interfaceGameLibMaterial.html" title=" " alt="" coords="677,203,797,228"/>
+</map>

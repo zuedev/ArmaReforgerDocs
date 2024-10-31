@@ -1,0 +1,6 @@
+<map id="VObject" name="VObject">
+<area shape="rect" id="node1" title="Visual object." alt="" coords="43,152,113,177"/>
+<area shape="rect" id="node4" href="$interfaceMeshObject.html" title="MeshObject." alt="" coords="32,225,124,251"/>
+<area shape="rect" id="node2" href="$interfaceBaseResourceObject.html" title=" " alt="" coords="5,79,151,104"/>
+<area shape="rect" id="node3" href="$interfacepointer.html" title="Plain C++ pointer, no weak pointers, no memory management." alt="" coords="47,5,109,31"/>
+</map>

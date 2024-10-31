@@ -1,0 +1,6 @@
+<map id="SCR_WorldSetupPluginBasePlugin" name="SCR_WorldSetupPluginBasePlugin">
+<area shape="rect" id="node1" title=" " alt="" coords="82,79,273,119"/>
+<area shape="rect" id="node3" href="$interfaceSCR__WorldSetupPlugin__Entities.html" title=" " alt="" coords="5,167,165,207"/>
+<area shape="rect" id="node4" href="$interfaceSCR__WorldSetupPlugin__GenericWorldEntity.html" title="This Plugin is experimental because it directly writes in the layer file, expecting a certain directo..." alt="" coords="189,167,349,207"/>
+<area shape="rect" id="node2" title=" " alt="" coords="115,5,239,31"/>
+</map>

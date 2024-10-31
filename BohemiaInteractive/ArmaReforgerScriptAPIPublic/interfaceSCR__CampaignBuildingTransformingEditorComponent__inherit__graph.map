@@ -1,0 +1,6 @@
+<map id="SCR_CampaignBuildingTransformingEditorComponent" name="SCR_CampaignBuildingTransformingEditorComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="5,225,240,265"/>
+<area shape="rect" id="node2" href="$interfaceSCR__TransformingEditorComponent.html" title="Manager of basic entity transformation in all axes, e.g., translation or rotation." alt="" coords="7,152,238,177"/>
+<area shape="rect" id="node3" href="$interfaceSCR__BaseEditorComponent.html" title="Base class for editor components." alt="" coords="29,79,216,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="61,5,184,31"/>
+</map>

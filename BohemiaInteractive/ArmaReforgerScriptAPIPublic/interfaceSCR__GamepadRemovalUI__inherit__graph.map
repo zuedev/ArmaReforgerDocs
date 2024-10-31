@@ -1,0 +1,6 @@
+<map id="SCR_GamepadRemovalUI" name="SCR_GamepadRemovalUI">
+<area shape="rect" id="node1" title="Dialog displayed when the gamepad is removed." alt="" coords="5,225,179,251"/>
+<area shape="rect" id="node2" href="$interfaceDialogUI.html" title=" " alt="" coords="57,152,127,177"/>
+<area shape="rect" id="node3" href="$interfaceChimeraMenuBase.html" title="Constant variables used in various menus." alt="" coords="26,79,158,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="50,5,134,31"/>
+</map>

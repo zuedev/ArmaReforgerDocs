@@ -1,0 +1,8 @@
+<map id="SCR_RotorDamageManagerComponentClass" name="SCR_RotorDamageManagerComponentClass">
+<area shape="rect" id="node1" title=" " alt="" coords="5,401,256,441"/>
+<area shape="rect" id="node2" href="$interfaceSCR__DamageManagerComponentClass.html" title=" " alt="" coords="21,313,241,353"/>
+<area shape="rect" id="node3" href="$interfaceDamageManagerComponentClass.html" title=" " alt="" coords="21,240,240,265"/>
+<area shape="rect" id="node4" href="$interfaceHitZoneContainerComponentClass.html" title=" " alt="" coords="37,152,224,192"/>
+<area shape="rect" id="node5" href="$interfaceGameComponentClass.html" title=" " alt="" coords="53,79,209,104"/>
+<area shape="rect" id="node6" title=" " alt="" coords="47,5,214,31"/>
+</map>

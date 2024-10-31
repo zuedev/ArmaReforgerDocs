@@ -1,0 +1,7 @@
+<map id="SCR_EditorBaseEntity" name="SCR_EditorBaseEntity">
+<area shape="rect" id="node1" title="Base editor entity which provides overridable functions." alt="" coords="205,79,359,104"/>
+<area shape="rect" id="node3" href="$interfaceSCR__EditorManagerEntity.html" title="The entity which enables all editor functionality for the player." alt="" coords="5,152,180,177"/>
+<area shape="rect" id="node4" href="$interfaceSCR__EditorModeEntity.html" title="Editor mode entity." alt="" coords="204,152,360,177"/>
+<area shape="rect" id="node5" href="$interfaceSCR__EditorSettingsEntity.html" title="Editor settings to override default values in SCR_EditorManagerCore." alt="" coords="384,152,556,177"/>
+<area shape="rect" id="node2" title=" " alt="" coords="231,5,333,31"/>
+</map>

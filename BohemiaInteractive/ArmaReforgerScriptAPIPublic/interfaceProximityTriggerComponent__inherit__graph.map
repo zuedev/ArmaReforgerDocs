@@ -1,0 +1,7 @@
+<map id="ProximityTriggerComponent" name="ProximityTriggerComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="5,299,188,324"/>
+<area shape="rect" id="node2" href="$interfaceBaseTriggerComponent.html" title=" " alt="" coords="18,225,175,251"/>
+<area shape="rect" id="node3" href="$interfaceBaseProjectileComponent.html" title=" " alt="" coords="11,152,183,177"/>
+<area shape="rect" id="node4" href="$interfaceGameComponent.html" title=" " alt="" coords="35,79,158,104"/>
+<area shape="rect" id="node5" title=" " alt="" coords="30,5,163,31"/>
+</map>

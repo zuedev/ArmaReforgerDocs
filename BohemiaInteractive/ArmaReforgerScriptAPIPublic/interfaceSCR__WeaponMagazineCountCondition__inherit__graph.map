@@ -1,0 +1,4 @@
+<map id="SCR_WeaponMagazineCountCondition" name="SCR_WeaponMagazineCountCondition">
+<area shape="rect" id="node1" title="Returns true if the count of additional magazines in character&#39;s inventory matches current condition." alt="" coords="5,79,253,104"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AvailableActionCondition.html" title="A single available action condition representation." alt="" coords="30,5,229,31"/>
+</map>

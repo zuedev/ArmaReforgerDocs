@@ -1,0 +1,5 @@
+<map id="SCR_SupportStationEnableHealEditorAttribute" name="SCR_SupportStationEnableHealEditorAttribute">
+<area shape="rect" id="node1" title=" " alt="" coords="20,167,203,207"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseSupportStationEnableEditorAttribute.html" title=" " alt="" coords="5,79,217,119"/>
+<area shape="rect" id="node3" href="$interfaceSCR__BaseEditorAttribute.html" title="Base Attribute Script for other attributes to inherent from to get and set varriables in Editor Attri..." alt="" coords="27,5,196,31"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="ProjectileSoundComponent" name="ProjectileSoundComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="10,225,189,251"/>
+<area shape="rect" id="node5" href="$interfaceSCR__ShellSoundComponent.html" title=" " alt="" coords="5,299,193,324"/>
+<area shape="rect" id="node2" href="$interfaceSoundComponent.html" title=" " alt="" coords="37,152,162,177"/>
+<area shape="rect" id="node3" href="$interfaceSimpleSoundComponent.html" title=" " alt="" coords="17,79,182,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="22,5,177,31"/>
+</map>

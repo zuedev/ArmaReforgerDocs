@@ -1,0 +1,7 @@
+<map id="SCR_TourniquetUserAction" name="SCR_TourniquetUserAction">
+<area shape="rect" id="node1" title=" " alt="" coords="5,299,185,324"/>
+<area shape="rect" id="node2" href="$interfaceSCR__HealingUserAction.html" title=" " alt="" coords="14,225,177,251"/>
+<area shape="rect" id="node3" href="$interfaceScriptedUserAction.html" title=" " alt="" coords="28,152,163,177"/>
+<area shape="rect" id="node4" href="$interfaceBaseUserAction.html" title=" " alt="" coords="37,79,153,104"/>
+<area shape="rect" id="node5" title=" " alt="" coords="38,5,153,31"/>
+</map>

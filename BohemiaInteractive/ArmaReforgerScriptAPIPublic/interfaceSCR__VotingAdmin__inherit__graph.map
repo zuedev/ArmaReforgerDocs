@@ -1,0 +1,5 @@
+<map id="SCR_VotingAdmin" name="SCR_VotingAdmin">
+<area shape="rect" id="node1" title=" " alt="" coords="21,152,152,177"/>
+<area shape="rect" id="node2" href="$interfaceSCR__VotingReferendum.html" title="Referendum about specific outcome." alt="" coords="5,79,168,104"/>
+<area shape="rect" id="node3" href="$interfaceSCR__VotingBase.html" title="Base class for voting types." alt="" coords="25,5,148,31"/>
+</map>

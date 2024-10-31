@@ -1,0 +1,7 @@
+<map id="SCR_WaypointBaseCommandAction" name="SCR_WaypointBaseCommandAction">
+<area shape="rect" id="node1" title=" " alt="" coords="5,299,243,324"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseCommandAction.html" title=" " alt="" coords="33,225,215,251"/>
+<area shape="rect" id="node3" href="$interfaceSCR__BaseToggleToolbarAction.html" title=" " alt="" coords="23,152,225,177"/>
+<area shape="rect" id="node4" href="$interfaceSCR__EditorToolbarAction.html" title=" " alt="" coords="39,79,209,104"/>
+<area shape="rect" id="node5" href="$interfaceSCR__BaseEditorAction.html" title="Base container class for all editor action types (ContextActions, WaypointActions,..." alt="" coords="45,5,203,31"/>
+</map>

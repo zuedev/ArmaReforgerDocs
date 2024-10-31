@@ -1,0 +1,4 @@
+<map id="SCR_VehicleFuelCondition" name="SCR_VehicleFuelCondition">
+<area shape="rect" id="node1" title="Returns true if current vehicle fuel volume matches the condition." alt="" coords="15,79,194,104"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AvailableActionCondition.html" title="A single available action condition representation." alt="" coords="5,5,204,31"/>
+</map>

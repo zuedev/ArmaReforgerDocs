@@ -1,0 +1,6 @@
+<map id="SCR_BaseResourceTooltipDetail" name="SCR_BaseResourceTooltipDetail">
+<area shape="rect" id="node1" title=" " alt="" coords="110,79,322,104"/>
+<area shape="rect" id="node3" href="$interfaceSCR__ResourceAvailableTooltipDetail.html" title=" " alt="" coords="5,152,205,192"/>
+<area shape="rect" id="node4" href="$interfaceSCR__ResourceStorageTooltipDetail.html" title=" " alt="" coords="229,152,424,192"/>
+<area shape="rect" id="node2" href="$interfaceSCR__EntityTooltipDetail.html" title=" " alt="" coords="135,5,297,31"/>
+</map>

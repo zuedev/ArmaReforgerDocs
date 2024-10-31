@@ -1,0 +1,4 @@
+<map id="SCR_NonArsenalItemCostCatalogData" name="SCR_NonArsenalItemCostCatalogData">
+<area shape="rect" id="node1" title="Base Used for items and attachments which should not be shown in the arsenal but should have a cost t..." alt="" coords="5,79,252,104"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseEntityCatalogData.html" title="Base Class for Entity catalog data." alt="" coords="33,5,224,31"/>
+</map>

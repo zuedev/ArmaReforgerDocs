@@ -1,0 +1,5 @@
+<map id="SCR_LensFlareEditorAttribute" name="SCR_LensFlareEditorAttribute">
+<area shape="rect" id="node1" title="Lense flare control." alt="" coords="5,167,201,192"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseFloatValueHolderEditorAttribute.html" title="Attribute base for Name, icon and float value for other attributes to inherent from." alt="" coords="11,79,196,119"/>
+<area shape="rect" id="node3" href="$interfaceSCR__BaseEditorAttribute.html" title="Base Attribute Script for other attributes to inherent from to get and set varriables in Editor Attri..." alt="" coords="19,5,188,31"/>
+</map>

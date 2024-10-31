@@ -1,0 +1,6 @@
+<map id="SCR_RadioVehicleSpawnPoint" name="SCR_RadioVehicleSpawnPoint">
+<area shape="rect" id="node1" title=" " alt="" coords="5,225,207,251"/>
+<area shape="rect" id="node2" href="$interfaceSCR__SpawnPoint.html" title="Spawn point entity defines positions on which players can possibly spawn." alt="" coords="43,152,169,177"/>
+<area shape="rect" id="node3" href="$interfaceSCR__Position.html" title=" " alt="" coords="55,79,157,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="55,5,157,31"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="EditablePrefabsComponent_Base" name="EditablePrefabsComponent_Base">
+<area shape="rect" id="node1" title=" " alt="" coords="88,5,304,31"/>
+<area shape="rect" id="node2" href="$interfaceEditablePrefabsComponent__EditableEntity.html" title=" " alt="" coords="5,79,184,119"/>
+<area shape="rect" id="node3" href="$interfaceEditablePrefabsComponent__PreviewEntity.html" title=" " alt="" coords="208,79,387,119"/>
+</map>

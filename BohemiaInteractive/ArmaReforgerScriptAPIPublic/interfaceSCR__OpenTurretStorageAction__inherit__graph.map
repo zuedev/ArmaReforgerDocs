@@ -1,0 +1,8 @@
+<map id="SCR_OpenTurretStorageAction" name="SCR_OpenTurretStorageAction">
+<area shape="rect" id="node1" title=" " alt="" coords="10,372,213,397"/>
+<area shape="rect" id="node2" href="$interfaceSCR__OpenVehicleStorageAction.html" title=" " alt="" coords="5,299,217,324"/>
+<area shape="rect" id="node3" href="$interfaceSCR__InventoryAction.html" title="modded version for to be used with the inventory 2.0" alt="" coords="39,225,183,251"/>
+<area shape="rect" id="node4" href="$interfaceScriptedUserAction.html" title=" " alt="" coords="44,152,179,177"/>
+<area shape="rect" id="node5" href="$interfaceBaseUserAction.html" title=" " alt="" coords="53,79,169,104"/>
+<area shape="rect" id="node6" title=" " alt="" coords="54,5,169,31"/>
+</map>

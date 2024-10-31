@@ -1,0 +1,6 @@
+<map id="LightEntity" name="LightEntity">
+<area shape="rect" id="node1" title="Use LightEntity::CreateLight instead of spawning LightEntity via Game::SpawnEntity for the creation o..." alt="" coords="14,225,98,251"/>
+<area shape="rect" id="node2" href="$interfaceGenericEntity.html" title="Base entity class." alt="" coords="5,152,107,177"/>
+<area shape="rect" id="node3" href="$interfaceIEntity.html" title=" " alt="" coords="27,79,85,104"/>
+<area shape="rect" id="node4" href="$interfaceManaged.html" title=" " alt="" coords="19,5,93,31"/>
+</map>

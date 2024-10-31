@@ -1,0 +1,6 @@
+<map id="SCR_AIMessage_AttackClusterDone" name="SCR_AIMessage_AttackClusterDone">
+<area shape="rect" id="node1" title=" " alt="" coords="5,225,243,251"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AIMessageGoal.html" title=" " alt="" coords="50,152,198,177"/>
+<area shape="rect" id="node3" href="$interfaceSCR__AIMessageBase.html" title=" " alt="" coords="49,79,199,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="81,5,167,31"/>
+</map>

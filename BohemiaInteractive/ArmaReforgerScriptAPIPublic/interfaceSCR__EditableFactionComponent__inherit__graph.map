@@ -1,0 +1,5 @@
+<map id="SCR_EditableFactionComponent" name="SCR_EditableFactionComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="5,152,217,177"/>
+<area shape="rect" id="node2" href="$interfaceSCR__EditableEntityComponent.html" title="Component defining editable entity." alt="" coords="10,79,213,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="50,5,173,31"/>
+</map>

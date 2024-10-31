@@ -1,0 +1,7 @@
+<map id="SCR_CampaignBaseTaskSupportEntity" name="SCR_CampaignBaseTaskSupportEntity">
+<area shape="rect" id="node1" title=" " alt="" coords="105,152,323,192"/>
+<area shape="rect" id="node4" href="$interfaceSCR__CampaignBuildingTaskSupportEntity.html" title=" " alt="" coords="5,240,193,280"/>
+<area shape="rect" id="node5" href="$interfaceSCR__CampaignTaskSupportEntity.html" title=" " alt="" coords="218,247,439,273"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseTaskSupportEntity.html" title=" " alt="" coords="117,79,311,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="163,5,265,31"/>
+</map>

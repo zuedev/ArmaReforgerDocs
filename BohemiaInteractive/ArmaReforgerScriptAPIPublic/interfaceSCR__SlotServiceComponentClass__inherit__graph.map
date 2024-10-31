@@ -1,0 +1,8 @@
+<map id="SCR_SlotServiceComponentClass" name="SCR_SlotServiceComponentClass">
+<area shape="rect" id="node1" title=" " alt="" coords="117,255,304,295"/>
+<area shape="rect" id="node5" href="$interfaceSCR__CatalogEntitySpawnerComponentClass.html" title=" " alt="" coords="5,343,189,383"/>
+<area shape="rect" id="node6" href="$interfaceSCR__DefenderSpawnerComponentClass.html" title=" " alt="" coords="214,343,437,383"/>
+<area shape="rect" id="node2" href="$interfaceSCR__ServicePointComponentClass.html" title=" " alt="" coords="113,167,308,207"/>
+<area shape="rect" id="node3" href="$interfaceSCR__MilitaryBaseLogicComponentClass.html" title=" " alt="" coords="98,79,323,119"/>
+<area shape="rect" id="node4" title=" " alt="" coords="133,5,288,31"/>
+</map>

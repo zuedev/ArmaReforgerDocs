@@ -1,0 +1,11 @@
+<map id="EquipedLoadoutStorageComponent" name="EquipedLoadoutStorageComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="5,387,232,412"/>
+<area shape="rect" id="node7" href="$interfaceSCR__EquipedLoadoutStorageComponent.html" title=" " alt="" coords="21,460,216,500"/>
+<area shape="rect" id="node2" href="$interfaceScriptedBaseInventoryStorageComponent.html" title=" " alt="" coords="21,299,217,339"/>
+<area shape="rect" id="node3" href="$interfaceBaseInventoryStorageComponent.html" title=" " alt="" coords="11,225,226,251"/>
+<area shape="rect" id="node4" href="$interfaceInventoryItemComponent.html" title=" " alt="" coords="37,152,201,177"/>
+<area shape="rect" id="node5" href="$interfaceGameComponent.html" title=" " alt="" coords="57,79,180,104"/>
+<area shape="rect" id="node6" title=" " alt="" coords="52,5,185,31"/>
+<area shape="rect" id="node8" href="$interfaceCharacterInventoryStorageComponent.html" title=" " alt="" coords="31,548,206,588"/>
+<area shape="rect" id="node9" href="$interfaceSCR__CharacterInventoryStorageComponent.html" title=" " alt="" coords="15,636,223,676"/>
+</map>

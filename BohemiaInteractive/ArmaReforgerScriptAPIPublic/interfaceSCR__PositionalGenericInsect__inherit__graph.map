@@ -1,0 +1,4 @@
+<map id="SCR_PositionalGenericInsect" name="SCR_PositionalGenericInsect">
+<area shape="rect" id="node1" title="Handles insects that are supposed to be spawned around selected prefabs defined in prefab names array..." alt="" coords="5,79,199,104"/>
+<area shape="rect" id="node2" href="$interfaceSCR__PositionalInsectType.html" title="Base class that handles different insects based on their type." alt="" coords="14,5,190,31"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="SCR_MineDamageManager" name="SCR_MineDamageManager">
+<area shape="rect" id="node1" title=" " alt="" coords="24,372,207,397"/>
+<area shape="rect" id="node2" href="$interfaceSCR__DamageManagerComponent.html" title=" " alt="" coords="5,299,225,324"/>
+<area shape="rect" id="node3" href="$interfaceDamageManagerComponent.html" title=" " alt="" coords="22,225,209,251"/>
+<area shape="rect" id="node4" href="$interfaceHitZoneContainerComponent.html" title=" " alt="" coords="22,152,209,177"/>
+<area shape="rect" id="node5" href="$interfaceGameComponent.html" title=" " alt="" coords="54,79,177,104"/>
+<area shape="rect" id="node6" title=" " alt="" coords="49,5,182,31"/>
+</map>

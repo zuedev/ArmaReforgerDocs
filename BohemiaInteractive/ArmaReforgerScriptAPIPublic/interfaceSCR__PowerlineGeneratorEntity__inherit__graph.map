@@ -1,0 +1,5 @@
+<map id="SCR_PowerlineGeneratorEntity" name="SCR_PowerlineGeneratorEntity">
+<area shape="rect" id="node1" title="NEW SLOT SYSTEM:" alt="" coords="5,152,208,177"/>
+<area shape="rect" id="node2" href="$interfaceSCR__GeneratorBaseEntity.html" title="SCR_GeneratorBaseEntity responsibilities:" alt="" coords="18,79,195,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="35,5,178,31"/>
+</map>

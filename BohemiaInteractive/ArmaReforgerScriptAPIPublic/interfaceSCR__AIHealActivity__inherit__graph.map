@@ -1,0 +1,7 @@
+<map id="SCR_AIHealActivity" name="SCR_AIHealActivity">
+<area shape="rect" id="node1" title=" " alt="" coords="7,299,143,324"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AIActivityBase.html" title=" " alt="" coords="5,225,145,251"/>
+<area shape="rect" id="node3" href="$interfaceSCR__AIActionBase.html" title=" " alt="" coords="8,152,143,177"/>
+<area shape="rect" id="node4" href="$interfaceAIActionBase.html" title=" " alt="" coords="25,79,126,104"/>
+<area shape="rect" id="node5" title=" " alt="" coords="18,5,133,31"/>
+</map>

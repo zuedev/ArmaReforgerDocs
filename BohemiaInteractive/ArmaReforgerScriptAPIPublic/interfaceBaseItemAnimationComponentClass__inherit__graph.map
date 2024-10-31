@@ -1,0 +1,11 @@
+<map id="BaseItemAnimationComponentClass" name="BaseItemAnimationComponentClass">
+<area shape="rect" id="node1" title=" " alt="" coords="255,163,456,203"/>
+<area shape="rect" id="node3" href="$interfaceGadgetAnimationComponentClass.html" title=" " alt="" coords="513,5,701,45"/>
+<area shape="rect" id="node4" href="$interfaceMagazineAnimationComponentClass.html" title=" " alt="" coords="505,69,708,109"/>
+<area shape="rect" id="node5" href="$interfaceMortarAnimationComponentClass.html" title=" " alt="" coords="515,133,698,173"/>
+<area shape="rect" id="node6" href="$interfaceUGLAnimationComponentClass.html" title=" " alt="" coords="504,198,709,223"/>
+<area shape="rect" id="node7" href="$interfaceVehicleAnimationComponentClass.html" title=" " alt="" coords="512,248,701,288"/>
+<area shape="rect" id="node8" href="$interfaceWeaponAnimationComponentClass.html" title=" " alt="" coords="509,312,704,352"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,163,207,203"/>
+<area shape="rect" id="node9" href="$interfaceSCR__MineAnimationComponentClass.html" title=" " alt="" coords="757,312,965,352"/>
+</map>

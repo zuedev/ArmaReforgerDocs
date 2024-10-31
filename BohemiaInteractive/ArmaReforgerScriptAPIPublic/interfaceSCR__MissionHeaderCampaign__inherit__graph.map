@@ -1,0 +1,6 @@
+<map id="SCR_MissionHeaderCampaign" name="SCR_MissionHeaderCampaign">
+<area shape="rect" id="node1" title=" " alt="" coords="5,225,205,251"/>
+<area shape="rect" id="node2" href="$interfaceSCR__MissionHeader.html" title=" " alt="" coords="34,152,177,177"/>
+<area shape="rect" id="node3" href="$interfaceMissionHeader.html" title="Base class for interaction with mission headers." alt="" coords="51,79,159,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="48,5,163,31"/>
+</map>

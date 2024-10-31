@@ -1,0 +1,6 @@
+<map id="DownloadableItem" name="DownloadableItem">
+<area shape="rect" id="node1" title=" " alt="" coords="10,79,137,104"/>
+<area shape="rect" id="node3" href="$interfaceWorkshopItem.html" title=" " alt="" coords="20,152,127,177"/>
+<area shape="rect" id="node2" href="$interfaceBaseWorkshopItem.html" title=" " alt="" coords="5,5,141,31"/>
+<area shape="rect" id="node4" href="$interfaceWorldSaveItem.html" title=" " alt="" coords="19,225,128,251"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="SCR_ColoredTextNotificationUIInfo" name="SCR_ColoredTextNotificationUIInfo">
+<area shape="rect" id="node1" title=" " alt="" coords="5,299,195,339"/>
+<area shape="rect" id="node2" href="$interfaceSCR__UINotificationInfo.html" title="UIInfo used by the Notifications system." alt="" coords="24,225,176,251"/>
+<area shape="rect" id="node3" href="$interfaceSCR__UIInfo.html" title="Class used to hold UI information." alt="" coords="56,152,144,177"/>
+<area shape="rect" id="node4" href="$interfaceSCR__UIDescription.html" title="Class used to hold UI name and description." alt="" coords="33,79,167,104"/>
+<area shape="rect" id="node5" href="$interfaceSCR__UIName.html" title="Class used to hold UI name." alt="" coords="49,5,151,31"/>
+</map>

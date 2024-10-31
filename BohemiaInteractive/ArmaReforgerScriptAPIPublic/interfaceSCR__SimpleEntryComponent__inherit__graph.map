@@ -1,0 +1,6 @@
+<map id="SCR_SimpleEntryComponent" name="SCR_SimpleEntryComponent">
+<area shape="rect" id="node1" title="Simple entry for display nointeractive items with left and right text." alt="" coords="14,152,207,177"/>
+<area shape="rect" id="node4" href="$interfaceSCR__RadialMenuNumberHintComponent.html" title="Component for visual behavior of radil menu number hint Can display current slot number and change co..." alt="" coords="15,225,207,265"/>
+<area shape="rect" id="node2" href="$interfaceSCR__ScriptedWidgetComponent.html" title=" " alt="" coords="5,79,216,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="22,5,199,31"/>
+</map>

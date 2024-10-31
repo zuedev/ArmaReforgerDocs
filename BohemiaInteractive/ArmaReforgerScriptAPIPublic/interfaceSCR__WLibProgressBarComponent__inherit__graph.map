@@ -1,0 +1,6 @@
+<map id="SCR_WLibProgressBarComponent" name="SCR_WLibProgressBarComponent">
+<area shape="rect" id="node1" title="Minimalist progress bar." alt="" coords="107,79,331,104"/>
+<area shape="rect" id="node3" href="$interfaceSCR__ProgressBarWithInactiveColor.html" title=" " alt="" coords="5,152,204,192"/>
+<area shape="rect" id="node4" href="$interfaceSCR__ProgressBarWithSegments.html" title=" " alt="" coords="228,159,443,185"/>
+<area shape="rect" id="node2" title=" " alt="" coords="131,5,308,31"/>
+</map>

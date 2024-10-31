@@ -1,0 +1,9 @@
+<map id="SCR_AISuppressionVolumeBase" name="SCR_AISuppressionVolumeBase">
+<area shape="rect" id="node1" title=" " alt="" coords="5,95,220,121"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AISuppressionVolumeBox.html" title=" " alt="" coords="277,70,484,95"/>
+<area shape="rect" id="node7" href="$interfaceSCR__AISuppressionVolumeSphere.html" title=" " alt="" coords="268,119,493,145"/>
+<area shape="rect" id="node3" href="$interfaceSCR__AISuppressionObjectVolumeBox.html" title=" " alt="" coords="541,70,787,95"/>
+<area shape="rect" id="node4" href="$interfaceSCR__AISuppressionVolumeBaseTargetBox.html" title=" " alt="" coords="851,5,1066,45"/>
+<area shape="rect" id="node5" href="$interfaceSCR__AISuppressionVolumeClusterBox.html" title=" " alt="" coords="835,70,1083,95"/>
+<area shape="rect" id="node6" href="$interfaceSCR__AISuppressionVolumeWaypoint.html" title=" " alt="" coords="839,119,1078,145"/>
+</map>

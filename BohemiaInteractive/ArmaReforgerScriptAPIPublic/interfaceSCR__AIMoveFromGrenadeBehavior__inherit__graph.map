@@ -1,0 +1,8 @@
+<map id="SCR_AIMoveFromGrenadeBehavior" name="SCR_AIMoveFromGrenadeBehavior">
+<area shape="rect" id="node1" title=" " alt="" coords="5,372,232,397"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AIMoveFromDangerBehavior.html" title="Behavior for short&#45;lived fast reactions to get away from some danger source." alt="" coords="9,299,228,324"/>
+<area shape="rect" id="node3" href="$interfaceSCR__AIBehaviorBase.html" title=" " alt="" coords="45,225,192,251"/>
+<area shape="rect" id="node4" href="$interfaceSCR__AIActionBase.html" title=" " alt="" coords="51,152,186,177"/>
+<area shape="rect" id="node5" href="$interfaceAIActionBase.html" title=" " alt="" coords="68,79,169,104"/>
+<area shape="rect" id="node6" title=" " alt="" coords="61,5,176,31"/>
+</map>

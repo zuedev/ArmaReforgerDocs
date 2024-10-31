@@ -1,0 +1,12 @@
+<map id="BaseTriggerComponent" name="BaseTriggerComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="577,80,735,105"/>
+<area shape="rect" id="node5" href="$interfaceCollisionTriggerComponent.html" title=" " alt="" coords="790,5,966,31"/>
+<area shape="rect" id="node6" href="$interfaceProximityTriggerComponent.html" title=" " alt="" coords="787,55,969,80"/>
+<area shape="rect" id="node7" href="$interfaceSCR__BaseTriggerComponent.html" title=" " alt="" coords="783,104,973,129"/>
+<area shape="rect" id="node10" href="$interfaceTimerTriggerComponent.html" title=" " alt="" coords="799,153,957,179"/>
+<area shape="rect" id="node2" href="$interfaceBaseProjectileComponent.html" title=" " alt="" coords="357,80,529,105"/>
+<area shape="rect" id="node3" href="$interfaceGameComponent.html" title=" " alt="" coords="187,80,309,105"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,80,139,105"/>
+<area shape="rect" id="node8" href="$interfaceSCR__ExplosiveTriggerComponent.html" title=" " alt="" coords="1021,80,1237,105"/>
+<area shape="rect" id="node9" href="$interfaceSCR__PressureTriggerComponent.html" title=" " alt="" coords="1023,129,1236,155"/>
+</map>

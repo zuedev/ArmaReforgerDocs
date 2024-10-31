@@ -1,0 +1,11 @@
+<map id="ScriptedSightsComponent" name="ScriptedSightsComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="118,299,291,324"/>
+<area shape="rect" id="node6" href="$interfaceSCR__2DOpticsComponent.html" title="Base class for 2D optics Unifiying binoculars and optic sight." alt="" coords="15,372,191,397"/>
+<area shape="rect" id="node9" href="$interfaceSCR__PIPSightsComponent.html" title=" " alt="" coords="216,372,396,397"/>
+<area shape="rect" id="node2" href="$interfaceSightsComponent.html" title=" " alt="" coords="142,225,267,251"/>
+<area shape="rect" id="node3" href="$interfaceBaseSightsComponent.html" title=" " alt="" coords="127,152,282,177"/>
+<area shape="rect" id="node4" href="$interfaceGameComponent.html" title=" " alt="" coords="143,79,266,104"/>
+<area shape="rect" id="node5" title=" " alt="" coords="138,5,271,31"/>
+<area shape="rect" id="node7" href="$interfaceSCR__2DSightsComponent.html" title=" " alt="" coords="16,445,191,471"/>
+<area shape="rect" id="node8" href="$interfaceSCR__2DPIPSightsComponent.html" title=" " alt="" coords="5,519,201,544"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="SCR_BaseInteractionDisplay" name="SCR_BaseInteractionDisplay">
+<area shape="rect" id="node1" title="Base class for displaying interactions in the UI." alt="" coords="5,372,195,397"/>
+<area shape="rect" id="node7" href="$interfaceSCR__ActionMenuInteractionDisplay.html" title=" " alt="" coords="7,445,193,485"/>
+<area shape="rect" id="node2" href="$interfaceSCR__InfoDisplayExtended.html" title=" " alt="" coords="13,299,187,324"/>
+<area shape="rect" id="node3" href="$interfaceSCR__InfoDisplay.html" title=" " alt="" coords="41,225,159,251"/>
+<area shape="rect" id="node4" href="$interfaceGroupInfoDisplay.html" title=" " alt="" coords="40,152,160,177"/>
+<area shape="rect" id="node5" href="$interfaceBaseInfoDisplay.html" title=" " alt="" coords="43,79,157,104"/>
+<area shape="rect" id="node6" title=" " alt="" coords="43,5,157,31"/>
+</map>

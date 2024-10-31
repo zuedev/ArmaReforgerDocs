@@ -1,0 +1,8 @@
+<map id="SCR_MinePickUpItemAction" name="SCR_MinePickUpItemAction">
+<area shape="rect" id="node1" title=" " alt="" coords="5,372,193,397"/>
+<area shape="rect" id="node2" href="$interfaceSCR__PickUpItemAction.html" title="modded version for to be used with the inventory 2.0" alt="" coords="19,299,179,324"/>
+<area shape="rect" id="node3" href="$interfaceSCR__InventoryAction.html" title="modded version for to be used with the inventory 2.0" alt="" coords="27,225,171,251"/>
+<area shape="rect" id="node4" href="$interfaceScriptedUserAction.html" title=" " alt="" coords="32,152,167,177"/>
+<area shape="rect" id="node5" href="$interfaceBaseUserAction.html" title=" " alt="" coords="41,79,157,104"/>
+<area shape="rect" id="node6" title=" " alt="" coords="42,5,157,31"/>
+</map>

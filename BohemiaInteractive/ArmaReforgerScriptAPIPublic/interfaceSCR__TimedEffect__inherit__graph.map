@@ -1,0 +1,8 @@
+<map id="SCR_TimedEffect" name="SCR_TimedEffect">
+<area shape="rect" id="node1" title=" " alt="" coords="241,79,365,104"/>
+<area shape="rect" id="node3" href="$interfaceSCR__TimedDebris.html" title=" " alt="" coords="5,152,133,177"/>
+<area shape="rect" id="node4" href="$interfaceSCR__TimedParticle.html" title=" " alt="" coords="158,152,293,177"/>
+<area shape="rect" id="node5" href="$interfaceSCR__TimedPrefab.html" title=" " alt="" coords="317,152,445,177"/>
+<area shape="rect" id="node6" href="$interfaceSCR__TimedSound.html" title=" " alt="" coords="469,152,597,177"/>
+<area shape="rect" id="node2" title=" " alt="" coords="265,5,340,31"/>
+</map>

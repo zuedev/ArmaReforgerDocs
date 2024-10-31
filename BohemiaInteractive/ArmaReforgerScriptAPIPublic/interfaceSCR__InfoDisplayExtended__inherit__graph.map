@@ -1,0 +1,51 @@
+<map id="SCR_InfoDisplayExtended" name="SCR_InfoDisplayExtended">
+<area shape="rect" id="node1" title=" " alt="" coords="665,1033,840,1059"/>
+<area shape="rect" id="node6" href="$interfaceSCR__2DOpticsDisplay.html" title=" " alt="" coords="921,268,1074,293"/>
+<area shape="rect" id="node7" href="$interfaceSCR__AvailableActionsDisplay.html" title=" " alt="" coords="900,317,1095,343"/>
+<area shape="rect" id="node8" href="$interfaceSCR__BaseAnalogGauge.html" title=" " alt="" coords="915,367,1079,392"/>
+<area shape="rect" id="node11" href="$interfaceSCR__BaseInteractionDisplay.html" title="Base class for displaying interactions in the UI." alt="" coords="903,416,1092,441"/>
+<area shape="rect" id="node13" href="$interfaceSCR__BaseScreenEffect.html" title=" " alt="" coords="917,465,1077,491"/>
+<area shape="rect" id="node25" href="$interfaceSCR__BaseVehicleInfo.html" title="Base class for all vehicle UI state and damage indicators." alt="" coords="923,712,1072,737"/>
+<area shape="rect" id="node32" href="$interfaceSCR__CampaignInfoDisplay.html" title=" " alt="" coords="909,761,1086,787"/>
+<area shape="rect" id="node33" href="$interfaceSCR__ChatHud.html" title="This is a Chat Info Display / Chat HUD." alt="" coords="944,811,1051,836"/>
+<area shape="rect" id="node34" href="$interfaceSCR__GameVersion.html" title=" " alt="" coords="930,860,1065,885"/>
+<area shape="rect" id="node35" href="$interfaceSCR__HintInfoDisplay.html" title="Handles SCR_HintUIComponent when using InfoDisplay and HudManager slotting." alt="" coords="926,909,1069,935"/>
+<area shape="rect" id="node36" href="$interfaceSCR__InspectCasualtyWidget.html" title=" " alt="" coords="902,959,1093,984"/>
+<area shape="rect" id="node37" href="$interfaceSCR__NameTagDisplay.html" title="Nametag UI Attached to SCR_HUDManagerComponent which is a component of SCR_PlayerController." alt="" coords="920,1008,1075,1033"/>
+<area shape="rect" id="node38" href="$interfaceSCR__NearbyContextDisplay.html" title=" " alt="" coords="905,1057,1090,1083"/>
+<area shape="rect" id="node39" href="$interfaceSCR__NotificationsLogDisplay.html" title=" " alt="" coords="902,1107,1093,1132"/>
+<area shape="rect" id="node40" href="$interfaceSCR__PlacedCommandInfoDisplay.html" title=" " alt="" coords="888,1156,1107,1181"/>
+<area shape="rect" id="node41" href="$interfaceSCR__PreviewRichText.html" title=" " alt="" coords="922,1205,1073,1231"/>
+<area shape="rect" id="node42" href="$interfaceSCR__ScenarioFrameworkTriggerCountdownDisplay.html" title=" " alt="" coords="892,1255,1103,1295"/>
+<area shape="rect" id="node43" href="$interfaceSCR__ScreenEffectsManager.html" title=" " alt="" coords="904,1320,1091,1345"/>
+<area shape="rect" id="node44" href="$interfaceSCR__SelectionMenuDisplay.html" title="Radial menu class for handling HUD part of menu." alt="" coords="905,1369,1090,1395"/>
+<area shape="rect" id="node45" href="$interfaceSCR__StatsPanelBase.html" title=" " alt="" coords="922,1419,1073,1444"/>
+<area shape="rect" id="node46" href="$interfaceSCR__VoiceoverSubtitles.html" title=" " alt="" coords="916,1468,1079,1493"/>
+<area shape="rect" id="node47" href="$interfaceSCR__VonDisplay.html" title="VON display of active outgoing and incoming transmissions." alt="" coords="936,1517,1059,1543"/>
+<area shape="rect" id="node48" href="$interfaceSCR__WeaponInfo.html" title=" " alt="" coords="935,1567,1059,1592"/>
+<area shape="rect" id="node49" href="$interfaceSCR__XPInfoDisplay.html" title=" " alt="" coords="930,1616,1065,1641"/>
+<area shape="rect" id="node2" href="$interfaceSCR__InfoDisplay.html" title=" " alt="" coords="499,1033,617,1059"/>
+<area shape="rect" id="node3" href="$interfaceGroupInfoDisplay.html" title=" " alt="" coords="331,1033,451,1059"/>
+<area shape="rect" id="node4" href="$interfaceBaseInfoDisplay.html" title=" " alt="" coords="168,1033,283,1059"/>
+<area shape="rect" id="node5" title=" " alt="" coords="5,1033,120,1059"/>
+<area shape="rect" id="node9" href="$interfaceSCR__AnalogGauge.html" title=" " alt="" coords="1191,5,1325,31"/>
+<area shape="rect" id="node10" href="$interfaceSCR__AnalogGaugeNonLinear.html" title=" " alt="" coords="1162,55,1354,80"/>
+<area shape="rect" id="node12" href="$interfaceSCR__ActionMenuInteractionDisplay.html" title=" " alt="" coords="1165,105,1351,145"/>
+<area shape="rect" id="node14" href="$interfaceSCR__BleedingScreenEffect.html" title=" " alt="" coords="1168,169,1348,195"/>
+<area shape="rect" id="node15" href="$interfaceSCR__DamageBlurEffect.html" title=" " alt="" coords="1178,219,1338,244"/>
+<area shape="rect" id="node16" href="$interfaceSCR__DeathScreenEffect.html" title=" " alt="" coords="1176,268,1340,293"/>
+<area shape="rect" id="node17" href="$interfaceSCR__DepthOfFieldEffect.html" title=" " alt="" coords="1176,317,1340,343"/>
+<area shape="rect" id="node18" href="$interfaceSCR__DesaturationEffect.html" title=" " alt="" coords="1177,367,1339,392"/>
+<area shape="rect" id="node19" href="$interfaceSCR__DrowningScreenEffect.html" title=" " alt="" coords="1167,416,1349,441"/>
+<area shape="rect" id="node20" href="$interfaceSCR__FadeInOutEffect.html" title=" " alt="" coords="1183,465,1333,491"/>
+<area shape="rect" id="node21" href="$interfaceSCR__NoiseFilterEffect.html" title=" " alt="" coords="1183,515,1333,540"/>
+<area shape="rect" id="node22" href="$interfaceSCR__RegenerationScreenEffect.html" title=" " alt="" coords="1155,564,1361,589"/>
+<area shape="rect" id="node23" href="$interfaceSCR__StaminaBlurEffect.html" title=" " alt="" coords="1178,613,1338,639"/>
+<area shape="rect" id="node24" href="$interfaceSCR__UnconsciousScreenEffect.html" title=" " alt="" coords="1155,663,1361,688"/>
+<area shape="rect" id="node26" href="$interfaceSCR__FuelTankInfo.html" title=" " alt="" coords="1193,712,1323,737"/>
+<area shape="rect" id="node27" href="$interfaceSCR__GearShiftInfo.html" title=" " alt="" coords="1193,761,1323,787"/>
+<area shape="rect" id="node28" href="$interfaceSCR__HandBrakeInfo.html" title=" " alt="" coords="1188,811,1328,836"/>
+<area shape="rect" id="node29" href="$interfaceSCR__HitZoneInfo.html" title=" " alt="" coords="1198,860,1318,885"/>
+<area shape="rect" id="node30" href="$interfaceSCR__LightManagerInfo.html" title=" " alt="" coords="1181,909,1335,935"/>
+<area shape="rect" id="node31" href="$interfaceSCR__LightManagerInfoMulti.html" title=" " alt="" coords="1167,959,1349,984"/>
+</map>

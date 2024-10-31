@@ -1,0 +1,6 @@
+<map id="SCR_DoubleClickAction" name="SCR_DoubleClickAction">
+<area shape="rect" id="node1" title=" " alt="" coords="157,79,320,104"/>
+<area shape="rect" id="node3" href="$interfaceSCR__OpenAttributeWindowContextAction.html" title=" " alt="" coords="5,152,232,192"/>
+<area shape="rect" id="node4" href="$interfaceSCR__PlaceEntityContextAction.html" title=" " alt="" coords="256,159,461,185"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseEditorAction.html" title="Base container class for all editor action types (ContextActions, WaypointActions,..." alt="" coords="160,5,317,31"/>
+</map>

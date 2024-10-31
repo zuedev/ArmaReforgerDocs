@@ -1,0 +1,8 @@
+<map id="SCR_ModdedScenarioComponent" name="SCR_ModdedScenarioComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="5,372,224,397"/>
+<area shape="rect" id="node2" href="$interfaceSCR__ButtonComponent.html" title="Deprecated button component. Still used in many prefabs, so it works, it&#39;s just stripped of most of t..." alt="" coords="35,299,195,324"/>
+<area shape="rect" id="node3" href="$interfaceSCR__ButtonBaseComponent.html" title="Base class for any button, regardless its own content." alt="" coords="19,225,210,251"/>
+<area shape="rect" id="node4" href="$interfaceSCR__WLibComponentBase.html" title="Base class for all final Reforger interactive elements." alt="" coords="23,152,206,177"/>
+<area shape="rect" id="node5" href="$interfaceSCR__ScriptedWidgetComponent.html" title=" " alt="" coords="9,79,220,104"/>
+<area shape="rect" id="node6" title=" " alt="" coords="26,5,203,31"/>
+</map>

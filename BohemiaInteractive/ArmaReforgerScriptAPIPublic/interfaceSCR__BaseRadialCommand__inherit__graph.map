@@ -1,0 +1,18 @@
+<map id="SCR_BaseRadialCommand" name="SCR_BaseRadialCommand">
+<area shape="rect" id="node1" title=" " alt="" coords="5,153,187,179"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseGroupCommand.html" title=" " alt="" coords="251,104,431,129"/>
+<area shape="rect" id="node15" href="$interfaceSCR__ContinuousLoiterCommand.html" title=" " alt="" coords="235,153,447,179"/>
+<area shape="rect" id="node16" href="$interfaceSCR__EmoteBaseCommand.html" title=" " alt="" coords="249,203,432,228"/>
+<area shape="rect" id="node3" href="$interfaceSCR__LookAtGroupCommand.html" title=" " alt="" coords="517,5,708,31"/>
+<area shape="rect" id="node4" href="$interfaceSCR__RecruitAIGroupCommand.html" title=" " alt="" coords="511,55,714,80"/>
+<area shape="rect" id="node5" href="$interfaceSCR__RemoveAIGroupCommand.html" title=" " alt="" coords="509,104,717,129"/>
+<area shape="rect" id="node6" href="$interfaceSCR__StopMovementGroupCommand.html" title=" " alt="" coords="495,153,731,179"/>
+<area shape="rect" id="node7" href="$interfaceSCR__WaypointGroupCommand.html" title=" " alt="" coords="510,203,715,228"/>
+<area shape="rect" id="node8" href="$interfaceSCR__CharacterEntityWaypointGroupCommand.html" title=" " alt="" coords="789,39,991,79"/>
+<area shape="rect" id="node9" href="$interfaceSCR__ContextGetIngroupCommand.html" title=" " alt="" coords="779,104,1001,129"/>
+<area shape="rect" id="node10" href="$interfaceSCR__FollowGroupCommand.html" title=" " alt="" coords="797,153,983,179"/>
+<area shape="rect" id="node11" href="$interfaceSCR__GestureGroupCommand.html" title=" " alt="" coords="792,203,988,228"/>
+<area shape="rect" id="node12" href="$interfaceSCR__GetINtoSelectedVehicleGroupCommand.html" title=" " alt="" coords="793,253,987,293"/>
+<area shape="rect" id="node13" href="$interfaceSCR__GetOutGroupCommand.html" title=" " alt="" coords="794,317,986,343"/>
+<area shape="rect" id="node14" href="$interfaceSCR__PatrolGroupCommand.html" title=" " alt="" coords="798,367,982,392"/>
+</map>

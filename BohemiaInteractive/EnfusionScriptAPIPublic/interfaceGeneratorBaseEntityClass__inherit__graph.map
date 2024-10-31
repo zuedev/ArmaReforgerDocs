@@ -1,0 +1,9 @@
+<map id="GeneratorBaseEntityClass" name="GeneratorBaseEntityClass">
+<area shape="rect" id="node1" title=" " alt="" coords="356,80,532,105"/>
+<area shape="rect" id="node4" href="$interfaceLakeGeneratorEntityClass.html" title=" " alt="" coords="587,5,761,31"/>
+<area shape="rect" id="node5" href="$interfaceRiverEntityClass.html" title=" " alt="" coords="615,55,733,80"/>
+<area shape="rect" id="node6" href="$interfaceRoadGeneratorEntityClass.html" title=" " alt="" coords="586,104,762,129"/>
+<area shape="rect" id="node7" href="$interfaceSplineTerrainGeneratorEntityBaseClass.html" title=" " alt="" coords="580,154,768,194"/>
+<area shape="rect" id="node2" href="$interfaceGenericEntityClass.html" title=" " alt="" coords="173,80,308,105"/>
+<area shape="rect" id="node3" href="$interfaceEntityPrefabData.html" title="Shared object with constant data for enf::EntitySource from prefab." alt="" coords="5,80,125,105"/>
+</map>

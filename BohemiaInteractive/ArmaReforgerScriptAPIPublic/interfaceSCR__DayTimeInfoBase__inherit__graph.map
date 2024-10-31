@@ -1,0 +1,6 @@
+<map id="SCR_DayTimeInfoBase" name="SCR_DayTimeInfoBase">
+<area shape="rect" id="node1" title=" " alt="" coords="195,5,352,31"/>
+<area shape="rect" id="node2" href="$interfaceSCR__DayTimeInfoAuto.html" title=" " alt="" coords="5,79,160,104"/>
+<area shape="rect" id="node3" href="$interfaceSCR__DayTimeInfoBetween.html" title=" " alt="" coords="185,79,362,104"/>
+<area shape="rect" id="node4" href="$interfaceSCR__DayTimeInfoStatic.html" title=" " alt="" coords="386,79,547,104"/>
+</map>

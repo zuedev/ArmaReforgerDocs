@@ -1,0 +1,8 @@
+<map id="SCR_InventoryNavigationButtonBack" name="SCR_InventoryNavigationButtonBack">
+<area shape="rect" id="node1" title="Interactive non&#45;focus button showing hint, and triggering actions." alt="" coords="5,372,240,397"/>
+<area shape="rect" id="node2" href="$interfaceSCR__InputButtonComponent.html" title=" " alt="" coords="29,299,217,324"/>
+<area shape="rect" id="node3" href="$interfaceSCR__ButtonBaseComponent.html" title="Base class for any button, regardless its own content." alt="" coords="27,225,218,251"/>
+<area shape="rect" id="node4" href="$interfaceSCR__WLibComponentBase.html" title="Base class for all final Reforger interactive elements." alt="" coords="31,152,214,177"/>
+<area shape="rect" id="node5" href="$interfaceSCR__ScriptedWidgetComponent.html" title=" " alt="" coords="17,79,228,104"/>
+<area shape="rect" id="node6" title=" " alt="" coords="34,5,211,31"/>
+</map>

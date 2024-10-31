@@ -1,0 +1,6 @@
+<map id="ScrServerCommand" name="ScrServerCommand">
+<area shape="rect" id="node1" title=" " alt="" coords="118,5,255,31"/>
+<area shape="rect" id="node2" href="$interfaceBanCommand.html" title=" " alt="" coords="5,79,109,104"/>
+<area shape="rect" id="node3" href="$interfaceKickCommand.html" title=" " alt="" coords="133,79,240,104"/>
+<area shape="rect" id="node4" href="$interfaceUploadSaveCommand.html" title=" " alt="" coords="264,79,413,104"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="SCR_UniversalInventoryStorageComponent" name="SCR_UniversalInventoryStorageComponent">
+<area shape="rect" id="node1" title="Current storage variant allows dynamic scaling of slots and handles Move/Insert/Remove operations it ..." alt="" coords="11,563,215,603"/>
+<area shape="rect" id="node2" href="$interfaceUniversalInventoryStorageComponent.html" title=" " alt="" coords="27,475,198,515"/>
+<area shape="rect" id="node3" href="$interfaceBaseUniversalInventoryStorageComponent.html" title=" " alt="" coords="13,387,213,427"/>
+<area shape="rect" id="node4" href="$interfaceScriptedBaseInventoryStorageComponent.html" title=" " alt="" coords="15,299,211,339"/>
+<area shape="rect" id="node5" href="$interfaceBaseInventoryStorageComponent.html" title=" " alt="" coords="5,225,220,251"/>
+<area shape="rect" id="node6" href="$interfaceInventoryItemComponent.html" title=" " alt="" coords="31,152,195,177"/>
+<area shape="rect" id="node7" href="$interfaceGameComponent.html" title=" " alt="" coords="51,79,174,104"/>
+<area shape="rect" id="node8" title=" " alt="" coords="46,5,179,31"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="SCR_WorkshopDownloadSequence" name="SCR_WorkshopDownloadSequence">
+<area shape="rect" id="node1" title="Extended download sequence for workshop downloading Instead of just dependencies main m_Item is used ..." alt="" coords="5,79,235,104"/>
+<area shape="rect" id="node2" href="$interfaceSCR__DownloadSequence.html" title=" " alt="" coords="35,5,205,31"/>
+</map>

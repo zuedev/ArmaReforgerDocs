@@ -1,0 +1,6 @@
+<map id="SCR_AIDecoCombatEnemy" name="SCR_AIDecoCombatEnemy">
+<area shape="rect" id="node1" title=" " alt="" coords="109,79,293,104"/>
+<area shape="rect" id="node3" href="$interfaceSCR__AIDecoCurrentEnemy.html" title=" " alt="" coords="5,152,187,177"/>
+<area shape="rect" id="node4" href="$interfaceSCR__AIDecoLastSeenEnemy.html" title=" " alt="" coords="211,152,405,177"/>
+<area shape="rect" id="node2" title=" " alt="" coords="138,5,265,31"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="PerceivableComponentClass" name="PerceivableComponentClass">
+<area shape="rect" id="node1" title=" " alt="" coords="131,152,317,177"/>
+<area shape="rect" id="node4" href="$interfaceCharacterPerceivableComponentClass.html" title=" " alt="" coords="5,225,216,265"/>
+<area shape="rect" id="node6" href="$interfaceVehiclePerceivableComponentClass.html" title=" " alt="" coords="240,225,437,265"/>
+<area shape="rect" id="node2" href="$interfaceGameComponentClass.html" title=" " alt="" coords="146,79,302,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="141,5,307,31"/>
+<area shape="rect" id="node5" href="$interfaceSCR__CharacterPerceivableComponentClass.html" title=" " alt="" coords="21,313,200,353"/>
+<area shape="rect" id="node7" href="$interfaceSCR__VehiclePerceivableComponentClass.html" title=" " alt="" coords="225,313,455,353"/>
+</map>

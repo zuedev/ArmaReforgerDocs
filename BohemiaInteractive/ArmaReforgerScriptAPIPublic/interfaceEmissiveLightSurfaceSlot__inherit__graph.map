@@ -1,0 +1,6 @@
+<map id="EmissiveLightSurfaceSlot" name="EmissiveLightSurfaceSlot">
+<area shape="rect" id="node1" title=" " alt="" coords="19,225,188,251"/>
+<area shape="rect" id="node2" href="$interfaceRegisteringComponentSlotInfo.html" title="Adds ability to register managers to parent entity." alt="" coords="5,152,201,177"/>
+<area shape="rect" id="node3" href="$interfaceEntitySlotInfo.html" title="Adds ability to attach an object to a slot." alt="" coords="54,79,153,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="67,5,139,31"/>
+</map>

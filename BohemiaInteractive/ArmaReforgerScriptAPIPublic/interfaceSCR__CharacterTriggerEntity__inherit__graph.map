@@ -1,0 +1,8 @@
+<map id="SCR_CharacterTriggerEntity" name="SCR_CharacterTriggerEntity">
+<area shape="rect" id="node1" title=" " alt="" coords="18,387,203,412"/>
+<area shape="rect" id="node2" href="$interfaceSCR__ScenarioFrameworkTriggerEntity.html" title=" " alt="" coords="5,299,216,339"/>
+<area shape="rect" id="node3" href="$interfaceSCR__BaseTriggerEntity.html" title="Basic scripted trigger which offers external invoekrs for major events like activation or deactivatio..." alt="" coords="31,225,190,251"/>
+<area shape="rect" id="node4" href="$interfaceScriptedGameTriggerEntity.html" title=" " alt="" coords="21,152,200,177"/>
+<area shape="rect" id="node5" href="$interfaceBaseGameTriggerEntity.html" title=" " alt="" coords="31,79,191,104"/>
+<area shape="rect" id="node6" title=" " alt="" coords="60,5,161,31"/>
+</map>

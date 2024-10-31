@@ -1,0 +1,13 @@
+<map id="SCR_GeneratorBaseEntityClass" name="SCR_GeneratorBaseEntityClass">
+<area shape="rect" id="node1" title=" " alt="" coords="229,191,440,217"/>
+<area shape="rect" id="node3" href="$interfaceNotificationTestGeneratorEntityClass.html" title=" " alt="" coords="513,5,681,45"/>
+<area shape="rect" id="node4" href="$interfacePrefabGeneratorEntityClass.html" title=" " alt="" coords="505,70,688,95"/>
+<area shape="rect" id="node5" href="$interfaceSCR__AreaGeneratorBaseEntityClass.html" title=" " alt="" coords="495,120,699,160"/>
+<area shape="rect" id="node7" href="$interfaceSCR__LineTerrainShaperGeneratorBaseEntityClass.html" title=" " alt="" coords="488,184,705,224"/>
+<area shape="rect" id="node9" href="$interfaceSCR__PowerlineGeneratorEntityClass.html" title=" " alt="" coords="495,248,698,288"/>
+<area shape="rect" id="node10" href="$interfaceSCR__TrackGeneratorEntityClass.html" title=" " alt="" coords="507,312,686,352"/>
+<area shape="rect" id="node11" href="$interfaceWallGeneratorEntityClass.html" title=" " alt="" coords="511,377,683,402"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,191,181,217"/>
+<area shape="rect" id="node6" href="$interfaceForestGeneratorEntityClass.html" title=" " alt="" coords="771,127,953,153"/>
+<area shape="rect" id="node8" href="$interfaceSCR__LineTerrainShaperGeneratorEntityClass.html" title=" " alt="" coords="753,184,971,224"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="SCR_WaypointGroupCommand" name="SCR_WaypointGroupCommand">
+<area shape="rect" id="node1" title=" " alt="" coords="463,169,668,194"/>
+<area shape="rect" id="node4" href="$interfaceSCR__CharacterEntityWaypointGroupCommand.html" title=" " alt="" coords="727,5,928,45"/>
+<area shape="rect" id="node5" href="$interfaceSCR__ContextGetIngroupCommand.html" title=" " alt="" coords="716,70,939,95"/>
+<area shape="rect" id="node6" href="$interfaceSCR__FollowGroupCommand.html" title=" " alt="" coords="734,119,921,145"/>
+<area shape="rect" id="node7" href="$interfaceSCR__GestureGroupCommand.html" title=" " alt="" coords="729,169,925,194"/>
+<area shape="rect" id="node8" href="$interfaceSCR__GetINtoSelectedVehicleGroupCommand.html" title=" " alt="" coords="730,219,925,259"/>
+<area shape="rect" id="node9" href="$interfaceSCR__GetOutGroupCommand.html" title=" " alt="" coords="731,283,923,309"/>
+<area shape="rect" id="node10" href="$interfaceSCR__PatrolGroupCommand.html" title=" " alt="" coords="735,333,919,358"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseGroupCommand.html" title=" " alt="" coords="235,169,415,194"/>
+<area shape="rect" id="node3" href="$interfaceSCR__BaseRadialCommand.html" title=" " alt="" coords="5,169,187,194"/>
+</map>

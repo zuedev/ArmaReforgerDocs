@@ -1,0 +1,8 @@
+<map id="BuoyancyComponentClass" name="BuoyancyComponentClass">
+<area shape="rect" id="node1" title=" " alt="" coords="159,79,338,104"/>
+<area shape="rect" id="node3" href="$interfaceCharacterBuoyancyComponentClass.html" title=" " alt="" coords="38,152,241,192"/>
+<area shape="rect" id="node5" href="$interfaceVehicleBuoyancyComponentClass.html" title=" " alt="" coords="273,152,462,192"/>
+<area shape="rect" id="node2" title=" " alt="" coords="165,5,332,31"/>
+<area shape="rect" id="node4" href="$interfaceSCR__CharacterBuoyancyComponentClass.html" title=" " alt="" coords="5,240,241,280"/>
+<area shape="rect" id="node6" href="$interfaceSCR__VehicleBuoyancyComponentClass.html" title=" " alt="" coords="265,240,488,280"/>
+</map>

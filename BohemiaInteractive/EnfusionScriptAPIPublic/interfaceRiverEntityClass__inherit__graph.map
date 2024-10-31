@@ -1,0 +1,6 @@
+<map id="RiverEntityClass" name="RiverEntityClass">
+<area shape="rect" id="node1" title=" " alt="" coords="35,225,152,251"/>
+<area shape="rect" id="node2" href="$interfaceGeneratorBaseEntityClass.html" title=" " alt="" coords="5,152,181,177"/>
+<area shape="rect" id="node3" href="$interfaceGenericEntityClass.html" title=" " alt="" coords="26,79,161,104"/>
+<area shape="rect" id="node4" href="$interfaceEntityPrefabData.html" title="Shared object with constant data for enf::EntitySource from prefab." alt="" coords="33,5,153,31"/>
+</map>

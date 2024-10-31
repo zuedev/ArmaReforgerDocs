@@ -1,0 +1,7 @@
+<map id="SCR_PlayerFactionAffiliationComponent" name="SCR_PlayerFactionAffiliationComponent">
+<area shape="rect" id="node1" title="This component should be attached to a PlayerController." alt="" coords="20,299,208,339"/>
+<area shape="rect" id="node2" href="$interfaceSCR__FactionAffiliationComponent.html" title=" " alt="" coords="5,225,223,251"/>
+<area shape="rect" id="node3" href="$interfaceFactionAffiliationComponent.html" title=" " alt="" coords="23,152,205,177"/>
+<area shape="rect" id="node4" href="$interfaceGameComponent.html" title=" " alt="" coords="53,79,175,104"/>
+<area shape="rect" id="node5" title=" " alt="" coords="47,5,181,31"/>
+</map>

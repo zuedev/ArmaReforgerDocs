@@ -1,0 +1,4 @@
+<map id="SCR_NotificationEditableEntityAndNumber" name="SCR_NotificationEditableEntityAndNumber">
+<area shape="rect" id="node1" title="Notification Player and number Displays a notification: %1 = Editable Entity name,..." alt="" coords="17,79,184,119"/>
+<area shape="rect" id="node2" href="$interfaceSCR__NotificationDisplayData.html" title="Used to get the display information for each notification." alt="" coords="5,5,196,31"/>
+</map>

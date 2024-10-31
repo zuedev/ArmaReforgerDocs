@@ -1,0 +1,4 @@
+<map id="LoadingAnim" name="LoadingAnim">
+<area shape="rect" id="node1" title="Interface for classes implementing animation or progress bar of the loading screen." alt="" coords="20,5,117,31"/>
+<area shape="rect" id="node2" href="$interfaceBaseLoadingAnim.html" title=" " alt="" coords="5,79,132,104"/>
+</map>

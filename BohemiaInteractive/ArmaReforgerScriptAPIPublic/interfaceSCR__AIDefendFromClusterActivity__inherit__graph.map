@@ -1,0 +1,9 @@
+<map id="SCR_AIDefendFromClusterActivity" name="SCR_AIDefendFromClusterActivity">
+<area shape="rect" id="node1" title=" " alt="" coords="5,445,227,471"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AIFireteamsClusterActivity.html" title="Class for activities which are assigned for some fireteams to do something with target cluster." alt="" coords="11,372,221,397"/>
+<area shape="rect" id="node3" href="$interfaceSCR__AIFireteamsActivity.html" title="Base class for all group activities which are related to fireteams." alt="" coords="32,299,200,324"/>
+<area shape="rect" id="node4" href="$interfaceSCR__AIActivityBase.html" title=" " alt="" coords="46,225,186,251"/>
+<area shape="rect" id="node5" href="$interfaceSCR__AIActionBase.html" title=" " alt="" coords="49,152,183,177"/>
+<area shape="rect" id="node6" href="$interfaceAIActionBase.html" title=" " alt="" coords="65,79,167,104"/>
+<area shape="rect" id="node7" title=" " alt="" coords="59,5,173,31"/>
+</map>

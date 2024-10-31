@@ -1,0 +1,5 @@
+<map id="PhysicsBallSocketJoint" name="PhysicsBallSocketJoint">
+<area shape="rect" id="node1" title="Ball socket joint simulation." alt="" coords="5,152,164,177"/>
+<area shape="rect" id="node2" href="$interfacePhysicsJoint.html" title="Wrapper over joint simulation." alt="" coords="37,79,133,104"/>
+<area shape="rect" id="node3" href="$interfacepointer.html" title="Plain C++ pointer, no weak pointers, no memory management." alt="" coords="54,5,115,31"/>
+</map>

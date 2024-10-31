@@ -1,0 +1,6 @@
+<map id="ForestGeneratorEntity" name="ForestGeneratorEntity">
+<area shape="rect" id="node1" title="A Forest Generator uses the following data:" alt="" coords="32,225,183,251"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AreaGeneratorBaseEntity.html" title="SCR_AreaGeneratorBaseEntity responsibilities:" alt="" coords="5,152,209,177"/>
+<area shape="rect" id="node3" href="$interfaceSCR__GeneratorBaseEntity.html" title="SCR_GeneratorBaseEntity responsibilities:" alt="" coords="19,79,196,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="36,5,179,31"/>
+</map>

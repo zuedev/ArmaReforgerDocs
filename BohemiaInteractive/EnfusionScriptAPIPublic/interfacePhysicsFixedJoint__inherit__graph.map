@@ -1,0 +1,5 @@
+<map id="PhysicsFixedJoint" name="PhysicsFixedJoint">
+<area shape="rect" id="node1" title="Fixed joint simulation." alt="" coords="5,152,133,177"/>
+<area shape="rect" id="node2" href="$interfacePhysicsJoint.html" title="Wrapper over joint simulation." alt="" coords="21,79,117,104"/>
+<area shape="rect" id="node3" href="$interfacepointer.html" title="Plain C++ pointer, no weak pointers, no memory management." alt="" coords="39,5,100,31"/>
+</map>

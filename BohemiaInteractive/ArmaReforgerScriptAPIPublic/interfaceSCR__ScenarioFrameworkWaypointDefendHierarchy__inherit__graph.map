@@ -1,0 +1,7 @@
+<map id="SCR_ScenarioFrameworkWaypointDefendHierarchy" name="SCR_ScenarioFrameworkWaypointDefendHierarchy">
+<area shape="rect" id="node1" title=" " alt="" coords="5,343,232,383"/>
+<area shape="rect" id="node2" href="$interfaceSCR__ScenarioFrameworkWaypointTimedDefend.html" title=" " alt="" coords="5,255,232,295"/>
+<area shape="rect" id="node3" href="$interfaceSCR__ScenarioFrameworkWaypointTimed.html" title=" " alt="" coords="5,167,232,207"/>
+<area shape="rect" id="node4" href="$interfaceSCR__ScenarioFrameworkWaypointScripted.html" title=" " alt="" coords="5,79,232,119"/>
+<area shape="rect" id="node5" href="$interfaceSCR__ScenarioFrameworkWaypoint.html" title=" " alt="" coords="5,5,232,31"/>
+</map>

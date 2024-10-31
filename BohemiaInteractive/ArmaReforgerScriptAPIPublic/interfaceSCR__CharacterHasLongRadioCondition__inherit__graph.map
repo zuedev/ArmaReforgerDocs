@@ -1,0 +1,4 @@
+<map id="SCR_CharacterHasLongRadioCondition" name="SCR_CharacterHasLongRadioCondition">
+<area shape="rect" id="node1" title="Returns true if character is transmiting with radio." alt="" coords="7,79,203,119"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AvailableActionCondition.html" title="A single available action condition representation." alt="" coords="5,5,204,31"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="JsonSaveContainer" name="JsonSaveContainer">
+<area shape="rect" id="node1" title="Container for saving data in json format." alt="" coords="43,313,175,339"/>
+<area shape="rect" id="node2" href="$interfaceBaseJsonSerializationSaveContainer.html" title="Container for saving data in json format IMPORTANT* This should never be instantiated,..." alt="" coords="19,225,198,265"/>
+<area shape="rect" id="node3" href="$interfaceBaseSerializationSaveContainer.html" title="Base class providing interface for save container." alt="" coords="5,152,212,177"/>
+<area shape="rect" id="node4" href="$interfaceBaseSerializationContainer.html" title="Base class for serialization containers." alt="" coords="19,79,198,104"/>
+<area shape="rect" id="node5" href="$interfaceManaged.html" title=" " alt="" coords="71,5,146,31"/>
+</map>

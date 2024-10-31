@@ -1,0 +1,7 @@
+<map id="CharacterCameraBinoculars" name="CharacterCameraBinoculars">
+<area shape="rect" id="node1" title=" " alt="" coords="5,299,189,324"/>
+<area shape="rect" id="node2" href="$interfaceCharacterCamera1stPerson.html" title=" " alt="" coords="6,225,189,251"/>
+<area shape="rect" id="node3" href="$interfaceCharacterCameraBase.html" title=" " alt="" coords="21,152,174,177"/>
+<area shape="rect" id="node4" href="$interfaceScriptedCameraItem.html" title=" " alt="" coords="27,79,167,104"/>
+<area shape="rect" id="node5" href="$interfaceBaseScriptedCameraItem.html" title=" " alt="" coords="12,5,183,31"/>
+</map>

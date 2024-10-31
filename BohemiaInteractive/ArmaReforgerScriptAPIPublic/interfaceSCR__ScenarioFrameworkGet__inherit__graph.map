@@ -1,0 +1,19 @@
+<map id="SCR_ScenarioFrameworkGet" name="SCR_ScenarioFrameworkGet">
+<area shape="rect" id="node1" title=" " alt="" coords="5,447,197,472"/>
+<area shape="rect" id="node2" href="$interfaceSCR__ScenarioFrameworkGetArea.html" title=" " alt="" coords="246,5,465,31"/>
+<area shape="rect" id="node3" href="$interfaceSCR__ScenarioFrameworkGetAreaTrigger.html" title=" " alt="" coords="259,55,451,95"/>
+<area shape="rect" id="node4" href="$interfaceSCR__ScenarioFrameworkGetArrayOfLayerBases.html" title=" " alt="" coords="259,119,451,159"/>
+<area shape="rect" id="node5" href="$interfaceSCR__ScenarioFrameworkGetArrayOfPlayers.html" title=" " alt="" coords="259,183,451,223"/>
+<area shape="rect" id="node6" href="$interfaceSCR__ScenarioFrameworkGetClosestPlayerEntity.html" title=" " alt="" coords="259,247,451,287"/>
+<area shape="rect" id="node7" href="$interfaceSCR__ScenarioFrameworkGetEntityByName.html" title=" " alt="" coords="259,311,451,351"/>
+<area shape="rect" id="node8" href="$interfaceSCR__ScenarioFrameworkGetLastFinishedTaskEnity.html" title=" " alt="" coords="259,375,451,415"/>
+<area shape="rect" id="node9" href="$interfaceSCR__ScenarioFrameworkGetLastFinishedTaskLayer.html" title=" " alt="" coords="259,439,451,479"/>
+<area shape="rect" id="node10" href="$interfaceSCR__ScenarioFrameworkGetLayerBase.html" title=" " alt="" coords="259,503,451,543"/>
+<area shape="rect" id="node11" href="$interfaceSCR__ScenarioFrameworkGetLayerTask.html" title=" " alt="" coords="259,567,451,607"/>
+<area shape="rect" id="node12" href="$interfaceSCR__ScenarioFrameworkGetListEntitiesInTrigger.html" title=" " alt="" coords="259,631,451,671"/>
+<area shape="rect" id="node14" href="$interfaceSCR__ScenarioFrameworkGetPlayerEntity.html" title=" " alt="" coords="259,695,451,735"/>
+<area shape="rect" id="node15" href="$interfaceSCR__ScenarioFrameworkGetRandomLayerBase.html" title=" " alt="" coords="259,759,451,799"/>
+<area shape="rect" id="node16" href="$interfaceSCR__ScenarioFrameworkGetSpawnedEntity.html" title=" " alt="" coords="259,823,451,863"/>
+<area shape="rect" id="node17" href="$interfaceSCR__ScenarioFrameworkGetTask.html" title=" " alt="" coords="245,888,465,913"/>
+<area shape="rect" id="node13" href="$interfaceSCR__ScenarioFrameworkGetCountEntitiesInTrigger.html" title=" " alt="" coords="513,631,705,671"/>
+</map>

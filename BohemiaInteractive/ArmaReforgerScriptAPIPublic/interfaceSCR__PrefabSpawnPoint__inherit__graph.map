@@ -1,0 +1,5 @@
+<map id="SCR_PrefabSpawnPoint" name="SCR_PrefabSpawnPoint">
+<area shape="rect" id="node1" title="Prefab Spawn Point Entity defines position where prefab can be spawned." alt="" coords="24,79,187,104"/>
+<area shape="rect" id="node3" href="$interfaceSCR__SectorPrefabSpawnPoint.html" title=" " alt="" coords="5,152,205,177"/>
+<area shape="rect" id="node2" title=" " alt="" coords="55,5,156,31"/>
+</map>

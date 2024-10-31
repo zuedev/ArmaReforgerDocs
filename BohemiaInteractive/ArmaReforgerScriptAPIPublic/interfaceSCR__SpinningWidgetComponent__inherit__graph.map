@@ -1,0 +1,4 @@
+<map id="SCR_SpinningWidgetComponent" name="SCR_SpinningWidgetComponent">
+<area shape="rect" id="node1" title="Spins the widget at constant speed when enabled." alt="" coords="5,79,219,104"/>
+<area shape="rect" id="node2" title=" " alt="" coords="23,5,201,31"/>
+</map>

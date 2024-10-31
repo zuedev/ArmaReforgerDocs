@@ -1,0 +1,12 @@
+<map id="SCR_GroupIdentityRule" name="SCR_GroupIdentityRule">
+<area shape="rect" id="node1" title=" " alt="" coords="5,117,164,142"/>
+<area shape="rect" id="node2" href="$interfaceSCR__GroupIdentityRuleAmplifier.html" title=" " alt="" coords="217,27,427,53"/>
+<area shape="rect" id="node4" href="$interfaceSCR__GroupIdentityRuleDimension.html" title=" " alt="" coords="212,91,432,117"/>
+<area shape="rect" id="node5" href="$interfaceSCR__GroupIdentityRuleIcon.html" title=" " alt="" coords="231,141,413,166"/>
+<area shape="rect" id="node9" href="$interfaceSCR__GroupIdentityRuleIdentity.html" title=" " alt="" coords="221,229,423,254"/>
+<area shape="rect" id="node3" href="$interfaceSCR__GroupIdentityRuleAmplifierCount.html" title=" " alt="" coords="480,5,689,45"/>
+<area shape="rect" id="node6" href="$interfaceSCR__GroupIdentityRuleIconLabel.html" title=" " alt="" coords="493,69,676,109"/>
+<area shape="rect" id="node7" href="$interfaceSCR__GroupIdentityRuleIconVehicle.html" title=" " alt="" coords="493,133,676,173"/>
+<area shape="rect" id="node8" href="$interfaceSCR__GroupIdentityRuleIconWeapon.html" title=" " alt="" coords="493,197,676,237"/>
+<area shape="rect" id="node10" href="$interfaceSCR__GroupIdentityRuleIdentityFaction.html" title=" " alt="" coords="484,261,685,301"/>
+</map>

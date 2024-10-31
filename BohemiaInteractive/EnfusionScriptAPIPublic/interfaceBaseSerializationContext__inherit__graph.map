@@ -1,0 +1,8 @@
+<map id="BaseSerializationContext" name="BaseSerializationContext">
+<area shape="rect" id="node1" title="Base class for serialization contexts." alt="" coords="129,79,297,104"/>
+<area shape="rect" id="node3" href="$interfaceBaseSerializationLoadContext.html" title="Base serialization context for loading data back to the game." alt="" coords="5,152,201,177"/>
+<area shape="rect" id="node5" href="$interfaceBaseSerializationSaveContext.html" title="Base serialization context for saving data from game." alt="" coords="225,152,421,177"/>
+<area shape="rect" id="node2" href="$interfaceManaged.html" title=" " alt="" coords="175,5,250,31"/>
+<area shape="rect" id="node4" href="$interfaceContainerSerializationLoadContext.html" title="Base serialization context for saving data to BaseSerializationSaveContainer based class." alt="" coords="15,225,191,265"/>
+<area shape="rect" id="node6" href="$interfaceContainerSerializationSaveContext.html" title="Base serialization context for saving data to BaseSerializationSaveContainer based class." alt="" coords="235,225,411,265"/>
+</map>

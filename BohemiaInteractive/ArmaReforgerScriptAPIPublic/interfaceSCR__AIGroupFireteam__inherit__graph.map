@@ -1,0 +1,7 @@
+<map id="SCR_AIGroupFireteam" name="SCR_AIGroupFireteam">
+<area shape="rect" id="node1" title="Fireteam base class Fireteam is like a collection of agents in a group." alt="" coords="144,79,299,104"/>
+<area shape="rect" id="node3" href="$interfaceSCR__AIGroupFireteamVehicleBase.html" title="Base class for fireteams dedicated to vehicle This class must not be instantiated!..." alt="" coords="108,152,335,177"/>
+<area shape="rect" id="node2" title=" " alt="" coords="184,5,259,31"/>
+<area shape="rect" id="node4" href="$interfaceSCR__AIGroupFireteamVehicleCargo.html" title="Fireteam for vehicle cargo." alt="" coords="5,225,203,265"/>
+<area shape="rect" id="node5" href="$interfaceSCR__AIGroupFireteamVehicleCrew.html" title="Fireteam for vehicle crew." alt="" coords="227,233,453,258"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="SCR_EditorCanEnterLayerActionCondition" name="SCR_EditorCanEnterLayerActionCondition">
+<area shape="rect" id="node1" title="Returns true if any hovered entity has children (returns false if not hovered entity)" alt="" coords="5,79,219,119"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AvailableActionCondition.html" title="A single available action condition representation." alt="" coords="13,5,211,31"/>
+</map>

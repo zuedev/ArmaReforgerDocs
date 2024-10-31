@@ -1,0 +1,8 @@
+<map id="SCR_AISuppressGroupClusterBehavior" name="SCR_AISuppressGroupClusterBehavior">
+<area shape="rect" id="node1" title=" " alt="" coords="5,372,204,412"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AISuppressBehavior.html" title="Behavior for AI suppressing an area." alt="" coords="19,299,191,324"/>
+<area shape="rect" id="node3" href="$interfaceSCR__AIBehaviorBase.html" title=" " alt="" coords="31,225,178,251"/>
+<area shape="rect" id="node4" href="$interfaceSCR__AIActionBase.html" title=" " alt="" coords="37,152,172,177"/>
+<area shape="rect" id="node5" href="$interfaceAIActionBase.html" title=" " alt="" coords="54,79,155,104"/>
+<area shape="rect" id="node6" title=" " alt="" coords="47,5,162,31"/>
+</map>

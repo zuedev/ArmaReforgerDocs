@@ -1,0 +1,6 @@
+<map id="SCR_SpawnData" name="SCR_SpawnData">
+<area shape="rect" id="node1" title="The most basic payload that can be derived and sent via SCR_SpawnRequestComponent to be handled by SC..." alt="" coords="203,5,326,31"/>
+<area shape="rect" id="node2" href="$interfaceSCR__FreeSpawnData.html" title=" " alt="" coords="5,79,153,104"/>
+<area shape="rect" id="node3" href="$interfaceSCR__PossessSpawnData.html" title=" " alt="" coords="178,79,351,104"/>
+<area shape="rect" id="node4" href="$interfaceSCR__SpawnPointSpawnData.html" title=" " alt="" coords="376,79,567,104"/>
+</map>

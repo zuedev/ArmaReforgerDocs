@@ -1,0 +1,4 @@
+<map id="SCR_LoopedPositionalSounds" name="SCR_LoopedPositionalSounds">
+<area shape="rect" id="node1" title="Handles looped sounds such as leaves rustles, or crickets played on entities close to camera." alt="" coords="5,79,204,104"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AmbientSoundsEffect.html" title=" " alt="" coords="14,5,195,31"/>
+</map>

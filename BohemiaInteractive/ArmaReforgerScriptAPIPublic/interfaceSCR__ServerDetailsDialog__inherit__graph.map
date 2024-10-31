@@ -1,0 +1,6 @@
+<map id="SCR_ServerDetailsDialog" name="SCR_ServerDetailsDialog">
+<area shape="rect" id="node1" title="Details with mod list to display all server mods." alt="" coords="10,225,178,251"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AddonListDialog.html" title="Shows a list of addons and some text." alt="" coords="19,152,169,177"/>
+<area shape="rect" id="node3" href="$interfaceSCR__ConfigurableDialogUi.html" title=" " alt="" coords="7,79,181,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,5,183,31"/>
+</map>

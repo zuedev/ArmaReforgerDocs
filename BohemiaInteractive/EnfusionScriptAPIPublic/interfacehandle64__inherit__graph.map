@@ -1,0 +1,5 @@
+<map id="handle64" name="handle64">
+<area shape="rect" id="node1" title="Plain 64bit data, no weak pointers, no memory management." alt="" coords="28,79,103,104"/>
+<area shape="rect" id="node3" href="$interfaceWorldTimestamp.html" title="Type storing timestamps of the world." alt="" coords="5,152,125,177"/>
+<area shape="rect" id="node2" href="$interfacepointer.html" title="Plain C++ pointer, no weak pointers, no memory management." alt="" coords="35,5,96,31"/>
+</map>

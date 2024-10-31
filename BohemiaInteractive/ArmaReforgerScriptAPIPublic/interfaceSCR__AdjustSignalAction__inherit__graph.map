@@ -1,0 +1,8 @@
+<map id="SCR_AdjustSignalAction" name="SCR_AdjustSignalAction">
+<area shape="rect" id="node1" title=" " alt="" coords="19,299,186,324"/>
+<area shape="rect" id="node6" href="$interfaceSCR__AdjustTimedFuzeAction.html" title=" " alt="" coords="5,372,200,397"/>
+<area shape="rect" id="node2" href="$interfaceScriptedSignalUserAction.html" title="This action will take care of the synchronization of the signal value." alt="" coords="17,225,188,251"/>
+<area shape="rect" id="node3" href="$interfaceScriptedUserAction.html" title=" " alt="" coords="35,152,170,177"/>
+<area shape="rect" id="node4" href="$interfaceBaseUserAction.html" title=" " alt="" coords="45,79,161,104"/>
+<area shape="rect" id="node5" title=" " alt="" coords="45,5,160,31"/>
+</map>

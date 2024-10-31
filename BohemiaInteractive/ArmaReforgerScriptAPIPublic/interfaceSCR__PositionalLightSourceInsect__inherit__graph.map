@@ -1,0 +1,4 @@
+<map id="SCR_PositionalLightSourceInsect" name="SCR_PositionalLightSourceInsect">
+<area shape="rect" id="node1" title="Handles insects that are supposed to be spawned around light sources defined in prefab names array." alt="" coords="5,79,188,119"/>
+<area shape="rect" id="node2" href="$interfaceSCR__PositionalInsectType.html" title="Base class that handles different insects based on their type." alt="" coords="9,5,185,31"/>
+</map>

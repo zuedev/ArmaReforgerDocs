@@ -1,0 +1,4 @@
+<map id="SCR_DebriefingScreenStatisticDistanceWalked" name="SCR_DebriefingScreenStatisticDistanceWalked">
+<area shape="rect" id="node1" title="Class that holds information and handles information about distance walked." alt="" coords="5,93,208,133"/>
+<area shape="rect" id="node2" href="$interfaceSCR__DebriefingScreenStatisticBaseClass.html" title="Base class that holds and handles information about statistic." alt="" coords="5,5,208,45"/>
+</map>

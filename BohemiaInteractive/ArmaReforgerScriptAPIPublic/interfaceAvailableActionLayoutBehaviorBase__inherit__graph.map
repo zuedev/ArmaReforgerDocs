@@ -1,0 +1,6 @@
+<map id="AvailableActionLayoutBehaviorBase" name="AvailableActionLayoutBehaviorBase">
+<area shape="rect" id="node1" title=" " alt="" coords="5,70,233,95"/>
+<area shape="rect" id="node2" href="$interfaceAvailableActionEditorLayoutBehavior.html" title=" " alt="" coords="289,5,472,45"/>
+<area shape="rect" id="node3" href="$interfaceAvailableActionLayoutBehavior.html" title="Variables that should be applied on available actions layout whenever given HUD is active." alt="" coords="281,70,480,95"/>
+<area shape="rect" id="node4" href="$interfaceAvailableActionMenuLayoutBehavior.html" title=" " alt="" coords="290,120,471,160"/>
+</map>

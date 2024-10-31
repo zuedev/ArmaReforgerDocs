@@ -1,0 +1,8 @@
+<map id="SCR_IncendiaryDamageEffect" name="SCR_IncendiaryDamageEffect">
+<area shape="rect" id="node1" title=" " alt="" coords="5,372,201,397"/>
+<area shape="rect" id="node2" href="$interfaceSCR__InstantDamageEffect.html" title=" " alt="" coords="15,299,191,324"/>
+<area shape="rect" id="node3" href="$interfaceInstantDamageEffect.html" title=" " alt="" coords="32,225,175,251"/>
+<area shape="rect" id="node4" href="$interfaceSCR__DamageEffect.html" title=" " alt="" coords="35,152,172,177"/>
+<area shape="rect" id="node5" href="$interfaceBaseDamageEffect.html" title=" " alt="" coords="37,79,170,104"/>
+<area shape="rect" id="node6" title=" " alt="" coords="46,5,161,31"/>
+</map>

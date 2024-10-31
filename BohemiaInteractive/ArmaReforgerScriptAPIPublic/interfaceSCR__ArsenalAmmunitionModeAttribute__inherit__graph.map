@@ -1,0 +1,5 @@
+<map id="SCR_ArsenalAmmunitionModeAttribute" name="SCR_ArsenalAmmunitionModeAttribute">
+<area shape="rect" id="node1" title=" " alt="" coords="5,167,207,207"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseFloatValueHolderEditorAttribute.html" title="Attribute base for Name, icon and float value for other attributes to inherent from." alt="" coords="13,79,199,119"/>
+<area shape="rect" id="node3" href="$interfaceSCR__BaseEditorAttribute.html" title="Base Attribute Script for other attributes to inherent from to get and set varriables in Editor Attri..." alt="" coords="21,5,191,31"/>
+</map>

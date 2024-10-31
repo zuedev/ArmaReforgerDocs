@@ -1,0 +1,5 @@
+<map id="MuzzleUIInfo" name="MuzzleUIInfo">
+<area shape="rect" id="node1" title="Forward declaration of UIInfo Serves as a container of data to be displayed on player UI." alt="" coords="15,152,111,177"/>
+<area shape="rect" id="node2" href="$interfaceUIInfo.html" title="UIInfo &#45; declare object, allows to define UI elements." alt="" coords="35,79,90,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,5,120,31"/>
+</map>

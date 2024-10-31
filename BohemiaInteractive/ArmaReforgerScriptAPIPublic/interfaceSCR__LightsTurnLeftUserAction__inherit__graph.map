@@ -1,0 +1,8 @@
+<map id="SCR_LightsTurnLeftUserAction" name="SCR_LightsTurnLeftUserAction">
+<area shape="rect" id="node1" title=" " alt="" coords="5,372,207,397"/>
+<area shape="rect" id="node2" href="$interfaceLightUserAction.html" title=" " alt="" coords="49,299,163,324"/>
+<area shape="rect" id="node3" href="$interfaceBaseLightUserAction.html" title=" " alt="" coords="34,225,178,251"/>
+<area shape="rect" id="node4" href="$interfaceScriptedUserAction.html" title=" " alt="" coords="39,152,173,177"/>
+<area shape="rect" id="node5" href="$interfaceBaseUserAction.html" title=" " alt="" coords="48,79,164,104"/>
+<area shape="rect" id="node6" title=" " alt="" coords="49,5,163,31"/>
+</map>

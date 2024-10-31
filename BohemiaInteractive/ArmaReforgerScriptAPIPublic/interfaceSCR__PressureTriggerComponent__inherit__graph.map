@@ -1,0 +1,8 @@
+<map id="SCR_PressureTriggerComponent" name="SCR_PressureTriggerComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="5,372,219,397"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseTriggerComponent.html" title=" " alt="" coords="17,299,207,324"/>
+<area shape="rect" id="node3" href="$interfaceBaseTriggerComponent.html" title=" " alt="" coords="33,225,191,251"/>
+<area shape="rect" id="node4" href="$interfaceBaseProjectileComponent.html" title=" " alt="" coords="26,152,198,177"/>
+<area shape="rect" id="node5" href="$interfaceGameComponent.html" title=" " alt="" coords="51,79,173,104"/>
+<area shape="rect" id="node6" title=" " alt="" coords="45,5,179,31"/>
+</map>

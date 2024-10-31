@@ -1,0 +1,8 @@
+<map id="SCR_CollisionDamageEffect" name="SCR_CollisionDamageEffect">
+<area shape="rect" id="node1" title=" " alt="" coords="5,372,192,397"/>
+<area shape="rect" id="node2" href="$interfaceSCR__InstantDamageEffect.html" title=" " alt="" coords="11,299,187,324"/>
+<area shape="rect" id="node3" href="$interfaceInstantDamageEffect.html" title=" " alt="" coords="27,225,170,251"/>
+<area shape="rect" id="node4" href="$interfaceSCR__DamageEffect.html" title=" " alt="" coords="30,152,167,177"/>
+<area shape="rect" id="node5" href="$interfaceBaseDamageEffect.html" title=" " alt="" coords="32,79,165,104"/>
+<area shape="rect" id="node6" title=" " alt="" coords="41,5,156,31"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="SCR_WidgetListEntryBoolSpinBox" name="SCR_WidgetListEntryBoolSpinBox">
+<area shape="rect" id="node1" title=" " alt="" coords="5,225,229,251"/>
+<area shape="rect" id="node2" href="$interfaceSCR__WidgetListEntrySpinBox.html" title="Configurable widget list entry selection specific for spinbox." alt="" coords="18,152,217,177"/>
+<area shape="rect" id="node3" href="$interfaceSCR__WidgetListEntrySelection.html" title="Configurable widget list entry list selection." alt="" coords="16,79,219,104"/>
+<area shape="rect" id="node4" href="$interfaceSCR__WidgetListEntry.html" title="Configurable class for widget." alt="" coords="43,5,192,31"/>
+</map>

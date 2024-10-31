@@ -1,0 +1,7 @@
+<map id="SCR_RespawnTimerComponentClass" name="SCR_RespawnTimerComponentClass">
+<area shape="rect" id="node1" title=" " alt="" coords="143,167,350,207"/>
+<area shape="rect" id="node4" href="$interfaceSCR__TimedSpawnPointComponentClass.html" title=" " alt="" coords="5,255,232,295"/>
+<area shape="rect" id="node5" href="$interfaceSCR__WaveRespawnTimerComponentClass.html" title=" " alt="" coords="257,255,495,295"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseGameModeComponentClass.html" title=" " alt="" coords="137,79,356,119"/>
+<area shape="rect" id="node3" title=" " alt="" coords="169,5,324,31"/>
+</map>

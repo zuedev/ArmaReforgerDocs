@@ -1,0 +1,13 @@
+<map id="SCR_AIMessageInfo" name="SCR_AIMessageInfo">
+<area shape="rect" id="node1" title=" " alt="" coords="339,153,480,179"/>
+<area shape="rect" id="node4" href="$interfaceSCR__AIMessage__ActionFailed.html" title=" " alt="" coords="531,5,731,31"/>
+<area shape="rect" id="node5" href="$interfaceSCR__AIMessage__FoundCorpse.html" title=" " alt="" coords="528,55,733,80"/>
+<area shape="rect" id="node7" href="$interfaceSCR__AIMessage__HealFailed.html" title=" " alt="" coords="536,104,725,129"/>
+<area shape="rect" id="node8" href="$interfaceSCR__AIMessage__NoAmmo.html" title=" " alt="" coords="539,153,722,179"/>
+<area shape="rect" id="node9" href="$interfaceSCR__AIMessage__SitRep.html" title=" " alt="" coords="547,203,714,228"/>
+<area shape="rect" id="node10" href="$interfaceSCR__AIMessage__Target.html" title=" " alt="" coords="549,252,713,277"/>
+<area shape="rect" id="node11" href="$interfaceSCR__AIMessage__UnderFire.html" title=" " alt="" coords="539,301,723,327"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AIMessageBase.html" title=" " alt="" coords="140,153,291,179"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,153,92,179"/>
+<area shape="rect" id="node6" href="$interfaceSCR__AIMessage__Wounded.html" title=" " alt="" coords="781,55,964,80"/>
+</map>

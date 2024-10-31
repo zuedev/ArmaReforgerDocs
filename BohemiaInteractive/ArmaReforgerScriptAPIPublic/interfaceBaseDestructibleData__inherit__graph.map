@@ -1,0 +1,5 @@
+<map id="BaseDestructibleData" name="BaseDestructibleData">
+<area shape="rect" id="node1" title=" " alt="" coords="6,79,154,104"/>
+<area shape="rect" id="node3" href="$interfaceSCR__DestructionData.html" title=" " alt="" coords="5,152,155,177"/>
+<area shape="rect" id="node2" title=" " alt="" coords="43,5,117,31"/>
+</map>

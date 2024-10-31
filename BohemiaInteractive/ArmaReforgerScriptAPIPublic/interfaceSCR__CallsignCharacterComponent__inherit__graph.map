@@ -1,0 +1,5 @@
+<map id="SCR_CallsignCharacterComponent" name="SCR_CallsignCharacterComponent">
+<area shape="rect" id="node1" title="Component of assigning and storing squad names." alt="" coords="5,152,229,177"/>
+<area shape="rect" id="node2" href="$interfaceSCR__CallsignBaseComponent.html" title="Component of assigning and storing squad names." alt="" coords="18,79,217,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="56,5,179,31"/>
+</map>

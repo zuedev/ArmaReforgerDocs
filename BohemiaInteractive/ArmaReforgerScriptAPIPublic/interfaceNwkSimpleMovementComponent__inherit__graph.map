@@ -1,0 +1,6 @@
+<map id="NwkSimpleMovementComponent" name="NwkSimpleMovementComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="5,225,217,251"/>
+<area shape="rect" id="node2" href="$interfaceNwkMovementComponent.html" title="Base class for entity replication &#45; e.g. vehicles, characters, animals." alt="" coords="25,152,197,177"/>
+<area shape="rect" id="node3" href="$interfaceGameComponent.html" title=" " alt="" coords="50,79,173,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="45,5,178,31"/>
+</map>

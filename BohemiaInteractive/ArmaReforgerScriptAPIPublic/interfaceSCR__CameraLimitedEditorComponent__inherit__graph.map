@@ -1,0 +1,6 @@
+<map id="SCR_CameraLimitedEditorComponent" name="SCR_CameraLimitedEditorComponent">
+<area shape="rect" id="node1" title="Limited version of camera manager." alt="" coords="5,225,248,251"/>
+<area shape="rect" id="node2" href="$interfaceSCR__CameraEditorComponent.html" title=" " alt="" coords="26,152,227,177"/>
+<area shape="rect" id="node3" href="$interfaceSCR__BaseEditorComponent.html" title="Base class for editor components." alt="" coords="33,79,220,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="65,5,188,31"/>
+</map>

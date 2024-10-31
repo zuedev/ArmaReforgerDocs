@@ -1,0 +1,6 @@
+<map id="SCR_DSSessionCallback" name="SCR_DSSessionCallback">
+<area shape="rect" id="node1" title="Callback for easy handling of world saving and loading." alt="" coords="165,79,336,104"/>
+<area shape="rect" id="node3" href="$interfaceSCR__DisposableDSSessionCallback.html" title=" " alt="" coords="5,152,240,177"/>
+<area shape="rect" id="node4" href="$interfaceSCR__NumberedDSSessionCallback.html" title=" " alt="" coords="265,152,495,177"/>
+<area shape="rect" id="node2" title=" " alt="" coords="182,5,319,31"/>
+</map>

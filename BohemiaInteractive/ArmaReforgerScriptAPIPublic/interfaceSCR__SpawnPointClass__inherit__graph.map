@@ -1,0 +1,12 @@
+<map id="SCR_SpawnPointClass" name="SCR_SpawnPointClass">
+<area shape="rect" id="node1" title=" " alt="" coords="372,106,531,131"/>
+<area shape="rect" id="node4" href="$interfaceSCR__CampaignSpawnPointGroupClass.html" title=" " alt="" coords="579,5,797,45"/>
+<area shape="rect" id="node5" href="$interfaceSCR__DeployableSpawnPointClass.html" title=" " alt="" coords="593,69,783,109"/>
+<area shape="rect" id="node7" href="$interfaceSCR__PlayerSpawnPointClass.html" title=" " alt="" coords="591,134,785,159"/>
+<area shape="rect" id="node10" href="$interfaceSCR__RadioVehicleSpawnPointClass.html" title=" " alt="" coords="587,184,789,224"/>
+<area shape="rect" id="node2" href="$interfaceSCR__PositionClass.html" title=" " alt="" coords="188,106,324,131"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,106,140,131"/>
+<area shape="rect" id="node6" href="$interfaceSCR__RestrictedDeployableSpawnPointClass.html" title=" " alt="" coords="853,67,1032,107"/>
+<area shape="rect" id="node8" href="$interfaceSCR__PlayerRadioSpawnPointClass.html" title=" " alt="" coords="845,131,1040,171"/>
+<area shape="rect" id="node9" href="$interfaceSCR__PlayerRadioSpawnPointCampaignClass.html" title=" " alt="" coords="1088,131,1283,171"/>
+</map>

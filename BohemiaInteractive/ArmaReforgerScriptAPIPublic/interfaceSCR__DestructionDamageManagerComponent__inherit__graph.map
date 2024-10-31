@@ -1,0 +1,11 @@
+<map id="SCR_DestructionDamageManagerComponent" name="SCR_DestructionDamageManagerComponent">
+<area shape="rect" id="node1" title="Base destruction component, destruction types extend from this." alt="" coords="125,372,345,412"/>
+<area shape="rect" id="node7" href="$interfaceSCR__DestructionFractalComponent.html" title="Fractal destruction component. For objects that should shatter/splinter etc." alt="" coords="5,467,233,493"/>
+<area shape="rect" id="node8" href="$interfaceSCR__DestructionMultiPhaseComponent.html" title="Multi&#45;Phase destruction component, for objects that go through several destruction states." alt="" coords="258,460,445,500"/>
+<area shape="rect" id="node2" href="$interfaceSCR__DamageManagerComponent.html" title=" " alt="" coords="125,299,345,324"/>
+<area shape="rect" id="node3" href="$interfaceDamageManagerComponent.html" title=" " alt="" coords="142,225,329,251"/>
+<area shape="rect" id="node4" href="$interfaceHitZoneContainerComponent.html" title=" " alt="" coords="142,152,329,177"/>
+<area shape="rect" id="node5" href="$interfaceGameComponent.html" title=" " alt="" coords="174,79,297,104"/>
+<area shape="rect" id="node6" title=" " alt="" coords="169,5,302,31"/>
+<area shape="rect" id="node9" href="$interfaceSCR__DestructionTireComponent.html" title="Tire destruction component, for destruction and deformation of tires." alt="" coords="247,548,456,573"/>
+</map>

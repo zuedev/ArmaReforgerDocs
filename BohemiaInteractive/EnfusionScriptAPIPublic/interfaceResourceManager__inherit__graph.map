@@ -1,0 +1,5 @@
+<map id="ResourceManager" name="ResourceManager">
+<area shape="rect" id="node1" title=" " alt="" coords="5,152,132,177"/>
+<area shape="rect" id="node2" href="$interfaceWBModuleDef.html" title=" " alt="" coords="16,79,121,104"/>
+<area shape="rect" id="node3" href="$interfacepointer.html" title="Plain C++ pointer, no weak pointers, no memory management." alt="" coords="38,5,99,31"/>
+</map>

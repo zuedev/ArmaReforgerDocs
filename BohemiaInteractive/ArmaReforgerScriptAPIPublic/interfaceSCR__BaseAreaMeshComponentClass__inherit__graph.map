@@ -1,0 +1,13 @@
+<map id="SCR_BaseAreaMeshComponentClass" name="SCR_BaseAreaMeshComponentClass">
+<area shape="rect" id="node1" title=" " alt="" coords="208,229,419,269"/>
+<area shape="rect" id="node3" href="$interfaceSCR__CapturePointAreaMeshComponentClass.html" title=" " alt="" coords="497,5,687,45"/>
+<area shape="rect" id="node4" href="$interfaceSCR__CustomAreaMeshComponentClass.html" title=" " alt="" coords="479,69,705,109"/>
+<area shape="rect" id="node5" href="$interfaceSCR__MilitaryBaseAreaMeshComponentClass.html" title=" " alt="" coords="499,133,685,173"/>
+<area shape="rect" id="node6" href="$interfaceSCR__SpawnPointAreaMeshComponentClass.html" title=" " alt="" coords="467,197,717,237"/>
+<area shape="rect" id="node7" href="$interfaceSCR__SupportStationAreaMeshComponentClass.html" title=" " alt="" coords="491,261,693,301"/>
+<area shape="rect" id="node8" href="$interfaceSCR__TriggerAreaMeshComponentClass.html" title=" " alt="" coords="482,325,702,365"/>
+<area shape="rect" id="node10" href="$interfaceSCR__WaypointAreaMeshComponentClass.html" title=" " alt="" coords="474,389,710,429"/>
+<area shape="rect" id="node11" href="$interfaceSCR__ZoneRestrictionAreaMeshComponentClass.html" title=" " alt="" coords="489,453,695,493"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,237,160,262"/>
+<area shape="rect" id="node9" href="$interfaceSCR__CampaignBuildingAreaMeshComponentClass.html" title=" " alt="" coords="765,325,952,365"/>
+</map>

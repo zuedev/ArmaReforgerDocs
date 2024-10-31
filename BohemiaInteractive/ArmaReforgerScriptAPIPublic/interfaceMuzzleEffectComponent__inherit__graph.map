@@ -1,0 +1,8 @@
+<map id="MuzzleEffectComponent" name="MuzzleEffectComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="134,225,297,251"/>
+<area shape="rect" id="node5" href="$interfaceCaseEjectingEffectComponent.html" title=" " alt="" coords="5,299,204,324"/>
+<area shape="rect" id="node6" href="$interfaceSCR__MuzzleEffectComponent.html" title=" " alt="" coords="229,299,426,324"/>
+<area shape="rect" id="node2" href="$interfaceBaseEffectComponent.html" title=" " alt="" coords="140,152,291,177"/>
+<area shape="rect" id="node3" href="$interfaceGameComponent.html" title=" " alt="" coords="154,79,277,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="149,5,282,31"/>
+</map>

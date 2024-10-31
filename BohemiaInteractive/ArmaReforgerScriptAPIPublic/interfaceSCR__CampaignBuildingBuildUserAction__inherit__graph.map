@@ -1,0 +1,7 @@
+<map id="SCR_CampaignBuildingBuildUserAction" name="SCR_CampaignBuildingBuildUserAction">
+<area shape="rect" id="node1" title=" " alt="" coords="5,299,195,339"/>
+<area shape="rect" id="node2" href="$interfaceSCR__ScriptedUserAction.html" title="A scripted action class having optional logic to check if vehicle is valid." alt="" coords="16,225,184,251"/>
+<area shape="rect" id="node3" href="$interfaceScriptedUserAction.html" title=" " alt="" coords="33,152,167,177"/>
+<area shape="rect" id="node4" href="$interfaceBaseUserAction.html" title=" " alt="" coords="42,79,158,104"/>
+<area shape="rect" id="node5" title=" " alt="" coords="43,5,157,31"/>
+</map>

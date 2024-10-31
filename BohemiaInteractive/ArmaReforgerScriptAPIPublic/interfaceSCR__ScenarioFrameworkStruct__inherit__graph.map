@@ -1,0 +1,5 @@
+<map id="SCR_ScenarioFrameworkStruct" name="SCR_ScenarioFrameworkStruct">
+<area shape="rect" id="node1" title=" " alt="" coords="5,152,212,177"/>
+<area shape="rect" id="node2" href="$interfaceSCR__JsonApiStruct.html" title="Base struct for use in SCR_DSSessionCallback." alt="" coords="40,79,177,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="57,5,160,31"/>
+</map>

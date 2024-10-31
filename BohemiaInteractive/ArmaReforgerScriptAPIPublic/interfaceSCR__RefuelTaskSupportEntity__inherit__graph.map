@@ -1,0 +1,6 @@
+<map id="SCR_RefuelTaskSupportEntity" name="SCR_RefuelTaskSupportEntity">
+<area shape="rect" id="node1" title=" " alt="" coords="5,240,204,265"/>
+<area shape="rect" id="node2" href="$interfaceSCR__RequestedTaskSupportEntity.html" title=" " alt="" coords="9,152,200,192"/>
+<area shape="rect" id="node3" href="$interfaceSCR__BaseTaskSupportEntity.html" title=" " alt="" coords="8,79,201,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="54,5,155,31"/>
+</map>

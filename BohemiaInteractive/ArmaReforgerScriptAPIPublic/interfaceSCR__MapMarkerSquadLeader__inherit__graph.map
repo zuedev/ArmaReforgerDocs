@@ -1,0 +1,5 @@
+<map id="SCR_MapMarkerSquadLeader" name="SCR_MapMarkerSquadLeader">
+<area shape="rect" id="node1" title="Dynamic map marker &#45;&gt; squad leader." alt="" coords="5,152,203,177"/>
+<area shape="rect" id="node2" href="$interfaceSCR__MapMarkerEntity.html" title="Dynamic map marker entity base class Spawned by marker manager when creating a dynamic marker &#45;&gt; see ..." alt="" coords="27,79,181,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="53,5,155,31"/>
+</map>

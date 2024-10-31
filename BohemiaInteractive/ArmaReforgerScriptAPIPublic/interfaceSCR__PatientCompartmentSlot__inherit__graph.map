@@ -1,0 +1,7 @@
+<map id="SCR_PatientCompartmentSlot" name="SCR_PatientCompartmentSlot">
+<area shape="rect" id="node1" title=" " alt="" coords="5,299,204,324"/>
+<area shape="rect" id="node2" href="$interfaceCargoCompartmentSlot.html" title=" " alt="" coords="26,225,183,251"/>
+<area shape="rect" id="node3" href="$interfaceBaseCompartmentSlot.html" title=" " alt="" coords="28,152,181,177"/>
+<area shape="rect" id="node4" href="$interfaceExtBaseCompartmentSlot.html" title=" " alt="" coords="18,79,191,104"/>
+<area shape="rect" id="node5" title=" " alt="" coords="47,5,162,31"/>
+</map>

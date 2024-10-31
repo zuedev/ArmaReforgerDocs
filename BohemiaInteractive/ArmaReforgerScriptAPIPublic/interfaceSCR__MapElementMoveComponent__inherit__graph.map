@@ -1,0 +1,4 @@
+<map id="SCR_MapElementMoveComponent" name="SCR_MapElementMoveComponent">
+<area shape="rect" id="node1" title="Attach this component to a widget in a map layout to configure interactions." alt="" coords="5,79,231,104"/>
+<area shape="rect" id="node2" title=" " alt="" coords="29,5,207,31"/>
+</map>

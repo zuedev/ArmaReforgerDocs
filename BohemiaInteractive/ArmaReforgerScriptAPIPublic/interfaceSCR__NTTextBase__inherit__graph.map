@@ -1,0 +1,6 @@
+<map id="SCR_NTTextBase" name="SCR_NTTextBase">
+<area shape="rect" id="node1" title="Base nametag element for text." alt="" coords="67,79,194,104"/>
+<area shape="rect" id="node3" href="$interfaceSCR__NTName.html" title="Nametag element for name text." alt="" coords="5,152,112,177"/>
+<area shape="rect" id="node4" href="$interfaceSCR__NTTextDebug.html" title="Nametag element for distance debug text." alt="" coords="137,152,271,177"/>
+<area shape="rect" id="node2" href="$interfaceSCR__NTElementBase.html" title="Nametag zone element base class, not for setup." alt="" coords="55,5,206,31"/>
+</map>

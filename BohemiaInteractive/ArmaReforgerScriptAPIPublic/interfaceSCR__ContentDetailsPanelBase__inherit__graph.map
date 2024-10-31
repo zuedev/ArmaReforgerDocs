@@ -1,0 +1,8 @@
+<map id="SCR_ContentDetailsPanelBase" name="SCR_ContentDetailsPanelBase">
+<area shape="rect" id="node1" title=" " alt="" coords="134,152,338,177"/>
+<area shape="rect" id="node4" href="$interfaceSCR__AddonDetailsPanelComponent.html" title=" " alt="" coords="5,233,237,258"/>
+<area shape="rect" id="node5" href="$interfaceSCR__ScenarioDetailsPanelComponent.html" title=" " alt="" coords="262,225,442,265"/>
+<area shape="rect" id="node2" href="$interfaceSCR__ScriptedWidgetComponent.html" title=" " alt="" coords="131,79,341,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="147,5,325,31"/>
+<area shape="rect" id="node6" href="$interfaceSCR__ServerScenarioDetailsPanelComponent.html" title=" " alt="" coords="261,313,443,353"/>
+</map>

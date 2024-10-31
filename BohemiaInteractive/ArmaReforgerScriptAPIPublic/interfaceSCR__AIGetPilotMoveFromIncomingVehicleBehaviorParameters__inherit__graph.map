@@ -1,0 +1,6 @@
+<map id="SCR_AIGetPilotMoveFromIncomingVehicleBehaviorParameters" name="SCR_AIGetPilotMoveFromIncomingVehicleBehaviorParameters">
+<area shape="rect" id="node1" title=" " alt="" coords="5,225,232,265"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AIGetActionParameters.html" title="Base class of node which outputs action parameters to Behavior Tree variables." alt="" coords="22,152,215,177"/>
+<area shape="rect" id="node3" href="$interfaceSCR__AIActionTask.html" title=" " alt="" coords="52,79,185,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="63,5,174,31"/>
+</map>

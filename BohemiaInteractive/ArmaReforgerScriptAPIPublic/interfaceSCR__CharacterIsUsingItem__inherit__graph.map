@@ -1,0 +1,4 @@
+<map id="SCR_CharacterIsUsingItem" name="SCR_CharacterIsUsingItem">
+<area shape="rect" id="node1" title="Returns true if character has provided gadget in their inventory Set m_eConsumableType to filter for ..." alt="" coords="15,79,195,104"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AvailableActionCondition.html" title="A single available action condition representation." alt="" coords="5,5,204,31"/>
+</map>

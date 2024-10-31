@@ -1,0 +1,5 @@
+<map id="SCR_ArsenalInventorySlotUI" name="SCR_ArsenalInventorySlotUI">
+<area shape="rect" id="node1" title=" " alt="" coords="5,152,192,177"/>
+<area shape="rect" id="node2" href="$interfaceSCR__InventorySlotUI.html" title="UI Script Inventory Slot UI Layout." alt="" coords="27,79,170,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="10,5,187,31"/>
+</map>

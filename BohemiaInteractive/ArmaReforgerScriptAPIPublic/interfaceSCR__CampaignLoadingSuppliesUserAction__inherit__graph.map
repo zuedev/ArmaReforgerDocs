@@ -1,0 +1,6 @@
+<map id="SCR_CampaignLoadingSuppliesUserAction" name="SCR_CampaignLoadingSuppliesUserAction">
+<area shape="rect" id="node1" title=" " alt="" coords="5,225,215,265"/>
+<area shape="rect" id="node2" href="$interfaceScriptedUserAction.html" title=" " alt="" coords="43,152,177,177"/>
+<area shape="rect" id="node3" href="$interfaceBaseUserAction.html" title=" " alt="" coords="52,79,168,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="53,5,167,31"/>
+</map>

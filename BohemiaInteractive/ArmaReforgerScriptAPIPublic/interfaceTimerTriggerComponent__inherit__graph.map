@@ -1,0 +1,7 @@
+<map id="TimerTriggerComponent" name="TimerTriggerComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="12,299,171,324"/>
+<area shape="rect" id="node2" href="$interfaceBaseTriggerComponent.html" title=" " alt="" coords="13,225,170,251"/>
+<area shape="rect" id="node3" href="$interfaceBaseProjectileComponent.html" title=" " alt="" coords="5,152,177,177"/>
+<area shape="rect" id="node4" href="$interfaceGameComponent.html" title=" " alt="" coords="30,79,153,104"/>
+<area shape="rect" id="node5" title=" " alt="" coords="25,5,158,31"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="SCR_AIOrder_Stance" name="SCR_AIOrder_Stance">
+<area shape="rect" id="node1" title=" " alt="" coords="5,152,153,177"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AIOrderBase.html" title=" " alt="" coords="14,79,145,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="46,5,113,31"/>
+</map>

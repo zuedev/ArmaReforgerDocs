@@ -1,0 +1,6 @@
+<map id="MessageBox" name="MessageBox">
+<area shape="rect" id="node1" title=" " alt="" coords="49,225,148,251"/>
+<area shape="rect" id="node2" href="$interfaceMenuBase.html" title="Base class for menus in menu manager order callbacks call: opening: 1) OnMenuInit &#45; called during loa..." alt="" coords="57,152,141,177"/>
+<area shape="rect" id="node3" href="$interfaceScriptedWidgetEventHandler.html" title=" " alt="" coords="5,79,192,104"/>
+<area shape="rect" id="node4" href="$interfaceManaged.html" title=" " alt="" coords="61,5,136,31"/>
+</map>

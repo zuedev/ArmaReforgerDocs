@@ -1,0 +1,6 @@
+<map id="SCR_InputActionUIInfo" name="SCR_InputActionUIInfo">
+<area shape="rect" id="node1" title=" " alt="" coords="5,225,159,251"/>
+<area shape="rect" id="node2" href="$interfaceSCR__UIInfo.html" title="Class used to hold UI information." alt="" coords="38,152,126,177"/>
+<area shape="rect" id="node3" href="$interfaceSCR__UIDescription.html" title="Class used to hold UI name and description." alt="" coords="15,79,149,104"/>
+<area shape="rect" id="node4" href="$interfaceSCR__UIName.html" title="Class used to hold UI name." alt="" coords="31,5,133,31"/>
+</map>

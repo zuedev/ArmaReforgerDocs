@@ -1,0 +1,7 @@
+<map id="BaseTransceiver" name="BaseTransceiver">
+<area shape="rect" id="node1" title=" " alt="" coords="169,79,286,104"/>
+<area shape="rect" id="node3" href="$interfaceIntercomTransceiver.html" title=" " alt="" coords="5,152,143,177"/>
+<area shape="rect" id="node4" href="$interfaceRadioTransceiver.html" title=" " alt="" coords="167,152,287,177"/>
+<area shape="rect" id="node5" href="$interfaceRelayTransceiver.html" title=" " alt="" coords="311,152,431,177"/>
+<area shape="rect" id="node2" title=" " alt="" coords="170,5,285,31"/>
+</map>

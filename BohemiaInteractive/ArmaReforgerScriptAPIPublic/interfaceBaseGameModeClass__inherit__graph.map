@@ -1,0 +1,10 @@
+<map id="BaseGameModeClass" name="BaseGameModeClass">
+<area shape="rect" id="node1" title=" " alt="" coords="188,104,340,129"/>
+<area shape="rect" id="node3" href="$interfaceSCR__BaseGameModeClass.html" title=" " alt="" coords="388,104,575,129"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,104,140,129"/>
+<area shape="rect" id="node4" href="$interfaceSCR__GameModeCampaignClass.html" title=" " alt="" coords="629,5,844,31"/>
+<area shape="rect" id="node5" href="$interfaceSCR__GameModeCleanSweepClass.html" title=" " alt="" coords="623,55,851,80"/>
+<area shape="rect" id="node6" href="$interfaceSCR__GameModeEditorClass.html" title=" " alt="" coords="641,104,832,129"/>
+<area shape="rect" id="node7" href="$interfaceSCR__GameModeLastStandClass.html" title=" " alt="" coords="629,153,844,179"/>
+<area shape="rect" id="node8" href="$interfaceSCR__GameModeSectorControlClass.html" title=" " alt="" coords="635,203,838,243"/>
+</map>

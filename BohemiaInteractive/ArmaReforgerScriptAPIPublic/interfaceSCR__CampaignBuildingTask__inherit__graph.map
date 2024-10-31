@@ -1,0 +1,6 @@
+<map id="SCR_CampaignBuildingTask" name="SCR_CampaignBuildingTask">
+<area shape="rect" id="node1" title=" " alt="" coords="5,225,193,251"/>
+<area shape="rect" id="node2" href="$interfaceSCR__CampaignBaseTask.html" title="This class is meant to be inherited." alt="" coords="13,152,185,177"/>
+<area shape="rect" id="node3" href="$interfaceSCR__BaseTask.html" title="A base class for tasks." alt="" coords="42,79,157,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="49,5,150,31"/>
+</map>

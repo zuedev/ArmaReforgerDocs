@@ -1,0 +1,5 @@
+<map id="SCR_TipBlockUIName" name="SCR_TipBlockUIName">
+<area shape="rect" id="node1" title=" " alt="" coords="9,152,161,177"/>
+<area shape="rect" id="node2" href="$interfaceSCR__SubBlockUIName.html" title=" " alt="" coords="5,79,164,104"/>
+<area shape="rect" id="node3" href="$interfaceSCR__UIName.html" title="Class used to hold UI name." alt="" coords="33,5,136,31"/>
+</map>

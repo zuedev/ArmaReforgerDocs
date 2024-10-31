@@ -1,0 +1,5 @@
+<map id="SCR_NotificationPlayerAndAproxNumber" name="SCR_NotificationPlayerAndAproxNumber">
+<area shape="rect" id="node1" title="Notification Player name and aprox number Displays a specific text if the given number is between giv..." alt="" coords="15,152,195,192"/>
+<area shape="rect" id="node2" href="$interfaceSCR__NotificationAproxNumber.html" title="Notification aprox number Displays a specific text if the given number is between given min and max S..." alt="" coords="5,79,204,104"/>
+<area shape="rect" id="node3" href="$interfaceSCR__NotificationDisplayData.html" title="Used to get the display information for each notification." alt="" coords="9,5,200,31"/>
+</map>

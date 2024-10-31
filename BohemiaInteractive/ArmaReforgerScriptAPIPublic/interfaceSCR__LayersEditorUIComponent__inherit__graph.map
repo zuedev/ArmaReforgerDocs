@@ -1,0 +1,6 @@
+<map id="SCR_LayersEditorUIComponent" name="SCR_LayersEditorUIComponent">
+<area shape="rect" id="node1" title="Creates the elements for the layer Ui menu If a Layer is selected this menu will show which layer is ..." alt="" coords="5,225,212,251"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseEditorUIComponent.html" title=" " alt="" coords="9,152,208,177"/>
+<area shape="rect" id="node3" href="$interfaceMenuRootSubComponent.html" title="Widget component which is linked to menu it&#39;s part of." alt="" coords="23,79,194,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="20,5,197,31"/>
+</map>

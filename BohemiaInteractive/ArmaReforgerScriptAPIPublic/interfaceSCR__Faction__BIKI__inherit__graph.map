@@ -1,0 +1,7 @@
+<map id="SCR_Faction_BIKI" name="SCR_Faction_BIKI">
+<area shape="rect" id="node1" title=" " alt="" coords="5,299,136,324"/>
+<area shape="rect" id="node2" href="$interfaceSCR__Faction.html" title=" " alt="" coords="21,225,120,251"/>
+<area shape="rect" id="node3" href="$interfaceScriptedFaction.html" title=" " alt="" coords="14,152,127,177"/>
+<area shape="rect" id="node4" href="$interfaceFaction.html" title=" " alt="" coords="38,79,103,104"/>
+<area shape="rect" id="node5" title=" " alt="" coords="13,5,128,31"/>
+</map>

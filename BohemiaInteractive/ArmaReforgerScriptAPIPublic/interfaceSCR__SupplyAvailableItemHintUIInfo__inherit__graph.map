@@ -1,0 +1,9 @@
+<map id="SCR_SupplyAvailableItemHintUIInfo" name="SCR_SupplyAvailableItemHintUIInfo">
+<area shape="rect" id="node1" title=" " alt="" coords="11,445,206,485"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseSupplyItemHintUIInfo.html" title=" " alt="" coords="5,372,212,397"/>
+<area shape="rect" id="node3" href="$interfaceSCR__InventoryItemHintUIInfo.html" title=" " alt="" coords="15,299,202,324"/>
+<area shape="rect" id="node4" href="$interfaceSCR__ColorUIInfo.html" title=" " alt="" coords="49,225,168,251"/>
+<area shape="rect" id="node5" href="$interfaceSCR__UIInfo.html" title="Class used to hold UI information." alt="" coords="65,152,153,177"/>
+<area shape="rect" id="node6" href="$interfaceSCR__UIDescription.html" title="Class used to hold UI name and description." alt="" coords="42,79,175,104"/>
+<area shape="rect" id="node7" href="$interfaceSCR__UIName.html" title="Class used to hold UI name." alt="" coords="57,5,160,31"/>
+</map>

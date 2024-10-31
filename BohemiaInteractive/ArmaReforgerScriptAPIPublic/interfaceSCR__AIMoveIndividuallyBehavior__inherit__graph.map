@@ -1,0 +1,8 @@
+<map id="SCR_AIMoveIndividuallyBehavior" name="SCR_AIMoveIndividuallyBehavior">
+<area shape="rect" id="node1" title=" " alt="" coords="5,372,215,397"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AIMoveBehaviorBase.html" title=" " alt="" coords="21,299,199,324"/>
+<area shape="rect" id="node3" href="$interfaceSCR__AIBehaviorBase.html" title=" " alt="" coords="37,225,183,251"/>
+<area shape="rect" id="node4" href="$interfaceSCR__AIActionBase.html" title=" " alt="" coords="43,152,177,177"/>
+<area shape="rect" id="node5" href="$interfaceAIActionBase.html" title=" " alt="" coords="59,79,161,104"/>
+<area shape="rect" id="node6" title=" " alt="" coords="53,5,167,31"/>
+</map>

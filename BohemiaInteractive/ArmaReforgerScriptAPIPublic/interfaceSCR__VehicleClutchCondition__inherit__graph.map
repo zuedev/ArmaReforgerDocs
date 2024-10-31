@@ -1,0 +1,4 @@
+<map id="SCR_VehicleClutchCondition" name="SCR_VehicleClutchCondition">
+<area shape="rect" id="node1" title="Returns true if vehicle&#39;s clutch is at least at specified threshold." alt="" coords="9,79,200,104"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AvailableActionCondition.html" title="A single available action condition representation." alt="" coords="5,5,204,31"/>
+</map>

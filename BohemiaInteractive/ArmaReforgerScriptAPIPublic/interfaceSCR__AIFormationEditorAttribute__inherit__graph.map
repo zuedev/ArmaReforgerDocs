@@ -1,0 +1,5 @@
+<map id="SCR_AIFormationEditorAttribute" name="SCR_AIFormationEditorAttribute">
+<area shape="rect" id="node1" title=" " alt="" coords="5,167,215,192"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseFloatValueHolderEditorAttribute.html" title="Attribute base for Name, icon and float value for other attributes to inherent from." alt="" coords="17,79,203,119"/>
+<area shape="rect" id="node3" href="$interfaceSCR__BaseEditorAttribute.html" title="Base Attribute Script for other attributes to inherent from to get and set varriables in Editor Attri..." alt="" coords="25,5,195,31"/>
+</map>

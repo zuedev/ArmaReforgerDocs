@@ -1,0 +1,6 @@
+<map id="SCR_GameModeCampaign" name="SCR_GameModeCampaign">
+<area shape="rect" id="node1" title=" " alt="" coords="5,225,187,251"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseGameMode.html" title=" " alt="" coords="19,152,173,177"/>
+<area shape="rect" id="node3" href="$interfaceBaseGameMode.html" title=" " alt="" coords="37,79,155,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="45,5,147,31"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="PawnMovementComponent" name="PawnMovementComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="17,79,196,104"/>
+<area shape="rect" id="node3" href="$interfaceCharacterMovementComponent.html" title=" " alt="" coords="5,152,208,177"/>
+<area shape="rect" id="node2" href="$interfaceGenericComponent.html" title=" " alt="" coords="40,5,173,31"/>
+</map>

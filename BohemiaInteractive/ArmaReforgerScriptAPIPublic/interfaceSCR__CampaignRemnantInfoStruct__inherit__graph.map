@@ -1,0 +1,5 @@
+<map id="SCR_CampaignRemnantInfoStruct" name="SCR_CampaignRemnantInfoStruct">
+<area shape="rect" id="node1" title=" " alt="" coords="5,152,227,177"/>
+<area shape="rect" id="node2" href="$interfaceSCR__JsonApiStruct.html" title="Base struct for use in SCR_DSSessionCallback." alt="" coords="47,79,185,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="65,5,167,31"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="SCR_BaseEditorAttribute" name="SCR_BaseEditorAttribute">
+<area shape="rect" id="node1" title="Base Attribute Script for other attributes to inherent from to get and set varriables in Editor Attri..." alt="" coords="5,1168,175,1193"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AmbientSoundToggleEditorAttribute.html" title="Toggle Ambient Sound Attribute for getting and setting varriables in Editor Attribute window." alt="" coords="233,49,446,89"/>
+<area shape="rect" id="node3" href="$interfaceSCR__AutomatedWeatherEditorAttribute.html" title=" " alt="" coords="238,113,441,153"/>
+<area shape="rect" id="node4" href="$interfaceSCR__BaseDuplicatableEditorAttribute.html" title="Attributes that never communicate can inharent from SCR_BaseDuplicatableEditorAttribute else an error..." alt="" coords="244,177,435,217"/>
+<area shape="rect" id="node6" href="$interfaceSCR__BaseFloatValueHolderEditorAttribute.html" title="Attribute base for Name, icon and float value for other attributes to inherent from." alt="" coords="247,241,432,281"/>
+<area shape="rect" id="node16" href="$interfaceSCR__BasePlayerBudgetEnableEditorAttribute.html" title=" " alt="" coords="237,305,441,345"/>
+<area shape="rect" id="node17" href="$interfaceSCR__BaseSupportStationEnableEditorAttribute.html" title=" " alt="" coords="233,369,445,409"/>
+<area shape="rect" id="node18" href="$interfaceSCR__BaseValueListEditorAttribute.html" title="Attribute base for slider values for other attributes to inherent from." alt="" coords="228,433,451,459"/>
+<area shape="rect" id="node19" href="$interfaceSCR__CameraFilterEditorAttribute.html" title="Camera filter Attribute for photomode for getting and setting varriables in Editor Attribute window." alt="" coords="233,483,446,508"/>
+<area shape="rect" id="node20" href="$interfaceSCR__CameraParticleEditorAttribute.html" title="Camera particle Attribute for photomode for getting and setting varriables in Editor Attribute window..." alt="" coords="250,533,429,573"/>
+<area shape="rect" id="node21" href="$interfaceSCR__CharUnconsciousnessEditorAttribute.html" title=" " alt="" coords="229,597,449,637"/>
+<area shape="rect" id="node22" href="$interfaceSCR__DateEditorAttribute.html" title=" " alt="" coords="256,661,423,687"/>
+<area shape="rect" id="node23" href="$interfaceSCR__EnableArsenalAttribute.html" title=" " alt="" coords="245,711,434,736"/>
+<area shape="rect" id="node24" href="$interfaceSCR__EnableDeployableSpawnPointsEditorAttribute.html" title=" " alt="" coords="240,761,439,801"/>
+<area shape="rect" id="node25" href="$interfaceSCR__EnableGlobalResourceTypeEditorAttribute.html" title=" " alt="" coords="245,825,433,865"/>
+<area shape="rect" id="node26" href="$interfaceSCR__EnableSpawnPointEditorAttribute.html" title="Allows to enable and disable spawnpoints." alt="" coords="240,889,439,929"/>
+<area shape="rect" id="node27" href="$interfaceSCR__EntityEnableResourceEditorAttribute.html" title=" " alt="" coords="247,953,432,993"/>
+<area shape="rect" id="node28" href="$interfaceSCR__ExplosiveFuzeArmingAttribute.html" title="Explosive trigger attribute for manipulating the arming state." alt="" coords="224,1017,455,1043"/>
+<area shape="rect" id="node29" href="$interfaceSCR__GlobalUnconsciousnessEditorAttribute.html" title=" " alt="" coords="241,1067,437,1107"/>
+<area shape="rect" id="node30" href="$interfaceSCR__LoadoutSavingClearOnChangeEditorAttribute.html" title="This is a attribute that is never set anywhere and reset when attribute dialog is opened and used by ..." alt="" coords="246,1131,433,1171"/>
+<area shape="rect" id="node31" href="$interfaceSCR__ModeOverrideEditorAttribute.html" title=" " alt="" coords="230,1196,449,1221"/>
+<area shape="rect" id="node32" href="$interfaceSCR__NightModeEditorAttribute.html" title=" " alt="" coords="239,1245,440,1271"/>
+<area shape="rect" id="node33" href="$interfaceSCR__OverrideCharacterMedicalEditorAttribute.html" title="Medical attribute if it should override certain medical values." alt="" coords="237,1295,441,1335"/>
+<area shape="rect" id="node34" href="$interfaceSCR__PlayableFactionEditorAttribute.html" title=" " alt="" coords="248,1359,431,1399"/>
+<area shape="rect" id="node35" href="$interfaceSCR__RespawnEnabledEditorAttribute.html" title="Respawn attribute to enable/disable respawn and respawn time, for getting and setting varriables in E..." alt="" coords="244,1423,435,1463"/>
+<area shape="rect" id="node36" href="$interfaceSCR__SetTaskCompletionAutomaticEditorAttribute.html" title=" " alt="" coords="225,1487,453,1527"/>
+<area shape="rect" id="node37" href="$interfaceSCR__SimulateAndShowToggle.html" title=" " alt="" coords="239,1552,439,1577"/>
+<area shape="rect" id="node38" href="$interfaceSCR__SpawnAtPlayersEditorAttribute.html" title="Respawn attribute to enable/disable respawn and respawn time, for getting and setting varriables in E..." alt="" coords="246,1602,433,1642"/>
+<area shape="rect" id="node39" href="$interfaceSCR__SpawnAtRadioVehicleAttribute.html" title=" " alt="" coords="223,1667,456,1692"/>
+<area shape="rect" id="node40" href="$interfaceSCR__SupplyContainerDecayAttribute.html" title=" " alt="" coords="245,1717,433,1757"/>
+<area shape="rect" id="node41" href="$interfaceSCR__TaskTextBaseEditorAttribute.html" title=" " alt="" coords="228,1781,451,1807"/>
+<area shape="rect" id="node42" href="$interfaceSCR__TaskTextEditorAttribute.html" title=" " alt="" coords="243,1831,435,1856"/>
+<area shape="rect" id="node43" href="$interfaceSCR__TestEditorAttribute.html" title=" " alt="" coords="257,1880,421,1905"/>
+<area shape="rect" id="node44" href="$interfaceSCR__TimeAdvancementEditorAttribute.html" title="Weather attribute if it should enable/disable day Advancement." alt="" coords="241,1930,437,1970"/>
+<area shape="rect" id="node45" href="$interfaceSCR__ToggleDamageEditorAttribute.html" title=" " alt="" coords="227,1995,452,2020"/>
+<area shape="rect" id="node46" href="$interfaceSCR__ValidTypeBaseEditorAttribute.html" title=" " alt="" coords="226,2044,453,2069"/>
+<area shape="rect" id="node47" href="$interfaceSCR__WeatherUseAdvancedEditorAttribute.html" title=" " alt="" coords="230,2094,449,2134"/>
+<area shape="rect" id="node48" href="$interfaceSCR__WindAutomaticEditorAttribute.html" title="Weather attribute if it should override certain weather values." alt="" coords="225,2159,453,2184"/>
+<area shape="rect" id="node49" href="$interfaceSCR__WindOverrideEditorAttribute.html" title="Weather attribute if it should override certain weather values." alt="" coords="231,2208,447,2233"/>
+<area shape="rect" id="node5" href="$interfaceSCR__MenuOverlayEditorAttribute.html" title=" " alt="" coords="511,5,726,31"/>
+<area shape="rect" id="node7" href="$interfaceSCR__AIFormationEditorAttribute.html" title=" " alt="" coords="514,55,723,80"/>
+<area shape="rect" id="node8" href="$interfaceSCR__AiMovementSpeedEditorAttribute.html" title=" " alt="" coords="519,105,718,145"/>
+<area shape="rect" id="node9" href="$interfaceSCR__AiSkillEditorAttribute.html" title=" " alt="" coords="531,169,707,195"/>
+<area shape="rect" id="node10" href="$interfaceSCR__AiStanceEditorAttribute.html" title=" " alt="" coords="523,219,715,244"/>
+<area shape="rect" id="node11" href="$interfaceSCR__ArsenalAmmunitionModeAttribute.html" title=" " alt="" coords="518,269,719,309"/>
+<area shape="rect" id="node12" href="$interfaceSCR__ArsenalGameModeTypeEditorAttribute.html" title=" " alt="" coords="504,333,733,373"/>
+<area shape="rect" id="node13" href="$interfaceSCR__ArsenalSaveTypeAttribute.html" title=" " alt="" coords="516,397,721,423"/>
+<area shape="rect" id="node14" href="$interfaceSCR__BasePresetsEditorAttribute.html" title="Attribute base for Name, icon and float value for other attributes to inherent from." alt="" coords="511,447,726,472"/>
+<area shape="rect" id="node15" href="$interfaceSCR__GameOverTypeEditorAttribute.html" title=" " alt="" coords="505,496,733,521"/>
+</map>

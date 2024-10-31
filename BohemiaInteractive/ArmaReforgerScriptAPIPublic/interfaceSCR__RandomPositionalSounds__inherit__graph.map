@@ -1,0 +1,4 @@
+<map id="SCR_RandomPositionalSounds" name="SCR_RandomPositionalSounds">
+<area shape="rect" id="node1" title="Spawns sounds arround camera based on define behaviour Basic building blocks are: SCR_SoundGroup defi..." alt="" coords="5,79,211,104"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AmbientSoundsEffect.html" title=" " alt="" coords="17,5,199,31"/>
+</map>

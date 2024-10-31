@@ -1,0 +1,4 @@
+<map id="SCR_DownloadManager_AddonDownloadLine" name="SCR_DownloadManager_AddonDownloadLine">
+<area shape="rect" id="node1" title="Component for a line which indicates addon download state in the download manager." alt="" coords="13,79,175,119"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,183,31"/>
+</map>

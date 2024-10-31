@@ -1,0 +1,11 @@
+<map id="SCR_EditableSystemComponent" name="SCR_EditableSystemComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="427,112,641,137"/>
+<area shape="rect" id="node4" href="$interfaceSCR__EditableDescriptorComponent.html" title=" " alt="" coords="689,55,917,80"/>
+<area shape="rect" id="node8" href="$interfaceSCR__EditableExplosiveChargeComponent.html" title=" " alt="" coords="704,105,903,145"/>
+<area shape="rect" id="node9" href="$interfaceSCR__EditableMineComponent.html" title=" " alt="" coords="705,169,902,195"/>
+<area shape="rect" id="node2" href="$interfaceSCR__EditableEntityComponent.html" title="Component defining editable entity." alt="" coords="176,112,379,137"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,112,128,137"/>
+<area shape="rect" id="node5" href="$interfaceSCR__EditableSpawnPointComponent.html" title=" " alt="" coords="965,5,1204,31"/>
+<area shape="rect" id="node6" href="$interfaceSCR__EditableTaskComponent.html" title=" " alt="" coords="986,55,1183,80"/>
+<area shape="rect" id="node7" href="$interfaceSCR__EditableWorldEntityComponent.html" title=" " alt="" coords="966,104,1203,129"/>
+</map>

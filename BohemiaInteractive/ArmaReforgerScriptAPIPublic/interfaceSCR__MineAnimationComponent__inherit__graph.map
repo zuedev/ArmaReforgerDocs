@@ -1,0 +1,6 @@
+<map id="SCR_MineAnimationComponent" name="SCR_MineAnimationComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="5,225,213,251"/>
+<area shape="rect" id="node2" href="$interfaceWeaponAnimationComponent.html" title=" " alt="" coords="12,152,207,177"/>
+<area shape="rect" id="node3" href="$interfaceBaseItemAnimationComponent.html" title=" " alt="" coords="9,79,210,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="9,5,210,31"/>
+</map>

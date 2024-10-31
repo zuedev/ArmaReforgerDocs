@@ -1,0 +1,7 @@
+<map id="CharacterSndComponentClass" name="CharacterSndComponentClass">
+<area shape="rect" id="node1" title=" " alt="" coords="5,299,205,324"/>
+<area shape="rect" id="node2" href="$interfaceSndComponentClass.html" title=" " alt="" coords="33,225,177,251"/>
+<area shape="rect" id="node3" href="$interfaceBaseSoundComponentClass.html" title=" " alt="" coords="11,152,199,177"/>
+<area shape="rect" id="node4" href="$interfaceGenericComponentClass.html" title=" " alt="" coords="22,79,189,104"/>
+<area shape="rect" id="node5" href="$interfaceEntityComponentPrefabData.html" title="Shared object with constant data for components from prefab." alt="" coords="12,5,199,31"/>
+</map>

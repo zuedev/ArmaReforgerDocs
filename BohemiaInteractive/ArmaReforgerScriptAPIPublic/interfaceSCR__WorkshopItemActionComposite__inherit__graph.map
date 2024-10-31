@@ -1,0 +1,5 @@
+<map id="SCR_WorkshopItemActionComposite" name="SCR_WorkshopItemActionComposite">
+<area shape="rect" id="node1" title="Composite action which includes multiple subactions." alt="" coords="5,79,244,104"/>
+<area shape="rect" id="node3" href="$interfaceSCR__WorkshopItemActionDownloadDependenciesLatest.html" title="Action for downloading latest dependencies. Doesn&#39;t download this addon, but only downloads dependenc..." alt="" coords="8,152,241,192"/>
+<area shape="rect" id="node2" href="$interfaceSCR__WorkshopItemAction.html" title=" " alt="" coords="36,5,213,31"/>
+</map>

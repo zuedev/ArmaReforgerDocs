@@ -1,0 +1,7 @@
+<map id="SCR_ScenarioFrameworkLogicClass" name="SCR_ScenarioFrameworkLogicClass">
+<area shape="rect" id="node1" title=" " alt="" coords="188,69,391,109"/>
+<area shape="rect" id="node3" href="$interfaceSCR__ScenarioFrameworkLogicCounterClass.html" title=" " alt="" coords="439,5,641,45"/>
+<area shape="rect" id="node4" href="$interfaceSCR__ScenarioFrameworkLogicORClass.html" title=" " alt="" coords="439,69,641,109"/>
+<area shape="rect" id="node5" href="$interfaceSCR__ScenarioFrameworkLogicSwitchClass.html" title=" " alt="" coords="439,133,641,173"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,77,140,102"/>
+</map>

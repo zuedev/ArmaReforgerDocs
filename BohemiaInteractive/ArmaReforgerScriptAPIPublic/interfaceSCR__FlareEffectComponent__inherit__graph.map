@@ -1,0 +1,6 @@
+<map id="SCR_FlareEffectComponent" name="SCR_FlareEffectComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="5,240,189,265"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseInteractiveLightComponent.html" title=" " alt="" coords="11,152,183,192"/>
+<area shape="rect" id="node3" href="$interfaceSCR__BaseLightComponent.html" title=" " alt="" coords="7,79,187,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="36,5,159,31"/>
+</map>

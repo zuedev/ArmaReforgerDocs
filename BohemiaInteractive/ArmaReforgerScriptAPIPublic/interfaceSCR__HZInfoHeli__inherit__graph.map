@@ -1,0 +1,14 @@
+<map id="SCR_HZInfoHeli" name="SCR_HZInfoHeli">
+<area shape="rect" id="node1" title=" " alt="" coords="299,519,413,544"/>
+<area shape="rect" id="node9" href="$interfaceSCR__HZInfoEngineHeli.html" title=" " alt="" coords="5,592,160,617"/>
+<area shape="rect" id="node10" href="$interfaceSCR__HZInfoGearboxHeli.html" title=" " alt="" coords="184,592,347,617"/>
+<area shape="rect" id="node11" href="$interfaceSCR__HZInfoRotorMain.html" title=" " alt="" coords="371,592,522,617"/>
+<area shape="rect" id="node12" href="$interfaceSCR__HZInfoRotorRear.html" title=" " alt="" coords="546,592,697,617"/>
+<area shape="rect" id="node2" href="$interfaceSCR__HitZoneInfo.html" title=" " alt="" coords="296,445,416,471"/>
+<area shape="rect" id="node3" href="$interfaceSCR__BaseVehicleInfo.html" title="Base class for all vehicle UI state and damage indicators." alt="" coords="281,372,431,397"/>
+<area shape="rect" id="node4" href="$interfaceSCR__InfoDisplayExtended.html" title=" " alt="" coords="269,299,443,324"/>
+<area shape="rect" id="node5" href="$interfaceSCR__InfoDisplay.html" title=" " alt="" coords="297,225,415,251"/>
+<area shape="rect" id="node6" href="$interfaceGroupInfoDisplay.html" title=" " alt="" coords="296,152,416,177"/>
+<area shape="rect" id="node7" href="$interfaceBaseInfoDisplay.html" title=" " alt="" coords="299,79,413,104"/>
+<area shape="rect" id="node8" title=" " alt="" coords="299,5,413,31"/>
+</map>

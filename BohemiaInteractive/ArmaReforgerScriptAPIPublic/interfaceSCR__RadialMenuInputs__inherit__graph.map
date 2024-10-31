@@ -1,0 +1,4 @@
+<map id="SCR_RadialMenuInputs" name="SCR_RadialMenuInputs">
+<area shape="rect" id="node1" title="Configurable radial menu inputs extending controls specifically for radial interface." alt="" coords="15,79,173,104"/>
+<area shape="rect" id="node2" href="$interfaceSCR__SelectionMenuInputs.html" title="Configurable selection menu inputs for separating menu controls actions." alt="" coords="5,5,183,31"/>
+</map>

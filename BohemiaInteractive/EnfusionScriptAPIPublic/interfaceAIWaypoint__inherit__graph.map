@@ -1,0 +1,7 @@
+<map id="AIWaypoint" name="AIWaypoint">
+<area shape="rect" id="node1" title="Enfusion waypoints do not specify just a point in the world, they can also include a logic,..." alt="" coords="22,225,111,251"/>
+<area shape="rect" id="node5" href="$interfaceAIWaypointCycle.html" title="Cycled waypoints are used when we want a series of waypoints repeating for an infinite or finite time..." alt="" coords="5,299,128,324"/>
+<area shape="rect" id="node2" href="$interfaceGenericEntity.html" title="Base entity class." alt="" coords="16,152,117,177"/>
+<area shape="rect" id="node3" href="$interfaceIEntity.html" title=" " alt="" coords="37,79,96,104"/>
+<area shape="rect" id="node4" href="$interfaceManaged.html" title=" " alt="" coords="29,5,104,31"/>
+</map>

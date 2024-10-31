@@ -1,0 +1,4 @@
+<map id="SCR_OverrideCharacterMedicalEditorAttribute" name="SCR_OverrideCharacterMedicalEditorAttribute">
+<area shape="rect" id="node1" title="Medical attribute if it should override certain medical values." alt="" coords="5,79,209,119"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseEditorAttribute.html" title="Base Attribute Script for other attributes to inherent from to get and set varriables in Editor Attri..." alt="" coords="23,5,192,31"/>
+</map>

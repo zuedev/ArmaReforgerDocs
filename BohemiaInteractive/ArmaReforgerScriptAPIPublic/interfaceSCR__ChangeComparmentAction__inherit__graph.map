@@ -1,0 +1,8 @@
+<map id="SCR_ChangeComparmentAction" name="SCR_ChangeComparmentAction">
+<area shape="rect" id="node1" title=" " alt="" coords="5,372,216,397"/>
+<area shape="rect" id="node2" href="$interfaceSCR__CompartmentUserAction.html" title=" " alt="" coords="11,299,210,324"/>
+<area shape="rect" id="node3" href="$interfaceCompartmentUserAction.html" title=" " alt="" coords="29,225,193,251"/>
+<area shape="rect" id="node4" href="$interfaceScriptedUserAction.html" title=" " alt="" coords="43,152,178,177"/>
+<area shape="rect" id="node5" href="$interfaceBaseUserAction.html" title=" " alt="" coords="53,79,169,104"/>
+<area shape="rect" id="node6" title=" " alt="" coords="53,5,168,31"/>
+</map>

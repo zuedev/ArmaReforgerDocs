@@ -1,0 +1,8 @@
+<map id="SCR_InspectCasualtyWidget" name="SCR_InspectCasualtyWidget">
+<area shape="rect" id="node1" title=" " alt="" coords="5,372,196,397"/>
+<area shape="rect" id="node2" href="$interfaceSCR__InfoDisplayExtended.html" title=" " alt="" coords="13,299,188,324"/>
+<area shape="rect" id="node3" href="$interfaceSCR__InfoDisplay.html" title=" " alt="" coords="41,225,160,251"/>
+<area shape="rect" id="node4" href="$interfaceGroupInfoDisplay.html" title=" " alt="" coords="41,152,161,177"/>
+<area shape="rect" id="node5" href="$interfaceBaseInfoDisplay.html" title=" " alt="" coords="43,79,158,104"/>
+<area shape="rect" id="node6" title=" " alt="" coords="43,5,158,31"/>
+</map>

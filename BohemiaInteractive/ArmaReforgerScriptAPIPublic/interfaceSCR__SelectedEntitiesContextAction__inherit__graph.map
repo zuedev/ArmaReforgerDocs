@@ -1,0 +1,32 @@
+<map id="SCR_SelectedEntitiesContextAction" name="SCR_SelectedEntitiesContextAction">
+<area shape="rect" id="node1" title="Base container class for editor context actions which apply to selected entities." alt="" coords="427,667,623,707"/>
+<area shape="rect" id="node4" href="$interfaceSCR__BleedCharacterContextAction.html" title=" " alt="" coords="691,5,882,45"/>
+<area shape="rect" id="node5" href="$interfaceSCR__BombardContextAction.html" title=" " alt="" coords="691,70,882,95"/>
+<area shape="rect" id="node6" href="$interfaceSCR__CaptureBasesContextAction.html" title=" " alt="" coords="677,119,897,145"/>
+<area shape="rect" id="node7" href="$interfaceSCR__ChooseAndSpawnOccupantsContextAction.html" title=" " alt="" coords="674,169,899,209"/>
+<area shape="rect" id="node8" href="$interfaceSCR__CopyContextAction.html" title=" " alt="" coords="703,234,871,259"/>
+<area shape="rect" id="node9" href="$interfaceSCR__CreateLayerContextAction.html" title=" " alt="" coords="683,283,891,309"/>
+<area shape="rect" id="node10" href="$interfaceSCR__CutContextAction.html" title=" " alt="" coords="707,333,866,358"/>
+<area shape="rect" id="node11" href="$interfaceSCR__DefendContextAction.html" title=" " alt="" coords="697,382,876,407"/>
+<area shape="rect" id="node12" href="$interfaceSCR__DeleteSelectedContextAction.html" title=" " alt="" coords="692,432,881,472"/>
+<area shape="rect" id="node14" href="$interfaceSCR__DisembarkContextAction.html" title=" " alt="" coords="687,497,887,522"/>
+<area shape="rect" id="node15" href="$interfaceSCR__FuelEntityContextAction.html" title=" " alt="" coords="688,546,885,571"/>
+<area shape="rect" id="node16" href="$interfaceSCR__HealEntitiesContextAction.html" title=" " alt="" coords="683,595,891,621"/>
+<area shape="rect" id="node17" href="$interfaceSCR__KickPlayerContextAction.html" title=" " alt="" coords="686,645,887,670"/>
+<area shape="rect" id="node18" href="$interfaceSCR__NeutralizeEntityContextAction.html" title=" " alt="" coords="690,695,883,735"/>
+<area shape="rect" id="node19" href="$interfaceSCR__OrientToSeaNormalContextAction.html" title=" " alt="" coords="679,759,894,799"/>
+<area shape="rect" id="node20" href="$interfaceSCR__OrientToTerrainContextAction.html" title=" " alt="" coords="692,823,881,863"/>
+<area shape="rect" id="node21" href="$interfaceSCR__RemoveBleedCharacterContextAction.html" title=" " alt="" coords="691,887,882,927"/>
+<area shape="rect" id="node22" href="$interfaceSCR__RemoveWeaponContextAction.html" title=" " alt="" coords="671,951,903,977"/>
+<area shape="rect" id="node23" href="$interfaceSCR__ResupplyContextAction.html" title=" " alt="" coords="691,1001,883,1026"/>
+<area shape="rect" id="node24" href="$interfaceSCR__SelectOccupantsContextAction.html" title=" " alt="" coords="686,1051,887,1091"/>
+<area shape="rect" id="node25" href="$interfaceSCR__SetFireVehicleContextAction.html" title=" " alt="" coords="693,1115,880,1155"/>
+<area shape="rect" id="node26" href="$interfaceSCR__SnapToTerrainContextAction.html" title=" " alt="" coords="695,1179,879,1219"/>
+<area shape="rect" id="node27" href="$interfaceSCR__SpawnOccupantsContextAction.html" title=" " alt="" coords="685,1243,888,1283"/>
+<area shape="rect" id="node28" href="$interfaceSCR__SupplyBasesContextAction.html" title=" " alt="" coords="679,1307,894,1333"/>
+<area shape="rect" id="node29" href="$interfaceSCR__TaskActivateContextAction.html" title=" " alt="" coords="681,1357,893,1382"/>
+<area shape="rect" id="node30" href="$interfaceSCR__TaskContextAction.html" title=" " alt="" coords="703,1406,870,1431"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseContextAction.html" title="Base container class for editor context actions." alt="" coords="211,674,379,699"/>
+<area shape="rect" id="node3" href="$interfaceSCR__BaseEditorAction.html" title="Base container class for all editor action types (ContextActions, WaypointActions,..." alt="" coords="5,674,163,699"/>
+<area shape="rect" id="node13" href="$interfaceSCR__CampaignBuildingDeleteSelectedContextAction.html" title=" " alt="" coords="951,432,1148,472"/>
+</map>

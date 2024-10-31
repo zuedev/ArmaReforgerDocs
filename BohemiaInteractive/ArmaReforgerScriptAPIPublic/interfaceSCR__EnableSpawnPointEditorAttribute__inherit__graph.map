@@ -1,0 +1,4 @@
+<map id="SCR_EnableSpawnPointEditorAttribute" name="SCR_EnableSpawnPointEditorAttribute">
+<area shape="rect" id="node1" title="Allows to enable and disable spawnpoints." alt="" coords="5,79,204,119"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseEditorAttribute.html" title="Base Attribute Script for other attributes to inherent from to get and set varriables in Editor Attri..." alt="" coords="20,5,189,31"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="SCR_ItemSelectionMenuEntry" name="SCR_ItemSelectionMenuEntry">
+<area shape="rect" id="node1" title=" " alt="" coords="5,299,204,324"/>
+<area shape="rect" id="node2" href="$interfaceSCR__SelectionMenuEntry.html" title="Scripted selection menu entry based on UI info for storing data into SCR_SelectionMenu." alt="" coords="18,225,191,251"/>
+<area shape="rect" id="node3" href="$interfaceSCR__UIInfo.html" title="Class used to hold UI information." alt="" coords="61,152,149,177"/>
+<area shape="rect" id="node4" href="$interfaceSCR__UIDescription.html" title="Class used to hold UI name and description." alt="" coords="38,79,171,104"/>
+<area shape="rect" id="node5" href="$interfaceSCR__UIName.html" title="Class used to hold UI name." alt="" coords="53,5,156,31"/>
+</map>

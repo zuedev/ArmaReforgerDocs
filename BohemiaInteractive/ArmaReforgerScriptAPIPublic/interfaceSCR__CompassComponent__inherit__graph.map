@@ -1,0 +1,6 @@
+<map id="SCR_CompassComponent" name="SCR_CompassComponent">
+<area shape="rect" id="node1" title="Compass component." alt="" coords="5,225,183,251"/>
+<area shape="rect" id="node2" href="$interfaceSCR__GadgetComponent.html" title="Gadget base class." alt="" coords="12,152,176,177"/>
+<area shape="rect" id="node3" href="$interfaceScriptGameComponent.html" title=" " alt="" coords="15,79,173,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="33,5,155,31"/>
+</map>

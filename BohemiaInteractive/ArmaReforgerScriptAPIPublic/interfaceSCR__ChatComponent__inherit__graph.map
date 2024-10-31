@@ -1,0 +1,6 @@
+<map id="SCR_ChatComponent" name="SCR_ChatComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="5,225,155,251"/>
+<area shape="rect" id="node2" href="$interfaceBaseChatComponent.html" title="This component takes care of sending chat messages." alt="" coords="7,152,153,177"/>
+<area shape="rect" id="node3" href="$interfaceGameComponent.html" title=" " alt="" coords="19,79,141,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="13,5,147,31"/>
+</map>

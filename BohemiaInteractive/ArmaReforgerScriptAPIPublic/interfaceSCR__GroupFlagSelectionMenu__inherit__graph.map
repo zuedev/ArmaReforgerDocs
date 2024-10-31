@@ -1,0 +1,6 @@
+<map id="SCR_GroupFlagSelectionMenu" name="SCR_GroupFlagSelectionMenu">
+<area shape="rect" id="node1" title=" " alt="" coords="5,225,208,251"/>
+<area shape="rect" id="node2" href="$interfaceDialogUI.html" title=" " alt="" coords="71,152,142,177"/>
+<area shape="rect" id="node3" href="$interfaceChimeraMenuBase.html" title="Constant variables used in various menus." alt="" coords="41,79,173,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="65,5,149,31"/>
+</map>

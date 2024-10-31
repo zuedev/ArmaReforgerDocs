@@ -1,0 +1,8 @@
+<map id="ResourceManagerPlugin" name="ResourceManagerPlugin">
+<area shape="rect" id="node1" title=" " alt="" coords="164,152,327,177"/>
+<area shape="rect" id="node4" href="$interfaceResourceImportPlugin.html" title=" " alt="" coords="5,225,155,251"/>
+<area shape="rect" id="node5" href="$interfaceTerrainImportPlugin.html" title=" " alt="" coords="179,225,312,251"/>
+<area shape="rect" id="node6" href="$interfaceTextureImportPlugin.html" title=" " alt="" coords="337,225,474,251"/>
+<area shape="rect" id="node2" href="$interfaceWorkbenchPlugin.html" title=" " alt="" coords="183,79,307,104"/>
+<area shape="rect" id="node3" href="$interfaceManaged.html" title=" " alt="" coords="208,5,283,31"/>
+</map>

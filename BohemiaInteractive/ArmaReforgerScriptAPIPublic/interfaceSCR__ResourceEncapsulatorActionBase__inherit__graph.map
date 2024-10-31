@@ -1,0 +1,10 @@
+<map id="SCR_ResourceEncapsulatorActionBase" name="SCR_ResourceEncapsulatorActionBase">
+<area shape="rect" id="node1" title=" " alt="" coords="5,197,192,237"/>
+<area shape="rect" id="node2" href="$interfaceSCR__ResourceEncapsulatorActionChangeDecay.html" title=" " alt="" coords="250,5,437,45"/>
+<area shape="rect" id="node3" href="$interfaceSCR__ResourceEncapsulatorActionChangeGain.html" title=" " alt="" coords="250,69,437,109"/>
+<area shape="rect" id="node4" href="$interfaceSCR__ResourceEncapsulatorActionChangeOnEmptyBehavior.html" title=" " alt="" coords="240,133,447,173"/>
+<area shape="rect" id="node5" href="$interfaceSCR__ResourceEncapsulatorActionChangeResourceValue.html" title=" " alt="" coords="248,197,439,237"/>
+<area shape="rect" id="node6" href="$interfaceSCR__ResourceEncapsulatorActionChangeRights.html" title=" " alt="" coords="250,261,437,301"/>
+<area shape="rect" id="node7" href="$interfaceSCR__ResourceEncapsulatorActionDisableInventoryStorage.html" title=" " alt="" coords="244,325,443,365"/>
+<area shape="rect" id="node8" href="$interfaceSCR__ResourceEncapsulatorActionDisableUserActions.html" title=" " alt="" coords="250,389,437,429"/>
+</map>

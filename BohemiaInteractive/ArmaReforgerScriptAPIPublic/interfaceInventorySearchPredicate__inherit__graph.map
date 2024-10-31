@@ -1,0 +1,15 @@
+<map id="InventorySearchPredicate" name="InventorySearchPredicate">
+<area shape="rect" id="node1" title=" " alt="" coords="375,274,544,299"/>
+<area shape="rect" id="node4" href="$interfaceSCR__ApplicableMedicalItemPredicate.html" title=" " alt="" coords="601,5,788,45"/>
+<area shape="rect" id="node5" href="$interfaceSCR__BandagePredicate.html" title=" " alt="" coords="613,70,776,95"/>
+<area shape="rect" id="node6" href="$interfaceSCR__CommonItemTypeSearchPredicate.html" title=" " alt="" coords="593,120,796,160"/>
+<area shape="rect" id="node7" href="$interfaceSCR__CompatibleAttachmentPredicate.html" title="Searches for attachments of the defined atttachmentType." alt="" coords="601,184,789,224"/>
+<area shape="rect" id="node8" href="$interfaceSCR__HoldableItemPredicate.html" title=" " alt="" coords="601,249,788,274"/>
+<area shape="rect" id="node9" href="$interfaceSCR__ItemTypeSearchPredicate.html" title=" " alt="" coords="592,298,797,323"/>
+<area shape="rect" id="node10" href="$interfaceSCR__MagazinePredicate.html" title="Searches for magazines with certain mag well." alt="" coords="611,347,778,373"/>
+<area shape="rect" id="node11" href="$interfaceSCR__PrefabDataPredicate.html" title="Searches for items with same prefab data (prefer this to prefab name if you have prefab data already)" alt="" coords="607,397,782,422"/>
+<area shape="rect" id="node12" href="$interfaceSCR__PrefabNamePredicate.html" title="Searches for items with same prefab name." alt="" coords="603,446,786,471"/>
+<area shape="rect" id="node13" href="$interfaceSCR__SalinePredicate.html" title=" " alt="" coords="621,495,768,521"/>
+<area shape="rect" id="node2" href="$interfaceBaseInventorySearchPredicate.html" title=" " alt="" coords="128,274,327,299"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,274,80,299"/>
+</map>

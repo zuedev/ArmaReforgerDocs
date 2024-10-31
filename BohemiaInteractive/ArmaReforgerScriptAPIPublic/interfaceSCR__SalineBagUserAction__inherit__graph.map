@@ -1,0 +1,7 @@
+<map id="SCR_SalineBagUserAction" name="SCR_SalineBagUserAction">
+<area shape="rect" id="node1" title=" " alt="" coords="5,299,184,324"/>
+<area shape="rect" id="node2" href="$interfaceSCR__HealingUserAction.html" title=" " alt="" coords="13,225,176,251"/>
+<area shape="rect" id="node3" href="$interfaceScriptedUserAction.html" title=" " alt="" coords="27,152,162,177"/>
+<area shape="rect" id="node4" href="$interfaceBaseUserAction.html" title=" " alt="" coords="37,79,153,104"/>
+<area shape="rect" id="node5" title=" " alt="" coords="37,5,152,31"/>
+</map>

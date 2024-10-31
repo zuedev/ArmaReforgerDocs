@@ -1,0 +1,12 @@
+<map id="SCR_AIOrderBase" name="SCR_AIOrderBase">
+<area shape="rect" id="node1" title=" " alt="" coords="120,179,251,204"/>
+<area shape="rect" id="node3" href="$interfaceSCR__AIOrder__AIState.html" title=" " alt="" coords="323,5,473,31"/>
+<area shape="rect" id="node4" href="$interfaceSCR__AIOrder__CombatType.html" title=" " alt="" coords="308,55,488,80"/>
+<area shape="rect" id="node5" href="$interfaceSCR__AIOrder__MovementType.html" title=" " alt="" coords="301,104,495,129"/>
+<area shape="rect" id="node6" href="$interfaceSCR__AIOrder__ReturnToDefault.html" title=" " alt="" coords="299,153,497,179"/>
+<area shape="rect" id="node7" href="$interfaceSCR__AIOrder__Stance.html" title=" " alt="" coords="324,203,472,228"/>
+<area shape="rect" id="node8" href="$interfaceSCR__AIOrder__Unit__State.html" title=" " alt="" coords="314,252,482,277"/>
+<area shape="rect" id="node9" href="$interfaceSCR__AIOrder__WeaponRaised.html" title=" " alt="" coords="301,301,495,327"/>
+<area shape="rect" id="node10" href="$interfaceSCR__AIOrder__WeaponType.html" title=" " alt="" coords="307,351,489,376"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,179,72,204"/>
+</map>

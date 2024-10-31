@@ -1,0 +1,6 @@
+<map id="SCR_ResupplyMagazinesCallback" name="SCR_ResupplyMagazinesCallback">
+<area shape="rect" id="node1" title=" " alt="" coords="5,240,228,265"/>
+<area shape="rect" id="node2" href="$interfaceScriptedInventoryOperationCallback.html" title=" " alt="" coords="28,152,205,192"/>
+<area shape="rect" id="node3" href="$interfaceInventoryOperationCallback.html" title=" " alt="" coords="27,79,206,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="79,5,154,31"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="SCR_ButtonComponent" name="SCR_ButtonComponent">
+<area shape="rect" id="node1" title="Deprecated button component. Still used in many prefabs, so it works, it&#39;s just stripped of most of t..." alt="" coords="959,104,1119,129"/>
+<area shape="rect" id="node6" href="$interfaceSCR__ButtonSplitComponent.html" title="Final Reforger button." alt="" coords="1184,5,1371,31"/>
+<area shape="rect" id="node7" href="$interfaceSCR__MapJournalUIButton.html" title=" " alt="" coords="1191,55,1363,80"/>
+<area shape="rect" id="node8" href="$interfaceSCR__ModdedScenarioComponent.html" title=" " alt="" coords="1168,104,1387,129"/>
+<area shape="rect" id="node9" href="$interfaceSCR__SelectableButtonComponent.html" title="Selectable button." alt="" coords="1167,153,1388,179"/>
+<area shape="rect" id="node10" href="$interfaceSCR__SelectableTileButtonComponent.html" title=" " alt="" coords="1190,203,1365,243"/>
+<area shape="rect" id="node2" href="$interfaceSCR__ButtonBaseComponent.html" title="Base class for any button, regardless its own content." alt="" coords="720,104,911,129"/>
+<area shape="rect" id="node3" href="$interfaceSCR__WLibComponentBase.html" title="Base class for all final Reforger interactive elements." alt="" coords="489,104,672,129"/>
+<area shape="rect" id="node4" href="$interfaceSCR__ScriptedWidgetComponent.html" title=" " alt="" coords="231,104,441,129"/>
+<area shape="rect" id="node5" title=" " alt="" coords="5,104,183,129"/>
+</map>

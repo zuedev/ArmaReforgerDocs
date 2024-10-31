@@ -1,0 +1,5 @@
+<map id="SCR_StopMovementGroupCommand" name="SCR_StopMovementGroupCommand">
+<area shape="rect" id="node1" title=" " alt="" coords="5,152,241,177"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseGroupCommand.html" title=" " alt="" coords="33,79,213,104"/>
+<area shape="rect" id="node3" href="$interfaceSCR__BaseRadialCommand.html" title=" " alt="" coords="33,5,214,31"/>
+</map>

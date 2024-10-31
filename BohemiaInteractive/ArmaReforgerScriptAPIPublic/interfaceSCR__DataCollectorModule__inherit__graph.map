@@ -1,0 +1,12 @@
+<map id="SCR_DataCollectorModule" name="SCR_DataCollectorModule">
+<area shape="rect" id="node1" title=" " alt="" coords="128,213,304,238"/>
+<area shape="rect" id="node3" href="$interfaceSCR__DataCollectorAchievementsModule.html" title=" " alt="" coords="353,5,568,45"/>
+<area shape="rect" id="node4" href="$interfaceSCR__DataCollectorBasicActionsModule.html" title=" " alt="" coords="355,69,566,109"/>
+<area shape="rect" id="node5" href="$interfaceSCR__DataCollectorCrimesModule.html" title=" " alt="" coords="352,134,569,159"/>
+<area shape="rect" id="node6" href="$interfaceSCR__DataCollectorDriverModule.html" title=" " alt="" coords="357,183,565,209"/>
+<area shape="rect" id="node7" href="$interfaceSCR__DataCollectorHealingItemsModule.html" title=" " alt="" coords="372,233,549,273"/>
+<area shape="rect" id="node8" href="$interfaceSCR__DataCollectorShootingModule.html" title=" " alt="" coords="368,297,553,337"/>
+<area shape="rect" id="node9" href="$interfaceSCR__DataCollectorStoreDataModule.html" title=" " alt="" coords="365,361,557,401"/>
+<area shape="rect" id="node10" href="$interfaceSCR__DataCollectorSupplyTruckDriverModule.html" title=" " alt="" coords="357,425,564,465"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,213,80,238"/>
+</map>

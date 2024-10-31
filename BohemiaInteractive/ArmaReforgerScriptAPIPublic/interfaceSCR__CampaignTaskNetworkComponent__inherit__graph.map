@@ -1,0 +1,5 @@
+<map id="SCR_CampaignTaskNetworkComponent" name="SCR_CampaignTaskNetworkComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="5,152,260,177"/>
+<area shape="rect" id="node2" href="$interfaceSCR__TaskNetworkComponent.html" title="Takes care of tasks&#45;specific server &lt;&gt; client communication and requests." alt="" coords="34,79,231,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="71,5,194,31"/>
+</map>

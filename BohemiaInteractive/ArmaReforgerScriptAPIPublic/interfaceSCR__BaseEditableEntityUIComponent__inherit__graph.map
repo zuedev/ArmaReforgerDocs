@@ -1,0 +1,13 @@
+<map id="SCR_BaseEditableEntityUIComponent" name="SCR_BaseEditableEntityUIComponent">
+<area shape="rect" id="node1" title="Component to manage visualisation of individual entity widget." alt="" coords="231,223,476,249"/>
+<area shape="rect" id="node3" href="$interfaceSCR__CommentEditableEntityUIComponent.html" title=" " alt="" coords="553,5,746,45"/>
+<area shape="rect" id="node4" href="$interfaceSCR__CustomArrayEditableEntityUIComponent.html" title=" " alt="" coords="543,69,756,109"/>
+<area shape="rect" id="node5" href="$interfaceSCR__CustomEditableEntityUIComponent.html" title=" " alt="" coords="558,133,741,173"/>
+<area shape="rect" id="node7" href="$interfaceSCR__GroupEditableEntityUIComponent.html" title=" " alt="" coords="524,198,775,223"/>
+<area shape="rect" id="node8" href="$interfaceSCR__HighlightedEditorUIComponent.html" title="Is an highlighted icon which, if animated pulsates." alt="" coords="533,247,765,273"/>
+<area shape="rect" id="node9" href="$interfaceSCR__LayerEditableEntityUIComponent.html" title=" " alt="" coords="526,297,773,322"/>
+<area shape="rect" id="node10" href="$interfaceSCR__PlayerEditableEntityUIComponent.html" title=" " alt="" coords="562,347,737,387"/>
+<area shape="rect" id="node11" href="$interfaceSCR__VehicleEditableEntityUIComponent.html" title=" " alt="" coords="559,411,739,451"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,223,183,249"/>
+<area shape="rect" id="node6" href="$interfaceSCR__CharacterEditableEntityUIComponent.html" title=" " alt="" coords="823,133,1016,173"/>
+</map>

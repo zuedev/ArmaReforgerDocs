@@ -1,0 +1,7 @@
+<map id="SCR_EditableSpawnPointComponent" name="SCR_EditableSpawnPointComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="5,299,244,324"/>
+<area shape="rect" id="node2" href="$interfaceSCR__EditableDescriptorComponent.html" title=" " alt="" coords="11,225,239,251"/>
+<area shape="rect" id="node3" href="$interfaceSCR__EditableSystemComponent.html" title=" " alt="" coords="17,152,232,177"/>
+<area shape="rect" id="node4" href="$interfaceSCR__EditableEntityComponent.html" title="Component defining editable entity." alt="" coords="23,79,226,104"/>
+<area shape="rect" id="node5" title=" " alt="" coords="63,5,186,31"/>
+</map>

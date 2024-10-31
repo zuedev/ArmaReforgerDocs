@@ -1,0 +1,10 @@
+<map id="SCR_LoginProcessDialogUI" name="SCR_LoginProcessDialogUI">
+<area shape="rect" id="node1" title=" " alt="" coords="224,152,407,177"/>
+<area shape="rect" id="node4" href="$interfaceSCR__Login2FADialogUI.html" title=" " alt="" coords="53,225,212,251"/>
+<area shape="rect" id="node6" href="$interfaceSCR__LoginDialogUI.html" title=" " alt="" coords="248,225,383,251"/>
+<area shape="rect" id="node8" href="$interfaceSCR__PlayerProfileDialogUI.html" title=" " alt="" coords="407,225,584,251"/>
+<area shape="rect" id="node2" href="$interfaceSCR__ConfigurableDialogUi.html" title=" " alt="" coords="228,79,403,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="227,5,404,31"/>
+<area shape="rect" id="node5" href="$interfaceSCR__Login2FADialogConsoleUI.html" title=" " alt="" coords="5,299,212,324"/>
+<area shape="rect" id="node7" href="$interfaceSCR__LoginDialogConsoleUI.html" title=" " alt="" coords="236,299,419,324"/>
+</map>

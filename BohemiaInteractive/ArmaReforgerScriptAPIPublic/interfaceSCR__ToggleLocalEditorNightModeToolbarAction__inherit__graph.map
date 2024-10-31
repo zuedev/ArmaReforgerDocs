@@ -1,0 +1,6 @@
+<map id="SCR_ToggleLocalEditorNightModeToolbarAction" name="SCR_ToggleLocalEditorNightModeToolbarAction">
+<area shape="rect" id="node1" title=" " alt="" coords="12,225,201,265"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseToggleToolbarAction.html" title=" " alt="" coords="5,152,208,177"/>
+<area shape="rect" id="node3" href="$interfaceSCR__EditorToolbarAction.html" title=" " alt="" coords="22,79,191,104"/>
+<area shape="rect" id="node4" href="$interfaceSCR__BaseEditorAction.html" title="Base container class for all editor action types (ContextActions, WaypointActions,..." alt="" coords="28,5,185,31"/>
+</map>

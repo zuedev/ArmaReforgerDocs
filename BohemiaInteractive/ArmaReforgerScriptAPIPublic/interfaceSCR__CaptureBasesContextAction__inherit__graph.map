@@ -1,0 +1,6 @@
+<map id="SCR_CaptureBasesContextAction" name="SCR_CaptureBasesContextAction">
+<area shape="rect" id="node1" title=" " alt="" coords="5,240,225,265"/>
+<area shape="rect" id="node2" href="$interfaceSCR__SelectedEntitiesContextAction.html" title="Base container class for editor context actions which apply to selected entities." alt="" coords="17,152,213,192"/>
+<area shape="rect" id="node3" href="$interfaceSCR__BaseContextAction.html" title="Base container class for editor context actions." alt="" coords="31,79,199,104"/>
+<area shape="rect" id="node4" href="$interfaceSCR__BaseEditorAction.html" title="Base container class for all editor action types (ContextActions, WaypointActions,..." alt="" coords="37,5,194,31"/>
+</map>

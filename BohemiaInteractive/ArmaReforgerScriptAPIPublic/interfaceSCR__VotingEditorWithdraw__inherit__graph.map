@@ -1,0 +1,6 @@
+<map id="SCR_VotingEditorWithdraw" name="SCR_VotingEditorWithdraw">
+<area shape="rect" id="node1" title=" " alt="" coords="5,225,187,251"/>
+<area shape="rect" id="node2" href="$interfaceSCR__VotingEditorIn.html" title=" " alt="" coords="27,152,165,177"/>
+<area shape="rect" id="node3" href="$interfaceSCR__VotingReferendum.html" title="Referendum about specific outcome." alt="" coords="15,79,177,104"/>
+<area shape="rect" id="node4" href="$interfaceSCR__VotingBase.html" title="Base class for voting types." alt="" coords="35,5,157,31"/>
+</map>

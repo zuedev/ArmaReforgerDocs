@@ -1,0 +1,10 @@
+<map id="SCR_ScenarioFrameworkLayerTask" name="SCR_ScenarioFrameworkLayerTask">
+<area shape="rect" id="node1" title=" " alt="" coords="457,141,688,166"/>
+<area shape="rect" id="node4" href="$interfaceSCR__ScenarioFrameworkLayerTaskClearArea.html" title=" " alt="" coords="736,5,939,45"/>
+<area shape="rect" id="node5" href="$interfaceSCR__ScenarioFrameworkLayerTaskDefend.html" title=" " alt="" coords="736,69,939,109"/>
+<area shape="rect" id="node6" href="$interfaceSCR__ScenarioFrameworkLayerTaskDeliver.html" title=" " alt="" coords="736,133,939,173"/>
+<area shape="rect" id="node7" href="$interfaceSCR__ScenarioFrameworkLayerTaskDestroy.html" title=" " alt="" coords="736,197,939,237"/>
+<area shape="rect" id="node8" href="$interfaceSCR__ScenarioFrameworkLayerTaskKill.html" title=" " alt="" coords="736,261,939,301"/>
+<area shape="rect" id="node2" href="$interfaceSCR__ScenarioFrameworkLayerBase.html" title=" " alt="" coords="176,141,409,166"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,141,128,166"/>
+</map>

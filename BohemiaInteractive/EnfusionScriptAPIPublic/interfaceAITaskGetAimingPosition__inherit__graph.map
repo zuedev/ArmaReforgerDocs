@@ -1,0 +1,7 @@
+<map id="AITaskGetAimingPosition" name="AITaskGetAimingPosition">
+<area shape="rect" id="node1" title=" " alt="" coords="5,299,176,324"/>
+<area shape="rect" id="node2" href="$interfaceAITask.html" title=" " alt="" coords="59,225,122,251"/>
+<area shape="rect" id="node3" href="$interfaceNode.html" title=" " alt="" coords="65,152,117,177"/>
+<area shape="rect" id="node4" href="$interfaceScriptAndConfig.html" title="Base class for classes which combine enf::Class and enf::BaseClass (in C++)." alt="" coords="33,79,148,104"/>
+<area shape="rect" id="node5" href="$interfaceManaged.html" title=" " alt="" coords="53,5,128,31"/>
+</map>

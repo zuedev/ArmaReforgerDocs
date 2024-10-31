@@ -1,0 +1,6 @@
+<map id="SCR_TransportTaskSupportEntity" name="SCR_TransportTaskSupportEntity">
+<area shape="rect" id="node1" title=" " alt="" coords="11,240,193,280"/>
+<area shape="rect" id="node2" href="$interfaceSCR__RequestedTaskSupportEntity.html" title=" " alt="" coords="7,152,197,192"/>
+<area shape="rect" id="node3" href="$interfaceSCR__BaseTaskSupportEntity.html" title=" " alt="" coords="5,79,199,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="51,5,153,31"/>
+</map>

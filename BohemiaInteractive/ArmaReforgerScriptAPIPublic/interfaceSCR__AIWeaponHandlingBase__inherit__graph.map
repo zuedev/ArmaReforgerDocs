@@ -1,0 +1,7 @@
+<map id="SCR_AIWeaponHandlingBase" name="SCR_AIWeaponHandlingBase">
+<area shape="rect" id="node1" title="Base class for nodes which handle magazine switching." alt="" coords="169,79,365,104"/>
+<area shape="rect" id="node3" href="$interfaceSCR__AISwitchMagazine.html" title=" " alt="" coords="5,152,168,177"/>
+<area shape="rect" id="node4" href="$interfaceSCR__AISwitchMuzzle.html" title=" " alt="" coords="192,152,341,177"/>
+<area shape="rect" id="node5" href="$interfaceSCR__AISwitchWeapon.html" title=" " alt="" coords="365,152,520,177"/>
+<area shape="rect" id="node2" title=" " alt="" coords="211,5,322,31"/>
+</map>

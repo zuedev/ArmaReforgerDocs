@@ -1,0 +1,6 @@
+<map id="SCR_VehicleChatChannel" name="SCR_VehicleChatChannel">
+<area shape="rect" id="node1" title=" " alt="" coords="5,225,179,251"/>
+<area shape="rect" id="node2" href="$interfaceVehicleChatChannel.html" title=" " alt="" coords="23,152,161,177"/>
+<area shape="rect" id="node3" href="$interfaceBaseChatChannel.html" title=" " alt="" coords="29,79,155,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="35,5,149,31"/>
+</map>

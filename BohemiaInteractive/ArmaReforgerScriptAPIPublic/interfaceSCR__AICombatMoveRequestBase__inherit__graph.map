@@ -1,0 +1,7 @@
+<map id="SCR_AICombatMoveRequestBase" name="SCR_AICombatMoveRequestBase">
+<area shape="rect" id="node1" title=" " alt="" coords="5,106,227,131"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AICombatMoveRequest__ChangeStance.html" title=" " alt="" coords="293,5,484,45"/>
+<area shape="rect" id="node3" href="$interfaceSCR__AICombatMoveRequest__ChangeStanceInCover.html" title=" " alt="" coords="293,69,484,109"/>
+<area shape="rect" id="node4" href="$interfaceSCR__AICombatMoveRequest__Move.html" title=" " alt="" coords="275,134,503,159"/>
+<area shape="rect" id="node5" href="$interfaceSCR__AICombatMoveRequest__Stop.html" title=" " alt="" coords="276,183,501,209"/>
+</map>

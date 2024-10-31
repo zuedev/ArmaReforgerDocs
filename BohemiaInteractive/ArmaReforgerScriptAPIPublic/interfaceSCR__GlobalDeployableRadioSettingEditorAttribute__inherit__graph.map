@@ -1,0 +1,5 @@
+<map id="SCR_GlobalDeployableRadioSettingEditorAttribute" name="SCR_GlobalDeployableRadioSettingEditorAttribute">
+<area shape="rect" id="node1" title=" " alt="" coords="5,167,196,207"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseFloatValueHolderEditorAttribute.html" title="Attribute base for Name, icon and float value for other attributes to inherent from." alt="" coords="8,79,193,119"/>
+<area shape="rect" id="node3" href="$interfaceSCR__BaseEditorAttribute.html" title="Base Attribute Script for other attributes to inherent from to get and set varriables in Editor Attri..." alt="" coords="16,5,185,31"/>
+</map>

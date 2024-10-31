@@ -1,0 +1,6 @@
+<map id="SCR_AvailableActionsGroupCondition" name="SCR_AvailableActionsGroupCondition">
+<area shape="rect" id="node1" title="Base for any condition containing multiple sub&#45;conditions." alt="" coords="59,79,246,119"/>
+<area shape="rect" id="node3" href="$interfaceSCR__ANDCondition.html" title="Checks all sub conditions and returns true if all conditions return true, false otherwise." alt="" coords="5,167,143,192"/>
+<area shape="rect" id="node4" href="$interfaceSCR__ORCondition.html" title="Checks all sub conditions and returns true if at least one condition returns true,..." alt="" coords="167,167,296,192"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AvailableActionCondition.html" title="A single available action condition representation." alt="" coords="53,5,252,31"/>
+</map>

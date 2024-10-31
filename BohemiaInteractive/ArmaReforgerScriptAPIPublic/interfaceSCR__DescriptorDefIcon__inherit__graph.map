@@ -1,0 +1,5 @@
+<map id="SCR_DescriptorDefIcon" name="SCR_DescriptorDefIcon">
+<area shape="rect" id="node1" title="Descriptor icon type defaults." alt="" coords="22,79,181,104"/>
+<area shape="rect" id="node3" href="$interfaceSCR__DescriptorDefIconText.html" title="Descriptor icon with text type defaults." alt="" coords="10,152,193,177"/>
+<area shape="rect" id="node2" href="$interfaceSCR__DescriptorDefaultsBase.html" title="Configuration of descriptor defaults." alt="" coords="5,5,197,31"/>
+</map>

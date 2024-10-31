@@ -1,0 +1,5 @@
+<map id="SCR_SpawnPointRequestUIComponent" name="SCR_SpawnPointRequestUIComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="6,152,257,177"/>
+<area shape="rect" id="node2" href="$interfaceSCR__DeployRequestUIBaseComponent.html" title=" " alt="" coords="5,79,257,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="43,5,220,31"/>
+</map>

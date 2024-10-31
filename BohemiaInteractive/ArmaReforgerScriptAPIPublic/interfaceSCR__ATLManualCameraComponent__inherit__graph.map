@@ -1,0 +1,4 @@
+<map id="SCR_ATLManualCameraComponent" name="SCR_ATLManualCameraComponent">
+<area shape="rect" id="node1" title="Movement above terrain surface." alt="" coords="9,79,241,104"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseManualCameraComponent.html" title=" " alt="" coords="5,5,244,31"/>
+</map>

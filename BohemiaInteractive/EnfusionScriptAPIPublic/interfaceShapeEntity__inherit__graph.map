@@ -1,0 +1,8 @@
+<map id="ShapeEntity" name="ShapeEntity">
+<area shape="rect" id="node1" title=" " alt="" coords="107,225,200,251"/>
+<area shape="rect" id="node5" href="$interfacePolylineShapeEntity.html" title=" " alt="" coords="5,299,144,324"/>
+<area shape="rect" id="node6" href="$interfaceSplineShapeEntity.html" title=" " alt="" coords="169,299,298,324"/>
+<area shape="rect" id="node2" href="$interfaceGenericEntity.html" title="Base entity class." alt="" coords="103,152,204,177"/>
+<area shape="rect" id="node3" href="$interfaceIEntity.html" title=" " alt="" coords="124,79,183,104"/>
+<area shape="rect" id="node4" href="$interfaceManaged.html" title=" " alt="" coords="116,5,191,31"/>
+</map>

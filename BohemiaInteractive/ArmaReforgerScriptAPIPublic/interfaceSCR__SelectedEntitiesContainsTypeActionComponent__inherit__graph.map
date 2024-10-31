@@ -1,0 +1,4 @@
+<map id="SCR_SelectedEntitiesContainsTypeActionComponent" name="SCR_SelectedEntitiesContainsTypeActionComponent">
+<area shape="rect" id="node1" title="Returns true if any selected entities is a group." alt="" coords="5,79,208,119"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AvailableActionCondition.html" title="A single available action condition representation." alt="" coords="7,5,206,31"/>
+</map>

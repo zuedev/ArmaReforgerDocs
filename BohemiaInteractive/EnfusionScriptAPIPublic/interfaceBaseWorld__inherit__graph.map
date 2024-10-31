@@ -1,0 +1,5 @@
+<map id="BaseWorld" name="BaseWorld">
+<area shape="rect" id="node1" title=" " alt="" coords="5,79,92,104"/>
+<area shape="rect" id="node3" href="$interfaceWorld.html" title="derived class connected to gamelib to implement game related features" alt="" coords="21,152,77,177"/>
+<area shape="rect" id="node2" href="$interfacepointer.html" title="Plain C++ pointer, no weak pointers, no memory management." alt="" coords="18,5,79,31"/>
+</map>

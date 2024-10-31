@@ -1,0 +1,7 @@
+<map id="SCR_TurnOnAction" name="SCR_TurnOnAction">
+<area shape="rect" id="node1" title=" " alt="" coords="5,299,140,324"/>
+<area shape="rect" id="node2" href="$interfaceTurnOnUserAction.html" title=" " alt="" coords="9,225,137,251"/>
+<area shape="rect" id="node3" href="$interfaceScriptedUserAction.html" title=" " alt="" coords="5,152,140,177"/>
+<area shape="rect" id="node4" href="$interfaceBaseUserAction.html" title=" " alt="" coords="15,79,131,104"/>
+<area shape="rect" id="node5" title=" " alt="" coords="15,5,130,31"/>
+</map>

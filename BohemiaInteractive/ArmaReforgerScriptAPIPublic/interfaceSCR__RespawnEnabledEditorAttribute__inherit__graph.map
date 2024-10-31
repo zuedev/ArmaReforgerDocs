@@ -1,0 +1,4 @@
+<map id="SCR_RespawnEnabledEditorAttribute" name="SCR_RespawnEnabledEditorAttribute">
+<area shape="rect" id="node1" title="Respawn attribute to enable/disable respawn and respawn time, for getting and setting varriables in E..." alt="" coords="5,79,196,119"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseEditorAttribute.html" title="Base Attribute Script for other attributes to inherent from to get and set varriables in Editor Attri..." alt="" coords="16,5,185,31"/>
+</map>

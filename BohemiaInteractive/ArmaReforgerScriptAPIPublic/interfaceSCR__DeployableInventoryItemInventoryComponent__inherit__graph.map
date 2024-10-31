@@ -1,0 +1,6 @@
+<map id="SCR_DeployableInventoryItemInventoryComponent" name="SCR_DeployableInventoryItemInventoryComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="5,225,201,265"/>
+<area shape="rect" id="node2" href="$interfaceInventoryItemComponent.html" title=" " alt="" coords="21,152,185,177"/>
+<area shape="rect" id="node3" href="$interfaceGameComponent.html" title=" " alt="" coords="42,79,165,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="37,5,170,31"/>
+</map>

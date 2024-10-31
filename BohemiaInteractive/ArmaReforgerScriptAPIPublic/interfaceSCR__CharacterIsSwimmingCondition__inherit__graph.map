@@ -1,0 +1,4 @@
+<map id="SCR_CharacterIsSwimmingCondition" name="SCR_CharacterIsSwimmingCondition">
+<area shape="rect" id="node1" title="Returns true if character is swimming." alt="" coords="5,79,241,104"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AvailableActionCondition.html" title="A single available action condition representation." alt="" coords="24,5,223,31"/>
+</map>

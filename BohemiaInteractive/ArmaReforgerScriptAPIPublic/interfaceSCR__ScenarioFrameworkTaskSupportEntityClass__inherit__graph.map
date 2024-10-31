@@ -1,0 +1,11 @@
+<map id="SCR_ScenarioFrameworkTaskSupportEntityClass" name="SCR_ScenarioFrameworkTaskSupportEntityClass">
+<area shape="rect" id="node1" title=" " alt="" coords="429,165,628,205"/>
+<area shape="rect" id="node4" href="$interfaceSCR__ScenarioFrameworkTaskClearAreaSupportEntityClass.html" title=" " alt="" coords="676,5,875,45"/>
+<area shape="rect" id="node5" href="$interfaceSCR__ScenarioFrameworkTaskDefendSupportEntityClass.html" title=" " alt="" coords="676,69,875,109"/>
+<area shape="rect" id="node6" href="$interfaceSCR__ScenarioFrameworkTaskDeliverSupportEntityClass.html" title=" " alt="" coords="676,133,875,173"/>
+<area shape="rect" id="node7" href="$interfaceSCR__ScenarioFrameworkTaskDestroySupportEntityClass.html" title=" " alt="" coords="676,197,875,237"/>
+<area shape="rect" id="node8" href="$interfaceSCR__ScenarioFrameworkTaskExtractSupportEntityClass.html" title=" " alt="" coords="676,261,875,301"/>
+<area shape="rect" id="node9" href="$interfaceSCR__ScenarioFrameworkTaskKillSupportEntityClass.html" title=" " alt="" coords="676,325,875,365"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseTaskSupportEntityClass.html" title=" " alt="" coords="188,165,381,205"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,173,140,198"/>
+</map>

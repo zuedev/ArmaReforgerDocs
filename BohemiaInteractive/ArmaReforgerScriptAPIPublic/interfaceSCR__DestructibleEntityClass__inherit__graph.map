@@ -1,0 +1,9 @@
+<map id="SCR_DestructibleEntityClass" name="SCR_DestructibleEntityClass">
+<area shape="rect" id="node1" title=" " alt="" coords="9,152,201,177"/>
+<area shape="rect" id="node4" href="$interfacePowerPoleEntityClass.html" title=" " alt="" coords="29,225,180,251"/>
+<area shape="rect" id="node2" href="$interfaceDestructibleEntityClass.html" title=" " alt="" coords="25,79,184,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="25,5,184,31"/>
+<area shape="rect" id="node5" href="$interfaceSCR__PowerPoleClass.html" title=" " alt="" coords="29,299,180,324"/>
+<area shape="rect" id="node6" href="$interfaceSCR__JunctionPowerPoleClass.html" title=" " alt="" coords="5,372,204,397"/>
+<area shape="rect" id="node7" href="$interfaceSCR__BranchedJunctionPowerPoleClass.html" title=" " alt="" coords="7,445,202,485"/>
+</map>

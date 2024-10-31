@@ -1,0 +1,10 @@
+<map id="SCR_2DOpticsComponent" name="SCR_2DOpticsComponent">
+<area shape="rect" id="node1" title="Base class for 2D optics Unifiying binoculars and optic sight." alt="" coords="15,372,191,397"/>
+<area shape="rect" id="node7" href="$interfaceSCR__2DSightsComponent.html" title=" " alt="" coords="16,445,191,471"/>
+<area shape="rect" id="node2" href="$interfaceScriptedSightsComponent.html" title=" " alt="" coords="17,299,190,324"/>
+<area shape="rect" id="node3" href="$interfaceSightsComponent.html" title=" " alt="" coords="41,225,166,251"/>
+<area shape="rect" id="node4" href="$interfaceBaseSightsComponent.html" title=" " alt="" coords="26,152,181,177"/>
+<area shape="rect" id="node5" href="$interfaceGameComponent.html" title=" " alt="" coords="42,79,165,104"/>
+<area shape="rect" id="node6" title=" " alt="" coords="37,5,170,31"/>
+<area shape="rect" id="node8" href="$interfaceSCR__2DPIPSightsComponent.html" title=" " alt="" coords="5,519,201,544"/>
+</map>

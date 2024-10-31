@@ -1,0 +1,4 @@
+<map id="SCR_CharacterBloodAttributeDynamicDescription" name="SCR_CharacterBloodAttributeDynamicDescription">
+<area shape="rect" id="node1" title="Holds logic when a dynamic description to show a description if value is set above or below the Uncon..." alt="" coords="5,93,200,133"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseAttributeDynamicDescription.html" title="Holds logic when a dynamic description should be shown when attributes are hovered over." alt="" coords="9,5,196,45"/>
+</map>

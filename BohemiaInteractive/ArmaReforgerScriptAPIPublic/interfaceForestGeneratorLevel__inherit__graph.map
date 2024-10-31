@@ -1,0 +1,6 @@
+<map id="ForestGeneratorLevel" name="ForestGeneratorLevel">
+<area shape="rect" id="node1" title=" " alt="" coords="222,5,367,31"/>
+<area shape="rect" id="node2" href="$interfaceForestGeneratorBottomLevel.html" title=" " alt="" coords="5,79,192,104"/>
+<area shape="rect" id="node3" href="$interfaceForestGeneratorOutline.html" title=" " alt="" coords="216,79,373,104"/>
+<area shape="rect" id="node4" href="$interfaceForestGeneratorTopLevel.html" title=" " alt="" coords="398,79,565,104"/>
+</map>

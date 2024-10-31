@@ -1,0 +1,6 @@
+<map id="SCR_CaptureArea" name="SCR_CaptureArea">
+<area shape="rect" id="node1" title="Capture area is a trigger entity that provides callback and API in regards to characters entering and..." alt="" coords="31,225,159,251"/>
+<area shape="rect" id="node2" href="$interfaceScriptedGameTriggerEntity.html" title=" " alt="" coords="5,152,184,177"/>
+<area shape="rect" id="node3" href="$interfaceBaseGameTriggerEntity.html" title=" " alt="" coords="15,79,175,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="44,5,145,31"/>
+</map>

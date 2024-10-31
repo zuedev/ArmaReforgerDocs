@@ -1,0 +1,7 @@
+<map id="SCR_MoveTask" name="SCR_MoveTask">
+<area shape="rect" id="node1" title=" " alt="" coords="21,299,136,324"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AttachableTask.html" title=" " alt="" coords="5,225,152,251"/>
+<area shape="rect" id="node3" href="$interfaceSCR__EditorTask.html" title=" " alt="" coords="19,152,138,177"/>
+<area shape="rect" id="node4" href="$interfaceSCR__BaseTask.html" title="A base class for tasks." alt="" coords="21,79,136,104"/>
+<area shape="rect" id="node5" title=" " alt="" coords="28,5,129,31"/>
+</map>

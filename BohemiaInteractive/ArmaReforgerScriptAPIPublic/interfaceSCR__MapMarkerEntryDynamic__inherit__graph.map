@@ -1,0 +1,6 @@
+<map id="SCR_MapMarkerEntryDynamic" name="SCR_MapMarkerEntryDynamic">
+<area shape="rect" id="node1" title="Marker dynamic entry base." alt="" coords="125,79,328,104"/>
+<area shape="rect" id="node3" href="$interfaceSCR__MapMarkerEntryDynamicExample.html" title="Marker dynamic entry example Utilizes marker system to display player positions to everyone in the se..." alt="" coords="5,152,208,192"/>
+<area shape="rect" id="node4" href="$interfaceSCR__MapMarkerEntrySquadLeader.html" title="Squad leader marker entry." alt="" coords="233,159,461,185"/>
+<area shape="rect" id="node2" href="$interfaceSCR__MapMarkerEntryConfig.html" title="Base entry config." alt="" coords="133,5,321,31"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="SCR_WheelSlotComponent" name="SCR_WheelSlotComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="5,225,188,251"/>
+<area shape="rect" id="node2" href="$interfaceBaseSlotComponent.html" title=" " alt="" coords="26,152,167,177"/>
+<area shape="rect" id="node3" href="$interfaceGameComponent.html" title=" " alt="" coords="35,79,158,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="30,5,163,31"/>
+</map>

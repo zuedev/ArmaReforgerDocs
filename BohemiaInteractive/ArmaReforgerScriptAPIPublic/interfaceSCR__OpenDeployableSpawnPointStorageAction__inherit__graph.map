@@ -1,0 +1,8 @@
+<map id="SCR_OpenDeployableSpawnPointStorageAction" name="SCR_OpenDeployableSpawnPointStorageAction">
+<area shape="rect" id="node1" title=" " alt="" coords="5,372,225,412"/>
+<area shape="rect" id="node2" href="$interfaceSCR__OpenStorageAction.html" title="modded version for to be used with the inventory 2.0" alt="" coords="31,299,200,324"/>
+<area shape="rect" id="node3" href="$interfaceSCR__InventoryAction.html" title="modded version for to be used with the inventory 2.0" alt="" coords="43,225,187,251"/>
+<area shape="rect" id="node4" href="$interfaceScriptedUserAction.html" title=" " alt="" coords="48,152,183,177"/>
+<area shape="rect" id="node5" href="$interfaceBaseUserAction.html" title=" " alt="" coords="57,79,173,104"/>
+<area shape="rect" id="node6" title=" " alt="" coords="58,5,173,31"/>
+</map>

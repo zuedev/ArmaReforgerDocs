@@ -1,0 +1,11 @@
+<map id="AttachmentUnderBarrel" name="AttachmentUnderBarrel">
+<area shape="rect" id="node1" title=" " alt="" coords="237,152,394,177"/>
+<area shape="rect" id="node4" href="$interfaceAttachmentUnderBarrelGP25.html" title=" " alt="" coords="5,225,196,251"/>
+<area shape="rect" id="node5" href="$interfaceAttachmentUnderBarrelM203.html" title=" " alt="" coords="221,225,410,251"/>
+<area shape="rect" id="node6" href="$interfaceAttachmentUnderbarrelRIS1913.html" title=" " alt="" coords="435,225,639,251"/>
+<area shape="rect" id="node2" href="$interfaceBaseAttachmentType.html" title=" " alt="" coords="242,79,389,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="258,5,373,31"/>
+<area shape="rect" id="node7" href="$interfaceAttachmentRIS1913.html" title=" " alt="" coords="369,306,507,331"/>
+<area shape="rect" id="node9" href="$interfaceAttachmentUnderbarrelRIS1913Short.html" title=" " alt="" coords="532,299,736,339"/>
+<area shape="rect" id="node8" href="$interfaceAttachmentRIS1913Short.html" title=" " alt="" coords="353,387,523,412"/>
+</map>

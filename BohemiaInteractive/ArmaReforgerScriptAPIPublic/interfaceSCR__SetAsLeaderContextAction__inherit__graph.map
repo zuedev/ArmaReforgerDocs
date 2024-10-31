@@ -1,0 +1,5 @@
+<map id="SCR_SetAsLeaderContextAction" name="SCR_SetAsLeaderContextAction">
+<area shape="rect" id="node1" title=" " alt="" coords="5,152,219,177"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseContextAction.html" title="Base container class for editor context actions." alt="" coords="28,79,196,104"/>
+<area shape="rect" id="node3" href="$interfaceSCR__BaseEditorAction.html" title="Base container class for all editor action types (ContextActions, WaypointActions,..." alt="" coords="33,5,191,31"/>
+</map>

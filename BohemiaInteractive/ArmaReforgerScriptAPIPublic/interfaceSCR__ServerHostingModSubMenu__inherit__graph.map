@@ -1,0 +1,6 @@
+<map id="SCR_ServerHostingModSubMenu" name="SCR_ServerHostingModSubMenu">
+<area shape="rect" id="node1" title=" " alt="" coords="5,225,221,251"/>
+<area shape="rect" id="node2" href="$interfaceSCR__SubMenuBase.html" title=" " alt="" coords="43,152,184,177"/>
+<area shape="rect" id="node3" href="$interfaceSCR__ScriptedWidgetComponent.html" title=" " alt="" coords="8,79,219,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="25,5,202,31"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="SCR_MapCompassUI" name="SCR_MapCompassUI">
+<area shape="rect" id="node1" title="Compass in map UI." alt="" coords="26,225,174,251"/>
+<area shape="rect" id="node5" href="$interfaceSCR__MapCompassUIDeploy.html" title=" " alt="" coords="6,299,194,324"/>
+<area shape="rect" id="node2" href="$interfaceSCR__MapRTWBaseUI.html" title="Base map UI component for map tools which are using RenderTargetWidget to display." alt="" coords="24,152,176,177"/>
+<area shape="rect" id="node3" href="$interfaceSCR__MapUIBaseComponent.html" title=" " alt="" coords="5,79,195,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="11,5,189,31"/>
+</map>

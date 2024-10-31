@@ -1,0 +1,4 @@
+<map id="SCR_DescriptorDefInvisible" name="SCR_DescriptorDefInvisible">
+<area shape="rect" id="node1" title="Descriptor invisible type, for cursor interaction logic support while UI is handled by another system..." alt="" coords="12,79,191,104"/>
+<area shape="rect" id="node2" href="$interfaceSCR__DescriptorDefaultsBase.html" title="Configuration of descriptor defaults." alt="" coords="5,5,197,31"/>
+</map>

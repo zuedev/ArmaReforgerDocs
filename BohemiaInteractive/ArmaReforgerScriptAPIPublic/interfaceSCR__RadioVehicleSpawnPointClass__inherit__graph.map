@@ -1,0 +1,6 @@
+<map id="SCR_RadioVehicleSpawnPointClass" name="SCR_RadioVehicleSpawnPointClass">
+<area shape="rect" id="node1" title=" " alt="" coords="5,225,207,265"/>
+<area shape="rect" id="node2" href="$interfaceSCR__SpawnPointClass.html" title=" " alt="" coords="27,152,185,177"/>
+<area shape="rect" id="node3" href="$interfaceSCR__PositionClass.html" title=" " alt="" coords="38,79,174,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="39,5,173,31"/>
+</map>

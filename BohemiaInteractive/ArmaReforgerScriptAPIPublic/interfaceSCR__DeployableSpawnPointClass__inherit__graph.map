@@ -1,0 +1,7 @@
+<map id="SCR_DeployableSpawnPointClass" name="SCR_DeployableSpawnPointClass">
+<area shape="rect" id="node1" title=" " alt="" coords="5,225,195,265"/>
+<area shape="rect" id="node5" href="$interfaceSCR__RestrictedDeployableSpawnPointClass.html" title=" " alt="" coords="11,313,189,353"/>
+<area shape="rect" id="node2" href="$interfaceSCR__SpawnPointClass.html" title=" " alt="" coords="21,152,179,177"/>
+<area shape="rect" id="node3" href="$interfaceSCR__PositionClass.html" title=" " alt="" coords="32,79,168,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="33,5,167,31"/>
+</map>

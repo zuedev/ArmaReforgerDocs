@@ -1,0 +1,7 @@
+<map id="SCR_GenericCameraShakeProgress" name="SCR_GenericCameraShakeProgress">
+<area shape="rect" id="node1" title="This object implements generic way of applying camera shake, but does not implement any shaking by it..." alt="" coords="123,79,358,104"/>
+<area shape="rect" id="node3" href="$interfaceSCR__NoisyCameraShakeProgress.html" title="This object implements a pseudorandom camera shake." alt="" coords="5,152,228,177"/>
+<area shape="rect" id="node5" href="$interfaceSCR__RecoilCameraShakeProgress.html" title="This object allows advancing and simulating individual camera shake(s)." alt="" coords="253,152,479,177"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseCameraShakeProgress.html" title="Interface for simulating individual camera shake(s)." alt="" coords="131,5,351,31"/>
+<area shape="rect" id="node4" href="$interfaceSCR__BuildingDestructionCameraShakeProgress.html" title=" " alt="" coords="10,225,223,265"/>
+</map>

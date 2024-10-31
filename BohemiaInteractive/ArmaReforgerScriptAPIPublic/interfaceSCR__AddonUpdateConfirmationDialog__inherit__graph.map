@@ -1,0 +1,6 @@
+<map id="SCR_AddonUpdateConfirmationDialog" name="SCR_AddonUpdateConfirmationDialog">
+<area shape="rect" id="node1" title="Override downlad confirm dialog for handling addons update Always targets latest versions." alt="" coords="5,240,212,280"/>
+<area shape="rect" id="node2" href="$interfaceSCR__DownloadConfirmationDialog.html" title="Dialog for confirming multiple downloads in workshop." alt="" coords="17,152,201,192"/>
+<area shape="rect" id="node3" href="$interfaceSCR__ConfigurableDialogUi.html" title=" " alt="" coords="21,79,196,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="20,5,197,31"/>
+</map>

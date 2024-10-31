@@ -1,0 +1,7 @@
+<map id="SCR_EditableEntitySlotManagerUIComponent" name="SCR_EditableEntitySlotManagerUIComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="6,225,217,265"/>
+<area shape="rect" id="node5" href="$interfaceSCR__EntitiesEditorUIComponent.html" title=" " alt="" coords="5,313,217,339"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseEditorUIComponent.html" title=" " alt="" coords="12,152,211,177"/>
+<area shape="rect" id="node3" href="$interfaceMenuRootSubComponent.html" title="Widget component which is linked to menu it&#39;s part of." alt="" coords="26,79,197,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="23,5,200,31"/>
+</map>

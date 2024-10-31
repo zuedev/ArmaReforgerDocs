@@ -1,0 +1,6 @@
+<map id="AIWaypointCycleClass" name="AIWaypointCycleClass">
+<area shape="rect" id="node1" title=" " alt="" coords="5,225,160,251"/>
+<area shape="rect" id="node2" href="$interfaceAIWaypointClass.html" title=" " alt="" coords="21,152,144,177"/>
+<area shape="rect" id="node3" href="$interfaceGenericEntityClass.html" title=" " alt="" coords="15,79,150,104"/>
+<area shape="rect" id="node4" href="$interfaceEntityPrefabData.html" title="Shared object with constant data for enf::EntitySource from prefab." alt="" coords="23,5,143,31"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="SCR_AddonListDialog" name="SCR_AddonListDialog">
+<area shape="rect" id="node1" title="Shows a list of addons and some text." alt="" coords="453,106,604,131"/>
+<area shape="rect" id="node4" href="$interfaceSCR__DeleteAddonDependentAddonsDetected.html" title="This dialog is shown when we want to delete an addon but some other downloaded addons depend on it." alt="" coords="659,5,851,45"/>
+<area shape="rect" id="node5" href="$interfaceSCR__DisableDependentAddonsDialog.html" title="Dialog which is used when an addon is disabled but some dependent addons depend on it." alt="" coords="652,69,857,109"/>
+<area shape="rect" id="node6" href="$interfaceSCR__ReportedAddonsDialog.html" title="Show list of reported mods and provide option to cancel reports." alt="" coords="661,134,849,159"/>
+<area shape="rect" id="node7" href="$interfaceSCR__ServerDetailsDialog.html" title="Details with mod list to display all server mods." alt="" coords="671,183,839,209"/>
+<area shape="rect" id="node2" href="$interfaceSCR__ConfigurableDialogUi.html" title=" " alt="" coords="231,106,405,131"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,106,183,131"/>
+</map>

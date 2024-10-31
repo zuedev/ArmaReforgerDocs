@@ -1,0 +1,9 @@
+<map id="BaseCommandHandlerComponentClass" name="BaseCommandHandlerComponentClass">
+<area shape="rect" id="node1" title=" " alt="" coords="141,152,362,192"/>
+<area shape="rect" id="node4" href="$interfaceAnimalCommandHandlerComponentClass.html" title=" " alt="" coords="5,240,236,280"/>
+<area shape="rect" id="node5" href="$interfaceCharacterCommandHandlerComponentClass.html" title=" " alt="" coords="260,240,507,280"/>
+<area shape="rect" id="node2" href="$interfaceGameComponentClass.html" title=" " alt="" coords="173,79,329,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="168,5,335,31"/>
+<area shape="rect" id="node6" href="$interfaceSCR__CharacterCommandHandlerComponentClass.html" title=" " alt="" coords="276,328,491,368"/>
+<area shape="rect" id="node7" href="$interfaceSCR__CharacterCommandHandlerComponent__TestsClass.html" title=" " alt="" coords="276,416,491,456"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="RplExample1ComponentColorAnimClass" name="RplExample1ComponentColorAnimClass">
+<area shape="rect" id="node1" title="[Replication example common shape]" alt="" coords="5,225,200,265"/>
+<area shape="rect" id="node2" href="$interfaceScriptComponentClass.html" title=" " alt="" coords="25,152,180,177"/>
+<area shape="rect" id="node3" href="$interfaceGenericComponentClass.html" title=" " alt="" coords="19,79,186,104"/>
+<area shape="rect" id="node4" href="$interfaceEntityComponentPrefabData.html" title="Shared object with constant data for components from prefab." alt="" coords="9,5,196,31"/>
+</map>

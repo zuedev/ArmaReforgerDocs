@@ -1,0 +1,6 @@
+<map id="SpawnDistanceParticleEffect" name="SpawnDistanceParticleEffect">
+<area shape="rect" id="node1" title=" " alt="" coords="5,225,195,251"/>
+<area shape="rect" id="node2" href="$interfaceSpawnParticleEffect.html" title=" " alt="" coords="31,152,169,177"/>
+<area shape="rect" id="node3" href="$interfaceBaseProjectileEffect.html" title=" " alt="" coords="31,79,169,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="43,5,157,31"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="SCR_BaseDeployableInventoryItemComponentClass" name="SCR_BaseDeployableInventoryItemComponentClass">
+<area shape="rect" id="node1" title=" " alt="" coords="14,79,215,119"/>
+<area shape="rect" id="node3" href="$interfaceSCR__BaseDeployableSpawnPointComponentClass.html" title=" " alt="" coords="5,167,224,207"/>
+<area shape="rect" id="node2" title=" " alt="" coords="37,5,192,31"/>
+<area shape="rect" id="node4" href="$interfaceSCR__RestrictedDeployableSpawnPointComponentClass.html" title=" " alt="" coords="19,255,210,295"/>
+</map>

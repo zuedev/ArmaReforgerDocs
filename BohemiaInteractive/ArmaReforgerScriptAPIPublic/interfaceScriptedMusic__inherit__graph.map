@@ -1,0 +1,13 @@
+<map id="ScriptedMusic" name="ScriptedMusic">
+<area shape="rect" id="node1" title=" " alt="" coords="273,161,379,187"/>
+<area shape="rect" id="node4" href="$interfaceLocationMusic.html" title=" " alt="" coords="473,5,580,31"/>
+<area shape="rect" id="node6" href="$interfaceSCR__BaseCaptureMusic.html" title=" " alt="" coords="443,55,610,80"/>
+<area shape="rect" id="node7" href="$interfaceSCR__DeathMusic.html" title=" " alt="" coords="464,104,589,129"/>
+<area shape="rect" id="node8" href="$interfaceSCR__EnterEnemyMilitaryBaseMusic.html" title=" " alt="" coords="427,154,627,194"/>
+<area shape="rect" id="node9" href="$interfaceSCR__GameEndMusic.html" title=" " alt="" coords="452,219,601,244"/>
+<area shape="rect" id="node10" href="$interfaceSCR__RespawnMusic.html" title=" " alt="" coords="455,268,599,293"/>
+<area shape="rect" id="node11" href="$interfaceSCR__SpawnMusic.html" title=" " alt="" coords="461,317,592,343"/>
+<area shape="rect" id="node2" href="$interfaceMusic.html" title=" " alt="" coords="168,161,225,187"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,161,120,187"/>
+<area shape="rect" id="node5" href="$interfaceSCR__LocationMusic.html" title=" " alt="" coords="675,5,815,31"/>
+</map>

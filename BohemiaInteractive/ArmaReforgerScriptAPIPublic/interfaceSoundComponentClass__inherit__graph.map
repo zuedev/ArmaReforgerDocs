@@ -1,0 +1,21 @@
+<map id="SoundComponentClass" name="SoundComponentClass">
+<area shape="rect" id="node1" title=" " alt="" coords="488,297,647,322"/>
+<area shape="rect" id="node4" href="$interfaceAmbientSoundsComponentClass.html" title=" " alt="" coords="697,13,910,38"/>
+<area shape="rect" id="node6" href="$interfaceAnimalSoundComponentClass.html" title=" " alt="" coords="704,62,903,87"/>
+<area shape="rect" id="node7" href="$interfaceCharacterSoundComponentClass.html" title=" " alt="" coords="696,111,911,137"/>
+<area shape="rect" id="node8" href="$interfaceCommunicationSoundComponentClass.html" title=" " alt="" coords="696,161,911,201"/>
+<area shape="rect" id="node10" href="$interfaceProjectileSoundComponentClass.html" title=" " alt="" coords="714,225,893,265"/>
+<area shape="rect" id="node12" href="$interfaceRadioBroadcastSoundComponentClass.html" title=" " alt="" coords="695,289,912,329"/>
+<area shape="rect" id="node13" href="$interfaceSCR__BellSoundComponentClass.html" title=" " alt="" coords="696,354,911,379"/>
+<area shape="rect" id="node14" href="$interfaceSCR__BuildingSoundComponentClass.html" title=" " alt="" coords="701,404,906,444"/>
+<area shape="rect" id="node15" href="$interfaceSCR__CampaignSoundComponentClass.html" title=" " alt="" coords="695,468,912,508"/>
+<area shape="rect" id="node16" href="$interfaceVehicleSoundComponentClass.html" title=" " alt="" coords="703,533,904,558"/>
+<area shape="rect" id="node19" href="$interfaceWeaponSoundComponentClass.html" title=" " alt="" coords="700,582,907,607"/>
+<area shape="rect" id="node2" href="$interfaceSimpleSoundComponentClass.html" title=" " alt="" coords="241,297,440,322"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,297,193,322"/>
+<area shape="rect" id="node5" href="$interfaceSCR__AmbientSoundsComponentClass.html" title=" " alt="" coords="977,5,1192,45"/>
+<area shape="rect" id="node9" href="$interfaceSCR__CommunicationSoundComponentClass.html" title=" " alt="" coords="960,161,1209,201"/>
+<area shape="rect" id="node11" href="$interfaceSCR__ShellSoundComponentClass.html" title=" " alt="" coords="974,233,1195,258"/>
+<area shape="rect" id="node17" href="$interfaceSCR__VehicleSoundComponentClass.html" title=" " alt="" coords="983,525,1186,565"/>
+<area shape="rect" id="node18" href="$interfaceSCR__HelicopterSoundComponentClass.html" title=" " alt="" coords="1257,525,1475,565"/>
+</map>

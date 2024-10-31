@@ -1,0 +1,10 @@
+<map id="SCR_BaseModeEditorUIComponent" name="SCR_BaseModeEditorUIComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="449,104,680,129"/>
+<area shape="rect" id="node4" href="$interfaceSCR__AdminModeEditorUIComponent.html" title=" " alt="" coords="739,5,976,31"/>
+<area shape="rect" id="node5" href="$interfaceSCR__CommandModeEditorUIComponent.html" title=" " alt="" coords="728,55,987,80"/>
+<area shape="rect" id="node6" href="$interfaceSCR__EditModeEditorUIComponent.html" title=" " alt="" coords="746,104,969,129"/>
+<area shape="rect" id="node7" href="$interfaceSCR__PhotoModeEditorUIComponent.html" title=" " alt="" coords="740,153,975,179"/>
+<area shape="rect" id="node8" href="$interfaceSCR__SpectateModeEditorUIComponent.html" title=" " alt="" coords="731,203,983,228"/>
+<area shape="rect" id="node2" href="$interfaceMenuRootSubComponent.html" title="Widget component which is linked to menu it&#39;s part of." alt="" coords="231,104,401,129"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,104,183,129"/>
+</map>

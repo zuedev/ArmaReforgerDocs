@@ -1,0 +1,9 @@
+<map id="BasicGraphWidget" name="BasicGraphWidget">
+<area shape="rect" id="node1" title=" " alt="" coords="50,225,181,251"/>
+<area shape="rect" id="node5" href="$interfaceRingBufferGraphWidget.html" title=" " alt="" coords="37,299,194,324"/>
+<area shape="rect" id="node2" href="$interfaceUIWidget.html" title=" " alt="" coords="78,152,153,177"/>
+<area shape="rect" id="node3" href="$interfaceWidget.html" title=" " alt="" coords="84,79,147,104"/>
+<area shape="rect" id="node4" href="$interfaceManaged.html" title=" " alt="" coords="78,5,153,31"/>
+<area shape="rect" id="node6" href="$interfaceTimeBasedGraphWidget.html" title=" " alt="" coords="34,372,197,397"/>
+<area shape="rect" id="node7" href="$interfaceTimeBasedGraphWithAxesWidget.html" title=" " alt="" coords="5,445,225,471"/>
+</map>

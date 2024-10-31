@@ -1,0 +1,6 @@
+<map id="SCR_GameModeCleanSweep" name="SCR_GameModeCleanSweep">
+<area shape="rect" id="node1" title=" " alt="" coords="5,225,200,251"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseGameMode.html" title=" " alt="" coords="26,152,179,177"/>
+<area shape="rect" id="node3" href="$interfaceBaseGameMode.html" title=" " alt="" coords="43,79,162,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="52,5,153,31"/>
+</map>

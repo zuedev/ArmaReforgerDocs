@@ -1,0 +1,5 @@
+<map id="SCR_MapMarkerManagerComponent" name="SCR_MapMarkerManagerComponent">
+<area shape="rect" id="node1" title="Map marker manager, keeps array of markers and takes care of synchronization Attached to GameMode ent..." alt="" coords="5,152,243,177"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseGameModeComponent.html" title="Interface for game mode extending components." alt="" coords="15,79,233,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="63,5,185,31"/>
+</map>

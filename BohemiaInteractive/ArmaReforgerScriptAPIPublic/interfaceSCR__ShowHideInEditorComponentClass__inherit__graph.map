@@ -1,0 +1,4 @@
+<map id="SCR_ShowHideInEditorComponentClass" name="SCR_ShowHideInEditorComponentClass">
+<area shape="rect" id="node1" title="Used to hide Entities that are not editable entities but should still listen to the Editor functional..." alt="" coords="5,79,229,119"/>
+<area shape="rect" id="node2" title=" " alt="" coords="40,5,195,31"/>
+</map>

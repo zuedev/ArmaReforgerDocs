@@ -1,0 +1,7 @@
+<map id="SCR_ScenarioFrameworkSlotPick" name="SCR_ScenarioFrameworkSlotPick">
+<area shape="rect" id="node1" title=" " alt="" coords="12,299,232,324"/>
+<area shape="rect" id="node2" href="$interfaceSCR__ScenarioFrameworkSlotTask.html" title=" " alt="" coords="11,225,233,251"/>
+<area shape="rect" id="node3" href="$interfaceSCR__ScenarioFrameworkSlotBase.html" title=" " alt="" coords="10,152,234,177"/>
+<area shape="rect" id="node4" href="$interfaceSCR__ScenarioFrameworkLayerBase.html" title=" " alt="" coords="5,79,239,104"/>
+<area shape="rect" id="node5" title=" " alt="" coords="61,5,183,31"/>
+</map>

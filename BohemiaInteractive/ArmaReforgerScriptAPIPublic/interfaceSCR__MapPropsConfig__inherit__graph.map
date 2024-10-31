@@ -1,0 +1,13 @@
+<map id="SCR_MapPropsConfig" name="SCR_MapPropsConfig">
+<area shape="rect" id="node1" title="Property type base." alt="" coords="5,228,156,253"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AreaPropsConfig.html" title="Configuration of area props." alt="" coords="223,5,376,31"/>
+<area shape="rect" id="node3" href="$interfaceSCR__BuildingPropsConfig.html" title="Configuration of building props." alt="" coords="213,55,385,80"/>
+<area shape="rect" id="node4" href="$interfaceSCR__ContourPropsConfig.html" title="Configuration of contour props." alt="" coords="214,104,385,129"/>
+<area shape="rect" id="node5" href="$interfaceSCR__DrawingPropsConfig.html" title="Configuration of drawing props." alt="" coords="213,153,385,179"/>
+<area shape="rect" id="node6" href="$interfaceSCR__GridPropsConfig.html" title="Configuration of grid props." alt="" coords="224,203,375,228"/>
+<area shape="rect" id="node7" href="$interfaceSCR__HillPropsConfig.html" title="Configuration of hill props." alt="" coords="227,252,371,277"/>
+<area shape="rect" id="node8" href="$interfaceSCR__LegendPropsConfig.html" title="Configuration of legend props." alt="" coords="215,301,383,327"/>
+<area shape="rect" id="node9" href="$interfaceSCR__PowerlinePropsConfig.html" title="Configuration of powerline props." alt="" coords="208,351,391,376"/>
+<area shape="rect" id="node10" href="$interfaceSCR__RoadPropsConfig.html" title="Configuration of road props." alt="" coords="221,400,377,425"/>
+<area shape="rect" id="node11" href="$interfaceSCR__WaterBodyPropsConfig.html" title="Configuration of water body props." alt="" coords="204,449,395,475"/>
+</map>

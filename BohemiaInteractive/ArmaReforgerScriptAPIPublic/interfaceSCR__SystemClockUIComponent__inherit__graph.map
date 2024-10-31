@@ -1,0 +1,4 @@
+<map id="SCR_SystemClockUIComponent" name="SCR_SystemClockUIComponent">
+<area shape="rect" id="node1" title="Gets the System time of the player&#39;s pc and displays it on an UI text element." alt="" coords="5,79,217,104"/>
+<area shape="rect" id="node2" title=" " alt="" coords="23,5,200,31"/>
+</map>

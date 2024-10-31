@@ -1,0 +1,7 @@
+<map id="SCR_ContextMenuActionsEditorUIComponent" name="SCR_ContextMenuActionsEditorUIComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="5,313,216,353"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseContextMenuEditorUIComponent.html" title=" " alt="" coords="12,225,209,265"/>
+<area shape="rect" id="node3" href="$interfaceSCR__BaseEditorUIComponent.html" title=" " alt="" coords="11,152,210,177"/>
+<area shape="rect" id="node4" href="$interfaceMenuRootSubComponent.html" title="Widget component which is linked to menu it&#39;s part of." alt="" coords="25,79,196,104"/>
+<area shape="rect" id="node5" title=" " alt="" coords="22,5,199,31"/>
+</map>

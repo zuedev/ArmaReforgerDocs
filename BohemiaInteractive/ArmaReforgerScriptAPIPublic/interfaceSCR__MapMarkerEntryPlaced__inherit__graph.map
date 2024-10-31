@@ -1,0 +1,4 @@
+<map id="SCR_MapMarkerEntryPlaced" name="SCR_MapMarkerEntryPlaced">
+<area shape="rect" id="node1" title="Marker entry which can be placed through map." alt="" coords="5,79,197,104"/>
+<area shape="rect" id="node2" href="$interfaceSCR__MapMarkerEntryConfig.html" title="Base entry config." alt="" coords="7,5,195,31"/>
+</map>

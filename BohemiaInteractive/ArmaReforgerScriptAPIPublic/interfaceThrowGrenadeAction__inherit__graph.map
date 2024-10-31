@@ -1,0 +1,6 @@
+<map id="ThrowGrenadeAction" name="ThrowGrenadeAction">
+<area shape="rect" id="node1" title=" " alt="" coords="5,225,148,251"/>
+<area shape="rect" id="node2" href="$interfaceScriptedUserAction.html" title=" " alt="" coords="9,152,144,177"/>
+<area shape="rect" id="node3" href="$interfaceBaseUserAction.html" title=" " alt="" coords="19,79,135,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="19,5,134,31"/>
+</map>

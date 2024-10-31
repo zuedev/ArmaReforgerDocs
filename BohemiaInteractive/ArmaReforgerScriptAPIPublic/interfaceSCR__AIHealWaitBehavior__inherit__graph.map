@@ -1,0 +1,7 @@
+<map id="SCR_AIHealWaitBehavior" name="SCR_AIHealWaitBehavior">
+<area shape="rect" id="node1" title="Behavior for waiting until AI is healed by someone else." alt="" coords="5,299,176,324"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AIBehaviorBase.html" title=" " alt="" coords="17,225,164,251"/>
+<area shape="rect" id="node3" href="$interfaceSCR__AIActionBase.html" title=" " alt="" coords="23,152,158,177"/>
+<area shape="rect" id="node4" href="$interfaceAIActionBase.html" title=" " alt="" coords="40,79,141,104"/>
+<area shape="rect" id="node5" title=" " alt="" coords="33,5,148,31"/>
+</map>

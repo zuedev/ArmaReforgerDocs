@@ -1,0 +1,7 @@
+<map id="TextWidget" name="TextWidget">
+<area shape="rect" id="node1" title="Widget representing text." alt="" coords="120,152,208,177"/>
+<area shape="rect" id="node4" href="$interfaceMultilineEditBoxWidget.html" title=" " alt="" coords="5,225,163,251"/>
+<area shape="rect" id="node5" href="$interfaceRichTextWidget.html" title=" " alt="" coords="187,225,301,251"/>
+<area shape="rect" id="node2" href="$interfaceWidget.html" title=" " alt="" coords="133,79,195,104"/>
+<area shape="rect" id="node3" href="$interfaceManaged.html" title=" " alt="" coords="127,5,201,31"/>
+</map>

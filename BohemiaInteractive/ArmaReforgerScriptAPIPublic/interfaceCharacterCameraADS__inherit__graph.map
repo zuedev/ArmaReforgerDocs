@@ -1,0 +1,7 @@
+<map id="CharacterCameraADS" name="CharacterCameraADS">
+<area shape="rect" id="node1" title=" " alt="" coords="27,225,177,251"/>
+<area shape="rect" id="node5" href="$interfaceCharacterCameraADSVehicle.html" title=" " alt="" coords="5,299,199,324"/>
+<area shape="rect" id="node2" href="$interfaceCharacterCameraBase.html" title=" " alt="" coords="25,152,179,177"/>
+<area shape="rect" id="node3" href="$interfaceScriptedCameraItem.html" title=" " alt="" coords="32,79,172,104"/>
+<area shape="rect" id="node4" href="$interfaceBaseScriptedCameraItem.html" title=" " alt="" coords="17,5,187,31"/>
+</map>

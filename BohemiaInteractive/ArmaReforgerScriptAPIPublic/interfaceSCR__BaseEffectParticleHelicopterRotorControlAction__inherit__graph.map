@@ -1,0 +1,4 @@
+<map id="SCR_BaseEffectParticleHelicopterRotorControlAction" name="SCR_BaseEffectParticleHelicopterRotorControlAction">
+<area shape="rect" id="node1" title="Specific action which controls the particles from the rotor wash." alt="" coords="5,79,227,119"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseEffectParticleAction.html" title=" " alt="" coords="16,5,216,31"/>
+</map>

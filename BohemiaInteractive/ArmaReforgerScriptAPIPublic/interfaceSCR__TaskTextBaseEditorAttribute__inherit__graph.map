@@ -1,0 +1,8 @@
+<map id="SCR_TaskTextBaseEditorAttribute" name="SCR_TaskTextBaseEditorAttribute">
+<area shape="rect" id="node1" title=" " alt="" coords="223,109,445,134"/>
+<area shape="rect" id="node3" href="$interfaceSCR__TaskTextAttackEditorAttribute.html" title=" " alt="" coords="514,5,695,45"/>
+<area shape="rect" id="node4" href="$interfaceSCR__TaskTextCustomEditorAttribute.html" title=" " alt="" coords="511,69,699,109"/>
+<area shape="rect" id="node5" href="$interfaceSCR__TaskTextDefendEditorAttribute.html" title=" " alt="" coords="513,133,696,173"/>
+<area shape="rect" id="node6" href="$interfaceSCR__TaskTextMoveEditorAttribute.html" title=" " alt="" coords="493,198,716,223"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseEditorAttribute.html" title="Base Attribute Script for other attributes to inherent from to get and set varriables in Editor Attri..." alt="" coords="5,109,175,134"/>
+</map>

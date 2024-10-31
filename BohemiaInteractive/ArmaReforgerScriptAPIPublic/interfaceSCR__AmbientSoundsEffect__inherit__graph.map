@@ -1,0 +1,5 @@
+<map id="SCR_AmbientSoundsEffect" name="SCR_AmbientSoundsEffect">
+<area shape="rect" id="node1" title=" " alt="" coords="127,5,309,31"/>
+<area shape="rect" id="node2" href="$interfaceSCR__LoopedPositionalSounds.html" title="Handles looped sounds such as leaves rustles, or crickets played on entities close to camera." alt="" coords="5,79,204,104"/>
+<area shape="rect" id="node3" href="$interfaceSCR__RandomPositionalSounds.html" title="Spawns sounds arround camera based on define behaviour Basic building blocks are: SCR_SoundGroup defi..." alt="" coords="229,79,434,104"/>
+</map>

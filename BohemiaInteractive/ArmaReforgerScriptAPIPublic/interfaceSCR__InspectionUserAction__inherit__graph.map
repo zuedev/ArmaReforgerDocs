@@ -1,0 +1,10 @@
+<map id="SCR_InspectionUserAction" name="SCR_InspectionUserAction">
+<area shape="rect" id="node1" title=" " alt="" coords="707,55,885,80"/>
+<area shape="rect" id="node6" href="$interfaceSCR__DetachMagazineUserAction.html" title=" " alt="" coords="933,5,1151,31"/>
+<area shape="rect" id="node7" href="$interfaceSCR__FireModeSwitchUserAction.html" title=" " alt="" coords="935,55,1149,80"/>
+<area shape="rect" id="node8" href="$interfaceSCR__ToggleSafetyUserAction.html" title=" " alt="" coords="945,104,1139,129"/>
+<area shape="rect" id="node2" href="$interfaceSCR__InventoryAction.html" title="modded version for to be used with the inventory 2.0" alt="" coords="515,55,659,80"/>
+<area shape="rect" id="node3" href="$interfaceScriptedUserAction.html" title=" " alt="" coords="332,55,467,80"/>
+<area shape="rect" id="node4" href="$interfaceBaseUserAction.html" title=" " alt="" coords="168,55,284,80"/>
+<area shape="rect" id="node5" title=" " alt="" coords="5,55,120,80"/>
+</map>

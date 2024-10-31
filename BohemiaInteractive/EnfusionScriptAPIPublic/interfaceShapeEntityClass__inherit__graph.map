@@ -1,0 +1,7 @@
+<map id="ShapeEntityClass" name="ShapeEntityClass">
+<area shape="rect" id="node1" title=" " alt="" coords="124,152,251,177"/>
+<area shape="rect" id="node4" href="$interfacePolylineShapeEntityClass.html" title=" " alt="" coords="5,225,177,251"/>
+<area shape="rect" id="node5" href="$interfaceSplineShapeEntityClass.html" title=" " alt="" coords="202,225,365,251"/>
+<area shape="rect" id="node2" href="$interfaceGenericEntityClass.html" title=" " alt="" coords="120,79,255,104"/>
+<area shape="rect" id="node3" href="$interfaceEntityPrefabData.html" title="Shared object with constant data for enf::EntitySource from prefab." alt="" coords="127,5,247,31"/>
+</map>

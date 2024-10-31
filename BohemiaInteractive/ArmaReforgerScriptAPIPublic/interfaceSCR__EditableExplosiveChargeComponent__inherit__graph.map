@@ -1,0 +1,6 @@
+<map id="SCR_EditableExplosiveChargeComponent" name="SCR_EditableExplosiveChargeComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="13,225,212,265"/>
+<area shape="rect" id="node2" href="$interfaceSCR__EditableSystemComponent.html" title=" " alt="" coords="5,152,220,177"/>
+<area shape="rect" id="node3" href="$interfaceSCR__EditableEntityComponent.html" title="Component defining editable entity." alt="" coords="11,79,214,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="51,5,174,31"/>
+</map>

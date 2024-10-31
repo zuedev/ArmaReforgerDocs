@@ -1,0 +1,6 @@
+<map id="SCR_RoleSelectionMenu" name="SCR_RoleSelectionMenu">
+<area shape="rect" id="node1" title="Role selection menu for setting up player faction, group and loadout." alt="" coords="5,225,173,251"/>
+<area shape="rect" id="node2" href="$interfaceSCR__DeployMenuBase.html" title="Base deploy menu class." alt="" coords="10,152,169,177"/>
+<area shape="rect" id="node3" href="$interfaceChimeraMenuBase.html" title="Constant variables used in various menus." alt="" coords="23,79,155,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="47,5,131,31"/>
+</map>

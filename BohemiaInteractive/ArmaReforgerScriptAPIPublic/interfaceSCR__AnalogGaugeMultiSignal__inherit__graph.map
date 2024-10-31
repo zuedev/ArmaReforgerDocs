@@ -1,0 +1,11 @@
+<map id="SCR_AnalogGaugeMultiSignal" name="SCR_AnalogGaugeMultiSignal">
+<area shape="rect" id="node1" title="gauge showing the sum of more than one signal" alt="" coords="5,592,204,617"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AnalogGaugeSmall.html" title=" " alt="" coords="21,519,188,544"/>
+<area shape="rect" id="node3" href="$interfaceSCR__AnalogGauge.html" title=" " alt="" coords="37,445,172,471"/>
+<area shape="rect" id="node4" href="$interfaceSCR__BaseAnalogGauge.html" title=" " alt="" coords="23,372,187,397"/>
+<area shape="rect" id="node5" href="$interfaceSCR__InfoDisplayExtended.html" title=" " alt="" coords="17,299,192,324"/>
+<area shape="rect" id="node6" href="$interfaceSCR__InfoDisplay.html" title=" " alt="" coords="45,225,164,251"/>
+<area shape="rect" id="node7" href="$interfaceGroupInfoDisplay.html" title=" " alt="" coords="45,152,165,177"/>
+<area shape="rect" id="node8" href="$interfaceBaseInfoDisplay.html" title=" " alt="" coords="47,79,162,104"/>
+<area shape="rect" id="node9" title=" " alt="" coords="47,5,162,31"/>
+</map>

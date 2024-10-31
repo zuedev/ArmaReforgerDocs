@@ -1,0 +1,7 @@
+<map id="SCR_HealthCharacterEditorAttribute" name="SCR_HealthCharacterEditorAttribute">
+<area shape="rect" id="node1" title=" " alt="" coords="25,313,208,353"/>
+<area shape="rect" id="node2" href="$interfaceSCR__HealthEditorAttribute.html" title="Entity Health Attribute for getting and setting varriables in Editor Attribute window." alt="" coords="29,240,205,265"/>
+<area shape="rect" id="node3" href="$interfaceSCR__ValidTypeBaseValueListEditorAttribute.html" title=" " alt="" coords="18,152,215,192"/>
+<area shape="rect" id="node4" href="$interfaceSCR__BaseValueListEditorAttribute.html" title="Attribute base for slider values for other attributes to inherent from." alt="" coords="5,79,228,104"/>
+<area shape="rect" id="node5" href="$interfaceSCR__BaseEditorAttribute.html" title="Base Attribute Script for other attributes to inherent from to get and set varriables in Editor Attri..." alt="" coords="32,5,201,31"/>
+</map>

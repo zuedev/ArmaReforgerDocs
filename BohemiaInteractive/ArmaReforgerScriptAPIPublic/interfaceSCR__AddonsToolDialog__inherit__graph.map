@@ -1,0 +1,6 @@
+<map id="SCR_AddonsToolDialog" name="SCR_AddonsToolDialog">
+<area shape="rect" id="node1" title="Dialog with multiple addons tool for addons manager." alt="" coords="5,225,165,251"/>
+<area shape="rect" id="node2" href="$interfaceDialogUI.html" title=" " alt="" coords="50,152,121,177"/>
+<area shape="rect" id="node3" href="$interfaceChimeraMenuBase.html" title="Constant variables used in various menus." alt="" coords="19,79,151,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="43,5,127,31"/>
+</map>

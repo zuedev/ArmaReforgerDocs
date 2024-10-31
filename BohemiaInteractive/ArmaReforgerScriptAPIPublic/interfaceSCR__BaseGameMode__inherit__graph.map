@@ -1,0 +1,10 @@
+<map id="SCR_BaseGameMode" name="SCR_BaseGameMode">
+<area shape="rect" id="node1" title=" " alt="" coords="321,104,475,129"/>
+<area shape="rect" id="node4" href="$interfaceSCR__GameModeCampaign.html" title=" " alt="" coords="533,5,715,31"/>
+<area shape="rect" id="node5" href="$interfaceSCR__GameModeCleanSweep.html" title=" " alt="" coords="527,55,721,80"/>
+<area shape="rect" id="node6" href="$interfaceSCR__GameModeEditor.html" title=" " alt="" coords="545,104,703,129"/>
+<area shape="rect" id="node7" href="$interfaceSCR__GameModeLastStand.html" title=" " alt="" coords="533,153,715,179"/>
+<area shape="rect" id="node8" href="$interfaceSCR__GameModeSectorControl.html" title="Encapsulates the team sector control game mode functionality." alt="" coords="523,203,725,228"/>
+<area shape="rect" id="node2" href="$interfaceBaseGameMode.html" title=" " alt="" coords="155,104,273,129"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,104,107,129"/>
+</map>

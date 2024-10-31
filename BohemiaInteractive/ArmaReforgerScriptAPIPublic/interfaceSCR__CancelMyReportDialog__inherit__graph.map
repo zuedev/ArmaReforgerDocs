@@ -1,0 +1,5 @@
+<map id="SCR_CancelMyReportDialog" name="SCR_CancelMyReportDialog">
+<area shape="rect" id="node1" title="Dialog which sends a request to delete user&#39;s report." alt="" coords="5,152,193,177"/>
+<area shape="rect" id="node2" href="$interfaceSCR__ConfigurableDialogUi.html" title=" " alt="" coords="12,79,187,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="11,5,188,31"/>
+</map>

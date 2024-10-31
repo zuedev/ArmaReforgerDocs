@@ -1,0 +1,5 @@
+<map id="SCR_EditorContentBrowserSaveStateDataUIHQ" name="SCR_EditorContentBrowserSaveStateDataUIHQ">
+<area shape="rect" id="node1" title="Editor Content browser State data that includes UI data for tabs, with specific condition for HQ." alt="" coords="5,181,188,221"/>
+<area shape="rect" id="node2" href="$interfaceSCR__EditorContentBrowserSaveStateDataUI.html" title="Editor Content browser State data that includes UI data for tabs." alt="" coords="5,93,188,133"/>
+<area shape="rect" id="node3" href="$interfaceSCR__EditorContentBrowserSaveStateData.html" title="Editor Content browser State data (Eg: Saved active filters, Search string and pagination) as well as..." alt="" coords="5,5,188,45"/>
+</map>

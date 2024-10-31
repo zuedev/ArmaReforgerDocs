@@ -1,0 +1,8 @@
+<map id="CharacterCamera3rdPersonCrouch" name="CharacterCamera3rdPersonCrouch">
+<area shape="rect" id="node1" title=" " alt="" coords="20,299,203,339"/>
+<area shape="rect" id="node6" href="$interfaceCharacterCamera3rdPersonSitting.html" title=" " alt="" coords="20,387,203,427"/>
+<area shape="rect" id="node2" href="$interfaceCharacterCamera3rdPersonBase.html" title=" " alt="" coords="5,225,217,251"/>
+<area shape="rect" id="node3" href="$interfaceCharacterCameraBase.html" title=" " alt="" coords="35,152,188,177"/>
+<area shape="rect" id="node4" href="$interfaceScriptedCameraItem.html" title=" " alt="" coords="41,79,181,104"/>
+<area shape="rect" id="node5" href="$interfaceBaseScriptedCameraItem.html" title=" " alt="" coords="26,5,197,31"/>
+</map>

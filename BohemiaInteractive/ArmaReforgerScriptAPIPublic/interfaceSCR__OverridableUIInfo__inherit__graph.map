@@ -1,0 +1,6 @@
+<map id="SCR_OverridableUIInfo" name="SCR_OverridableUIInfo">
+<area shape="rect" id="node1" title="UI info class with setter functions." alt="" coords="5,225,157,251"/>
+<area shape="rect" id="node2" href="$interfaceSCR__UIInfo.html" title="Class used to hold UI information." alt="" coords="37,152,125,177"/>
+<area shape="rect" id="node3" href="$interfaceSCR__UIDescription.html" title="Class used to hold UI name and description." alt="" coords="15,79,148,104"/>
+<area shape="rect" id="node4" href="$interfaceSCR__UIName.html" title="Class used to hold UI name." alt="" coords="30,5,133,31"/>
+</map>

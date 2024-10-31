@@ -1,0 +1,4 @@
+<map id="SCR_DayDurationAttributeDynamicDescription" name="SCR_DayDurationAttributeDynamicDescription">
+<area shape="rect" id="node1" title="Dynamic description for daytime duration to display to compare the ingame time with realife time." alt="" coords="11,93,187,133"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseAttributeDynamicDescription.html" title="Holds logic when a dynamic description should be shown when attributes are hovered over." alt="" coords="5,5,192,45"/>
+</map>

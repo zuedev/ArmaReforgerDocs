@@ -1,0 +1,5 @@
+<map id="Physics" name="Physics">
+<area shape="rect" id="node1" title="Wrapper over a physics simulation of an entity." alt="" coords="32,152,101,177"/>
+<area shape="rect" id="node2" href="$interfaceNativeComponent.html" title=" " alt="" coords="5,79,128,104"/>
+<area shape="rect" id="node3" href="$interfacepointer.html" title="Plain C++ pointer, no weak pointers, no memory management." alt="" coords="36,5,97,31"/>
+</map>

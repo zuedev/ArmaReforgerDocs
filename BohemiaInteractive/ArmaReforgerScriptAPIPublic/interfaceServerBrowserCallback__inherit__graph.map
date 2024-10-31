@@ -1,0 +1,6 @@
+<map id="ServerBrowserCallback" name="ServerBrowserCallback">
+<area shape="rect" id="node1" title="Base server browser callback." alt="" coords="79,79,233,104"/>
+<area shape="rect" id="node3" href="$interfaceOnDirectJoinCallback.html" title="Callback for searching servers dirrecly." alt="" coords="5,152,152,177"/>
+<area shape="rect" id="node4" href="$interfaceOnJoinRoomSB.html" title="Callback for joining." alt="" coords="176,152,291,177"/>
+<area shape="rect" id="node2" title=" " alt="" coords="95,5,217,31"/>
+</map>

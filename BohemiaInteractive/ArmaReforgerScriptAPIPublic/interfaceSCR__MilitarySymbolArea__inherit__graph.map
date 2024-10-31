@@ -1,0 +1,6 @@
+<map id="SCR_MilitarySymbolArea" name="SCR_MilitarySymbolArea">
+<area shape="rect" id="node1" title=" " alt="" coords="5,55,175,80"/>
+<area shape="rect" id="node2" href="$interfaceSCR__MilitarySymbolAreaConflict.html" title=" " alt="" coords="229,5,441,31"/>
+<area shape="rect" id="node3" href="$interfaceSCR__MilitarySymbolAreaImageSet.html" title=" " alt="" coords="223,55,447,80"/>
+<area shape="rect" id="node4" href="$interfaceSCR__MilitarySymbolAreaTextures.html" title=" " alt="" coords="225,104,444,129"/>
+</map>

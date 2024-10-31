@@ -1,0 +1,6 @@
+<map id="BinSerializationSaveContainer" name="BinSerializationSaveContainer">
+<area shape="rect" id="node1" title="Container for saving data in binary format." alt="" coords="11,225,206,251"/>
+<area shape="rect" id="node2" href="$interfaceBaseSerializationSaveContainer.html" title="Base class providing interface for save container." alt="" coords="5,152,212,177"/>
+<area shape="rect" id="node3" href="$interfaceBaseSerializationContainer.html" title="Base class for serialization containers." alt="" coords="19,79,198,104"/>
+<area shape="rect" id="node4" href="$interfaceManaged.html" title=" " alt="" coords="71,5,146,31"/>
+</map>

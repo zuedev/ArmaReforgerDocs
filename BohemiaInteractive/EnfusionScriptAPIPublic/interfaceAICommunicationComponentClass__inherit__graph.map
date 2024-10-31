@@ -1,0 +1,6 @@
+<map id="AICommunicationComponentClass" name="AICommunicationComponentClass">
+<area shape="rect" id="node1" title=" " alt="" coords="5,225,196,265"/>
+<area shape="rect" id="node2" href="$interfaceAIComponentClass.html" title=" " alt="" coords="34,152,167,177"/>
+<area shape="rect" id="node3" href="$interfaceGenericComponentClass.html" title=" " alt="" coords="17,79,184,104"/>
+<area shape="rect" id="node4" href="$interfaceEntityComponentPrefabData.html" title="Shared object with constant data for components from prefab." alt="" coords="7,5,194,31"/>
+</map>

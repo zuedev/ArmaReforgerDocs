@@ -1,0 +1,51 @@
+<map id="SCR_ConfigurableDialogUi" name="SCR_ConfigurableDialogUi">
+<area shape="rect" id="node1" title=" " alt="" coords="231,887,405,913"/>
+<area shape="rect" id="node3" href="$interfaceMultiplayerDialogUI.html" title=" " alt="" coords="512,6,645,31"/>
+<area shape="rect" id="node4" href="$interfaceSCR__AccountLockedDialogUi.html" title=" " alt="" coords="481,55,676,81"/>
+<area shape="rect" id="node5" href="$interfaceSCR__AddonListDialog.html" title="Shows a list of addons and some text." alt="" coords="503,105,654,130"/>
+<area shape="rect" id="node10" href="$interfaceSCR__BannedAddonsDetectedDialog.html" title="Dialog which lists names of all banned addons." alt="" coords="481,155,677,195"/>
+<area shape="rect" id="node11" href="$interfaceSCR__CancelDownloadConfirmationDialog.html" title="Dialog to cancel downloads." alt="" coords="467,219,691,259"/>
+<area shape="rect" id="node12" href="$interfaceSCR__CancelMyReportDialog.html" title="Dialog which sends a request to delete user&#39;s report." alt="" coords="485,283,673,309"/>
+<area shape="rect" id="node13" href="$interfaceSCR__DeleteAddonDialog.html" title="Confirmation dialog for unsubscribing an addon." alt="" coords="495,333,662,358"/>
+<area shape="rect" id="node14" href="$interfaceSCR__DeleteAddonsListDialog.html" title=" " alt="" coords="481,382,676,407"/>
+<area shape="rect" id="node15" href="$interfaceSCR__DownloadConfirmationDialog.html" title="Dialog for confirming multiple downloads in workshop." alt="" coords="487,432,671,472"/>
+<area shape="rect" id="node18" href="$interfaceSCR__DownloadManager__MiniDialog.html" title="A mini download manager dialog." alt="" coords="497,496,660,536"/>
+<area shape="rect" id="node19" href="$interfaceSCR__EditboxDialogUi.html" title="Configurable editbox dialog base." alt="" coords="505,561,653,586"/>
+<area shape="rect" id="node20" href="$interfaceSCR__ExitGameDialog.html" title=" " alt="" coords="503,610,654,635"/>
+<area shape="rect" id="node21" href="$interfaceSCR__ExitGameWhileDownloadingDialog.html" title=" " alt="" coords="469,660,689,700"/>
+<area shape="rect" id="node22" href="$interfaceSCR__HostScenarioWhileDownloadingDialog.html" title=" " alt="" coords="459,724,699,764"/>
+<area shape="rect" id="node23" href="$interfaceSCR__ItemSplitDialog.html" title=" " alt="" coords="507,789,650,814"/>
+<area shape="rect" id="node24" href="$interfaceSCR__KeybindDialogBase.html" title=" " alt="" coords="494,838,663,863"/>
+<area shape="rect" id="node27" href="$interfaceSCR__LoginProcessDialogUI.html" title=" " alt="" coords="487,887,670,913"/>
+<area shape="rect" id="node31" href="$interfaceSCR__ModDetailsAdditionalInfoDialog.html" title=" " alt="" coords="489,937,668,977"/>
+<area shape="rect" id="node32" href="$interfaceSCR__NewSessionDialog.html" title=" " alt="" coords="497,1002,661,1027"/>
+<area shape="rect" id="node33" href="$interfaceSCR__NotEnoughStorageDialog.html" title="There is not enough storage on your hard drive. The space required is at least %1." alt="" coords="478,1051,679,1077"/>
+<area shape="rect" id="node34" href="$interfaceSCR__PersistentFactionDialog.html" title=" " alt="" coords="481,1101,676,1126"/>
+<area shape="rect" id="node35" href="$interfaceSCR__RewindDialog.html" title=" " alt="" coords="511,1150,646,1175"/>
+<area shape="rect" id="node36" href="$interfaceSCR__ScenarioConfirmationDialogUi.html" title=" " alt="" coords="489,1200,668,1240"/>
+<area shape="rect" id="node37" href="$interfaceSCR__ServerConfigSaveDialog.html" title=" " alt="" coords="483,1265,675,1290"/>
+<area shape="rect" id="node38" href="$interfaceSCR__ServerJoinDownloadsConfirmationDialog.html" title="Dialog to cancel downloads during to server joining." alt="" coords="453,1315,704,1355"/>
+<area shape="rect" id="node39" href="$interfaceSCR__ServicesStatusDialogUI.html" title=" " alt="" coords="483,1379,674,1405"/>
+<area shape="rect" id="node40" href="$interfaceSCR__SimpleEntryListDialog.html" title="Dialog displaying list of names." alt="" coords="487,1429,671,1454"/>
+<area shape="rect" id="node41" href="$interfaceSCR__StartScenarioWhileDownloadingDialog.html" title="Dialog which is shown when user wants to start a scenario while there are still downloads in progress..." alt="" coords="458,1479,699,1519"/>
+<area shape="rect" id="node42" href="$interfaceSCR__TabDialog.html" title="Class for tab dialogs, relies on a SCR_SuperMenuComponent placed on content layout root widget Do you..." alt="" coords="522,1543,635,1569"/>
+<area shape="rect" id="node46" href="$interfaceSCR__WorkshopDialogCopyToClipboard.html" title=" " alt="" coords="481,1593,676,1633"/>
+<area shape="rect" id="node47" href="$interfaceSCR__WorkshopErrorDialog.html" title=" " alt="" coords="489,1658,668,1683"/>
+<area shape="rect" id="node48" href="$interfaceSCR__WorkshopErrorPresetLoadDialog.html" title=" " alt="" coords="474,1708,683,1748"/>
+<area shape="rect" id="node49" href="$interfaceSCR__WorkshopPresetConfirmDialog.html" title=" " alt="" coords="480,1772,677,1812"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,887,183,913"/>
+<area shape="rect" id="node6" href="$interfaceSCR__DeleteAddonDependentAddonsDetected.html" title="This dialog is shown when we want to delete an addon but some other downloaded addons depend on it." alt="" coords="759,5,951,45"/>
+<area shape="rect" id="node7" href="$interfaceSCR__DisableDependentAddonsDialog.html" title="Dialog which is used when an addon is disabled but some dependent addons depend on it." alt="" coords="753,69,958,109"/>
+<area shape="rect" id="node8" href="$interfaceSCR__ReportedAddonsDialog.html" title="Show list of reported mods and provide option to cancel reports." alt="" coords="761,134,949,159"/>
+<area shape="rect" id="node9" href="$interfaceSCR__ServerDetailsDialog.html" title="Details with mod list to display all server mods." alt="" coords="771,183,939,209"/>
+<area shape="rect" id="node16" href="$interfaceSCR__AddonUpdateConfirmationDialog.html" title="Override downlad confirm dialog for handling addons update Always targets latest versions." alt="" coords="752,404,959,444"/>
+<area shape="rect" id="node17" href="$interfaceSCR__DownloadFailDialog.html" title="Dialog displayed when downloading fails." alt="" coords="771,469,940,494"/>
+<area shape="rect" id="node25" href="$interfaceSCR__AdvancedKeybindDialogUI.html" title=" " alt="" coords="752,789,959,814"/>
+<area shape="rect" id="node26" href="$interfaceSCR__SimpleKeybindDialogUI.html" title=" " alt="" coords="760,838,951,863"/>
+<area shape="rect" id="node28" href="$interfaceSCR__Login2FADialogUI.html" title=" " alt="" coords="776,887,935,913"/>
+<area shape="rect" id="node29" href="$interfaceSCR__LoginDialogUI.html" title=" " alt="" coords="788,937,923,962"/>
+<area shape="rect" id="node30" href="$interfaceSCR__PlayerProfileDialogUI.html" title=" " alt="" coords="767,986,944,1011"/>
+<area shape="rect" id="node43" href="$interfaceAddonsToolsUI.html" title=" " alt="" coords="801,1486,910,1511"/>
+<area shape="rect" id="node44" href="$interfaceSCR__DownloadManager__Dialog.html" title=" " alt="" coords="774,1536,937,1576"/>
+<area shape="rect" id="node45" href="$interfaceServerHostingUI.html" title=" " alt="" coords="798,1601,913,1626"/>
+</map>

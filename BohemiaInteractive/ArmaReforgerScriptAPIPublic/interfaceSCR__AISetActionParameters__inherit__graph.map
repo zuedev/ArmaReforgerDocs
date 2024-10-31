@@ -1,0 +1,12 @@
+<map id="SCR_AISetActionParameters" name="SCR_AISetActionParameters">
+<area shape="rect" id="node1" title="Base class of node which gets action parameters from a BT node." alt="" coords="345,153,537,179"/>
+<area shape="rect" id="node4" href="$interfaceSCR__AISetAttackBehaviorParameters.html" title=" " alt="" coords="585,5,828,31"/>
+<area shape="rect" id="node5" href="$interfaceSCR__AISetDefendActivityParameters.html" title=" " alt="" coords="588,55,825,80"/>
+<area shape="rect" id="node6" href="$interfaceSCR__AISetGetInActivityParameters.html" title=" " alt="" coords="593,104,821,129"/>
+<area shape="rect" id="node7" href="$interfaceSCR__AISetHealActivityParameters.html" title=" " alt="" coords="595,153,818,179"/>
+<area shape="rect" id="node8" href="$interfaceSCR__AISetInvestigateBehaviorParameters.html" title=" " alt="" coords="607,203,806,243"/>
+<area shape="rect" id="node9" href="$interfaceSCR__AISetMoveActivityParameters.html" title=" " alt="" coords="593,268,820,293"/>
+<area shape="rect" id="node10" href="$interfaceSCR__AISetObserveUnknownFireBehaviorParameters.html" title=" " alt="" coords="601,318,812,358"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AIActionTask.html" title=" " alt="" coords="164,153,297,179"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,153,116,179"/>
+</map>

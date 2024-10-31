@@ -1,0 +1,8 @@
+<map id="SCR_PreviewEntityEditorUIComponent" name="SCR_PreviewEntityEditorUIComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="113,225,359,251"/>
+<area shape="rect" id="node5" href="$interfaceSCR__PlacingEditorUIComponent.html" title=" " alt="" coords="5,299,216,324"/>
+<area shape="rect" id="node6" href="$interfaceSCR__TransformingEditorUIComponent.html" title=" " alt="" coords="240,299,483,324"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseEditorUIComponent.html" title=" " alt="" coords="137,152,335,177"/>
+<area shape="rect" id="node3" href="$interfaceMenuRootSubComponent.html" title="Widget component which is linked to menu it&#39;s part of." alt="" coords="151,79,321,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="147,5,325,31"/>
+</map>

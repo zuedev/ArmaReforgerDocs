@@ -1,0 +1,7 @@
+<map id="SCR_BaseEditorEffect" name="SCR_BaseEditorEffect">
+<area shape="rect" id="node1" title="Base class for audio&#45;visual effects." alt="" coords="5,80,159,105"/>
+<area shape="rect" id="node2" href="$interfaceSCR__EntityEditorEffect.html" title="Spawned entity effect." alt="" coords="211,5,369,31"/>
+<area shape="rect" id="node3" href="$interfaceSCR__ParticleEditorEffect.html" title="Particle UI effect." alt="" coords="207,55,373,80"/>
+<area shape="rect" id="node4" href="$interfaceSCR__SoundEditorEffect.html" title="Sound UI effect." alt="" coords="210,104,370,129"/>
+<area shape="rect" id="node5" href="$interfaceSCR__UIEditorEffect.html" title="Editor UI effect." alt="" coords="223,153,357,179"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="SCR_SelectionMenuEntry" name="SCR_SelectionMenuEntry">
+<area shape="rect" id="node1" title="Scripted selection menu entry based on UI info for storing data into SCR_SelectionMenu." alt="" coords="473,198,647,223"/>
+<area shape="rect" id="node5" href="$interfaceSCR__EditorActionSelectionMenuEntry.html" title="A wrapper class utilized by SCR_ActionsRadialMenuEditorComponent for creating a specialized Entry (SC..." alt="" coords="720,5,901,45"/>
+<area shape="rect" id="node6" href="$interfaceSCR__ItemSelectionMenuEntry.html" title=" " alt="" coords="711,70,910,95"/>
+<area shape="rect" id="node7" href="$interfaceSCR__MapMarkerMenuEntry.html" title="Base entry for marker selection menu." alt="" coords="719,119,903,145"/>
+<area shape="rect" id="node8" href="$interfaceSCR__MapMenuCommandingEntry.html" title=" " alt="" coords="701,169,921,194"/>
+<area shape="rect" id="node9" href="$interfaceSCR__MapMenuRequestedTaskEntry.html" title=" " alt="" coords="709,219,912,259"/>
+<area shape="rect" id="node10" href="$interfaceSCR__SelectionMenuCategoryEntry.html" title="Scripted selection menu category, that can contain multiple entries." alt="" coords="713,283,908,323"/>
+<area shape="rect" id="node12" href="$interfaceSCR__SelectionMenuEntryCommand.html" title=" " alt="" coords="695,347,927,373"/>
+<area shape="rect" id="node13" href="$interfaceSCR__VONEntry.html" title="Voice over network entry data class, used for management of communication methods." alt="" coords="753,397,868,422"/>
+<area shape="rect" id="node2" href="$interfaceSCR__UIInfo.html" title="Class used to hold UI information." alt="" coords="337,198,425,223"/>
+<area shape="rect" id="node3" href="$interfaceSCR__UIDescription.html" title="Class used to hold UI name and description." alt="" coords="156,198,289,223"/>
+<area shape="rect" id="node4" href="$interfaceSCR__UIName.html" title="Class used to hold UI name." alt="" coords="5,198,108,223"/>
+<area shape="rect" id="node11" href="$interfaceSCR__MapMarkerMenuCategory.html" title="Base category entry for marker selection menu." alt="" coords="975,290,1180,315"/>
+<area shape="rect" id="node14" href="$interfaceSCR__VONEntryRadio.html" title="VONEntry class for radio entries." alt="" coords="1003,397,1151,422"/>
+</map>

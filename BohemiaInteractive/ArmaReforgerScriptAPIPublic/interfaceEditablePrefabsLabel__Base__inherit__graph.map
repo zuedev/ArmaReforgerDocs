@@ -1,0 +1,12 @@
+<map id="EditablePrefabsLabel_Base" name="EditablePrefabsLabel_Base">
+<area shape="rect" id="node1" title=" " alt="" coords="5,269,187,294"/>
+<area shape="rect" id="node2" href="$interfaceEditablePrefabsLabel__CharacterRole.html" title=" " alt="" coords="251,5,395,45"/>
+<area shape="rect" id="node3" href="$interfaceEditablePrefabsLabel__CompositionType.html" title=" " alt="" coords="251,69,395,109"/>
+<area shape="rect" id="node4" href="$interfaceEditablePrefabsLabel__EntityType.html" title=" " alt="" coords="251,133,395,173"/>
+<area shape="rect" id="node5" href="$interfaceEditablePrefabsLabel__Faction.html" title=" " alt="" coords="251,197,395,237"/>
+<area shape="rect" id="node6" href="$interfaceEditablePrefabsLabel__GroupSize.html" title=" " alt="" coords="251,261,395,301"/>
+<area shape="rect" id="node7" href="$interfaceEditablePrefabsLabel__Size.html" title=" " alt="" coords="235,326,412,351"/>
+<area shape="rect" id="node8" href="$interfaceEditablePrefabsLabel__Theme.html" title=" " alt="" coords="251,376,395,416"/>
+<area shape="rect" id="node9" href="$interfaceEditablePrefabsLabel__Trait.html" title=" " alt="" coords="251,440,395,480"/>
+<area shape="rect" id="node10" href="$interfaceEditablePrefabsLabel__VehicleType.html" title=" " alt="" coords="251,504,395,544"/>
+</map>

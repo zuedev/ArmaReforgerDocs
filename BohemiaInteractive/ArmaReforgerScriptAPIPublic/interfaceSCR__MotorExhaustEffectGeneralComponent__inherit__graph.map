@@ -1,0 +1,7 @@
+<map id="SCR_MotorExhaustEffectGeneralComponent" name="SCR_MotorExhaustEffectGeneralComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="5,299,220,339"/>
+<area shape="rect" id="node2" href="$interfaceMotorExhaustEffectComponent.html" title=" " alt="" coords="11,225,214,251"/>
+<area shape="rect" id="node3" href="$interfaceBaseEffectComponent.html" title=" " alt="" coords="37,152,188,177"/>
+<area shape="rect" id="node4" href="$interfaceGameComponent.html" title=" " alt="" coords="51,79,174,104"/>
+<area shape="rect" id="node5" title=" " alt="" coords="46,5,179,31"/>
+</map>

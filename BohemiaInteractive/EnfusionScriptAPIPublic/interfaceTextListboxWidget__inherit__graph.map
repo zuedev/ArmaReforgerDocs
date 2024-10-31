@@ -1,0 +1,8 @@
+<map id="TextListboxWidget" name="TextListboxWidget">
+<area shape="rect" id="node1" title=" " alt="" coords="13,372,143,397"/>
+<area shape="rect" id="node2" href="$interfaceSimpleListboxWidget.html" title="base class, for listboxes with items of the same height" alt="" coords="5,299,151,324"/>
+<area shape="rect" id="node3" href="$interfaceBaseListboxWidget.html" title=" " alt="" coords="11,225,145,251"/>
+<area shape="rect" id="node4" href="$interfaceUIWidget.html" title=" " alt="" coords="41,152,115,177"/>
+<area shape="rect" id="node5" href="$interfaceWidget.html" title=" " alt="" coords="47,79,109,104"/>
+<area shape="rect" id="node6" href="$interfaceManaged.html" title=" " alt="" coords="41,5,115,31"/>
+</map>

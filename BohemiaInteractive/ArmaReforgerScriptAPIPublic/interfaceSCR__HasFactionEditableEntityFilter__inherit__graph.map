@@ -1,0 +1,4 @@
+<map id="SCR_HasFactionEditableEntityFilter" name="SCR_HasFactionEditableEntityFilter">
+<area shape="rect" id="node1" title="Filter non&#45;playable entities which have a faction defined." alt="" coords="5,79,208,119"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseEditableEntityFilter.html" title="Base class for a manager of editable entities of specific state." alt="" coords="9,5,205,31"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="GeoShape" name="GeoShape">
+<area shape="rect" id="node1" title="Base class for all shapes." alt="" coords="185,79,268,104"/>
+<area shape="rect" id="node3" href="$interfaceGeoMultiPoint.html" title="Set of points." alt="" coords="5,152,109,177"/>
+<area shape="rect" id="node4" href="$interfaceGeoPoint.html" title="Single point." alt="" coords="134,152,210,177"/>
+<area shape="rect" id="node5" href="$interfaceGeoPolygon.html" title="Polygon (can have multiple parts)." alt="" coords="235,152,328,177"/>
+<area shape="rect" id="node6" href="$interfaceGeoPolyline.html" title="Line string." alt="" coords="353,152,445,177"/>
+<area shape="rect" id="node2" href="$interfaceManaged.html" title=" " alt="" coords="189,5,264,31"/>
+</map>

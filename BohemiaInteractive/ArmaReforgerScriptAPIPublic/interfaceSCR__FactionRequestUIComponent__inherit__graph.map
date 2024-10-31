@@ -1,0 +1,5 @@
+<map id="SCR_FactionRequestUIComponent" name="SCR_FactionRequestUIComponent">
+<area shape="rect" id="node1" title="Component responsible for displaying list of available factions and handling faction assign requests ..." alt="" coords="19,152,244,177"/>
+<area shape="rect" id="node2" href="$interfaceSCR__DeployRequestUIBaseComponent.html" title=" " alt="" coords="5,79,257,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="43,5,220,31"/>
+</map>

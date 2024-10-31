@@ -1,0 +1,9 @@
+<map id="SCR_DeployMenuBase" name="SCR_DeployMenuBase">
+<area shape="rect" id="node1" title="Base deploy menu class." alt="" coords="191,152,349,177"/>
+<area shape="rect" id="node4" href="$interfaceSCR__DeployMenuMain.html" title="Main deploy menu with the map present." alt="" coords="5,225,161,251"/>
+<area shape="rect" id="node5" href="$interfaceSCR__RoleSelectionMenu.html" title="Role selection menu for setting up player faction, group and loadout." alt="" coords="186,225,354,251"/>
+<area shape="rect" id="node6" href="$interfaceSCR__WelcomeScreenMenu.html" title="Class that handles Welcome screen menu." alt="" coords="378,225,562,251"/>
+<area shape="rect" id="node2" href="$interfaceChimeraMenuBase.html" title="Constant variables used in various menus." alt="" coords="204,79,336,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="228,5,312,31"/>
+<area shape="rect" id="node7" href="$interfaceSCR__DebriefingScreenMenu.html" title=" " alt="" coords="377,299,563,324"/>
+</map>

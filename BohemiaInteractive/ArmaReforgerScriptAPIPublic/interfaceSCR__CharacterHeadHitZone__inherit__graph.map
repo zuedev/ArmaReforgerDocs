@@ -1,0 +1,8 @@
+<map id="SCR_CharacterHeadHitZone" name="SCR_CharacterHeadHitZone">
+<area shape="rect" id="node1" title=" " alt="" coords="5,372,192,397"/>
+<area shape="rect" id="node2" href="$interfaceSCR__CharacterHitZone.html" title=" " alt="" coords="21,299,177,324"/>
+<area shape="rect" id="node3" href="$interfaceSCR__RegeneratingHitZone.html" title=" " alt="" coords="11,225,187,251"/>
+<area shape="rect" id="node4" href="$interfaceSCR__HitZone.html" title=" " alt="" coords="49,152,149,177"/>
+<area shape="rect" id="node5" href="$interfaceHitZone.html" title=" " alt="" coords="65,79,132,104"/>
+<area shape="rect" id="node6" title=" " alt="" coords="41,5,156,31"/>
+</map>

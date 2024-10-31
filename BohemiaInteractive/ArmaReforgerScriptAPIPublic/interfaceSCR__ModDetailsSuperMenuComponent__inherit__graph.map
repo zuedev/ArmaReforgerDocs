@@ -1,0 +1,6 @@
+<map id="SCR_ModDetailsSuperMenuComponent" name="SCR_ModDetailsSuperMenuComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="5,225,259,251"/>
+<area shape="rect" id="node2" href="$interfaceSCR__SuperMenuComponent.html" title="Handles tab menus." alt="" coords="38,152,226,177"/>
+<area shape="rect" id="node3" href="$interfaceSCR__ScriptedWidgetComponent.html" title=" " alt="" coords="27,79,237,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="43,5,221,31"/>
+</map>

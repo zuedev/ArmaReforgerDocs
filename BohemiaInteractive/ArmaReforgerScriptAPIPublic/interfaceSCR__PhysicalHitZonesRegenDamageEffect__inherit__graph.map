@@ -1,0 +1,10 @@
+<map id="SCR_PhysicalHitZonesRegenDamageEffect" name="SCR_PhysicalHitZonesRegenDamageEffect">
+<area shape="rect" id="node1" title=" " alt="" coords="6,519,201,559"/>
+<area shape="rect" id="node2" href="$interfaceSCR__DotDamageEffect.html" title=" " alt="" coords="25,445,182,471"/>
+<area shape="rect" id="node3" href="$interfaceDotDamageEffect.html" title=" " alt="" coords="42,372,165,397"/>
+<area shape="rect" id="node4" href="$interfaceSCR__PersistentDamageEffect.html" title=" " alt="" coords="5,299,201,324"/>
+<area shape="rect" id="node5" href="$interfacePersistentDamageEffect.html" title=" " alt="" coords="22,225,185,251"/>
+<area shape="rect" id="node6" href="$interfaceSCR__DamageEffect.html" title=" " alt="" coords="35,152,172,177"/>
+<area shape="rect" id="node7" href="$interfaceBaseDamageEffect.html" title=" " alt="" coords="37,79,170,104"/>
+<area shape="rect" id="node8" title=" " alt="" coords="46,5,161,31"/>
+</map>

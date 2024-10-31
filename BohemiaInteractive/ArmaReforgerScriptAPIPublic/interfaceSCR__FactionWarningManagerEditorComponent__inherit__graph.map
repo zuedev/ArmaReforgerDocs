@@ -1,0 +1,5 @@
+<map id="SCR_FactionWarningManagerEditorComponent" name="SCR_FactionWarningManagerEditorComponent">
+<area shape="rect" id="node1" title="Manager of warnings of factions such as spawnpoints and Tasks." alt="" coords="5,152,203,192"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseEditorComponent.html" title="Base class for editor components." alt="" coords="11,79,197,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="43,5,165,31"/>
+</map>

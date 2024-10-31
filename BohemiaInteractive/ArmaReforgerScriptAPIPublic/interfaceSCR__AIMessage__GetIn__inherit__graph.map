@@ -1,0 +1,7 @@
+<map id="SCR_AIMessage_GetIn" name="SCR_AIMessage_GetIn">
+<area shape="rect" id="node1" title=" " alt="" coords="11,299,170,324"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AIMessage__Vehicle.html" title=" " alt="" coords="5,225,176,251"/>
+<area shape="rect" id="node3" href="$interfaceSCR__AIMessageGoal.html" title=" " alt="" coords="17,152,165,177"/>
+<area shape="rect" id="node4" href="$interfaceSCR__AIMessageBase.html" title=" " alt="" coords="15,79,166,104"/>
+<area shape="rect" id="node5" title=" " alt="" coords="47,5,134,31"/>
+</map>

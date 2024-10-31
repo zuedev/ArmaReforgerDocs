@@ -1,0 +1,11 @@
+<map id="BaseGameEntityClass" name="BaseGameEntityClass">
+<area shape="rect" id="node1" title=" " alt="" coords="263,79,417,104"/>
+<area shape="rect" id="node3" href="$interfaceGameEntityClass.html" title=" " alt="" coords="278,152,402,177"/>
+<area shape="rect" id="node2" title=" " alt="" coords="273,5,407,31"/>
+<area shape="rect" id="node4" href="$interfaceBaseVehicleClass.html" title=" " alt="" coords="5,225,133,251"/>
+<area shape="rect" id="node6" href="$interfaceChimeraCharacterClass.html" title=" " alt="" coords="158,225,317,251"/>
+<area shape="rect" id="node8" href="$interfaceProjectileSoundsManagerClass.html" title=" " alt="" coords="341,225,544,251"/>
+<area shape="rect" id="node9" href="$interfaceTurretClass.html" title=" " alt="" coords="568,225,656,251"/>
+<area shape="rect" id="node5" href="$interfaceVehicleClass.html" title=" " alt="" coords="19,299,117,324"/>
+<area shape="rect" id="node7" href="$interfaceSCR__ChimeraCharacterClass.html" title=" " alt="" coords="142,299,335,324"/>
+</map>

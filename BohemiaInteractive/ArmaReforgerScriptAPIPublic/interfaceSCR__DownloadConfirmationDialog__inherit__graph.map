@@ -1,0 +1,7 @@
+<map id="SCR_DownloadConfirmationDialog" name="SCR_DownloadConfirmationDialog">
+<area shape="rect" id="node1" title="Dialog for confirming multiple downloads in workshop." alt="" coords="122,152,306,192"/>
+<area shape="rect" id="node4" href="$interfaceSCR__AddonUpdateConfirmationDialog.html" title="Override downlad confirm dialog for handling addons update Always targets latest versions." alt="" coords="5,240,212,280"/>
+<area shape="rect" id="node5" href="$interfaceSCR__DownloadFailDialog.html" title="Dialog displayed when downloading fails." alt="" coords="236,247,405,273"/>
+<area shape="rect" id="node2" href="$interfaceSCR__ConfigurableDialogUi.html" title=" " alt="" coords="127,79,301,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="125,5,303,31"/>
+</map>

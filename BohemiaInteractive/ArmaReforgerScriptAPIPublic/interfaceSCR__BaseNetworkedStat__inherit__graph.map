@@ -1,0 +1,5 @@
+<map id="SCR_BaseNetworkedStat" name="SCR_BaseNetworkedStat">
+<area shape="rect" id="node1" title=" " alt="" coords="103,5,274,31"/>
+<area shape="rect" id="node2" href="$interfaceSCR__FPSNetworkedStat.html" title=" " alt="" coords="5,79,172,104"/>
+<area shape="rect" id="node3" href="$interfaceSCR__MemoryNetworkedStat.html" title=" " alt="" coords="196,79,384,104"/>
+</map>

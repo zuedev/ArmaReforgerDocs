@@ -1,0 +1,4 @@
+<map id="SCR_AmbientSoundToggleEditorAttribute" name="SCR_AmbientSoundToggleEditorAttribute">
+<area shape="rect" id="node1" title="Toggle Ambient Sound Attribute for getting and setting varriables in Editor Attribute window." alt="" coords="5,79,219,119"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseEditorAttribute.html" title="Base Attribute Script for other attributes to inherent from to get and set varriables in Editor Attri..." alt="" coords="27,5,197,31"/>
+</map>

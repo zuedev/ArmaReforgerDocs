@@ -1,0 +1,5 @@
+<map id="DedicatedServerPluginCLI" name="DedicatedServerPluginCLI">
+<area shape="rect" id="node1" title=" " alt="" coords="103,5,273,31"/>
+<area shape="rect" id="node2" href="$interfaceDedicatedServerPluginCLI__Config.html" title=" " alt="" coords="5,79,176,119"/>
+<area shape="rect" id="node3" href="$interfaceDedicatedServerPluginCLI__Server.html" title=" " alt="" coords="200,79,371,119"/>
+</map>

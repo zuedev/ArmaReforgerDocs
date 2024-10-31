@@ -1,0 +1,4 @@
+<map id="SCR_ObjectPositionalInsects" name="SCR_ObjectPositionalInsects">
+<area shape="rect" id="node1" title="Handles looped ambient effects around specific entities." alt="" coords="5,79,199,104"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AmbientInsectsEffect.html" title=" " alt="" coords="13,5,191,31"/>
+</map>

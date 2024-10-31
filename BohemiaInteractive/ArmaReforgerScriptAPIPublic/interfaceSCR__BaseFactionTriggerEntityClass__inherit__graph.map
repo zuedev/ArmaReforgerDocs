@@ -1,0 +1,10 @@
+<map id="SCR_BaseFactionTriggerEntityClass" name="SCR_BaseFactionTriggerEntityClass">
+<area shape="rect" id="node1" title=" " alt="" coords="105,313,308,353"/>
+<area shape="rect" id="node6" href="$interfaceSCR__FactionControlTriggerEntityClass.html" title=" " alt="" coords="17,401,196,441"/>
+<area shape="rect" id="node8" href="$interfaceSCR__FactionPlayerTriggerEntityClass.html" title=" " alt="" coords="221,401,395,441"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseTriggerEntityClass.html" title=" " alt="" coords="111,240,303,265"/>
+<area shape="rect" id="node3" href="$interfaceScriptedGameTriggerEntityClass.html" title=" " alt="" coords="117,152,296,192"/>
+<area shape="rect" id="node4" href="$interfaceBaseGameTriggerEntityClass.html" title=" " alt="" coords="110,79,303,104"/>
+<area shape="rect" id="node5" title=" " alt="" coords="139,5,274,31"/>
+<area shape="rect" id="node7" href="$interfaceSCR__FactionDominanceTriggerEntityClass.html" title=" " alt="" coords="5,489,208,529"/>
+</map>

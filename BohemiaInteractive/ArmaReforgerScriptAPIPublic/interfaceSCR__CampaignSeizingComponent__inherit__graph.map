@@ -1,0 +1,6 @@
+<map id="SCR_CampaignSeizingComponent" name="SCR_CampaignSeizingComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="7,225,229,251"/>
+<area shape="rect" id="node2" href="$interfaceSCR__SeizingComponent.html" title=" " alt="" coords="35,152,201,177"/>
+<area shape="rect" id="node3" href="$interfaceSCR__MilitaryBaseLogicComponent.html" title=" " alt="" coords="5,79,231,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="57,5,179,31"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="SCR_EntityCatalogManagerComponentClass" name="SCR_EntityCatalogManagerComponentClass">
+<area shape="rect" id="node1" title="Manager for non&#45;faction specific entity catalogs as well as getters for faction specific catalogs." alt="" coords="23,167,207,207"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseGameModeComponentClass.html" title=" " alt="" coords="5,79,224,119"/>
+<area shape="rect" id="node3" title=" " alt="" coords="37,5,192,31"/>
+</map>

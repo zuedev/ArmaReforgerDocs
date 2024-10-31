@@ -1,0 +1,7 @@
+<map id="SCR_CampaignDeployMobileAssemblyUserAction" name="SCR_CampaignDeployMobileAssemblyUserAction">
+<area shape="rect" id="node1" title=" " alt="" coords="29,225,221,265"/>
+<area shape="rect" id="node5" href="$interfaceSCR__CampaignPackMobileAssemblyUserAction.html" title=" " alt="" coords="5,313,245,353"/>
+<area shape="rect" id="node2" href="$interfaceScriptedUserAction.html" title=" " alt="" coords="58,152,193,177"/>
+<area shape="rect" id="node3" href="$interfaceBaseUserAction.html" title=" " alt="" coords="67,79,183,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="68,5,183,31"/>
+</map>

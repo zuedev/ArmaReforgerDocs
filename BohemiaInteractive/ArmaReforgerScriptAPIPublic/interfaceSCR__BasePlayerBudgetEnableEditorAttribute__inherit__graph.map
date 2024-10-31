@@ -1,0 +1,8 @@
+<map id="SCR_BasePlayerBudgetEnableEditorAttribute" name="SCR_BasePlayerBudgetEnableEditorAttribute">
+<area shape="rect" id="node1" title=" " alt="" coords="223,101,427,141"/>
+<area shape="rect" id="node3" href="$interfaceSCR__PlayerBudgetAIEnableEditorAttribute.html" title=" " alt="" coords="491,5,677,45"/>
+<area shape="rect" id="node4" href="$interfaceSCR__PlayerBudgetPropEnableEditorAttribute.html" title=" " alt="" coords="483,69,685,109"/>
+<area shape="rect" id="node5" href="$interfaceSCR__PlayerBudgetSystemEnableEditorAttribute.html" title=" " alt="" coords="475,133,693,173"/>
+<area shape="rect" id="node6" href="$interfaceSCR__PlayerBudgetVehicleEnableEditorAttribute.html" title=" " alt="" coords="475,197,693,237"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseEditorAttribute.html" title="Base Attribute Script for other attributes to inherent from to get and set varriables in Editor Attri..." alt="" coords="5,109,175,134"/>
+</map>

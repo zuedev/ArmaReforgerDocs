@@ -1,0 +1,6 @@
+<map id="SCR_HintSequenceToolbarAction" name="SCR_HintSequenceToolbarAction">
+<area shape="rect" id="node1" title=" " alt="" coords="5,225,221,251"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseToggleToolbarAction.html" title=" " alt="" coords="12,152,215,177"/>
+<area shape="rect" id="node3" href="$interfaceSCR__EditorToolbarAction.html" title=" " alt="" coords="29,79,198,104"/>
+<area shape="rect" id="node4" href="$interfaceSCR__BaseEditorAction.html" title="Base container class for all editor action types (ContextActions, WaypointActions,..." alt="" coords="35,5,192,31"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="AITaskCallMethod" name="AITaskCallMethod">
+<area shape="rect" id="node1" title=" " alt="" coords="5,299,132,324"/>
+<area shape="rect" id="node2" href="$interfaceAITask.html" title=" " alt="" coords="37,225,100,251"/>
+<area shape="rect" id="node3" href="$interfaceNode.html" title=" " alt="" coords="43,152,95,177"/>
+<area shape="rect" id="node4" href="$interfaceScriptAndConfig.html" title="Base class for classes which combine enf::Class and enf::BaseClass (in C++)." alt="" coords="11,79,126,104"/>
+<area shape="rect" id="node5" href="$interfaceManaged.html" title=" " alt="" coords="31,5,106,31"/>
+</map>

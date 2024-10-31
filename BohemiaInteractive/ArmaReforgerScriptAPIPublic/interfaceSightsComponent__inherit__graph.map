@@ -1,0 +1,13 @@
+<map id="SightsComponent" name="SightsComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="162,225,287,251"/>
+<area shape="rect" id="node5" href="$interfaceBaseCollimatorSightsComponent.html" title=" " alt="" coords="10,299,223,324"/>
+<area shape="rect" id="node7" href="$interfaceScriptedSightsComponent.html" title=" " alt="" coords="249,299,422,324"/>
+<area shape="rect" id="node2" href="$interfaceBaseSightsComponent.html" title=" " alt="" coords="147,152,302,177"/>
+<area shape="rect" id="node3" href="$interfaceGameComponent.html" title=" " alt="" coords="163,79,286,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="158,5,291,31"/>
+<area shape="rect" id="node6" href="$interfaceSCR__CollimatorSightsComponent.html" title=" " alt="" coords="5,372,223,397"/>
+<area shape="rect" id="node8" href="$interfaceSCR__2DOpticsComponent.html" title="Base class for 2D optics Unifiying binoculars and optic sight." alt="" coords="247,372,423,397"/>
+<area shape="rect" id="node11" href="$interfaceSCR__PIPSightsComponent.html" title=" " alt="" coords="448,372,628,397"/>
+<area shape="rect" id="node9" href="$interfaceSCR__2DSightsComponent.html" title=" " alt="" coords="248,445,423,471"/>
+<area shape="rect" id="node10" href="$interfaceSCR__2DPIPSightsComponent.html" title=" " alt="" coords="237,519,433,544"/>
+</map>

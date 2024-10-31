@@ -1,0 +1,5 @@
+<map id="SCR_CampaignBuildingLimitCylinderManualCameraComponent" name="SCR_CampaignBuildingLimitCylinderManualCameraComponent">
+<area shape="rect" id="node1" title="Free roam building camera." alt="" coords="13,167,236,207"/>
+<area shape="rect" id="node2" href="$interfaceSCR__LimitCylinderManualCameraComponent.html" title=" " alt="" coords="15,79,234,119"/>
+<area shape="rect" id="node3" href="$interfaceSCR__BaseManualCameraComponent.html" title=" " alt="" coords="5,5,244,31"/>
+</map>

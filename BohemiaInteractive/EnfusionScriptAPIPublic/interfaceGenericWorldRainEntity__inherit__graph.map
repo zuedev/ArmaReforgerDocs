@@ -1,0 +1,6 @@
+<map id="GenericWorldRainEntity" name="GenericWorldRainEntity">
+<area shape="rect" id="node1" title=" " alt="" coords="5,225,167,251"/>
+<area shape="rect" id="node2" href="$interfaceGenericEntity.html" title="Base entity class." alt="" coords="35,152,137,177"/>
+<area shape="rect" id="node3" href="$interfaceIEntity.html" title=" " alt="" coords="57,79,115,104"/>
+<area shape="rect" id="node4" href="$interfaceManaged.html" title=" " alt="" coords="49,5,123,31"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="SCR_SpinBoxComponent" name="SCR_SpinBoxComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="142,372,313,397"/>
+<area shape="rect" id="node7" href="$interfaceSCR__InventorySpinBoxComponent.html" title=" " alt="" coords="5,445,228,471"/>
+<area shape="rect" id="node8" href="$interfaceSCR__SpawnPointSpinBox.html" title=" " alt="" coords="252,445,427,471"/>
+<area shape="rect" id="node2" href="$interfaceSCR__SelectionWidgetComponent.html" title=" " alt="" coords="119,299,336,324"/>
+<area shape="rect" id="node3" href="$interfaceSCR__ChangeableComponentBase.html" title="Base class for all widgets that can change their internal state as editbox or spinbox." alt="" coords="117,225,337,251"/>
+<area shape="rect" id="node4" href="$interfaceSCR__WLibComponentBase.html" title="Base class for all final Reforger interactive elements." alt="" coords="136,152,319,177"/>
+<area shape="rect" id="node5" href="$interfaceSCR__ScriptedWidgetComponent.html" title=" " alt="" coords="122,79,333,104"/>
+<area shape="rect" id="node6" title=" " alt="" coords="139,5,316,31"/>
+</map>

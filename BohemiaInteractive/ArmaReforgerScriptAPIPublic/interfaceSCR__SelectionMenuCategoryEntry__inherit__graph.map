@@ -1,0 +1,8 @@
+<map id="SCR_SelectionMenuCategoryEntry" name="SCR_SelectionMenuCategoryEntry">
+<area shape="rect" id="node1" title="Scripted selection menu category, that can contain multiple entries." alt="" coords="11,299,205,339"/>
+<area shape="rect" id="node6" href="$interfaceSCR__MapMarkerMenuCategory.html" title="Base category entry for marker selection menu." alt="" coords="5,387,211,412"/>
+<area shape="rect" id="node2" href="$interfaceSCR__SelectionMenuEntry.html" title="Scripted selection menu entry based on UI info for storing data into SCR_SelectionMenu." alt="" coords="21,225,195,251"/>
+<area shape="rect" id="node3" href="$interfaceSCR__UIInfo.html" title="Class used to hold UI information." alt="" coords="64,152,152,177"/>
+<area shape="rect" id="node4" href="$interfaceSCR__UIDescription.html" title="Class used to hold UI name and description." alt="" coords="41,79,175,104"/>
+<area shape="rect" id="node5" href="$interfaceSCR__UIName.html" title="Class used to hold UI name." alt="" coords="57,5,159,31"/>
+</map>

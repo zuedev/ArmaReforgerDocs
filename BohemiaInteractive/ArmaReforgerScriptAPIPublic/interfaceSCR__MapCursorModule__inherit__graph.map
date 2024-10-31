@@ -1,0 +1,5 @@
+<map id="SCR_MapCursorModule" name="SCR_MapCursorModule">
+<area shape="rect" id="node1" title="Map cursor behavior and mode setup." alt="" coords="5,152,167,177"/>
+<area shape="rect" id="node2" href="$interfaceSCR__MapModuleBase.html" title="Map module base class." alt="" coords="9,79,163,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="49,5,123,31"/>
+</map>

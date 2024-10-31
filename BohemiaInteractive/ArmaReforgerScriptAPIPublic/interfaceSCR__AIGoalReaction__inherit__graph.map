@@ -1,0 +1,26 @@
+<map id="SCR_AIGoalReaction" name="SCR_AIGoalReaction">
+<area shape="rect" id="node1" title=" " alt="" coords="5,703,152,729"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AIGoalReaction__Attack.html" title=" " alt="" coords="218,5,365,45"/>
+<area shape="rect" id="node3" href="$interfaceSCR__AIGoalReaction__AttackCluster.html" title=" " alt="" coords="218,69,365,109"/>
+<area shape="rect" id="node4" href="$interfaceSCR__AIGoalReaction__AttackClusterDone.html" title=" " alt="" coords="218,133,365,173"/>
+<area shape="rect" id="node5" href="$interfaceSCR__AIGoalReaction__Cancel.html" title=" " alt="" coords="218,197,365,237"/>
+<area shape="rect" id="node6" href="$interfaceSCR__AIGoalReaction__CoverCluster.html" title=" " alt="" coords="218,261,365,301"/>
+<area shape="rect" id="node7" href="$interfaceSCR__AIGoalReaction__Defend.html" title=" " alt="" coords="218,325,365,365"/>
+<area shape="rect" id="node8" href="$interfaceSCR__AIGoalReaction__FireIllumFlareAt.html" title=" " alt="" coords="218,389,365,429"/>
+<area shape="rect" id="node9" href="$interfaceSCR__AIGoalReaction__Follow.html" title=" " alt="" coords="218,453,365,493"/>
+<area shape="rect" id="node10" href="$interfaceSCR__AIGoalReaction__GetInVehicle.html" title=" " alt="" coords="218,517,365,557"/>
+<area shape="rect" id="node11" href="$interfaceSCR__AIGoalReaction__GetOutVehicle.html" title=" " alt="" coords="218,581,365,621"/>
+<area shape="rect" id="node12" href="$interfaceSCR__AIGoalReaction__Heal.html" title=" " alt="" coords="202,646,381,671"/>
+<area shape="rect" id="node13" href="$interfaceSCR__AIGoalReaction__HealWait.html" title=" " alt="" coords="218,696,365,736"/>
+<area shape="rect" id="node14" href="$interfaceSCR__AIGoalReaction__Investigate.html" title=" " alt="" coords="218,760,365,800"/>
+<area shape="rect" id="node15" href="$interfaceSCR__AIGoalReaction__Move.html" title=" " alt="" coords="200,825,383,850"/>
+<area shape="rect" id="node16" href="$interfaceSCR__AIGoalReaction__MoveInFormation.html" title=" " alt="" coords="218,875,365,915"/>
+<area shape="rect" id="node17" href="$interfaceSCR__AIGoalReaction__OpenNavlinkDoor.html" title=" " alt="" coords="218,939,365,979"/>
+<area shape="rect" id="node18" href="$interfaceSCR__AIGoalReaction__PerformAction.html" title=" " alt="" coords="218,1003,365,1043"/>
+<area shape="rect" id="node19" href="$interfaceSCR__AIGoalReaction__PickupInventoryItems.html" title=" " alt="" coords="215,1067,367,1107"/>
+<area shape="rect" id="node20" href="$interfaceSCR__AIGoalReaction__ProvideAmmo.html" title=" " alt="" coords="218,1131,365,1171"/>
+<area shape="rect" id="node21" href="$interfaceSCR__AIGoalReaction__Retreat.html" title=" " alt="" coords="218,1195,365,1235"/>
+<area shape="rect" id="node22" href="$interfaceSCR__AIGoalReaction__SeekAndDestroy.html" title=" " alt="" coords="218,1259,365,1299"/>
+<area shape="rect" id="node23" href="$interfaceSCR__AIGoalReaction__Suppress.html" title=" " alt="" coords="218,1323,365,1363"/>
+<area shape="rect" id="node24" href="$interfaceSCR__AIGoalReaction__ThrowGrenadeTo.html" title=" " alt="" coords="218,1387,365,1427"/>
+</map>

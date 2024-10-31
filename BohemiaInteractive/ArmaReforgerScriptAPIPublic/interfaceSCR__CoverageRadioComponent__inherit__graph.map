@@ -1,0 +1,7 @@
+<map id="SCR_CoverageRadioComponent" name="SCR_CoverageRadioComponent">
+<area shape="rect" id="node1" title="Determinates if the owner entity is covered by the radio signal eminating from the component marked a..." alt="" coords="5,299,213,324"/>
+<area shape="rect" id="node2" href="$interfaceScriptedRadioComponent.html" title=" " alt="" coords="25,225,194,251"/>
+<area shape="rect" id="node3" href="$interfaceBaseRadioComponent.html" title=" " alt="" coords="34,152,185,177"/>
+<area shape="rect" id="node4" href="$interfaceGameComponent.html" title=" " alt="" coords="48,79,171,104"/>
+<area shape="rect" id="node5" title=" " alt="" coords="43,5,176,31"/>
+</map>

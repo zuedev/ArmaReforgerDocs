@@ -1,0 +1,6 @@
+<map id="SCR_PositionalInsectType" name="SCR_PositionalInsectType">
+<area shape="rect" id="node1" title="Base class that handles different insects based on their type." alt="" coords="5,70,181,95"/>
+<area shape="rect" id="node2" href="$interfaceSCR__PositionalAmbientLeafParticles.html" title="Handles insects that are supposed to be spawned trees." alt="" coords="233,5,419,45"/>
+<area shape="rect" id="node3" href="$interfaceSCR__PositionalGenericInsect.html" title="Handles insects that are supposed to be spawned around selected prefabs defined in prefab names array..." alt="" coords="229,70,423,95"/>
+<area shape="rect" id="node4" href="$interfaceSCR__PositionalLightSourceInsect.html" title="Handles insects that are supposed to be spawned around light sources defined in prefab names array." alt="" coords="235,120,417,160"/>
+</map>

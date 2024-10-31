@@ -1,0 +1,5 @@
+<map id="SCR_ServerConfigListComponent" name="SCR_ServerConfigListComponent">
+<area shape="rect" id="node1" title="Script component for handling server config editing UI." alt="" coords="5,152,220,177"/>
+<area shape="rect" id="node2" href="$interfaceSCR__ConfigListComponent.html" title="Compomenent with simple configuratino that will create list of given widgets." alt="" coords="23,79,202,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="24,5,201,31"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="SCR_AIToggleFlashlights" name="SCR_AIToggleFlashlights">
+<area shape="rect" id="node1" title=" " alt="" coords="119,79,289,104"/>
+<area shape="rect" id="node3" href="$interfaceSCR__AIToggleFlashlightsOnAbort.html" title=" " alt="" coords="5,152,192,192"/>
+<area shape="rect" id="node4" href="$interfaceSCR__AIToggleFlashlightsOnSimulate.html" title=" " alt="" coords="216,152,403,192"/>
+<area shape="rect" id="node2" title=" " alt="" coords="149,5,259,31"/>
+</map>

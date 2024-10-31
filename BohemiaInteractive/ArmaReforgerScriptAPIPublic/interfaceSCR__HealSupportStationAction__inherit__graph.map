@@ -1,0 +1,9 @@
+<map id="SCR_HealSupportStationAction" name="SCR_HealSupportStationAction">
+<area shape="rect" id="node1" title=" " alt="" coords="5,475,211,500"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseDamageHealSupportStationAction.html" title="Allows healing of action owner (not user)" alt="" coords="5,387,211,427"/>
+<area shape="rect" id="node3" href="$interfaceSCR__BaseUseSupportStationAction.html" title=" " alt="" coords="11,299,205,339"/>
+<area shape="rect" id="node4" href="$interfaceSCR__ScriptedUserAction.html" title="A scripted action class having optional logic to check if vehicle is valid." alt="" coords="24,225,192,251"/>
+<area shape="rect" id="node5" href="$interfaceScriptedUserAction.html" title=" " alt="" coords="41,152,175,177"/>
+<area shape="rect" id="node6" href="$interfaceBaseUserAction.html" title=" " alt="" coords="50,79,166,104"/>
+<area shape="rect" id="node7" title=" " alt="" coords="51,5,165,31"/>
+</map>

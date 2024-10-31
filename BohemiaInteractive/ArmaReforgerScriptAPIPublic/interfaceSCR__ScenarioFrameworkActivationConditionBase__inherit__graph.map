@@ -1,0 +1,7 @@
+<map id="SCR_ScenarioFrameworkActivationConditionBase" name="SCR_ScenarioFrameworkActivationConditionBase">
+<area shape="rect" id="node1" title=" " alt="" coords="5,101,232,141"/>
+<area shape="rect" id="node2" href="$interfaceSCR__ScenarioFrameworkDayTimeCondition.html" title=" " alt="" coords="293,5,487,45"/>
+<area shape="rect" id="node3" href="$interfaceSCR__ScenarioFrameworkDayTimeHourCondition.html" title=" " alt="" coords="293,69,487,109"/>
+<area shape="rect" id="node4" href="$interfaceSCR__ScenarioFrameworkVariableValueCondition.html" title=" " alt="" coords="281,133,499,173"/>
+<area shape="rect" id="node5" href="$interfaceSCR__ScenarioFrameworkWeatherCondition.html" title=" " alt="" coords="280,197,500,237"/>
+</map>

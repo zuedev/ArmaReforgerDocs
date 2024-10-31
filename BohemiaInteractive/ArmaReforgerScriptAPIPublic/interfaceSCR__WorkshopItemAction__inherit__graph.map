@@ -1,0 +1,11 @@
+<map id="SCR_WorkshopItemAction" name="SCR_WorkshopItemAction">
+<area shape="rect" id="node1" title=" " alt="" coords="5,77,183,102"/>
+<area shape="rect" id="node2" href="$interfaceSCR__WorkshopItemActionComposite.html" title="Composite action which includes multiple subactions." alt="" coords="234,21,473,46"/>
+<area shape="rect" id="node4" href="$interfaceSCR__WorkshopItemActionDownload.html" title=" " alt="" coords="237,77,470,102"/>
+<area shape="rect" id="node5" href="$interfaceSCR__WorkshopItemActionReportBase.html" title="Action for reporting an item." alt="" coords="231,141,476,166"/>
+<area shape="rect" id="node3" href="$interfaceSCR__WorkshopItemActionDownloadDependenciesLatest.html" title="Action for downloading latest dependencies. Doesn&#39;t download this addon, but only downloads dependenc..." alt="" coords="524,5,757,45"/>
+<area shape="rect" id="node6" href="$interfaceSCR__WorkshopItemActionAddAuthorBlock.html" title="Action for blocking author." alt="" coords="541,69,741,109"/>
+<area shape="rect" id="node7" href="$interfaceSCR__WorkshopItemActionCancelReport.html" title="Action for canceling report of an item." alt="" coords="532,133,749,173"/>
+<area shape="rect" id="node8" href="$interfaceSCR__WorkshopItemActionRemoveAuthorBlock.html" title="Action for removing author mod content blocking." alt="" coords="529,197,752,237"/>
+<area shape="rect" id="node9" href="$interfaceSCR__WorkshopItemActionReport.html" title="Action for reporting an item." alt="" coords="533,262,748,287"/>
+</map>

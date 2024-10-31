@@ -1,0 +1,8 @@
+<map id="SCR_BrowserListMenuEntryComponent" name="SCR_BrowserListMenuEntryComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="111,225,297,265"/>
+<area shape="rect" id="node5" href="$interfaceSCR__ContentBrowser__ScenarioLineComponent.html" title=" " alt="" coords="5,313,176,353"/>
+<area shape="rect" id="node6" href="$interfaceSCR__ServerBrowserEntryComponent.html" title="This component handles server entry and visiualization of server data." alt="" coords="201,321,437,346"/>
+<area shape="rect" id="node2" href="$interfaceSCR__ListMenuEntryComponent.html" title=" " alt="" coords="101,152,307,177"/>
+<area shape="rect" id="node3" href="$interfaceSCR__ScriptedWidgetComponent.html" title=" " alt="" coords="99,79,309,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="115,5,293,31"/>
+</map>

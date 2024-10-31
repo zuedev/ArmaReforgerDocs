@@ -1,0 +1,7 @@
+<map id="BaseGridMap" name="BaseGridMap">
+<area shape="rect" id="node1" title="Represent a grid map." alt="" coords="129,79,231,104"/>
+<area shape="rect" id="node3" href="$interfaceAABGridMap.html" title="Represent a grid map." alt="" coords="5,152,104,177"/>
+<area shape="rect" id="node4" href="$interfaceCircleGridMap.html" title="Represent a grid map." alt="" coords="128,152,232,177"/>
+<area shape="rect" id="node5" href="$interfacePointGridMap.html" title="Represent a grid map." alt="" coords="256,152,357,177"/>
+<area shape="rect" id="node2" title=" " alt="" coords="143,5,217,31"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="SCR_ModularButtonComponent" name="SCR_ModularButtonComponent">
+<area shape="rect" id="node1" title="Modular button implements all logic of a button." alt="" coords="231,55,437,80"/>
+<area shape="rect" id="node3" href="$interfaceSCR__CycleWaypointEditorUIComponent.html" title=" " alt="" coords="485,5,741,31"/>
+<area shape="rect" id="node4" href="$interfaceSCR__ListBoxElementComponent.html" title="Element of a listbox." alt="" coords="506,55,721,80"/>
+<area shape="rect" id="node5" href="$interfaceSCR__SortElementComponent.html" title="Sort element must be placed on a widget inside a sort header." alt="" coords="516,104,711,129"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,55,183,80"/>
+</map>

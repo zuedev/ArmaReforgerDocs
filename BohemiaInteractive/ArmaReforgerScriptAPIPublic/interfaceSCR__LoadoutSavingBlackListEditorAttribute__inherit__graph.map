@@ -1,0 +1,7 @@
+<map id="SCR_LoadoutSavingBlackListEditorAttribute" name="SCR_LoadoutSavingBlackListEditorAttribute">
+<area shape="rect" id="node1" title=" " alt="" coords="15,328,210,368"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseMultiSelectPresetsEditorAttribute.html" title=" " alt="" coords="15,240,211,280"/>
+<area shape="rect" id="node3" href="$interfaceSCR__BasePresetsEditorAttribute.html" title="Attribute base for Name, icon and float value for other attributes to inherent from." alt="" coords="5,167,220,192"/>
+<area shape="rect" id="node4" href="$interfaceSCR__BaseFloatValueHolderEditorAttribute.html" title="Attribute base for Name, icon and float value for other attributes to inherent from." alt="" coords="20,79,205,119"/>
+<area shape="rect" id="node5" href="$interfaceSCR__BaseEditorAttribute.html" title="Base Attribute Script for other attributes to inherent from to get and set varriables in Editor Attri..." alt="" coords="28,5,197,31"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="SCR_ResupplySelfSupportStationAction" name="SCR_ResupplySelfSupportStationAction">
+<area shape="rect" id="node1" title=" " alt="" coords="9,475,228,515"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseResupplySupportStationAction.html" title=" " alt="" coords="5,387,232,427"/>
+<area shape="rect" id="node3" href="$interfaceSCR__BaseUseSupportStationAction.html" title=" " alt="" coords="21,299,216,339"/>
+<area shape="rect" id="node4" href="$interfaceSCR__ScriptedUserAction.html" title="A scripted action class having optional logic to check if vehicle is valid." alt="" coords="35,225,203,251"/>
+<area shape="rect" id="node5" href="$interfaceScriptedUserAction.html" title=" " alt="" coords="51,152,186,177"/>
+<area shape="rect" id="node6" href="$interfaceBaseUserAction.html" title=" " alt="" coords="61,79,177,104"/>
+<area shape="rect" id="node7" title=" " alt="" coords="61,5,176,31"/>
+</map>

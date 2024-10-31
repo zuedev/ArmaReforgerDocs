@@ -1,0 +1,6 @@
+<map id="LoadoutHeadCoverArea" name="LoadoutHeadCoverArea">
+<area shape="rect" id="node1" title=" " alt="" coords="5,225,163,251"/>
+<area shape="rect" id="node2" href="$interfaceLoadoutAreaType.html" title=" " alt="" coords="23,152,145,177"/>
+<area shape="rect" id="node3" href="$interfaceBaseAttachmentType.html" title=" " alt="" coords="11,79,157,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="27,5,141,31"/>
+</map>

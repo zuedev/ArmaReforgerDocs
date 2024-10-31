@@ -1,0 +1,6 @@
+<map id="WindowWidget" name="WindowWidget">
+<area shape="rect" id="node1" title=" " alt="" coords="5,225,115,251"/>
+<area shape="rect" id="node2" href="$interfaceUIWidget.html" title=" " alt="" coords="23,152,97,177"/>
+<area shape="rect" id="node3" href="$interfaceWidget.html" title=" " alt="" coords="29,79,91,104"/>
+<area shape="rect" id="node4" href="$interfaceManaged.html" title=" " alt="" coords="23,5,97,31"/>
+</map>

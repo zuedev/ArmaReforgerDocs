@@ -1,0 +1,6 @@
+<map id="SCR_PlayerHubAreaTriggerEntityClass" name="SCR_PlayerHubAreaTriggerEntityClass">
+<area shape="rect" id="node1" title=" " alt="" coords="11,240,193,280"/>
+<area shape="rect" id="node2" href="$interfaceScriptedGameTriggerEntityClass.html" title=" " alt="" coords="13,152,191,192"/>
+<area shape="rect" id="node3" href="$interfaceBaseGameTriggerEntityClass.html" title=" " alt="" coords="5,79,199,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="35,5,169,31"/>
+</map>

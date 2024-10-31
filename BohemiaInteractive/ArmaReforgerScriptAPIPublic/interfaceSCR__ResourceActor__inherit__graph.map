@@ -1,0 +1,12 @@
+<map id="SCR_ResourceActor" name="SCR_ResourceActor">
+<area shape="rect" id="node1" title=" " alt="" coords="168,56,311,81"/>
+<area shape="rect" id="node3" href="$interfaceSCR__ResourceContainer.html" title=" " alt="" coords="359,19,525,44"/>
+<area shape="rect" id="node5" href="$interfaceSCR__ResourceInteractor.html" title=" " alt="" coords="359,80,525,105"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,56,120,81"/>
+<area shape="rect" id="node4" href="$interfaceSCR__ResourceContainerVirtual.html" title=" " alt="" coords="573,5,776,31"/>
+<area shape="rect" id="node6" href="$interfaceSCR__ResourceConsumer.html" title=" " alt="" coords="589,55,760,80"/>
+<area shape="rect" id="node7" href="$interfaceSCR__ResourceEncapsulator.html" title=" " alt="" coords="581,104,768,129"/>
+<area shape="rect" id="node10" href="$interfaceSCR__ResourceGenerator.html" title=" " alt="" coords="591,153,759,179"/>
+<area shape="rect" id="node8" href="$interfaceSCR__ResourceEncapsulatorAssimilated.html" title=" " alt="" coords="824,65,1011,105"/>
+<area shape="rect" id="node9" href="$interfaceSCR__ResourceEncapsulatorDelegated.html" title=" " alt="" coords="824,129,1011,169"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="SCR_RegeneratingHitZone" name="SCR_RegeneratingHitZone">
+<area shape="rect" id="node1" title=" " alt="" coords="209,225,385,251"/>
+<area shape="rect" id="node5" href="$interfaceSCR__CharacterBloodHitZone.html" title="Blood &#45; does not receive damage directly, only via scripted events." alt="" coords="5,299,195,324"/>
+<area shape="rect" id="node6" href="$interfaceSCR__CharacterHitZone.html" title=" " alt="" coords="219,299,375,324"/>
+<area shape="rect" id="node8" href="$interfaceSCR__CharacterResilienceHitZone.html" title="Resilience &#45; incapacitation or death, depending on game mode settings." alt="" coords="400,299,616,324"/>
+<area shape="rect" id="node2" href="$interfaceSCR__HitZone.html" title=" " alt="" coords="247,152,347,177"/>
+<area shape="rect" id="node3" href="$interfaceHitZone.html" title=" " alt="" coords="264,79,331,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="240,5,355,31"/>
+<area shape="rect" id="node7" href="$interfaceSCR__CharacterHeadHitZone.html" title=" " alt="" coords="204,372,391,397"/>
+</map>

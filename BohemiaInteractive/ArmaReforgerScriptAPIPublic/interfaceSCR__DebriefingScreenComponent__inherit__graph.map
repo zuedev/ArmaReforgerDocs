@@ -1,0 +1,6 @@
+<map id="SCR_DebriefingScreenComponent" name="SCR_DebriefingScreenComponent">
+<area shape="rect" id="node1" title="Debriefing screen component intended to be added to the GameMode." alt="" coords="5,240,225,265"/>
+<area shape="rect" id="node2" href="$interfaceSCR__DeployMenuBaseScreenComponent.html" title="Base class for Deploy menu components." alt="" coords="16,152,215,192"/>
+<area shape="rect" id="node3" href="$interfaceSCR__BaseGameModeComponent.html" title="Interface for game mode extending components." alt="" coords="6,79,225,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="54,5,177,31"/>
+</map>

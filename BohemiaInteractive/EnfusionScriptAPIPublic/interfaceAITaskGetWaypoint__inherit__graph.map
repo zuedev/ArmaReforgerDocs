@@ -1,0 +1,7 @@
+<map id="AITaskGetWaypoint" name="AITaskGetWaypoint">
+<area shape="rect" id="node1" title=" " alt="" coords="5,299,144,324"/>
+<area shape="rect" id="node2" href="$interfaceAITask.html" title=" " alt="" coords="43,225,106,251"/>
+<area shape="rect" id="node3" href="$interfaceNode.html" title=" " alt="" coords="49,152,101,177"/>
+<area shape="rect" id="node4" href="$interfaceScriptAndConfig.html" title="Base class for classes which combine enf::Class and enf::BaseClass (in C++)." alt="" coords="17,79,132,104"/>
+<area shape="rect" id="node5" href="$interfaceManaged.html" title=" " alt="" coords="37,5,112,31"/>
+</map>

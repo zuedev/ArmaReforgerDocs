@@ -1,0 +1,6 @@
+<map id="SCR_ScenarioFrameworkSlotWaypoint" name="SCR_ScenarioFrameworkSlotWaypoint">
+<area shape="rect" id="node1" title=" " alt="" coords="25,225,219,265"/>
+<area shape="rect" id="node2" href="$interfaceSCR__ScenarioFrameworkSlotBase.html" title=" " alt="" coords="10,152,234,177"/>
+<area shape="rect" id="node3" href="$interfaceSCR__ScenarioFrameworkLayerBase.html" title=" " alt="" coords="5,79,239,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="61,5,183,31"/>
+</map>

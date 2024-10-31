@@ -1,0 +1,4 @@
+<map id="SCR_DeathMatchGameOverScreenInfo" name="SCR_DeathMatchGameOverScreenInfo">
+<area shape="rect" id="node1" title=" " alt="" coords="5,79,253,104"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseGameOverScreenInfo.html" title=" " alt="" coords="25,5,233,31"/>
+</map>

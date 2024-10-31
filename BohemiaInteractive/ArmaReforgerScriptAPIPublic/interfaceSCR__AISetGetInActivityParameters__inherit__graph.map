@@ -1,0 +1,6 @@
+<map id="SCR_AISetGetInActivityParameters" name="SCR_AISetGetInActivityParameters">
+<area shape="rect" id="node1" title=" " alt="" coords="5,225,233,251"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AISetActionParameters.html" title="Base class of node which gets action parameters from a BT node." alt="" coords="23,152,215,177"/>
+<area shape="rect" id="node3" href="$interfaceSCR__AIActionTask.html" title=" " alt="" coords="53,79,186,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="64,5,175,31"/>
+</map>

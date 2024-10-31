@@ -1,0 +1,4 @@
+<map id="SCR_AITargetReaction_SelectedTargetChangedBase" name="SCR_AITargetReaction_SelectedTargetChangedBase">
+<area shape="rect" id="node1" title="This reaction is called every time selected target changes from anything to anything,..." alt="" coords="5,5,203,45"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AITargetReaction__SelectedTargetChanged.html" title="Performs reporting of selected target if it changes." alt="" coords="21,93,187,133"/>
+</map>

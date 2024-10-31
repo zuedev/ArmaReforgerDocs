@@ -1,0 +1,4 @@
+<map id="SCR_VehicleControllerTypeCondition" name="SCR_VehicleControllerTypeCondition">
+<area shape="rect" id="node1" title="Returns true if character is in a vehicle." alt="" coords="13,79,196,119"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AvailableActionCondition.html" title="A single available action condition representation." alt="" coords="5,5,204,31"/>
+</map>

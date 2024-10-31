@@ -1,0 +1,6 @@
+<map id="SCR_SpawnMusic" name="SCR_SpawnMusic">
+<area shape="rect" id="node1" title=" " alt="" coords="5,225,136,251"/>
+<area shape="rect" id="node2" href="$interfaceScriptedMusic.html" title=" " alt="" coords="18,152,123,177"/>
+<area shape="rect" id="node3" href="$interfaceMusic.html" title=" " alt="" coords="42,79,99,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="13,5,128,31"/>
+</map>

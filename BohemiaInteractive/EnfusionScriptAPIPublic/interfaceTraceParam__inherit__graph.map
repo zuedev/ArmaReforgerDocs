@@ -1,0 +1,7 @@
+<map id="TraceParam" name="TraceParam">
+<area shape="rect" id="node1" title="Input&amp;Output structure for collision tests." alt="" coords="55,79,147,104"/>
+<area shape="rect" id="node3" href="$interfaceTraceBox.html" title=" " alt="" coords="8,152,85,177"/>
+<area shape="rect" id="node5" href="$interfaceTraceSphere.html" title=" " alt="" coords="110,152,205,177"/>
+<area shape="rect" id="node2" href="$interfaceManaged.html" title=" " alt="" coords="64,5,139,31"/>
+<area shape="rect" id="node4" href="$interfaceTraceOBB.html" title=" " alt="" coords="5,225,88,251"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="AimingComponent" name="AimingComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="257,225,385,251"/>
+<area shape="rect" id="node5" href="$interfaceCharacterAimingComponent.html" title=" " alt="" coords="5,299,189,324"/>
+<area shape="rect" id="node6" href="$interfaceCharacterHeadAimingComponent.html" title=" " alt="" coords="214,299,429,324"/>
+<area shape="rect" id="node7" href="$interfaceTurretComponent.html" title=" " alt="" coords="453,299,574,324"/>
+<area shape="rect" id="node2" href="$interfaceBaseAimingComponent.html" title=" " alt="" coords="242,152,401,177"/>
+<area shape="rect" id="node3" href="$interfaceGameComponent.html" title=" " alt="" coords="260,79,383,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="255,5,388,31"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="SCR_ConsumableSalineBag" name="SCR_ConsumableSalineBag">
+<area shape="rect" id="node1" title="Saline bag effect." alt="" coords="11,240,198,265"/>
+<area shape="rect" id="node2" href="$interfaceSCR__ConsumableEffectHealthItems.html" title=" " alt="" coords="5,152,204,192"/>
+<area shape="rect" id="node3" href="$interfaceSCR__ConsumableEffectBase.html" title="Effect assigned to the consumable gadget." alt="" coords="9,79,200,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="67,5,142,31"/>
+</map>

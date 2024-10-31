@@ -1,0 +1,6 @@
+<map id="LoadoutArmoredVestSlotArea" name="LoadoutArmoredVestSlotArea">
+<area shape="rect" id="node1" title=" " alt="" coords="5,225,200,251"/>
+<area shape="rect" id="node2" href="$interfaceLoadoutAreaType.html" title=" " alt="" coords="41,152,164,177"/>
+<area shape="rect" id="node3" href="$interfaceBaseAttachmentType.html" title=" " alt="" coords="29,79,176,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="45,5,160,31"/>
+</map>

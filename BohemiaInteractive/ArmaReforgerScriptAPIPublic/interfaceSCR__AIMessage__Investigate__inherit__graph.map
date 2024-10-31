@@ -1,0 +1,6 @@
+<map id="SCR_AIMessage_Investigate" name="SCR_AIMessage_Investigate">
+<area shape="rect" id="node1" title=" " alt="" coords="5,225,195,251"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AIMessageGoal.html" title=" " alt="" coords="26,152,174,177"/>
+<area shape="rect" id="node3" href="$interfaceSCR__AIMessageBase.html" title=" " alt="" coords="25,79,175,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="57,5,143,31"/>
+</map>

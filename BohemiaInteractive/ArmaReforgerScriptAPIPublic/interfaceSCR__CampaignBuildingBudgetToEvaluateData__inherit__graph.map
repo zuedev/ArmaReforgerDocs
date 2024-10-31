@@ -1,0 +1,7 @@
+<map id="SCR_CampaignBuildingBudgetToEvaluateData" name="SCR_CampaignBuildingBudgetToEvaluateData">
+<area shape="rect" id="node1" title=" " alt="" coords="5,69,207,109"/>
+<area shape="rect" id="node2" href="$interfaceSCR__CampaignBuildingCooldownBudgetToEvaluateData.html" title=" " alt="" coords="256,5,472,45"/>
+<area shape="rect" id="node4" href="$interfaceSCR__CampaignBuildingMaxValueBudgetToEvaluateData.html" title=" " alt="" coords="255,69,473,109"/>
+<area shape="rect" id="node5" href="$interfaceSCR__CampaignBuildingRankBudgetToEvaluateData.html" title=" " alt="" coords="269,133,459,173"/>
+<area shape="rect" id="node3" href="$interfaceSCR__CampaignBuildingCooldownWithRankBudgetToEvaluateData.html" title=" " alt="" coords="521,5,737,45"/>
+</map>

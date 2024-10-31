@@ -1,0 +1,6 @@
+<map id="ProgressBarWidget" name="ProgressBarWidget">
+<area shape="rect" id="node1" title=" " alt="" coords="5,225,140,251"/>
+<area shape="rect" id="node2" href="$interfaceUIWidget.html" title=" " alt="" coords="35,152,110,177"/>
+<area shape="rect" id="node3" href="$interfaceWidget.html" title=" " alt="" coords="41,79,104,104"/>
+<area shape="rect" id="node4" href="$interfaceManaged.html" title=" " alt="" coords="35,5,110,31"/>
+</map>

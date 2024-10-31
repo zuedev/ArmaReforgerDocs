@@ -1,0 +1,8 @@
+<map id="SCR_InteractionHandlerComponent" name="SCR_InteractionHandlerComponent">
+<area shape="rect" id="node1" title="This component allows the player to interact with their environment." alt="" coords="5,387,232,412"/>
+<area shape="rect" id="node2" href="$interfaceInteractionHandlerComponent.html" title="Collects interactions by performing a sphere cast initially and then a sphere query at the end." alt="" coords="23,313,215,339"/>
+<area shape="rect" id="node3" href="$interfaceExtBaseInteractionHandlerComponent.html" title="Collects interactions by performing a sphere cast initially and then a sphere query at the end." alt="" coords="31,225,207,265"/>
+<area shape="rect" id="node4" href="$interfaceBaseInteractionHandlerComponent.html" title="Base class for interaction handler." alt="" coords="7,152,230,177"/>
+<area shape="rect" id="node5" href="$interfaceGameComponent.html" title=" " alt="" coords="57,79,180,104"/>
+<area shape="rect" id="node6" title=" " alt="" coords="52,5,185,31"/>
+</map>

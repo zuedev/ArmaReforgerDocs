@@ -1,0 +1,5 @@
+<map id="SCR_AICombatMoveLogic_Attack" name="SCR_AICombatMoveLogic_Attack">
+<area shape="rect" id="node1" title="Combat movement node for attack behavior, which is aimed at BaseTarget." alt="" coords="20,152,195,192"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AICombatMoveLogicBase.html" title="Base class for combat movement." alt="" coords="5,79,209,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="52,5,163,31"/>
+</map>

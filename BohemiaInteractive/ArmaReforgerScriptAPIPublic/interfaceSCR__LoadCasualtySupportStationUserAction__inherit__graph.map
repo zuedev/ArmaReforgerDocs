@@ -1,0 +1,8 @@
+<map id="SCR_LoadCasualtySupportStationUserAction" name="SCR_LoadCasualtySupportStationUserAction">
+<area shape="rect" id="node1" title=" " alt="" coords="5,387,227,427"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseUseSupportStationAction.html" title=" " alt="" coords="19,299,213,339"/>
+<area shape="rect" id="node3" href="$interfaceSCR__ScriptedUserAction.html" title="A scripted action class having optional logic to check if vehicle is valid." alt="" coords="32,225,200,251"/>
+<area shape="rect" id="node4" href="$interfaceScriptedUserAction.html" title=" " alt="" coords="49,152,183,177"/>
+<area shape="rect" id="node5" href="$interfaceBaseUserAction.html" title=" " alt="" coords="58,79,174,104"/>
+<area shape="rect" id="node6" title=" " alt="" coords="59,5,173,31"/>
+</map>

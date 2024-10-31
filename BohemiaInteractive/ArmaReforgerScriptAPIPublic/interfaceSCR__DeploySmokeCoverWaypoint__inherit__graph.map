@@ -1,0 +1,5 @@
+<map id="SCR_DeploySmokeCoverWaypoint" name="SCR_DeploySmokeCoverWaypoint">
+<area shape="rect" id="node1" title=" " alt="" coords="5,152,229,177"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AIWaypoint.html" title=" " alt="" coords="56,79,179,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="73,5,162,31"/>
+</map>

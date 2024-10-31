@@ -1,0 +1,5 @@
+<map id="SCR_InputLayoutEditorComponent" name="SCR_InputLayoutEditorComponent">
+<area shape="rect" id="node1" title="Manage GUI for visualizing user input for accessing the editor." alt="" coords="5,152,228,177"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseEditorComponent.html" title="Base class for editor components." alt="" coords="23,79,210,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="55,5,178,31"/>
+</map>

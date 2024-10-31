@@ -1,0 +1,11 @@
+<map id="BaseDecoratorTest" name="BaseDecoratorTest">
+<area shape="rect" id="node1" title=" " alt="" coords="477,84,611,109"/>
+<area shape="rect" id="node5" href="$interfaceDecoratorTestHasAimRequest.html" title=" " alt="" coords="662,5,859,31"/>
+<area shape="rect" id="node6" href="$interfaceDecoratorTestHasMoveRequest.html" title=" " alt="" coords="659,55,863,80"/>
+<area shape="rect" id="node7" href="$interfaceDecoratorTestIsAimedWithThreshold.html" title=" " alt="" coords="672,105,849,145"/>
+<area shape="rect" id="node8" href="$interfaceDecoratorTestScripted.html" title=" " alt="" coords="685,169,836,195"/>
+<area shape="rect" id="node2" href="$interfaceNodePortsContainer.html" title=" " alt="" coords="291,84,429,109"/>
+<area shape="rect" id="node3" href="$interfaceScriptAndConfig.html" title="Base class for classes which combine enf::Class and enf::BaseClass (in C++)." alt="" coords="128,84,243,109"/>
+<area shape="rect" id="node4" href="$interfaceManaged.html" title=" " alt="" coords="5,84,80,109"/>
+<area shape="rect" id="node9" href="$interfaceDecoratorTestNotNull.html" title=" " alt="" coords="911,169,1056,195"/>
+</map>

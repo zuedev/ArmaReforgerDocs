@@ -1,0 +1,5 @@
+<map id="SCR_GlobalAttributesToolbarAction" name="SCR_GlobalAttributesToolbarAction">
+<area shape="rect" id="node1" title=" " alt="" coords="5,152,196,192"/>
+<area shape="rect" id="node2" href="$interfaceSCR__EditorToolbarAction.html" title=" " alt="" coords="16,79,185,104"/>
+<area shape="rect" id="node3" href="$interfaceSCR__BaseEditorAction.html" title="Base container class for all editor action types (ContextActions, WaypointActions,..." alt="" coords="22,5,179,31"/>
+</map>

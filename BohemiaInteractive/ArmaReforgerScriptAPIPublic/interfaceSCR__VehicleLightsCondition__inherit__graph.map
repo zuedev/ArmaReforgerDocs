@@ -1,0 +1,4 @@
+<map id="SCR_VehicleLightsCondition" name="SCR_VehicleLightsCondition">
+<area shape="rect" id="node1" title="Returns true if current vehicle lights are enabled." alt="" coords="11,79,199,104"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AvailableActionCondition.html" title="A single available action condition representation." alt="" coords="5,5,204,31"/>
+</map>

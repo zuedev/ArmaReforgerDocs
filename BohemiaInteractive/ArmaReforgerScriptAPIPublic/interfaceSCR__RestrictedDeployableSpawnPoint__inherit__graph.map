@@ -1,0 +1,7 @@
+<map id="SCR_RestrictedDeployableSpawnPoint" name="SCR_RestrictedDeployableSpawnPoint">
+<area shape="rect" id="node1" title="Basically SCR_SpawnPoint with the ability to limit respawn amount." alt="" coords="11,299,189,339"/>
+<area shape="rect" id="node2" href="$interfaceSCR__DeployableSpawnPoint.html" title=" " alt="" coords="5,225,195,251"/>
+<area shape="rect" id="node3" href="$interfaceSCR__SpawnPoint.html" title="Spawn point entity defines positions on which players can possibly spawn." alt="" coords="37,152,163,177"/>
+<area shape="rect" id="node4" href="$interfaceSCR__Position.html" title=" " alt="" coords="49,79,151,104"/>
+<area shape="rect" id="node5" title=" " alt="" coords="49,5,151,31"/>
+</map>

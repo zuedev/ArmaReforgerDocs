@@ -1,0 +1,6 @@
+<map id="SCR_AISetAttackBehaviorParameters" name="SCR_AISetAttackBehaviorParameters">
+<area shape="rect" id="node1" title=" " alt="" coords="5,225,248,251"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AISetActionParameters.html" title="Base class of node which gets action parameters from a BT node." alt="" coords="31,152,223,177"/>
+<area shape="rect" id="node3" href="$interfaceSCR__AIActionTask.html" title=" " alt="" coords="60,79,193,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="71,5,182,31"/>
+</map>

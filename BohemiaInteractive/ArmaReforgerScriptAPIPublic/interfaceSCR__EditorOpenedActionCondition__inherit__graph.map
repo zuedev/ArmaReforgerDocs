@@ -1,0 +1,4 @@
+<map id="SCR_EditorOpenedActionCondition" name="SCR_EditorOpenedActionCondition">
+<area shape="rect" id="node1" title="Returns true when the editor is opened." alt="" coords="5,79,232,104"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AvailableActionCondition.html" title="A single available action condition representation." alt="" coords="19,5,218,31"/>
+</map>

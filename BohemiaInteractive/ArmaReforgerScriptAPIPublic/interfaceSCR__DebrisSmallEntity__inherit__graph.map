@@ -1,0 +1,4 @@
+<map id="SCR_DebrisSmallEntity" name="SCR_DebrisSmallEntity">
+<area shape="rect" id="node1" title="Entity used to represent small debris in the world." alt="" coords="5,79,165,104"/>
+<area shape="rect" id="node2" title=" " alt="" coords="35,5,136,31"/>
+</map>

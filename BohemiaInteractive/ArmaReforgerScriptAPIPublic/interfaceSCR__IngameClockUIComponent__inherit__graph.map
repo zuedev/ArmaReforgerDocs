@@ -1,0 +1,5 @@
+<map id="SCR_IngameClockUIComponent" name="SCR_IngameClockUIComponent">
+<area shape="rect" id="node1" title="Gets the Ingame time and displays it on a UI text element." alt="" coords="5,152,215,177"/>
+<area shape="rect" id="node2" href="$interfaceMenuRootSubComponent.html" title="Widget component which is linked to menu it&#39;s part of." alt="" coords="25,79,195,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="21,5,199,31"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="SCR_LocationMusic" name="SCR_LocationMusic">
+<area shape="rect" id="node1" title=" " alt="" coords="5,299,145,324"/>
+<area shape="rect" id="node2" href="$interfaceLocationMusic.html" title=" " alt="" coords="22,225,129,251"/>
+<area shape="rect" id="node3" href="$interfaceScriptedMusic.html" title=" " alt="" coords="23,152,128,177"/>
+<area shape="rect" id="node4" href="$interfaceMusic.html" title=" " alt="" coords="47,79,104,104"/>
+<area shape="rect" id="node5" title=" " alt="" coords="18,5,133,31"/>
+</map>

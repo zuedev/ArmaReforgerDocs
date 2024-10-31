@@ -1,0 +1,5 @@
+<map id="SCR_LoadingOverlayDialog" name="SCR_LoadingOverlayDialog">
+<area shape="rect" id="node1" title="Loading overlay wrapped into a dialog." alt="" coords="5,152,185,177"/>
+<area shape="rect" id="node2" href="$interfaceChimeraMenuBase.html" title="Constant variables used in various menus." alt="" coords="29,79,161,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="53,5,137,31"/>
+</map>

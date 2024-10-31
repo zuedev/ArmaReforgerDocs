@@ -1,0 +1,8 @@
+<map id="SCR_DisconnectChargesAction" name="SCR_DisconnectChargesAction">
+<area shape="rect" id="node1" title=" " alt="" coords="5,372,212,397"/>
+<area shape="rect" id="node2" href="$interfaceSCR__RemoteDetonatorAction.html" title=" " alt="" coords="11,299,206,324"/>
+<area shape="rect" id="node3" href="$interfaceSCR__ScriptedUserAction.html" title="A scripted action class having optional logic to check if vehicle is valid." alt="" coords="25,225,193,251"/>
+<area shape="rect" id="node4" href="$interfaceScriptedUserAction.html" title=" " alt="" coords="41,152,176,177"/>
+<area shape="rect" id="node5" href="$interfaceBaseUserAction.html" title=" " alt="" coords="51,79,167,104"/>
+<area shape="rect" id="node6" title=" " alt="" coords="51,5,166,31"/>
+</map>

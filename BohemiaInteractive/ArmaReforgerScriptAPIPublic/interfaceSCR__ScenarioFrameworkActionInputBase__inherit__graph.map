@@ -1,0 +1,6 @@
+<map id="SCR_ScenarioFrameworkActionInputBase" name="SCR_ScenarioFrameworkActionInputBase">
+<area shape="rect" id="node1" title=" " alt="" coords="5,37,213,77"/>
+<area shape="rect" id="node2" href="$interfaceSCR__ScenarioFrameworkActionInputCheckEntitiesInTrigger.html" title=" " alt="" coords="268,5,476,45"/>
+<area shape="rect" id="node4" href="$interfaceSCR__ScenarioFrameworkActionInputOnTaskEventIncreaseCounter.html" title=" " alt="" coords="261,69,483,109"/>
+<area shape="rect" id="node3" href="$interfaceSCR__ScenarioFrameworkActionInputCheckEntitiesInAreaTrigger.html" title=" " alt="" coords="531,5,739,45"/>
+</map>

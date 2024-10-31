@@ -1,0 +1,7 @@
+<map id="SCR_StickyNotificationUIComponent" name="SCR_StickyNotificationUIComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="231,77,465,102"/>
+<area shape="rect" id="node3" href="$interfaceSCR__GroupInviteStickyNotificationUIComponent.html" title=" " alt="" coords="527,5,748,45"/>
+<area shape="rect" id="node4" href="$interfaceSCR__NoGameMasterStickyNotificationUIComponent.html" title=" " alt="" coords="513,69,761,109"/>
+<area shape="rect" id="node5" href="$interfaceSCR__VotingStickyNotificationUIComponent.html" title=" " alt="" coords="540,133,735,173"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,77,183,102"/>
+</map>

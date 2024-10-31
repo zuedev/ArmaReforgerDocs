@@ -1,0 +1,13 @@
+<map id="CharacterCamera3rdPersonBase" name="CharacterCamera3rdPersonBase">
+<area shape="rect" id="node1" title=" " alt="" coords="613,131,825,157"/>
+<area shape="rect" id="node5" href="$interfaceCharacterCamera3rdPersonCrouch.html" title=" " alt="" coords="883,7,1066,47"/>
+<area shape="rect" id="node7" href="$interfaceCharacterCamera3rdPersonErc.html" title=" " alt="" coords="873,74,1076,99"/>
+<area shape="rect" id="node9" href="$interfaceCharacterCamera3rdPersonFloat.html" title=" " alt="" coords="883,124,1066,164"/>
+<area shape="rect" id="node10" href="$interfaceCharacterCamera3rdPersonProne.html" title=" " alt="" coords="883,188,1066,228"/>
+<area shape="rect" id="node11" href="$interfaceCharacterCamera3rdPersonUnconscious.html" title=" " alt="" coords="883,252,1066,292"/>
+<area shape="rect" id="node2" href="$interfaceCharacterCameraBase.html" title=" " alt="" coords="412,131,565,157"/>
+<area shape="rect" id="node3" href="$interfaceScriptedCameraItem.html" title=" " alt="" coords="224,131,364,157"/>
+<area shape="rect" id="node4" href="$interfaceBaseScriptedCameraItem.html" title=" " alt="" coords="5,131,176,157"/>
+<area shape="rect" id="node6" href="$interfaceCharacterCamera3rdPersonSitting.html" title=" " alt="" coords="1124,5,1307,45"/>
+<area shape="rect" id="node8" href="$interfaceCharacterCamera3rdPersonClimb.html" title=" " alt="" coords="1124,69,1307,109"/>
+</map>

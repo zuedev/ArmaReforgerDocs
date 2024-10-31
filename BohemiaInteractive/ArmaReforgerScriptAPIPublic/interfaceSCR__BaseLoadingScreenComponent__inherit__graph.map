@@ -1,0 +1,6 @@
+<map id="SCR_BaseLoadingScreenComponent" name="SCR_BaseLoadingScreenComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="106,79,345,104"/>
+<area shape="rect" id="node3" href="$interfaceSCR__LoadingScreenComponent.html" title=" " alt="" coords="5,152,213,177"/>
+<area shape="rect" id="node4" href="$interfaceSCR__PreloadScreenComponent.html" title=" " alt="" coords="238,152,445,177"/>
+<area shape="rect" id="node2" title=" " alt="" coords="137,5,314,31"/>
+</map>

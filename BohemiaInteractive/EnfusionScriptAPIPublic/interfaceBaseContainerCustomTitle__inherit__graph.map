@@ -1,0 +1,5 @@
+<map id="BaseContainerCustomTitle" name="BaseContainerCustomTitle">
+<area shape="rect" id="node1" title="Base class for attribute for setting custom title in property grid (Workbench)." alt="" coords="96,5,272,31"/>
+<area shape="rect" id="node2" href="$interfaceBaseContainerCustomTitleField.html" title="Attribute for setting any string property as custom title." alt="" coords="5,79,181,119"/>
+<area shape="rect" id="node3" href="$interfacePeerConfigViewTitle.html" title="Custom names for defined zones to make config setup easier." alt="" coords="206,86,343,111"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="SCR_BaseAudioScriptedUserAction" name="SCR_BaseAudioScriptedUserAction">
+<area shape="rect" id="node1" title="A scripted action class having optional logic for playing audio as well as checking if the faction is..." alt="" coords="203,299,398,339"/>
+<area shape="rect" id="node6" href="$interfaceSCR__BaseFactionCheckUserAction.html" title=" " alt="" coords="5,387,199,427"/>
+<area shape="rect" id="node8" href="$interfaceSCR__CheckFuelAction.html" title=" " alt="" coords="223,394,378,419"/>
+<area shape="rect" id="node9" href="$interfaceSCR__DrainFuelUserAction.html" title="Allows players to drain an entity with a fuel manager. Use with care as it might create a lot of grie..." alt="" coords="403,394,577,419"/>
+<area shape="rect" id="node2" href="$interfaceSCR__ScriptedUserAction.html" title="A scripted action class having optional logic to check if vehicle is valid." alt="" coords="217,225,385,251"/>
+<area shape="rect" id="node3" href="$interfaceScriptedUserAction.html" title=" " alt="" coords="233,152,368,177"/>
+<area shape="rect" id="node4" href="$interfaceBaseUserAction.html" title=" " alt="" coords="243,79,359,104"/>
+<area shape="rect" id="node5" title=" " alt="" coords="243,5,358,31"/>
+<area shape="rect" id="node7" href="$interfaceSCR__SaveArsenalLoadout.html" title=" " alt="" coords="15,475,189,500"/>
+</map>

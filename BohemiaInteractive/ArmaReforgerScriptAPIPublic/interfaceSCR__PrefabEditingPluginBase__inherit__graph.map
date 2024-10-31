@@ -1,0 +1,8 @@
+<map id="SCR_PrefabEditingPluginBase" name="SCR_PrefabEditingPluginBase">
+<area shape="rect" id="node1" title=" " alt="" coords="177,46,376,71"/>
+<area shape="rect" id="node3" href="$interfaceSCR__CreateEditablePrefabsPlugin.html" title=" " alt="" coords="424,8,609,48"/>
+<area shape="rect" id="node5" href="$interfaceSCR__PrefabEditingPlugin.html" title=" " alt="" coords="432,74,601,99"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,46,129,71"/>
+<area shape="rect" id="node4" href="$interfaceSCR__CreateEditablePrefabsPluginResourceManager.html" title=" " alt="" coords="677,5,862,45"/>
+<area shape="rect" id="node6" href="$interfaceSCR__PrefabEditingPluginResourceManager.html" title=" " alt="" coords="657,69,881,109"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="SCR_AITargetReactionBase" name="SCR_AITargetReactionBase">
+<area shape="rect" id="node1" title=" " alt="" coords="79,5,265,31"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AITargetReaction__RetreatFromEnemy.html" title=" " alt="" coords="5,79,160,119"/>
+<area shape="rect" id="node3" href="$interfaceSCR__AITargetReaction__Unknown.html" title=" " alt="" coords="184,79,339,119"/>
+</map>

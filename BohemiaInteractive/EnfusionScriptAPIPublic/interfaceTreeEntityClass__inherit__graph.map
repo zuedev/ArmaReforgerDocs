@@ -1,0 +1,6 @@
+<map id="TreeEntityClass" name="TreeEntityClass">
+<area shape="rect" id="node1" title=" " alt="" coords="27,225,142,251"/>
+<area shape="rect" id="node2" href="$interfaceStaticModelEntityClass.html" title=" " alt="" coords="5,152,164,177"/>
+<area shape="rect" id="node3" href="$interfaceGenericEntityClass.html" title=" " alt="" coords="17,79,152,104"/>
+<area shape="rect" id="node4" href="$interfaceEntityPrefabData.html" title="Shared object with constant data for enf::EntitySource from prefab." alt="" coords="25,5,145,31"/>
+</map>

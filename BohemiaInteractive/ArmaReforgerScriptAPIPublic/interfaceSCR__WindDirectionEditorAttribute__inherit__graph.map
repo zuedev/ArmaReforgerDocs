@@ -1,0 +1,5 @@
+<map id="SCR_WindDirectionEditorAttribute" name="SCR_WindDirectionEditorAttribute">
+<area shape="rect" id="node1" title="Wind direction Attribute for getting and setting varriables in Editor Attribute window." alt="" coords="5,167,225,192"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseFloatValueHolderEditorAttribute.html" title="Attribute base for Name, icon and float value for other attributes to inherent from." alt="" coords="23,79,208,119"/>
+<area shape="rect" id="node3" href="$interfaceSCR__BaseEditorAttribute.html" title="Base Attribute Script for other attributes to inherent from to get and set varriables in Editor Attri..." alt="" coords="31,5,200,31"/>
+</map>

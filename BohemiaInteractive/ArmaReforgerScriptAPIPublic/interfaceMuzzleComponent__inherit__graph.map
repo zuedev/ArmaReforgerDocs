@@ -1,0 +1,6 @@
+<map id="MuzzleComponent" name="MuzzleComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="20,225,151,251"/>
+<area shape="rect" id="node2" href="$interfaceBaseMuzzleComponent.html" title=" " alt="" coords="5,152,165,177"/>
+<area shape="rect" id="node3" href="$interfaceGameComponent.html" title=" " alt="" coords="24,79,147,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="19,5,152,31"/>
+</map>

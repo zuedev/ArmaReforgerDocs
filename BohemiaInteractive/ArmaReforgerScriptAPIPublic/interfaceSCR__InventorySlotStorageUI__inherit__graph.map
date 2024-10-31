@@ -1,0 +1,7 @@
+<map id="SCR_InventorySlotStorageUI" name="SCR_InventorySlotStorageUI">
+<area shape="rect" id="node1" title="UI Script Inventory Slot UI Layout." alt="" coords="93,152,279,177"/>
+<area shape="rect" id="node4" href="$interfaceSCR__InventorySlotLBSUI.html" title="UI Script Inventory Slot UI Layout." alt="" coords="5,233,172,258"/>
+<area shape="rect" id="node5" href="$interfaceSCR__InventorySlotStorageEmbeddedUI.html" title="UI Script Inventory Slot UI Layout." alt="" coords="196,225,371,265"/>
+<area shape="rect" id="node2" href="$interfaceSCR__InventorySlotUI.html" title="UI Script Inventory Slot UI Layout." alt="" coords="115,79,257,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="97,5,275,31"/>
+</map>

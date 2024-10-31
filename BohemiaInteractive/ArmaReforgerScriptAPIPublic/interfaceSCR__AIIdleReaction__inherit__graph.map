@@ -1,0 +1,4 @@
+<map id="SCR_AIIdleReaction" name="SCR_AIIdleReaction">
+<area shape="rect" id="node1" title=" " alt="" coords="11,79,149,104"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AIReactionBase.html" title=" " alt="" coords="5,5,155,31"/>
+</map>

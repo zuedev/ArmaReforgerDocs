@@ -1,0 +1,7 @@
+<map id="SCR_SpawnHandlerComponent" name="SCR_SpawnHandlerComponent">
+<area shape="rect" id="node1" title="SCR_SpawnRequestComponent &lt;&#45;&gt; SCR_SpawnHandlerComponent." alt="" coords="176,55,381,80"/>
+<area shape="rect" id="node3" href="$interfaceSCR__FreeSpawnHandlerComponent.html" title=" " alt="" coords="442,5,673,31"/>
+<area shape="rect" id="node4" href="$interfaceSCR__PossessSpawnHandlerComponent.html" title=" " alt="" coords="429,55,685,80"/>
+<area shape="rect" id="node5" href="$interfaceSCR__SpawnPointSpawnHandlerComponent.html" title=" " alt="" coords="453,105,661,145"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,55,128,80"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="SCR_VotingBase" name="SCR_VotingBase">
+<area shape="rect" id="node1" title="Base class for voting types." alt="" coords="119,5,242,31"/>
+<area shape="rect" id="node2" href="$interfaceSCR__VotingElection.html" title="Election of specific type." alt="" coords="23,79,163,104"/>
+<area shape="rect" id="node3" href="$interfaceSCR__VotingReferendum.html" title="Referendum about specific outcome." alt="" coords="187,79,350,104"/>
+<area shape="rect" id="node4" href="$interfaceSCR__VotingAdmin.html" title=" " alt="" coords="45,152,175,177"/>
+<area shape="rect" id="node5" href="$interfaceSCR__VotingEditorIn.html" title=" " alt="" coords="200,152,337,177"/>
+<area shape="rect" id="node8" href="$interfaceSCR__VotingKick.html" title=" " alt="" coords="380,152,499,177"/>
+<area shape="rect" id="node6" href="$interfaceSCR__VotingEditorOut.html" title=" " alt="" coords="5,225,153,251"/>
+<area shape="rect" id="node7" href="$interfaceSCR__VotingEditorWithdraw.html" title=" " alt="" coords="178,225,359,251"/>
+<area shape="rect" id="node9" href="$interfaceSCR__VotingAutoKick.html" title=" " alt="" coords="383,225,530,251"/>
+</map>

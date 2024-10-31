@@ -1,0 +1,9 @@
+<map id="SCR_MapMarkerEntryConfig" name="SCR_MapMarkerEntryConfig">
+<area shape="rect" id="node1" title="Base entry config." alt="" coords="5,115,193,141"/>
+<area shape="rect" id="node2" href="$interfaceSCR__MapMarkerEntryDynamic.html" title="Marker dynamic entry base." alt="" coords="246,41,449,66"/>
+<area shape="rect" id="node5" href="$interfaceSCR__MapMarkerEntryImageText.html" title="Basic image &amp; text entry." alt="" coords="241,90,453,115"/>
+<area shape="rect" id="node6" href="$interfaceSCR__MapMarkerEntryMilitary.html" title="Marker military symbol entry." alt="" coords="250,139,445,165"/>
+<area shape="rect" id="node7" href="$interfaceSCR__MapMarkerEntryPlaced.html" title="Marker entry which can be placed through map." alt="" coords="251,189,443,214"/>
+<area shape="rect" id="node3" href="$interfaceSCR__MapMarkerEntryDynamicExample.html" title="Marker dynamic entry example Utilizes marker system to display player positions to everyone in the se..." alt="" coords="514,5,717,45"/>
+<area shape="rect" id="node4" href="$interfaceSCR__MapMarkerEntrySquadLeader.html" title="Squad leader marker entry." alt="" coords="501,70,729,95"/>
+</map>

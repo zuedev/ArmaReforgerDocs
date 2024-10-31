@@ -1,0 +1,4 @@
+<map id="SCR_NotificationRank" name="SCR_NotificationRank">
+<area shape="rect" id="node1" title="Notification Rank Displays a notification: %1 = Player rank SCR_NotificationData: m_iParam1 = player ..." alt="" coords="25,79,176,104"/>
+<area shape="rect" id="node2" href="$interfaceSCR__NotificationDisplayData.html" title="Used to get the display information for each notification." alt="" coords="5,5,196,31"/>
+</map>

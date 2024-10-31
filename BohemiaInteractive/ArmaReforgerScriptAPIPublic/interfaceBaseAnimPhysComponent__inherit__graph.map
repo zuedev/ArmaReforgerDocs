@@ -1,0 +1,7 @@
+<map id="BaseAnimPhysComponent" name="BaseAnimPhysComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="119,152,297,177"/>
+<area shape="rect" id="node4" href="$interfaceAnimalAnimationComponent.html" title=" " alt="" coords="5,225,192,251"/>
+<area shape="rect" id="node5" href="$interfaceCharacterAnimationComponent.html" title=" " alt="" coords="216,225,419,251"/>
+<area shape="rect" id="node2" href="$interfaceGameComponent.html" title=" " alt="" coords="147,79,269,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="141,5,275,31"/>
+</map>

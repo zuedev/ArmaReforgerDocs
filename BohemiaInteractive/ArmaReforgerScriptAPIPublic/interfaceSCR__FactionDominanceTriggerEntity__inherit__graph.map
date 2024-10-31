@@ -1,0 +1,9 @@
+<map id="SCR_FactionDominanceTriggerEntity" name="SCR_FactionDominanceTriggerEntity">
+<area shape="rect" id="node1" title=" " alt="" coords="5,460,208,500"/>
+<area shape="rect" id="node2" href="$interfaceSCR__FactionControlTriggerEntity.html" title=" " alt="" coords="17,372,196,412"/>
+<area shape="rect" id="node3" href="$interfaceSCR__BaseFactionTriggerEntity.html" title=" " alt="" coords="5,299,208,324"/>
+<area shape="rect" id="node4" href="$interfaceSCR__BaseTriggerEntity.html" title="Basic scripted trigger which offers external invoekrs for major events like activation or deactivatio..." alt="" coords="27,225,186,251"/>
+<area shape="rect" id="node5" href="$interfaceScriptedGameTriggerEntity.html" title=" " alt="" coords="17,152,196,177"/>
+<area shape="rect" id="node6" href="$interfaceBaseGameTriggerEntity.html" title=" " alt="" coords="27,79,187,104"/>
+<area shape="rect" id="node7" title=" " alt="" coords="56,5,157,31"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="SCR_EntityFactionEditorAttribute" name="SCR_EntityFactionEditorAttribute">
+<area shape="rect" id="node1" title="A Generic entity faction changer." alt="" coords="10,313,226,339"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseFactionEditableAttribute.html" title="Group Faction Attribute for getting and setting varriables in Editor Attribute window." alt="" coords="5,240,231,265"/>
+<area shape="rect" id="node3" href="$interfaceSCR__BasePresetsEditorAttribute.html" title="Attribute base for Name, icon and float value for other attributes to inherent from." alt="" coords="11,167,225,192"/>
+<area shape="rect" id="node4" href="$interfaceSCR__BaseFloatValueHolderEditorAttribute.html" title="Attribute base for Name, icon and float value for other attributes to inherent from." alt="" coords="25,79,211,119"/>
+<area shape="rect" id="node5" href="$interfaceSCR__BaseEditorAttribute.html" title="Base Attribute Script for other attributes to inherent from to get and set varriables in Editor Attri..." alt="" coords="33,5,203,31"/>
+</map>

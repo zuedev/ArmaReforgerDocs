@@ -1,0 +1,5 @@
+<map id="SCR_HitZoneGroupName" name="SCR_HitZoneGroupName">
+<area shape="rect" id="node1" title=" " alt="" coords="155,5,324,31"/>
+<area shape="rect" id="node2" href="$interfaceSCR__CharacterHitZoneGroupName.html" title=" " alt="" coords="5,79,231,104"/>
+<area shape="rect" id="node3" href="$interfaceSCR__VehicleHitZoneGroupName.html" title=" " alt="" coords="255,79,467,104"/>
+</map>

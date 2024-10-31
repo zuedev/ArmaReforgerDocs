@@ -1,0 +1,4 @@
+<map id="SCR_EditorLessThenCountWaypointsActionCondition" name="SCR_EditorLessThenCountWaypointsActionCondition">
+<area shape="rect" id="node1" title="Returns true if all selected entities have less or equal to waypoint count." alt="" coords="5,79,248,119"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AvailableActionCondition.html" title="A single available action condition representation." alt="" coords="27,5,226,31"/>
+</map>

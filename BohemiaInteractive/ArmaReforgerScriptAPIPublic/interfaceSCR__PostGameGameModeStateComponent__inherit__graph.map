@@ -1,0 +1,6 @@
+<map id="SCR_PostGameGameModeStateComponent" name="SCR_PostGameGameModeStateComponent">
+<area shape="rect" id="node1" title="Game mode component that handles the post&#45;game period." alt="" coords="23,225,239,265"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseGameModeStateComponent.html" title="Base component for handling game mode states." alt="" coords="5,152,256,177"/>
+<area shape="rect" id="node3" href="$interfaceSCR__BaseGameModeComponent.html" title="Interface for game mode extending components." alt="" coords="21,79,240,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="69,5,192,31"/>
+</map>

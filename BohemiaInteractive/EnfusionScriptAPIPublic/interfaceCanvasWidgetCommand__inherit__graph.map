@@ -1,0 +1,10 @@
+<map id="CanvasWidgetCommand" name="CanvasWidgetCommand">
+<area shape="rect" id="node1" title=" " alt="" coords="128,129,292,155"/>
+<area shape="rect" id="node3" href="$interfaceCompositeDrawCommand.html" title="Draws all commands from internal array in order." alt="" coords="340,5,512,31"/>
+<area shape="rect" id="node4" href="$interfaceImageDrawCommand.html" title=" " alt="" coords="353,55,499,80"/>
+<area shape="rect" id="node5" href="$interfaceLineDrawCommand.html" title=" " alt="" coords="359,104,493,129"/>
+<area shape="rect" id="node6" href="$interfacePolygonDrawCommand.html" title=" " alt="" coords="347,153,505,179"/>
+<area shape="rect" id="node7" href="$interfaceTextDrawCommand.html" title=" " alt="" coords="359,203,493,228"/>
+<area shape="rect" id="node8" href="$interfaceTriMeshDrawCommand.html" title=" " alt="" coords="348,252,504,277"/>
+<area shape="rect" id="node2" href="$interfaceManaged.html" title=" " alt="" coords="5,129,80,155"/>
+</map>

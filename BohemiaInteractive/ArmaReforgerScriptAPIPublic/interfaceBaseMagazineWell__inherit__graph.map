@@ -1,0 +1,28 @@
+<map id="BaseMagazineWell" name="BaseMagazineWell">
+<area shape="rect" id="node1" title=" " alt="" coords="363,499,497,524"/>
+<area shape="rect" id="node4" href="$interfaceMagazineWellAK545.html" title=" " alt="" coords="560,5,703,31"/>
+<area shape="rect" id="node6" href="$interfaceMagazineWellKPVT.html" title=" " alt="" coords="562,55,701,80"/>
+<area shape="rect" id="node7" href="$interfaceMagazineWellM14.html" title=" " alt="" coords="567,104,696,129"/>
+<area shape="rect" id="node8" href="$interfaceMagazineWellM203.html" title=" " alt="" coords="563,153,699,179"/>
+<area shape="rect" id="node9" href="$interfaceMagazineWellM249.html" title=" " alt="" coords="563,203,699,228"/>
+<area shape="rect" id="node10" href="$interfaceMagazineWellM2HB.html" title=" " alt="" coords="561,252,701,277"/>
+<area shape="rect" id="node11" href="$interfaceMagazineWellM60.html" title=" " alt="" coords="567,301,696,327"/>
+<area shape="rect" id="node12" href="$interfaceMagazineWellM60D.html" title=" " alt="" coords="562,351,701,376"/>
+<area shape="rect" id="node13" href="$interfaceMagazineWellM9Beretta.html" title=" " alt="" coords="549,400,713,425"/>
+<area shape="rect" id="node14" href="$interfaceMagazineWellMakarovPM.html" title=" " alt="" coords="545,449,717,475"/>
+<area shape="rect" id="node15" href="$interfaceMagazineWellMortar.html" title=" " alt="" coords="561,499,702,524"/>
+<area shape="rect" id="node16" href="$interfaceMagazineWellNSV.html" title=" " alt="" coords="566,548,697,573"/>
+<area shape="rect" id="node17" href="$interfaceMagazineWellPKM.html" title=" " alt="" coords="565,597,698,623"/>
+<area shape="rect" id="node18" href="$interfaceMagazineWellPKMT.html" title=" " alt="" coords="561,647,701,672"/>
+<area shape="rect" id="node19" href="$interfaceMagazineWellRPG7.html" title=" " alt="" coords="562,696,701,721"/>
+<area shape="rect" id="node20" href="$interfaceMagazineWellRU__GP.html" title=" " alt="" coords="557,745,705,771"/>
+<area shape="rect" id="node21" href="$interfaceMagazineWellSVD.html" title=" " alt="" coords="566,795,697,820"/>
+<area shape="rect" id="node22" href="$interfaceMagazineWellStanag556.html" title=" " alt="" coords="548,844,715,869"/>
+<area shape="rect" id="node24" href="$interfaceMagazineWellUK59.html" title=" " alt="" coords="563,893,699,919"/>
+<area shape="rect" id="node25" href="$interfaceMagazineWellUS__UGL.html" title=" " alt="" coords="554,943,709,968"/>
+<area shape="rect" id="node26" href="$interfaceMagazineWellVZ58__762.html" title=" " alt="" coords="550,992,713,1017"/>
+<area shape="rect" id="node2" href="$interfaceBaseAttachmentType.html" title=" " alt="" coords="168,499,315,524"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,499,120,524"/>
+<area shape="rect" id="node5" href="$interfaceMagazineWellAK545Small.html" title=" " alt="" coords="777,5,953,31"/>
+<area shape="rect" id="node23" href="$interfaceMagazineWellStanag556Small.html" title=" " alt="" coords="765,844,964,869"/>
+</map>

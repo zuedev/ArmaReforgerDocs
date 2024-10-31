@@ -1,0 +1,7 @@
+<map id="SCR_PlayersPresentTriggerEntityClass" name="SCR_PlayersPresentTriggerEntityClass">
+<area shape="rect" id="node1" title=" " alt="" coords="10,313,194,353"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseTriggerEntityClass.html" title=" " alt="" coords="6,240,198,265"/>
+<area shape="rect" id="node3" href="$interfaceScriptedGameTriggerEntityClass.html" title=" " alt="" coords="13,152,191,192"/>
+<area shape="rect" id="node4" href="$interfaceBaseGameTriggerEntityClass.html" title=" " alt="" coords="5,79,199,104"/>
+<area shape="rect" id="node5" title=" " alt="" coords="35,5,169,31"/>
+</map>

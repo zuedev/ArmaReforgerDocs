@@ -1,0 +1,8 @@
+<map id="SCR_MeleeDamageEffect" name="SCR_MeleeDamageEffect">
+<area shape="rect" id="node1" title=" " alt="" coords="7,372,179,397"/>
+<area shape="rect" id="node2" href="$interfaceSCR__InstantDamageEffect.html" title=" " alt="" coords="5,299,181,324"/>
+<area shape="rect" id="node3" href="$interfaceInstantDamageEffect.html" title=" " alt="" coords="22,225,165,251"/>
+<area shape="rect" id="node4" href="$interfaceSCR__DamageEffect.html" title=" " alt="" coords="25,152,162,177"/>
+<area shape="rect" id="node5" href="$interfaceBaseDamageEffect.html" title=" " alt="" coords="27,79,160,104"/>
+<area shape="rect" id="node6" title=" " alt="" coords="36,5,151,31"/>
+</map>

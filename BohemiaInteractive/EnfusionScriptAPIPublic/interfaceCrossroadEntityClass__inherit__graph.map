@@ -1,0 +1,5 @@
+<map id="CrossroadEntityClass" name="CrossroadEntityClass">
+<area shape="rect" id="node1" title=" " alt="" coords="5,152,153,177"/>
+<area shape="rect" id="node2" href="$interfaceGenericEntityClass.html" title=" " alt="" coords="12,79,147,104"/>
+<area shape="rect" id="node3" href="$interfaceEntityPrefabData.html" title="Shared object with constant data for enf::EntitySource from prefab." alt="" coords="19,5,139,31"/>
+</map>

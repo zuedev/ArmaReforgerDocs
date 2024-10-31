@@ -1,0 +1,5 @@
+<map id="SCR_PositionEditorAttribute" name="SCR_PositionEditorAttribute">
+<area shape="rect" id="node1" title=" " alt="" coords="25,152,212,177"/>
+<area shape="rect" id="node2" href="$interfaceSCR__ValidTypeBaseEditorAttribute.html" title=" " alt="" coords="5,79,232,104"/>
+<area shape="rect" id="node3" href="$interfaceSCR__BaseEditorAttribute.html" title="Base Attribute Script for other attributes to inherent from to get and set varriables in Editor Attri..." alt="" coords="34,5,203,31"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="DebugTextScreenSpace" name="DebugTextScreenSpace">
+<area shape="rect" id="node1" title=" " alt="" coords="5,152,168,177"/>
+<area shape="rect" id="node2" href="$interfaceDebugText.html" title="Used for creating on screen texts in world." alt="" coords="45,79,129,104"/>
+<area shape="rect" id="node3" href="$interfaceManaged.html" title=" " alt="" coords="49,5,124,31"/>
+</map>

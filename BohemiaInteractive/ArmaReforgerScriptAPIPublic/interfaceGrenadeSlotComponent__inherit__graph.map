@@ -1,0 +1,7 @@
+<map id="GrenadeSlotComponent" name="GrenadeSlotComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="9,299,169,324"/>
+<area shape="rect" id="node2" href="$interfaceWeaponSlotComponent.html" title=" " alt="" coords="9,225,168,251"/>
+<area shape="rect" id="node3" href="$interfaceBaseWeaponComponent.html" title=" " alt="" coords="5,152,172,177"/>
+<area shape="rect" id="node4" href="$interfaceGameComponent.html" title=" " alt="" coords="27,79,150,104"/>
+<area shape="rect" id="node5" title=" " alt="" coords="22,5,155,31"/>
+</map>

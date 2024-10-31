@@ -1,0 +1,7 @@
+<map id="Vehicle" name="Vehicle">
+<area shape="rect" id="node1" title=" " alt="" coords="33,299,99,324"/>
+<area shape="rect" id="node2" href="$interfaceBaseVehicle.html" title=" " alt="" coords="19,225,113,251"/>
+<area shape="rect" id="node3" href="$interfaceGameEntity.html" title=" " alt="" coords="21,152,111,177"/>
+<area shape="rect" id="node4" href="$interfaceBaseGameEntity.html" title=" " alt="" coords="5,79,127,104"/>
+<area shape="rect" id="node5" title=" " alt="" coords="15,5,117,31"/>
+</map>

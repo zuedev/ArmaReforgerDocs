@@ -1,0 +1,7 @@
+<map id="SCR_EntityTooltipEditorUIComponent" name="SCR_EntityTooltipEditorUIComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="5,299,245,324"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseTooltipEditorUIComponent.html" title=" " alt="" coords="7,225,243,251"/>
+<area shape="rect" id="node3" href="$interfaceSCR__BaseEditorUIComponent.html" title=" " alt="" coords="26,152,225,177"/>
+<area shape="rect" id="node4" href="$interfaceMenuRootSubComponent.html" title="Widget component which is linked to menu it&#39;s part of." alt="" coords="40,79,211,104"/>
+<area shape="rect" id="node5" title=" " alt="" coords="37,5,214,31"/>
+</map>

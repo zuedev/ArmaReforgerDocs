@@ -1,0 +1,4 @@
+<map id="SCR_CharacterWeaponTypeCondition" name="SCR_CharacterWeaponTypeCondition">
+<area shape="rect" id="node1" title="Returns true if character is using weapon of given type." alt="" coords="5,79,248,104"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AvailableActionCondition.html" title="A single available action condition representation." alt="" coords="27,5,226,31"/>
+</map>

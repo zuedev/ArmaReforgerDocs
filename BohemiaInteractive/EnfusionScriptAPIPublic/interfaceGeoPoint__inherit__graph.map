@@ -1,0 +1,5 @@
+<map id="GeoPoint" name="GeoPoint">
+<area shape="rect" id="node1" title="Single point." alt="" coords="9,152,85,177"/>
+<area shape="rect" id="node2" href="$interfaceGeoShape.html" title="Base class for all shapes." alt="" coords="5,79,88,104"/>
+<area shape="rect" id="node3" href="$interfaceManaged.html" title=" " alt="" coords="9,5,84,31"/>
+</map>

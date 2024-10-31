@@ -1,0 +1,4 @@
+<map id="SCR_CharacterHasGadgetCondition" name="SCR_CharacterHasGadgetCondition">
+<area shape="rect" id="node1" title="Returns true if character has provided gadget in their inventory if m_bEquipped true is only returned..." alt="" coords="5,79,236,104"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AvailableActionCondition.html" title="A single available action condition representation." alt="" coords="21,5,220,31"/>
+</map>

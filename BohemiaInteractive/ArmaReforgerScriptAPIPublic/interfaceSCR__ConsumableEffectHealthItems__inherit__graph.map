@@ -1,0 +1,9 @@
+<map id="SCR_ConsumableEffectHealthItems" name="SCR_ConsumableEffectHealthItems">
+<area shape="rect" id="node1" title=" " alt="" coords="367,73,565,113"/>
+<area shape="rect" id="node4" href="$interfaceSCR__ConsumableBandage.html" title="Bandage effect." alt="" coords="618,5,797,31"/>
+<area shape="rect" id="node5" href="$interfaceSCR__ConsumableMorphine.html" title="Morphine effect." alt="" coords="617,55,798,80"/>
+<area shape="rect" id="node6" href="$interfaceSCR__ConsumableSalineBag.html" title="Saline bag effect." alt="" coords="614,104,801,129"/>
+<area shape="rect" id="node7" href="$interfaceSCR__ConsumableTourniquet.html" title="Tourniquet effect." alt="" coords="613,153,801,179"/>
+<area shape="rect" id="node2" href="$interfaceSCR__ConsumableEffectBase.html" title="Effect assigned to the consumable gadget." alt="" coords="128,80,319,105"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,80,80,105"/>
+</map>

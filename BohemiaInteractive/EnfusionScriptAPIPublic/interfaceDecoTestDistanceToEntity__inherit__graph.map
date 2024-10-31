@@ -1,0 +1,7 @@
+<map id="DecoTestDistanceToEntity" name="DecoTestDistanceToEntity">
+<area shape="rect" id="node1" title=" " alt="" coords="5,299,181,324"/>
+<area shape="rect" id="node2" href="$interfaceDecorator.html" title=" " alt="" coords="54,225,133,251"/>
+<area shape="rect" id="node3" href="$interfaceNode.html" title=" " alt="" coords="67,152,119,177"/>
+<area shape="rect" id="node4" href="$interfaceScriptAndConfig.html" title="Base class for classes which combine enf::Class and enf::BaseClass (in C++)." alt="" coords="36,79,151,104"/>
+<area shape="rect" id="node5" href="$interfaceManaged.html" title=" " alt="" coords="56,5,131,31"/>
+</map>

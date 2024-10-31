@@ -1,0 +1,4 @@
+<map id="SCR_VehicleTurboCondition" name="SCR_VehicleTurboCondition">
+<area shape="rect" id="node1" title="Set minmum time to more than zero to track temporary turbo only, set it to &#45;1 to track persistent tur..." alt="" coords="12,79,197,104"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AvailableActionCondition.html" title="A single available action condition representation." alt="" coords="5,5,204,31"/>
+</map>

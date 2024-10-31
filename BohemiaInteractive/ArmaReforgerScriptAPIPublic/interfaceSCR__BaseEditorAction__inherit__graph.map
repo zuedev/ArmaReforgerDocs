@@ -1,0 +1,51 @@
+<map id="SCR_BaseEditorAction" name="SCR_BaseEditorAction">
+<area shape="rect" id="node1" title="Base container class for all editor action types (ContextActions, WaypointActions,..." alt="" coords="5,1323,163,1348"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseContextAction.html" title="Base container class for editor context actions." alt="" coords="230,1199,398,1224"/>
+<area shape="rect" id="node45" href="$interfaceSCR__DoubleClickAction.html" title=" " alt="" coords="233,1248,395,1273"/>
+<area shape="rect" id="node46" href="$interfaceSCR__EditorToolbarAction.html" title=" " alt="" coords="229,1297,399,1323"/>
+<area shape="rect" id="node47" href="$interfaceSCR__LayerContextAction.html" title=" " alt="" coords="229,1347,399,1372"/>
+<area shape="rect" id="node48" href="$interfaceSCR__SwitchToPlayerContextAction.html" title=" " alt="" coords="219,1397,409,1437"/>
+<area shape="rect" id="node49" href="$interfaceSCR__TakeControlContextAction.html" title=" " alt="" coords="211,1461,417,1487"/>
+<area shape="rect" id="node3" href="$interfaceSCR__AssetBrowserContextAction.html" title=" " alt="" coords="475,5,693,31"/>
+<area shape="rect" id="node4" href="$interfaceSCR__AttachToParentContextAction.html" title=" " alt="" coords="489,55,679,95"/>
+<area shape="rect" id="node5" href="$interfaceSCR__CopyAttributesContextAction.html" title=" " alt="" coords="491,119,677,159"/>
+<area shape="rect" id="node6" href="$interfaceSCR__CopyIngameTimestampContextAction.html" title=" " alt="" coords="465,183,703,223"/>
+<area shape="rect" id="node7" href="$interfaceSCR__CopyPrefabNameContextAction.html" title=" " alt="" coords="483,247,685,287"/>
+<area shape="rect" id="node8" href="$interfaceSCR__CopyServerTimestampContextAction.html" title=" " alt="" coords="469,311,699,351"/>
+<area shape="rect" id="node9" href="$interfaceSCR__CopyWorldPositionContextAction.html" title=" " alt="" coords="478,375,690,415"/>
+<area shape="rect" id="node10" href="$interfaceSCR__CreateLayerWithSelectionContextAction.html" title=" " alt="" coords="481,439,687,479"/>
+<area shape="rect" id="node11" href="$interfaceSCR__CreateNewGroupContextAction.html" title=" " alt="" coords="485,503,683,543"/>
+<area shape="rect" id="node12" href="$interfaceSCR__CycleContextAction.html" title=" " alt="" coords="499,568,669,593"/>
+<area shape="rect" id="node13" href="$interfaceSCR__DeleteContextAction.html" title=" " alt="" coords="497,617,671,643"/>
+<area shape="rect" id="node14" href="$interfaceSCR__DetachContextAction.html" title=" " alt="" coords="495,667,673,692"/>
+<area shape="rect" id="node15" href="$interfaceSCR__DisableSimulationContextAction.html" title=" " alt="" coords="481,717,687,757"/>
+<area shape="rect" id="node16" href="$interfaceSCR__DuplicateContextAction.html" title=" " alt="" coords="488,781,680,807"/>
+<area shape="rect" id="node17" href="$interfaceSCR__EnableSimulationContextAction.html" title=" " alt="" coords="483,831,685,871"/>
+<area shape="rect" id="node18" href="$interfaceSCR__FillVehicleContextAction.html" title=" " alt="" coords="485,896,683,921"/>
+<area shape="rect" id="node19" href="$interfaceSCR__FindInContentBrowserContextAction.html" title=" " alt="" coords="493,946,675,986"/>
+<area shape="rect" id="node20" href="$interfaceSCR__FindInWorkshopContextAction.html" title=" " alt="" coords="487,1010,681,1050"/>
+<area shape="rect" id="node21" href="$interfaceSCR__FocusHereContextAction.html" title=" " alt="" coords="483,1075,685,1100"/>
+<area shape="rect" id="node22" href="$interfaceSCR__GeneralContextAction.html" title="Base container class for general editor context actions, not related to a hovered/selected entity." alt="" coords="493,1124,675,1149"/>
+<area shape="rect" id="node23" href="$interfaceSCR__GetInContextAction.html" title=" " alt="" coords="499,1173,669,1199"/>
+<area shape="rect" id="node24" href="$interfaceSCR__GetOutContextAction.html" title=" " alt="" coords="494,1223,674,1248"/>
+<area shape="rect" id="node25" href="$interfaceSCR__HideSelectionContextAction.html" title=" " alt="" coords="493,1273,675,1313"/>
+<area shape="rect" id="node26" href="$interfaceSCR__LightningContextAction.html" title=" " alt="" coords="489,1337,679,1363"/>
+<area shape="rect" id="node27" href="$interfaceSCR__LockLayerContextAction.html" title=" " alt="" coords="485,1387,683,1412"/>
+<area shape="rect" id="node28" href="$interfaceSCR__MoveInFormationContextAction.html" title=" " alt="" coords="485,1437,683,1477"/>
+<area shape="rect" id="node29" href="$interfaceSCR__MoveToFlightAltitudeContextAction.html" title=" " alt="" coords="496,1501,672,1541"/>
+<area shape="rect" id="node30" href="$interfaceSCR__MoveToRootContextAction.html" title=" " alt="" coords="479,1565,689,1591"/>
+<area shape="rect" id="node31" href="$interfaceSCR__MoveToSeatPositionContextAction.html" title=" " alt="" coords="475,1615,693,1655"/>
+<area shape="rect" id="node32" href="$interfaceSCR__PasteAttributesContextAction.html" title=" " alt="" coords="489,1679,679,1719"/>
+<area shape="rect" id="node33" href="$interfaceSCR__PasteContextAction.html" title=" " alt="" coords="498,1744,670,1769"/>
+<area shape="rect" id="node34" href="$interfaceSCR__PasteOnOriginalPositionContextAction.html" title=" " alt="" coords="485,1794,683,1834"/>
+<area shape="rect" id="node35" href="$interfaceSCR__PatrolContextAction.html" title=" " alt="" coords="498,1859,670,1884"/>
+<area shape="rect" id="node36" href="$interfaceSCR__PingContextAction.html" title=" " alt="" coords="502,1908,666,1933"/>
+<area shape="rect" id="node37" href="$interfaceSCR__RefuelContextAction.html" title=" " alt="" coords="497,1957,671,1983"/>
+<area shape="rect" id="node38" href="$interfaceSCR__ReplaceWithContextAction.html" title=" " alt="" coords="478,2007,690,2032"/>
+<area shape="rect" id="node39" href="$interfaceSCR__SelectContextAction.html" title=" " alt="" coords="497,2056,671,2081"/>
+<area shape="rect" id="node40" href="$interfaceSCR__SelectCrewContextAction.html" title=" " alt="" coords="482,2105,686,2131"/>
+<area shape="rect" id="node41" href="$interfaceSCR__SelectOccupantContextAction.html" title=" " alt="" coords="487,2155,681,2195"/>
+<area shape="rect" id="node42" href="$interfaceSCR__SelectPassengersContextAction.html" title=" " alt="" coords="481,2219,687,2259"/>
+<area shape="rect" id="node43" href="$interfaceSCR__SelectedEntitiesContextAction.html" title="Base container class for editor context actions which apply to selected entities." alt="" coords="486,2283,682,2323"/>
+<area shape="rect" id="node44" href="$interfaceSCR__SetAsLeaderContextAction.html" title=" " alt="" coords="477,2348,691,2373"/>
+</map>

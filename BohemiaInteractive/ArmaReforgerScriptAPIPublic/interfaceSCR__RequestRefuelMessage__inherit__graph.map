@@ -1,0 +1,7 @@
+<map id="SCR_RequestRefuelMessage" name="SCR_RequestRefuelMessage">
+<area shape="rect" id="node1" title=" " alt="" coords="5,299,199,324"/>
+<area shape="rect" id="node2" href="$interfaceSCR__RequestMessage.html" title=" " alt="" coords="23,225,181,251"/>
+<area shape="rect" id="node3" href="$interfaceScriptedRadioMessage.html" title=" " alt="" coords="24,152,180,177"/>
+<area shape="rect" id="node4" href="$interfaceBaseRadioMessage.html" title=" " alt="" coords="33,79,171,104"/>
+<area shape="rect" id="node5" title=" " alt="" coords="45,5,159,31"/>
+</map>

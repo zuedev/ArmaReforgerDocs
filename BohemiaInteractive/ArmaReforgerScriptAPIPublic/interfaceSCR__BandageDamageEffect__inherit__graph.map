@@ -1,0 +1,8 @@
+<map id="SCR_BandageDamageEffect" name="SCR_BandageDamageEffect">
+<area shape="rect" id="node1" title=" " alt="" coords="5,372,193,397"/>
+<area shape="rect" id="node2" href="$interfaceSCR__InstantDamageEffect.html" title=" " alt="" coords="11,299,187,324"/>
+<area shape="rect" id="node3" href="$interfaceInstantDamageEffect.html" title=" " alt="" coords="28,225,171,251"/>
+<area shape="rect" id="node4" href="$interfaceSCR__DamageEffect.html" title=" " alt="" coords="31,152,168,177"/>
+<area shape="rect" id="node5" href="$interfaceBaseDamageEffect.html" title=" " alt="" coords="33,79,166,104"/>
+<area shape="rect" id="node6" title=" " alt="" coords="42,5,157,31"/>
+</map>

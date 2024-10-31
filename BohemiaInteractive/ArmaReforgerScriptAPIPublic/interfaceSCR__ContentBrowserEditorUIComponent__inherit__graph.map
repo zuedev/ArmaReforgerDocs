@@ -1,0 +1,6 @@
+<map id="SCR_ContentBrowserEditorUIComponent" name="SCR_ContentBrowserEditorUIComponent">
+<area shape="rect" id="node1" title="The Content Browser Window in the Content Browser Dialog." alt="" coords="27,225,209,265"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BasePaginationUIComponent.html" title=" " alt="" coords="5,152,231,177"/>
+<area shape="rect" id="node3" href="$interfaceMenuRootSubComponent.html" title="Widget component which is linked to menu it&#39;s part of." alt="" coords="33,79,203,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="29,5,207,31"/>
+</map>

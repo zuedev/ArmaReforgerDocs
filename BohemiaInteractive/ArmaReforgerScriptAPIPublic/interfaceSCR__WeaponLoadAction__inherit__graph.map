@@ -1,0 +1,6 @@
+<map id="SCR_WeaponLoadAction" name="SCR_WeaponLoadAction">
+<area shape="rect" id="node1" title=" " alt="" coords="5,225,175,251"/>
+<area shape="rect" id="node2" href="$interfaceScriptedUserAction.html" title=" " alt="" coords="23,152,157,177"/>
+<area shape="rect" id="node3" href="$interfaceBaseUserAction.html" title=" " alt="" coords="32,79,148,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="33,5,147,31"/>
+</map>

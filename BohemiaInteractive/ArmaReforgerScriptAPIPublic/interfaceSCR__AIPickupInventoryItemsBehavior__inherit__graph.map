@@ -1,0 +1,7 @@
+<map id="SCR_AIPickupInventoryItemsBehavior" name="SCR_AIPickupInventoryItemsBehavior">
+<area shape="rect" id="node1" title=" " alt="" coords="5,299,196,339"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AIBehaviorBase.html" title=" " alt="" coords="27,225,174,251"/>
+<area shape="rect" id="node3" href="$interfaceSCR__AIActionBase.html" title=" " alt="" coords="33,152,168,177"/>
+<area shape="rect" id="node4" href="$interfaceAIActionBase.html" title=" " alt="" coords="50,79,151,104"/>
+<area shape="rect" id="node5" title=" " alt="" coords="43,5,158,31"/>
+</map>

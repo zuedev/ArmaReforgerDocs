@@ -1,0 +1,6 @@
+<map id="SCR_DeployMenuBaseScreenLayout" name="SCR_DeployMenuBaseScreenLayout">
+<area shape="rect" id="node1" title="Base class for Deploy menu layouts." alt="" coords="125,79,324,119"/>
+<area shape="rect" id="node3" href="$interfaceSCR__DebriefingScreenUnevenFourTiles.html" title="Class handling layout for UnevenFourTiles." alt="" coords="5,167,201,207"/>
+<area shape="rect" id="node4" href="$interfaceSCR__WelcomeScreenThreeHorizontalColumns.html" title="Class handling layout for ThreeHorizontalColumns." alt="" coords="226,167,469,207"/>
+<area shape="rect" id="node2" title=" " alt="" coords="167,5,282,31"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="MortarMuzzleComponent" name="MortarMuzzleComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="5,299,172,324"/>
+<area shape="rect" id="node2" href="$interfaceMuzzleInMagComponent.html" title=" " alt="" coords="6,225,171,251"/>
+<area shape="rect" id="node3" href="$interfaceBaseMuzzleComponent.html" title=" " alt="" coords="9,152,169,177"/>
+<area shape="rect" id="node4" href="$interfaceGameComponent.html" title=" " alt="" coords="27,79,150,104"/>
+<area shape="rect" id="node5" title=" " alt="" coords="22,5,155,31"/>
+</map>

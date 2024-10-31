@@ -1,0 +1,9 @@
+<map id="ScriptComponentClass" name="ScriptComponentClass">
+<area shape="rect" id="node1" title=" " alt="" coords="455,109,609,134"/>
+<area shape="rect" id="node4" href="$interfaceRplExample1ComponentColorAnimClass.html" title="[Replication example common shape]" alt="" coords="657,5,852,45"/>
+<area shape="rect" id="node5" href="$interfaceRplExample2ComponentColorAnimClass.html" title="[Replication example 1]" alt="" coords="657,69,852,109"/>
+<area shape="rect" id="node6" href="$interfaceRplExample3ComponentColorAnimClass.html" title="[Replication example 2]" alt="" coords="657,133,852,173"/>
+<area shape="rect" id="node7" href="$interfaceRplExample3SystemClass.html" title=" " alt="" coords="666,198,843,223"/>
+<area shape="rect" id="node2" href="$interfaceGenericComponentClass.html" title=" " alt="" coords="240,109,407,134"/>
+<area shape="rect" id="node3" href="$interfaceEntityComponentPrefabData.html" title="Shared object with constant data for components from prefab." alt="" coords="5,109,192,134"/>
+</map>

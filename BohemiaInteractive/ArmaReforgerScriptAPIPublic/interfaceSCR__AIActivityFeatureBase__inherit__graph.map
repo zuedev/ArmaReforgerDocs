@@ -1,0 +1,6 @@
+<map id="SCR_AIActivityFeatureBase" name="SCR_AIActivityFeatureBase">
+<area shape="rect" id="node1" title=" " alt="" coords="95,5,279,31"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AIActivityIllumFlareFeature.html" title=" " alt="" coords="5,79,172,119"/>
+<area shape="rect" id="node3" href="$interfaceSCR__AIActivitySmokeCoverFeature.html" title=" " alt="" coords="196,79,379,119"/>
+<area shape="rect" id="node4" href="$interfaceSCR__AIHealActivitySmokeCoverFeature.html" title=" " alt="" coords="183,167,392,207"/>
+</map>

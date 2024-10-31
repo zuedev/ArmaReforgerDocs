@@ -1,0 +1,5 @@
+<map id="SCR_EditorModeEntity" name="SCR_EditorModeEntity">
+<area shape="rect" id="node1" title="Editor mode entity." alt="" coords="5,152,161,177"/>
+<area shape="rect" id="node2" href="$interfaceSCR__EditorBaseEntity.html" title="Base editor entity which provides overridable functions." alt="" coords="6,79,161,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="33,5,134,31"/>
+</map>

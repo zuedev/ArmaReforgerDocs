@@ -1,0 +1,5 @@
+<map id="SCR_ScenarioFrameworkArea" name="SCR_ScenarioFrameworkArea">
+<area shape="rect" id="node1" title="Class is managing the area including the Slots (prefab Slot.et)." alt="" coords="23,152,221,177"/>
+<area shape="rect" id="node2" href="$interfaceSCR__ScenarioFrameworkLayerBase.html" title=" " alt="" coords="5,79,239,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="61,5,183,31"/>
+</map>

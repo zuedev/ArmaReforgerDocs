@@ -1,0 +1,7 @@
+<map id="SCR_ToggleHandbrakeAction" name="SCR_ToggleHandbrakeAction">
+<area shape="rect" id="node1" title=" " alt="" coords="5,299,199,324"/>
+<area shape="rect" id="node2" href="$interfaceSCR__ScriptedUserAction.html" title="A scripted action class having optional logic to check if vehicle is valid." alt="" coords="18,225,186,251"/>
+<area shape="rect" id="node3" href="$interfaceScriptedUserAction.html" title=" " alt="" coords="35,152,169,177"/>
+<area shape="rect" id="node4" href="$interfaceBaseUserAction.html" title=" " alt="" coords="44,79,160,104"/>
+<area shape="rect" id="node5" title=" " alt="" coords="45,5,159,31"/>
+</map>

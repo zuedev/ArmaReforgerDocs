@@ -1,0 +1,4 @@
+<map id="SCR_ArsenalSaveTypeAttributeDynamicDescription" name="SCR_ArsenalSaveTypeAttributeDynamicDescription">
+<area shape="rect" id="node1" title="Dynamic description for arsenal save types. What they mean when they are set." alt="" coords="5,93,211,133"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseAttributeDynamicDescription.html" title="Holds logic when a dynamic description should be shown when attributes are hovered over." alt="" coords="15,5,201,45"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="SCR_AIMessage_Move" name="SCR_AIMessage_Move">
+<area shape="rect" id="node1" title=" " alt="" coords="118,225,277,251"/>
+<area shape="rect" id="node5" href="$interfaceSCR__AIMessage__Follow.html" title=" " alt="" coords="5,299,171,324"/>
+<area shape="rect" id="node6" href="$interfaceSCR__AIMessage__SeekAndDestroy.html" title=" " alt="" coords="195,299,421,324"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AIMessageGoal.html" title=" " alt="" coords="123,152,271,177"/>
+<area shape="rect" id="node3" href="$interfaceSCR__AIMessageBase.html" title=" " alt="" coords="122,79,273,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="154,5,241,31"/>
+</map>

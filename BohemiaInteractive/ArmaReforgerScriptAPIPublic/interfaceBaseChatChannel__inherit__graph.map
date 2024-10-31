@@ -1,0 +1,13 @@
+<map id="BaseChatChannel" name="BaseChatChannel">
+<area shape="rect" id="node1" title=" " alt="" coords="168,179,295,204"/>
+<area shape="rect" id="node3" href="$interfaceFactionChatChannel.html" title=" " alt="" coords="354,5,493,31"/>
+<area shape="rect" id="node4" href="$interfaceGroupChatChannel.html" title=" " alt="" coords="358,55,489,80"/>
+<area shape="rect" id="node5" href="$interfaceLocalChatChannel.html" title=" " alt="" coords="360,104,487,129"/>
+<area shape="rect" id="node6" href="$interfacePrivateMessageChannel.html" title=" " alt="" coords="343,153,504,179"/>
+<area shape="rect" id="node7" href="$interfaceSCR__ChatChannel.html" title=" " alt="" coords="358,203,489,228"/>
+<area shape="rect" id="node8" href="$interfaceServerChatChannel.html" title=" " alt="" coords="357,252,489,277"/>
+<area shape="rect" id="node9" href="$interfaceSystemChatChannel.html" title=" " alt="" coords="353,301,494,327"/>
+<area shape="rect" id="node10" href="$interfaceVehicleChatChannel.html" title=" " alt="" coords="354,351,493,376"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,179,120,204"/>
+<area shape="rect" id="node11" href="$interfaceSCR__VehicleChatChannel.html" title=" " alt="" coords="552,351,725,376"/>
+</map>

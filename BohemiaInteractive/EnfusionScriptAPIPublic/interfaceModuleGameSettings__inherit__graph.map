@@ -1,0 +1,5 @@
+<map id="ModuleGameSettings" name="ModuleGameSettings">
+<area shape="rect" id="node1" title="By inheriting of this class you define a settings module." alt="" coords="5,152,152,177"/>
+<area shape="rect" id="node2" href="$interfaceScriptAndConfig.html" title="Base class for classes which combine enf::Class and enf::BaseClass (in C++)." alt="" coords="21,79,136,104"/>
+<area shape="rect" id="node3" href="$interfaceManaged.html" title=" " alt="" coords="41,5,116,31"/>
+</map>

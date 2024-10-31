@@ -1,0 +1,6 @@
+<map id="SCR_MultiOccupantVehcileTooltipDetail" name="SCR_MultiOccupantVehcileTooltipDetail">
+<area shape="rect" id="node1" title=" " alt="" coords="89,79,272,119"/>
+<area shape="rect" id="node3" href="$interfaceSCR__DriverTooltipDetail.html" title=" " alt="" coords="5,167,164,192"/>
+<area shape="rect" id="node4" href="$interfaceSCR__GunnersTooltipDetail.html" title=" " alt="" coords="189,167,365,192"/>
+<area shape="rect" id="node2" href="$interfaceSCR__EntityTooltipDetail.html" title=" " alt="" coords="100,5,261,31"/>
+</map>

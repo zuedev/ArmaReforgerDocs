@@ -1,0 +1,6 @@
+<map id="CommonEditorProps" name="CommonEditorProps">
+<area shape="rect" id="node1" title=" " alt="" coords="178,5,321,31"/>
+<area shape="rect" id="node2" href="$interfaceBaseContainerProps.html" title="An Attribute for BaseContainer." alt="" coords="5,79,147,104"/>
+<area shape="rect" id="node3" href="$interfaceComponentEditorProps.html" title=" " alt="" coords="171,79,327,104"/>
+<area shape="rect" id="node4" href="$interfaceEntityEditorProps.html" title=" " alt="" coords="351,79,475,104"/>
+</map>

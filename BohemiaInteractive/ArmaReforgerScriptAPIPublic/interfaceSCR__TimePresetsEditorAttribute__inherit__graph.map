@@ -1,0 +1,6 @@
+<map id="SCR_TimePresetsEditorAttribute" name="SCR_TimePresetsEditorAttribute">
+<area shape="rect" id="node1" title="Daytime Attribute for getting and setting varriables in Editor Attribute window." alt="" coords="7,240,219,265"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BasePresetsEditorAttribute.html" title="Attribute base for Name, icon and float value for other attributes to inherent from." alt="" coords="5,167,220,192"/>
+<area shape="rect" id="node3" href="$interfaceSCR__BaseFloatValueHolderEditorAttribute.html" title="Attribute base for Name, icon and float value for other attributes to inherent from." alt="" coords="20,79,205,119"/>
+<area shape="rect" id="node4" href="$interfaceSCR__BaseEditorAttribute.html" title="Base Attribute Script for other attributes to inherent from to get and set varriables in Editor Attri..." alt="" coords="28,5,197,31"/>
+</map>

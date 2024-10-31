@@ -1,0 +1,7 @@
+<map id="EditorMenuUI" name="EditorMenuUI">
+<area shape="rect" id="node1" title=" " alt="" coords="21,299,121,324"/>
+<area shape="rect" id="node2" href="$interfaceEditorMenuBase.html" title="Base class for editor menus and dialogs." alt="" coords="12,225,131,251"/>
+<area shape="rect" id="node3" href="$interfaceMenuRootBase.html" title="Scripted menu base class." alt="" coords="16,152,127,177"/>
+<area shape="rect" id="node4" href="$interfaceChimeraMenuBase.html" title="Constant variables used in various menus." alt="" coords="5,79,137,104"/>
+<area shape="rect" id="node5" title=" " alt="" coords="29,5,113,31"/>
+</map>

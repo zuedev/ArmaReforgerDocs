@@ -1,0 +1,9 @@
+<map id="SCR_AIGetWaypointParameters" name="SCR_AIGetWaypointParameters">
+<area shape="rect" id="node1" title=" " alt="" coords="164,112,375,137"/>
+<area shape="rect" id="node3" href="$interfaceSCR__AIGetDefendWaypointParameters.html" title=" " alt="" coords="423,5,673,31"/>
+<area shape="rect" id="node4" href="$interfaceSCR__AIGetEntityWaypointParameters.html" title=" " alt="" coords="425,55,671,80"/>
+<area shape="rect" id="node5" href="$interfaceSCR__AIGetInNearestWaypointParameters.html" title=" " alt="" coords="449,105,647,145"/>
+<area shape="rect" id="node6" href="$interfaceSCR__AIGetTimedWaypointParameters.html" title=" " alt="" coords="425,169,671,195"/>
+<area shape="rect" id="node7" href="$interfaceSCR__AIGetVehicleWaypointParameters.html" title=" " alt="" coords="455,219,641,259"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,112,116,137"/>
+</map>

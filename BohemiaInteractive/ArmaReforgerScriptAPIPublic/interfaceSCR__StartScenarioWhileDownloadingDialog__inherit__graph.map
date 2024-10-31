@@ -1,0 +1,5 @@
+<map id="SCR_StartScenarioWhileDownloadingDialog" name="SCR_StartScenarioWhileDownloadingDialog">
+<area shape="rect" id="node1" title="Dialog which is shown when user wants to start a scenario while there are still downloads in progress..." alt="" coords="5,152,247,192"/>
+<area shape="rect" id="node2" href="$interfaceSCR__ConfigurableDialogUi.html" title=" " alt="" coords="39,79,213,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="37,5,215,31"/>
+</map>

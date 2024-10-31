@@ -1,0 +1,4 @@
+<map id="SCR_WelcomeScreenFocusWidgetComponent" name="SCR_WelcomeScreenFocusWidgetComponent">
+<area shape="rect" id="node1" title="Class that handles focusing of widgets for the Welcome and Debriefing screens." alt="" coords="5,79,235,119"/>
+<area shape="rect" id="node2" title=" " alt="" coords="31,5,209,31"/>
+</map>

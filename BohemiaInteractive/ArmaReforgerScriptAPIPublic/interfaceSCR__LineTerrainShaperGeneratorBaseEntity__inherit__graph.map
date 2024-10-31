@@ -1,0 +1,6 @@
+<map id="SCR_LineTerrainShaperGeneratorBaseEntity" name="SCR_LineTerrainShaperGeneratorBaseEntity">
+<area shape="rect" id="node1" title=" " alt="" coords="5,152,223,192"/>
+<area shape="rect" id="node4" href="$interfaceSCR__LineTerrainShaperGeneratorEntity.html" title=" " alt="" coords="5,240,223,280"/>
+<area shape="rect" id="node2" href="$interfaceSCR__GeneratorBaseEntity.html" title="SCR_GeneratorBaseEntity responsibilities:" alt="" coords="25,79,203,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="43,5,185,31"/>
+</map>

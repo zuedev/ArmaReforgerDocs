@@ -1,0 +1,7 @@
+<map id="SCR_BaseDamageHealSupportStationComponentClass" name="SCR_BaseDamageHealSupportStationComponentClass">
+<area shape="rect" id="node1" title=" " alt="" coords="135,167,340,207"/>
+<area shape="rect" id="node4" href="$interfaceSCR__HealSupportStationComponentClass.html" title=" " alt="" coords="5,255,240,295"/>
+<area shape="rect" id="node5" href="$interfaceSCR__RepairSupportStationComponentClass.html" title=" " alt="" coords="264,255,443,295"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseSupportStationComponentClass.html" title=" " alt="" coords="118,79,357,119"/>
+<area shape="rect" id="node3" title=" " alt="" coords="160,5,315,31"/>
+</map>

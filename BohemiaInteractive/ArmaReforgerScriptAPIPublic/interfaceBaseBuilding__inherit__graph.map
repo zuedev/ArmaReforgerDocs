@@ -1,0 +1,9 @@
+<map id="BaseBuilding" name="BaseBuilding">
+<area shape="rect" id="node1" title=" " alt="" coords="284,79,383,104"/>
+<area shape="rect" id="node3" href="$interfaceBuilding.html" title=" " alt="" coords="57,152,125,177"/>
+<area shape="rect" id="node5" href="$interfaceSCR__BuildingRegionEntity.html" title=" " alt="" coords="149,152,325,177"/>
+<area shape="rect" id="node6" href="$interfaceSCR__FiringRangeTarget.html" title=" " alt="" coords="350,152,511,177"/>
+<area shape="rect" id="node7" href="$interfaceSCR__FragmentEntity.html" title="An entity used to represent fragments of destructible objects such as glass shards or wood splinters." alt="" coords="535,152,681,177"/>
+<area shape="rect" id="node2" title=" " alt="" coords="271,5,396,31"/>
+<area shape="rect" id="node4" href="$interfaceSCR__DestructibleBuildingEntity.html" title="Building switches between undamaged/damaged/destroyed states based on damage to regions and destructi..." alt="" coords="5,225,176,265"/>
+</map>

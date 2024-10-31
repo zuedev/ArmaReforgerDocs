@@ -1,0 +1,5 @@
+<map id="AnimationSource" name="AnimationSource">
+<area shape="rect" id="node1" title=" " alt="" coords="17,152,139,177"/>
+<area shape="rect" id="node2" href="$interfaceBaseResourceObject.html" title=" " alt="" coords="5,79,151,104"/>
+<area shape="rect" id="node3" href="$interfacepointer.html" title="Plain C++ pointer, no weak pointers, no memory management." alt="" coords="47,5,109,31"/>
+</map>

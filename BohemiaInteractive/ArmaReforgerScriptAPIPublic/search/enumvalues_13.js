@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['unconscious_0',['Unconscious',['../group__Character.html#ggad22be990db587ffe10aeb9a04afe923cacb6b56b0daf97dc9660af8977785a0e8',1,'ECharacterDataState.c']]],
+  ['undamaged_1',['UNDAMAGED',['../group__HitZone.html#ggae3347cedb5ec58f8ad6e8cf92b107387a12d952669f0f0776d3836707f882df43',1,'EDamageState.c']]],
+  ['unittype_5faircraft_2',['UnitType_Aircraft',['../group__AI.html#ggafe1e925620bf3cc829488411e9b6d517aaea2e6c36c559ab3f2b884283ab6f0e9',1,'EAIUnitType.c']]],
+  ['unittype_5fcount_3',['UnitType_Count',['../group__AI.html#ggafe1e925620bf3cc829488411e9b6d517a0db7109e472735d00f6d1dc1f7bacb77',1,'EAIUnitType.c']]],
+  ['unittype_5ffortification_4',['UnitType_Fortification',['../group__AI.html#ggafe1e925620bf3cc829488411e9b6d517a44f4dc523cc670523c638982be44fb21',1,'EAIUnitType.c']]],
+  ['unittype_5finfantry_5',['UnitType_Infantry',['../group__AI.html#ggafe1e925620bf3cc829488411e9b6d517a421758bccd8d0ac450d5b102907c2314',1,'EAIUnitType.c']]],
+  ['unittype_5fvehicleheavy_6',['UnitType_VehicleHeavy',['../group__AI.html#ggafe1e925620bf3cc829488411e9b6d517a1500022c847b682e905dc3972a30afda',1,'EAIUnitType.c']]],
+  ['unittype_5fvehiclemedium_7',['UnitType_VehicleMedium',['../group__AI.html#ggafe1e925620bf3cc829488411e9b6d517a171b1f701d8f390b25920fd6db293bc1',1,'EAIUnitType.c']]],
+  ['unittype_5fvehicleunarmored_8',['UnitType_VehicleUnarmored',['../group__AI.html#ggafe1e925620bf3cc829488411e9b6d517a29380036e006d92a174153bd4b0dce28',1,'EAIUnitType.c']]],
+  ['unknown_9',['UNKNOWN',['../group__Perception.html#gga03f696acbd8efda49ef100336afe5760a696b031073e74bf2cb98e5ef201d4aa3',1,'ETargetCategory.c']]],
+  ['unlocked_10',['UNLOCKED',['../group__Editable__Entities.html#gga9f68767738a38875aa3830aacf8b689aa298a2da567ae581f8886ef8d533107f4',1,'EEditableEntityState.c']]],
+  ['unobstructed_11',['UNOBSTRUCTED',['../group__Character.html#gga291f0e9529329a560718f992c2f83ac1a7e0f0aaf41170fda6a147a75b5cf4b21',1,'EWeaponObstructedState.c']]],
+  ['update_5fmode_12',['UPDATE_MODE',['../group__Editor__Entities.html#gga494584031b996aec5d3b502abc6c1dfdaf5ccb5a09cc3478849a80659178b9f5d',1,'EEditorEvent.c']]],
+  ['user1_13',['USER1',['../group__Music.html#ggaa8ba5cbfdcf69507e713edd8be68c131a9f693771ca12c43759045cdf4295e9f5',1,'MusicCategory.c']]],
+  ['user2_14',['USER2',['../group__Music.html#ggaa8ba5cbfdcf69507e713edd8be68c131a009ab43667ea90b50b741d89cbf76f1b',1,'MusicCategory.c']]],
+  ['user3_15',['USER3',['../group__Music.html#ggaa8ba5cbfdcf69507e713edd8be68c131ac5b111077f75f96c354597ce99437fa8',1,'MusicCategory.c']]]
+];

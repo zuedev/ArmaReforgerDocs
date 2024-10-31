@@ -1,0 +1,5 @@
+<map id="AABGridMap" name="AABGridMap">
+<area shape="rect" id="node1" title="Represent a grid map." alt="" coords="7,152,105,177"/>
+<area shape="rect" id="node2" href="$interfaceBaseGridMap.html" title="Represent a grid map." alt="" coords="5,79,107,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="19,5,93,31"/>
+</map>

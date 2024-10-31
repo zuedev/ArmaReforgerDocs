@@ -1,0 +1,6 @@
+<map id="TurretSlotComponent" name="TurretSlotComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="13,225,157,251"/>
+<area shape="rect" id="node2" href="$interfaceBaseAimingComponent.html" title=" " alt="" coords="5,152,164,177"/>
+<area shape="rect" id="node3" href="$interfaceGameComponent.html" title=" " alt="" coords="23,79,146,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="18,5,151,31"/>
+</map>

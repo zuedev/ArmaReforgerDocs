@@ -1,0 +1,7 @@
+<map id="SCR_MenuOverlayEditorAttribute" name="SCR_MenuOverlayEditorAttribute">
+<area shape="rect" id="node1" title=" " alt="" coords="119,167,334,192"/>
+<area shape="rect" id="node4" href="$interfaceSCR__LogoOverlayEditorAttribute.html" title=" " alt="" coords="5,247,216,273"/>
+<area shape="rect" id="node5" href="$interfaceSCR__LogoOverlayPositionEditorAttribute.html" title=" " alt="" coords="240,240,448,280"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseDuplicatableEditorAttribute.html" title="Attributes that never communicate can inharent from SCR_BaseDuplicatableEditorAttribute else an error..." alt="" coords="131,79,322,119"/>
+<area shape="rect" id="node3" href="$interfaceSCR__BaseEditorAttribute.html" title="Base Attribute Script for other attributes to inherent from to get and set varriables in Editor Attri..." alt="" coords="142,5,311,31"/>
+</map>

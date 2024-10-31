@@ -1,0 +1,6 @@
+<map id="SCR_EntityCatalogEntryNonEditable" name="SCR_EntityCatalogEntryNonEditable">
+<area shape="rect" id="node1" title="Entity Entry within the SCR_EntityCatalog." alt="" coords="149,79,337,119"/>
+<area shape="rect" id="node3" href="$interfaceSCR__EntityCatalogEntryCustomInfo.html" title="Entity Entry within the SCR_EntityCatalog." alt="" coords="5,167,236,192"/>
+<area shape="rect" id="node4" href="$interfaceSCR__EntityCatalogInventoryItem.html" title="Entity Entry within the SCR_EntityCatalog." alt="" coords="261,167,471,192"/>
+<area shape="rect" id="node2" href="$interfaceSCR__EntityCatalogEntry.html" title="Entity Entry within the SCR_EntityCatalog." alt="" coords="161,5,326,31"/>
+</map>

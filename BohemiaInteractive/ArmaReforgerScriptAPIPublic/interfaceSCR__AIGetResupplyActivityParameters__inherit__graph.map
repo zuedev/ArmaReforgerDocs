@@ -1,0 +1,6 @@
+<map id="SCR_AIGetResupplyActivityParameters" name="SCR_AIGetResupplyActivityParameters">
+<area shape="rect" id="node1" title=" " alt="" coords="9,225,195,265"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AIGetActionParameters.html" title="Base class of node which outputs action parameters to Behavior Tree variables." alt="" coords="5,152,199,177"/>
+<area shape="rect" id="node3" href="$interfaceSCR__AIActionTask.html" title=" " alt="" coords="35,79,169,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="47,5,157,31"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="SCR_BTParamBase" name="SCR_BTParamBase">
+<area shape="rect" id="node1" title="Base BT parameter class to be used in SCR_AIActionParams." alt="" coords="226,79,366,104"/>
+<area shape="rect" id="node3" href="$interfaceSCR__BTParam.html" title="Parameter with data of specific type." alt="" coords="5,159,184,185"/>
+<area shape="rect" id="node4" href="$interfaceSCR__BTParamAssignable.html" title="Same as SCR_BTParam&lt;T&gt;, but can be assigned or not (from script side)." alt="" coords="209,152,383,192"/>
+<area shape="rect" id="node5" href="$interfaceSCR__BTParamRef.html" title=" " alt="" coords="408,159,605,185"/>
+<area shape="rect" id="node2" title=" " alt="" coords="259,5,333,31"/>
+</map>

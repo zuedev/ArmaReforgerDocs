@@ -1,0 +1,4 @@
+<map id="SCR_DestroyedEditableEntityFilter" name="SCR_DestroyedEditableEntityFilter">
+<area shape="rect" id="node1" title="Entities which are killed or destroyed." alt="" coords="5,79,201,119"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseEditableEntityFilter.html" title="Base class for a manager of editable entities of specific state." alt="" coords="5,5,201,31"/>
+</map>

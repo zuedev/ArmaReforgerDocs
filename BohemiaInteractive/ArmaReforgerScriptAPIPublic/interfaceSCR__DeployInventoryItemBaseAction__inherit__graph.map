@@ -1,0 +1,8 @@
+<map id="SCR_DeployInventoryItemBaseAction" name="SCR_DeployInventoryItemBaseAction">
+<area shape="rect" id="node1" title=" " alt="" coords="130,225,333,265"/>
+<area shape="rect" id="node5" href="$interfaceSCR__DeployInventoryItemAction.html" title=" " alt="" coords="5,321,215,346"/>
+<area shape="rect" id="node6" href="$interfaceSCR__DeployInventoryItemRestrictedAction.html" title=" " alt="" coords="239,313,469,353"/>
+<area shape="rect" id="node2" href="$interfaceScriptedUserAction.html" title=" " alt="" coords="164,152,299,177"/>
+<area shape="rect" id="node3" href="$interfaceBaseUserAction.html" title=" " alt="" coords="173,79,289,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="174,5,289,31"/>
+</map>

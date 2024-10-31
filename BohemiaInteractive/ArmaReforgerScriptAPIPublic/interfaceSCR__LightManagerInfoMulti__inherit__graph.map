@@ -1,0 +1,10 @@
+<map id="SCR_LightManagerInfoMulti" name="SCR_LightManagerInfoMulti">
+<area shape="rect" id="node1" title=" " alt="" coords="5,445,188,471"/>
+<area shape="rect" id="node8" href="$interfaceSCR__VInfoLandingLights.html" title=" " alt="" coords="14,519,179,544"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseVehicleInfo.html" title="Base class for all vehicle UI state and damage indicators." alt="" coords="22,372,171,397"/>
+<area shape="rect" id="node3" href="$interfaceSCR__InfoDisplayExtended.html" title=" " alt="" coords="9,299,184,324"/>
+<area shape="rect" id="node4" href="$interfaceSCR__InfoDisplay.html" title=" " alt="" coords="37,225,156,251"/>
+<area shape="rect" id="node5" href="$interfaceGroupInfoDisplay.html" title=" " alt="" coords="37,152,157,177"/>
+<area shape="rect" id="node6" href="$interfaceBaseInfoDisplay.html" title=" " alt="" coords="39,79,154,104"/>
+<area shape="rect" id="node7" title=" " alt="" coords="39,5,154,31"/>
+</map>

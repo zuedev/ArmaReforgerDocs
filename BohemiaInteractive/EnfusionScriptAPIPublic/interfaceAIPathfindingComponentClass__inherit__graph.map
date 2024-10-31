@@ -1,0 +1,6 @@
+<map id="AIPathfindingComponentClass" name="AIPathfindingComponentClass">
+<area shape="rect" id="node1" title=" " alt="" coords="5,225,203,251"/>
+<area shape="rect" id="node2" href="$interfaceAIComponentClass.html" title=" " alt="" coords="37,152,171,177"/>
+<area shape="rect" id="node3" href="$interfaceGenericComponentClass.html" title=" " alt="" coords="21,79,187,104"/>
+<area shape="rect" id="node4" href="$interfaceEntityComponentPrefabData.html" title="Shared object with constant data for components from prefab." alt="" coords="11,5,197,31"/>
+</map>

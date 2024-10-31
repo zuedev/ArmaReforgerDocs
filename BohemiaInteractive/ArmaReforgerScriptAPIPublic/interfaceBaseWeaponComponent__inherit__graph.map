@@ -1,0 +1,12 @@
+<map id="BaseWeaponComponent" name="BaseWeaponComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="357,80,524,105"/>
+<area shape="rect" id="node4" href="$interfaceWeaponComponent.html" title=" " alt="" coords="583,31,719,56"/>
+<area shape="rect" id="node6" href="$interfaceWeaponSlotComponent.html" title=" " alt="" coords="572,104,731,129"/>
+<area shape="rect" id="node2" href="$interfaceGameComponent.html" title=" " alt="" coords="187,80,309,105"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,80,139,105"/>
+<area shape="rect" id="node5" href="$interfaceSCR__MineWeaponComponent.html" title=" " alt="" coords="802,5,1001,31"/>
+<area shape="rect" id="node7" href="$interfaceCharacterGrenadeSlotComponent.html" title=" " alt="" coords="793,55,1009,80"/>
+<area shape="rect" id="node8" href="$interfaceCharacterHandWeaponSlotComponent.html" title=" " alt="" coords="779,104,1024,129"/>
+<area shape="rect" id="node9" href="$interfaceCharacterWeaponSlotComponent.html" title=" " alt="" coords="794,153,1009,179"/>
+<area shape="rect" id="node10" href="$interfaceGrenadeSlotComponent.html" title=" " alt="" coords="821,203,981,228"/>
+</map>

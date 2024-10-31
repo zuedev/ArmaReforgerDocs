@@ -1,0 +1,51 @@
+<map id="SCR_AIActionBase" name="SCR_AIActionBase">
+<area shape="rect" id="node1" title=" " alt="" coords="317,1071,452,1096"/>
+<area shape="rect" id="node4" href="$interfaceSCR__AIActivityBase.html" title=" " alt="" coords="535,301,675,327"/>
+<area shape="rect" id="node19" href="$interfaceSCR__AIBehaviorBase.html" title=" " alt="" coords="532,1071,679,1096"/>
+<area shape="rect" id="node48" href="$interfaceSCR__AICompositeActionParallel.html" title=" " alt="" coords="500,1361,711,1387"/>
+<area shape="rect" id="node2" href="$interfaceAIActionBase.html" title=" " alt="" coords="168,1071,269,1096"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,1071,120,1096"/>
+<area shape="rect" id="node5" href="$interfaceSCR__AIDefendActivity.html" title=" " alt="" coords="796,5,947,31"/>
+<area shape="rect" id="node6" href="$interfaceSCR__AIFireteamsActivity.html" title="Base class for all group activities which are related to fireteams." alt="" coords="787,55,955,80"/>
+<area shape="rect" id="node8" href="$interfaceSCR__AIFollowActivity.html" title=" " alt="" coords="798,104,945,129"/>
+<area shape="rect" id="node9" href="$interfaceSCR__AIGetInActivity.html" title=" " alt="" coords="801,153,942,179"/>
+<area shape="rect" id="node10" href="$interfaceSCR__AIGetOutActivity.html" title=" " alt="" coords="795,203,947,228"/>
+<area shape="rect" id="node11" href="$interfaceSCR__AIHealActivity.html" title=" " alt="" coords="803,252,939,277"/>
+<area shape="rect" id="node12" href="$interfaceSCR__AIIdleActivity.html" title=" " alt="" coords="806,301,937,327"/>
+<area shape="rect" id="node13" href="$interfaceSCR__AIMoveActivity.html" title=" " alt="" coords="801,351,941,376"/>
+<area shape="rect" id="node15" href="$interfaceSCR__AIPerformActionActivity.html" title=" " alt="" coords="775,400,967,425"/>
+<area shape="rect" id="node16" href="$interfaceSCR__AIResupplyActivity.html" title=" " alt="" coords="789,449,953,475"/>
+<area shape="rect" id="node17" href="$interfaceSCR__AISuppressActivity.html" title=" " alt="" coords="789,499,954,524"/>
+<area shape="rect" id="node18" href="$interfaceSCR__AIVehicleCombatActivity.html" title="Activity which handles combat of a group if it has vehicles." alt="" coords="772,548,971,573"/>
+<area shape="rect" id="node7" href="$interfaceSCR__AIFireteamsClusterActivity.html" title="Class for activities which are assigned for some fireteams to do something with target cluster." alt="" coords="1041,55,1250,80"/>
+<area shape="rect" id="node14" href="$interfaceSCR__AISeekAndDestroyActivity.html" title=" " alt="" coords="1041,351,1249,376"/>
+<area shape="rect" id="node20" href="$interfaceSCR__AIAttackBehavior.html" title=" " alt="" coords="794,597,949,623"/>
+<area shape="rect" id="node21" href="$interfaceSCR__AIDefendBehavior.html" title=" " alt="" coords="793,647,950,672"/>
+<area shape="rect" id="node22" href="$interfaceSCR__AIFindFirePositionBehavior.html" title="Behavior which makes AI walk around a position while keeping beyond some minimal distance." alt="" coords="766,696,977,721"/>
+<area shape="rect" id="node23" href="$interfaceSCR__AIFireIllumFlareBehavior.html" title=" " alt="" coords="774,745,969,771"/>
+<area shape="rect" id="node24" href="$interfaceSCR__AIHealBehavior.html" title=" " alt="" coords="800,795,943,820"/>
+<area shape="rect" id="node25" href="$interfaceSCR__AIHealWaitBehavior.html" title="Behavior for waiting until AI is healed by someone else." alt="" coords="786,844,957,869"/>
+<area shape="rect" id="node26" href="$interfaceSCR__AIIdleBehavior.html" title=" " alt="" coords="803,893,940,919"/>
+<area shape="rect" id="node28" href="$interfaceSCR__AIMedicHealBehavior.html" title=" " alt="" coords="782,943,961,968"/>
+<area shape="rect" id="node29" href="$interfaceSCR__AIMoveBehaviorBase.html" title=" " alt="" coords="783,992,960,1017"/>
+<area shape="rect" id="node34" href="$interfaceSCR__AIMoveFromDangerBehavior.html" title="Behavior for short&#45;lived fast reactions to get away from some danger source." alt="" coords="762,1041,981,1067"/>
+<area shape="rect" id="node38" href="$interfaceSCR__AIObserveUnknownFireBehavior.html" title="Behavior to observe supposed location of where gunshot came from." alt="" coords="776,1091,967,1131"/>
+<area shape="rect" id="node39" href="$interfaceSCR__AIPerformActionBehavior.html" title=" " alt="" coords="772,1156,971,1181"/>
+<area shape="rect" id="node40" href="$interfaceSCR__AIPickupInventoryItemsBehavior.html" title=" " alt="" coords="776,1206,967,1246"/>
+<area shape="rect" id="node41" href="$interfaceSCR__AIProvideAmmoBehavior.html" title="Behavior for one soldier to provide ammunition to another one." alt="" coords="773,1271,970,1296"/>
+<area shape="rect" id="node42" href="$interfaceSCR__AIRetreatFromTargetBehavior.html" title=" " alt="" coords="759,1320,984,1345"/>
+<area shape="rect" id="node43" href="$interfaceSCR__AIRetreatWhileLookAtBehavior.html" title=" " alt="" coords="779,1370,963,1410"/>
+<area shape="rect" id="node44" href="$interfaceSCR__AISuppressBehavior.html" title="Behavior for AI suppressing an area." alt="" coords="785,1435,957,1460"/>
+<area shape="rect" id="node45" href="$interfaceSCR__AIThrowGrenadeToBehavior.html" title=" " alt="" coords="764,1484,979,1509"/>
+<area shape="rect" id="node46" href="$interfaceSCR__AIVehicleBehavior.html" title=" " alt="" coords="791,1533,951,1559"/>
+<area shape="rect" id="node47" href="$interfaceSCR__AIWaitBehavior.html" title=" " alt="" coords="799,1583,943,1608"/>
+<area shape="rect" id="node27" href="$interfaceSCR__AIIdleBehavior__Driver.html" title=" " alt="" coords="1077,789,1214,829"/>
+<area shape="rect" id="node30" href="$interfaceSCR__AIFollowInFormationBehavior.html" title=" " alt="" coords="1034,853,1257,879"/>
+<area shape="rect" id="node31" href="$interfaceSCR__AIMoveAndInvestigateBehavior.html" title=" " alt="" coords="1054,903,1237,943"/>
+<area shape="rect" id="node32" href="$interfaceSCR__AIMoveInFormationBehavior.html" title=" " alt="" coords="1038,968,1253,993"/>
+<area shape="rect" id="node33" href="$interfaceSCR__AIMoveIndividuallyBehavior.html" title=" " alt="" coords="1041,1017,1250,1043"/>
+<area shape="rect" id="node35" href="$interfaceSCR__AIMoveFromGrenadeBehavior.html" title=" " alt="" coords="1032,1067,1259,1092"/>
+<area shape="rect" id="node36" href="$interfaceSCR__AIMoveFromIncomingVehicleBehavior.html" title=" " alt="" coords="1034,1117,1257,1157"/>
+<area shape="rect" id="node37" href="$interfaceSCR__AIMoveFromUnknownFire.html" title=" " alt="" coords="1044,1181,1247,1207"/>
+<area shape="rect" id="node49" href="$interfaceSCR__AIClustersCompositeAction.html" title="Composite parallel action for holding activities for target clusters." alt="" coords="764,1632,979,1657"/>
+</map>

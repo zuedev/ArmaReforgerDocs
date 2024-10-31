@@ -1,0 +1,7 @@
+<map id="SCR_ScriptedSignalUserActionIncrease" name="SCR_ScriptedSignalUserActionIncrease">
+<area shape="rect" id="node1" title=" " alt="" coords="5,299,209,339"/>
+<area shape="rect" id="node2" href="$interfaceScriptedSignalUserAction.html" title="This action will take care of the synchronization of the signal value." alt="" coords="22,225,193,251"/>
+<area shape="rect" id="node3" href="$interfaceScriptedUserAction.html" title=" " alt="" coords="40,152,175,177"/>
+<area shape="rect" id="node4" href="$interfaceBaseUserAction.html" title=" " alt="" coords="49,79,165,104"/>
+<area shape="rect" id="node5" title=" " alt="" coords="50,5,165,31"/>
+</map>

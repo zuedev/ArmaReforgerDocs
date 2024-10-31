@@ -1,0 +1,6 @@
+<map id="SCR_AICombatTargetGetterTask" name="SCR_AICombatTargetGetterTask">
+<area shape="rect" id="node1" title="Base class for tasks which return some target from combat component." alt="" coords="86,79,299,104"/>
+<area shape="rect" id="node3" href="$interfaceSCR__AIGetCurrentEnemy.html" title=" " alt="" coords="5,152,177,177"/>
+<area shape="rect" id="node4" href="$interfaceSCR__AIGetLastSeenEnemy.html" title=" " alt="" coords="201,152,387,177"/>
+<area shape="rect" id="node2" title=" " alt="" coords="137,5,248,31"/>
+</map>

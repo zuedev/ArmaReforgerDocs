@@ -1,0 +1,8 @@
+<map id="SCR_BaseActionsEditorComponent" name="SCR_BaseActionsEditorComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="411,77,641,102"/>
+<area shape="rect" id="node4" href="$interfaceSCR__CommandActionsEditorComponent.html" title="Manager of command actions, i.e., waypoint for AI groups or objectives for factions." alt="" coords="689,5,883,45"/>
+<area shape="rect" id="node5" href="$interfaceSCR__ContextActionsEditorComponent.html" title="Component to hold all context actions for each editor mode and filter out actions depending on contex..." alt="" coords="697,69,875,109"/>
+<area shape="rect" id="node6" href="$interfaceSCR__ToolbarActionsEditorComponent.html" title=" " alt="" coords="698,133,874,173"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseEditorComponent.html" title="Base class for editor components." alt="" coords="176,77,363,102"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,77,128,102"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="SCR_TakeControlContextAction" name="SCR_TakeControlContextAction">
+<area shape="rect" id="node1" title=" " alt="" coords="5,79,212,104"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseEditorAction.html" title="Base container class for all editor action types (ContextActions, WaypointActions,..." alt="" coords="30,5,187,31"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="AITaskSetMovementSpeed" name="AITaskSetMovementSpeed">
+<area shape="rect" id="node1" title=" " alt="" coords="5,299,184,324"/>
+<area shape="rect" id="node2" href="$interfaceAITask.html" title=" " alt="" coords="63,225,126,251"/>
+<area shape="rect" id="node3" href="$interfaceNode.html" title=" " alt="" coords="69,152,121,177"/>
+<area shape="rect" id="node4" href="$interfaceScriptAndConfig.html" title="Base class for classes which combine enf::Class and enf::BaseClass (in C++)." alt="" coords="37,79,152,104"/>
+<area shape="rect" id="node5" href="$interfaceManaged.html" title=" " alt="" coords="57,5,132,31"/>
+</map>

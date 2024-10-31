@@ -1,0 +1,7 @@
+<map id="SCR_Login2FADialogConsoleUI" name="SCR_Login2FADialogConsoleUI">
+<area shape="rect" id="node1" title=" " alt="" coords="5,299,212,324"/>
+<area shape="rect" id="node2" href="$interfaceSCR__Login2FADialogUI.html" title=" " alt="" coords="29,225,188,251"/>
+<area shape="rect" id="node3" href="$interfaceSCR__LoginProcessDialogUI.html" title=" " alt="" coords="17,152,200,177"/>
+<area shape="rect" id="node4" href="$interfaceSCR__ConfigurableDialogUi.html" title=" " alt="" coords="21,79,196,104"/>
+<area shape="rect" id="node5" title=" " alt="" coords="20,5,197,31"/>
+</map>

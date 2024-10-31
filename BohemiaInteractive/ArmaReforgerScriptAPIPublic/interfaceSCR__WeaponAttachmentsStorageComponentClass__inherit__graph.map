@@ -1,0 +1,9 @@
+<map id="SCR_WeaponAttachmentsStorageComponentClass" name="SCR_WeaponAttachmentsStorageComponentClass">
+<area shape="rect" id="node1" title=" " alt="" coords="5,489,228,529"/>
+<area shape="rect" id="node2" href="$interfaceWeaponAttachmentsStorageComponentClass.html" title=" " alt="" coords="22,401,211,441"/>
+<area shape="rect" id="node3" href="$interfaceScriptedBaseInventoryStorageComponentClass.html" title=" " alt="" coords="19,313,215,353"/>
+<area shape="rect" id="node4" href="$interfaceBaseInventoryStorageComponentClass.html" title=" " alt="" coords="9,225,224,265"/>
+<area shape="rect" id="node5" href="$interfaceInventoryItemComponentClass.html" title=" " alt="" coords="18,152,215,177"/>
+<area shape="rect" id="node6" href="$interfaceGameComponentClass.html" title=" " alt="" coords="39,79,195,104"/>
+<area shape="rect" id="node7" title=" " alt="" coords="33,5,200,31"/>
+</map>

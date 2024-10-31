@@ -1,0 +1,7 @@
+<map id="CharacterEntity" name="CharacterEntity">
+<area shape="rect" id="node1" title=" " alt="" coords="5,299,117,324"/>
+<area shape="rect" id="node2" href="$interfacePawnEntity.html" title=" " alt="" coords="17,225,105,251"/>
+<area shape="rect" id="node3" href="$interfaceGenericEntity.html" title="Base entity class." alt="" coords="11,152,112,177"/>
+<area shape="rect" id="node4" href="$interfaceIEntity.html" title=" " alt="" coords="32,79,91,104"/>
+<area shape="rect" id="node5" href="$interfaceManaged.html" title=" " alt="" coords="24,5,99,31"/>
+</map>

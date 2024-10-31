@@ -1,0 +1,15 @@
+<map id="SCR_GadgetComponent" name="SCR_GadgetComponent">
+<area shape="rect" id="node1" title="Gadget base class." alt="" coords="381,244,545,269"/>
+<area shape="rect" id="node4" href="$interfaceSCR__BinocularsComponent.html" title=" " alt="" coords="612,5,795,31"/>
+<area shape="rect" id="node5" href="$interfaceSCR__CampaignBuildingGadgetToolComponent.html" title=" " alt="" coords="602,55,805,95"/>
+<area shape="rect" id="node6" href="$interfaceSCR__CompassComponent.html" title="Compass component." alt="" coords="615,120,792,145"/>
+<area shape="rect" id="node7" href="$interfaceSCR__ConsumableItemComponent.html" title=" " alt="" coords="594,169,813,195"/>
+<area shape="rect" id="node8" href="$interfaceSCR__DetonatorGadgetComponent.html" title=" " alt="" coords="593,219,813,244"/>
+<area shape="rect" id="node9" href="$interfaceSCR__FlashlightComponent.html" title=" " alt="" coords="614,268,793,293"/>
+<area shape="rect" id="node10" href="$interfaceSCR__MapGadgetComponent.html" title="Map gadget component." alt="" coords="609,317,798,343"/>
+<area shape="rect" id="node11" href="$interfaceSCR__RadioComponent.html" title=" " alt="" coords="626,367,781,392"/>
+<area shape="rect" id="node12" href="$interfaceSCR__SupportStationGadgetComponent.html" title=" " alt="" coords="611,417,795,457"/>
+<area shape="rect" id="node13" href="$interfaceSCR__WristwatchComponent.html" title=" " alt="" coords="610,481,797,507"/>
+<area shape="rect" id="node2" href="$interfaceScriptGameComponent.html" title=" " alt="" coords="176,244,333,269"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,244,128,269"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="SCR_DrowningDamageEffect" name="SCR_DrowningDamageEffect">
+<area shape="rect" id="node1" title=" " alt="" coords="5,372,196,397"/>
+<area shape="rect" id="node2" href="$interfaceSCR__InstantDamageEffect.html" title=" " alt="" coords="13,299,189,324"/>
+<area shape="rect" id="node3" href="$interfaceInstantDamageEffect.html" title=" " alt="" coords="29,225,172,251"/>
+<area shape="rect" id="node4" href="$interfaceSCR__DamageEffect.html" title=" " alt="" coords="32,152,169,177"/>
+<area shape="rect" id="node5" href="$interfaceBaseDamageEffect.html" title=" " alt="" coords="34,79,167,104"/>
+<area shape="rect" id="node6" title=" " alt="" coords="43,5,158,31"/>
+</map>

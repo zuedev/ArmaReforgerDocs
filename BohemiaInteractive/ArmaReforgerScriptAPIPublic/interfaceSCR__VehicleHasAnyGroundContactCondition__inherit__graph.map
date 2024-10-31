@@ -1,0 +1,4 @@
+<map id="SCR_VehicleHasAnyGroundContactCondition" name="SCR_VehicleHasAnyGroundContactCondition">
+<area shape="rect" id="node1" title="Returns true if vehicle is colliding with ground." alt="" coords="5,79,237,119"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AvailableActionCondition.html" title="A single available action condition representation." alt="" coords="22,5,221,31"/>
+</map>

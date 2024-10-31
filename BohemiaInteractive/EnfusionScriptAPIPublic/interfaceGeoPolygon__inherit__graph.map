@@ -1,0 +1,5 @@
+<map id="GeoPolygon" name="GeoPolygon">
+<area shape="rect" id="node1" title="Polygon (can have multiple parts)." alt="" coords="5,152,99,177"/>
+<area shape="rect" id="node2" href="$interfaceGeoShape.html" title="Base class for all shapes." alt="" coords="11,79,93,104"/>
+<area shape="rect" id="node3" href="$interfaceManaged.html" title=" " alt="" coords="15,5,89,31"/>
+</map>

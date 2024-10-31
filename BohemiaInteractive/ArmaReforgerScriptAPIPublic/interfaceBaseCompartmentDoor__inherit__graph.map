@@ -1,0 +1,6 @@
+<map id="BaseCompartmentDoor" name="BaseCompartmentDoor">
+<area shape="rect" id="node1" title=" " alt="" coords="95,79,252,104"/>
+<area shape="rect" id="node3" href="$interfaceCompartmentDoorInfo.html" title=" " alt="" coords="5,152,152,177"/>
+<area shape="rect" id="node4" href="$interfaceCompartmentDoorReference.html" title=" " alt="" coords="177,152,362,177"/>
+<area shape="rect" id="node2" title=" " alt="" coords="116,5,231,31"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="BaseEffectComponentClass" name="BaseEffectComponentClass">
+<area shape="rect" id="node1" title=" " alt="" coords="424,92,608,117"/>
+<area shape="rect" id="node4" href="$interfaceHitEffectComponentClass.html" title=" " alt="" coords="672,5,843,31"/>
+<area shape="rect" id="node5" href="$interfaceMotorExhaustEffectComponentClass.html" title=" " alt="" coords="656,55,859,95"/>
+<area shape="rect" id="node7" href="$interfaceMuzzleEffectComponentClass.html" title=" " alt="" coords="659,120,855,145"/>
+<area shape="rect" id="node10" href="$interfaceRocketTraceEffectComponentClass.html" title=" " alt="" coords="660,170,855,210"/>
+<area shape="rect" id="node2" href="$interfaceGameComponentClass.html" title=" " alt="" coords="220,92,376,117"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,92,172,117"/>
+<area shape="rect" id="node6" href="$interfaceSCR__MotorExhaustEffectGeneralComponentClass.html" title=" " alt="" coords="907,49,1121,89"/>
+<area shape="rect" id="node8" href="$interfaceCaseEjectingEffectComponentClass.html" title=" " alt="" coords="915,113,1113,153"/>
+<area shape="rect" id="node9" href="$interfaceSCR__MuzzleEffectComponentClass.html" title=" " alt="" coords="915,177,1113,217"/>
+</map>

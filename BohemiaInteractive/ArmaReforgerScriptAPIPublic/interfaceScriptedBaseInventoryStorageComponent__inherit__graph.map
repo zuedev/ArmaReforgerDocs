@@ -1,0 +1,26 @@
+<map id="ScriptedBaseInventoryStorageComponent" name="ScriptedBaseInventoryStorageComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="832,149,1028,189"/>
+<area shape="rect" id="node6" href="$interfaceAttachmentsStorageComponent.html" title=" " alt="" coords="1086,5,1293,31"/>
+<area shape="rect" id="node7" href="$interfaceBaseEquipedWeaponStorageComponent.html" title=" " alt="" coords="1093,55,1285,95"/>
+<area shape="rect" id="node9" href="$interfaceBaseUniversalInventoryStorageComponent.html" title=" " alt="" coords="1089,119,1289,159"/>
+<area shape="rect" id="node18" href="$interfaceClothNodeStorageComponent.html" title=" " alt="" coords="1093,184,1286,209"/>
+<area shape="rect" id="node19" href="$interfaceEquipedLoadoutStorageComponent.html" title=" " alt="" coords="1076,233,1303,259"/>
+<area shape="rect" id="node23" href="$interfaceWeaponAttachmentsStorageComponent.html" title=" " alt="" coords="1095,286,1284,326"/>
+<area shape="rect" id="node2" href="$interfaceBaseInventoryStorageComponent.html" title=" " alt="" coords="569,156,784,181"/>
+<area shape="rect" id="node3" href="$interfaceInventoryItemComponent.html" title=" " alt="" coords="357,156,521,181"/>
+<area shape="rect" id="node4" href="$interfaceGameComponent.html" title=" " alt="" coords="187,156,309,181"/>
+<area shape="rect" id="node5" title=" " alt="" coords="5,156,139,181"/>
+<area shape="rect" id="node8" href="$interfaceEquipedWeaponStorageComponent.html" title=" " alt="" coords="1351,63,1579,88"/>
+<area shape="rect" id="node10" href="$interfaceUniversalInventoryStorageComponent.html" title=" " alt="" coords="1379,117,1550,157"/>
+<area shape="rect" id="node11" href="$interfaceBaseEquipmentStorageComponent.html" title=" " alt="" coords="1627,59,1852,84"/>
+<area shape="rect" id="node16" href="$interfaceSCR__CampaignArmoryStorageComponent.html" title=" " alt="" coords="1639,109,1840,149"/>
+<area shape="rect" id="node17" href="$interfaceSCR__UniversalInventoryStorageComponent.html" title="Current storage variant allows dynamic scaling of slots and handles Move/Insert/Remove operations it ..." alt="" coords="1637,173,1841,213"/>
+<area shape="rect" id="node12" href="$interfaceEquipmentStorageComponent.html" title="Current storage variant uses equipment storage slots to attach equipment to different item variants (..." alt="" coords="1907,59,2101,84"/>
+<area shape="rect" id="node13" href="$interfaceSCR__EquipmentStorageComponent.html" title="Equipment storage are slots which are part of their parent entity but not taking up the standard carg..." alt="" coords="2156,59,2385,84"/>
+<area shape="rect" id="node14" href="$interfaceSCR__SalineStorageComponent.html" title=" " alt="" coords="2445,33,2648,59"/>
+<area shape="rect" id="node15" href="$interfaceSCR__TourniquetStorageComponent.html" title=" " alt="" coords="2433,83,2660,108"/>
+<area shape="rect" id="node20" href="$interfaceSCR__EquipedLoadoutStorageComponent.html" title=" " alt="" coords="1367,226,1562,266"/>
+<area shape="rect" id="node21" href="$interfaceCharacterInventoryStorageComponent.html" title=" " alt="" coords="1652,237,1827,277"/>
+<area shape="rect" id="node22" href="$interfaceSCR__CharacterInventoryStorageComponent.html" title=" " alt="" coords="1900,237,2108,277"/>
+<area shape="rect" id="node24" href="$interfaceSCR__WeaponAttachmentsStorageComponent.html" title=" " alt="" coords="1353,290,1576,330"/>
+</map>

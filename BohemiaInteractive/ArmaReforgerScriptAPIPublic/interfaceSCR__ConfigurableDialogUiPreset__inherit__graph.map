@@ -1,0 +1,4 @@
+<map id="SCR_ConfigurableDialogUiPreset" name="SCR_ConfigurableDialogUiPreset">
+<area shape="rect" id="node1" title="Configuration for a dialog." alt="" coords="5,5,180,45"/>
+<area shape="rect" id="node2" href="$interfaceSCR__KickDialogUiPreset.html" title="Server kick message specific dialog." alt="" coords="9,93,177,119"/>
+</map>

@@ -1,0 +1,40 @@
+<map id="SCR_EntityTooltipDetail" name="SCR_EntityTooltipDetail">
+<area shape="rect" id="node1" title=" " alt="" coords="5,831,167,856"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AIStateTooltipDetail.html" title=" " alt="" coords="240,5,411,31"/>
+<area shape="rect" id="node3" href="$interfaceSCR__ArsenalSaveTypeTooltipDetail.html" title=" " alt="" coords="228,55,423,95"/>
+<area shape="rect" id="node4" href="$interfaceSCR__BaseResourceTooltipDetail.html" title=" " alt="" coords="219,120,431,145"/>
+<area shape="rect" id="node7" href="$interfaceSCR__BuilderNameTooltipDetail.html" title=" " alt="" coords="225,169,426,195"/>
+<area shape="rect" id="node8" href="$interfaceSCR__CommentPlacablePrefabDetail.html" title=" " alt="" coords="226,219,425,259"/>
+<area shape="rect" id="node9" href="$interfaceSCR__DamageDisabledTooltipDetail.html" title=" " alt="" coords="229,283,421,323"/>
+<area shape="rect" id="node10" href="$interfaceSCR__DebugTooltipDetail.html" title=" " alt="" coords="243,348,407,373"/>
+<area shape="rect" id="node11" href="$interfaceSCR__DescriptionTooltipDetail.html" title=" " alt="" coords="229,397,421,423"/>
+<area shape="rect" id="node12" href="$interfaceSCR__DpsConditionBarBaseTooltipDetail.html" title=" " alt="" coords="215,447,436,487"/>
+<area shape="rect" id="node15" href="$interfaceSCR__EntityConditionTooltipDetail.html" title=" " alt="" coords="234,511,417,551"/>
+<area shape="rect" id="node16" href="$interfaceSCR__ExplosiveChargeDetail.html" title=" " alt="" coords="233,576,418,601"/>
+<area shape="rect" id="node17" href="$interfaceSCR__FactionGroupsTooltipDetail.html" title=" " alt="" coords="236,626,415,666"/>
+<area shape="rect" id="node18" href="$interfaceSCR__FactionHintTooltipDetail.html" title=" " alt="" coords="229,691,422,716"/>
+<area shape="rect" id="node19" href="$interfaceSCR__FactionPlayersTooltipDetail.html" title=" " alt="" coords="235,741,416,781"/>
+<area shape="rect" id="node20" href="$interfaceSCR__FactionTooltipDetail.html" title=" " alt="" coords="240,805,411,831"/>
+<area shape="rect" id="node21" href="$interfaceSCR__FrequencyTooltipDetail.html" title=" " alt="" coords="231,855,419,880"/>
+<area shape="rect" id="node22" href="$interfaceSCR__FuelTooltipDetail.html" title=" " alt="" coords="249,904,401,929"/>
+<area shape="rect" id="node23" href="$interfaceSCR__GroupOwnerTooltipDetail.html" title=" " alt="" coords="226,953,425,979"/>
+<area shape="rect" id="node24" href="$interfaceSCR__GroupSizeTooltipDetail.html" title=" " alt="" coords="231,1003,419,1028"/>
+<area shape="rect" id="node25" href="$interfaceSCR__LabelDescriptionTooltipDetail.html" title=" " alt="" coords="230,1053,421,1093"/>
+<area shape="rect" id="node26" href="$interfaceSCR__MapGridTooltipDetail.html" title=" " alt="" coords="237,1117,413,1143"/>
+<area shape="rect" id="node27" href="$interfaceSCR__MultiOccupantVehcileTooltipDetail.html" title=" " alt="" coords="234,1167,417,1207"/>
+<area shape="rect" id="node30" href="$interfaceSCR__PassagerTooltipDetail.html" title=" " alt="" coords="234,1232,417,1257"/>
+<area shape="rect" id="node31" href="$interfaceSCR__SuppliesBaseTooltipDetail.html" title=" " alt="" coords="222,1281,429,1307"/>
+<area shape="rect" id="node32" href="$interfaceSCR__SupplyCapacityTooltipDetail.html" title=" " alt="" coords="233,1331,418,1371"/>
+<area shape="rect" id="node33" href="$interfaceSCR__SupplyRefundTooltipDetail.html" title=" " alt="" coords="222,1396,429,1421"/>
+<area shape="rect" id="node34" href="$interfaceSCR__TaskCompleteDescriptionTooltipDetail.html" title=" " alt="" coords="223,1446,427,1486"/>
+<area shape="rect" id="node35" href="$interfaceSCR__TextAndWarningTooltipDetail.html" title=" " alt="" coords="230,1510,421,1550"/>
+<area shape="rect" id="node37" href="$interfaceSCR__WaypointIndexTooltipDetail.html" title=" " alt="" coords="235,1574,415,1614"/>
+<area shape="rect" id="node38" href="$interfaceSCR__WeaponsTooltipDetail.html" title=" " alt="" coords="234,1639,417,1664"/>
+<area shape="rect" id="node5" href="$interfaceSCR__ResourceAvailableTooltipDetail.html" title=" " alt="" coords="484,81,684,121"/>
+<area shape="rect" id="node6" href="$interfaceSCR__ResourceStorageTooltipDetail.html" title=" " alt="" coords="487,145,681,185"/>
+<area shape="rect" id="node13" href="$interfaceSCR__BloodTooltipDetail.html" title=" " alt="" coords="504,431,664,456"/>
+<area shape="rect" id="node14" href="$interfaceSCR__HealthTooltipDetail.html" title=" " alt="" coords="502,480,666,505"/>
+<area shape="rect" id="node28" href="$interfaceSCR__DriverTooltipDetail.html" title=" " alt="" coords="505,1151,663,1176"/>
+<area shape="rect" id="node29" href="$interfaceSCR__GunnersTooltipDetail.html" title=" " alt="" coords="496,1200,672,1225"/>
+<area shape="rect" id="node36" href="$interfaceSCR__FactionTasksAndSpawnPointsTooltipDetail.html" title=" " alt="" coords="486,1510,682,1550"/>
+</map>

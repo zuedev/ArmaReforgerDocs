@@ -1,0 +1,13 @@
+<map id="SCR_AIDangerReaction" name="SCR_AIDangerReaction">
+<area shape="rect" id="node1" title=" " alt="" coords="5,301,165,326"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AIDangerReaction__DamageTaken.html" title=" " alt="" coords="213,5,373,45"/>
+<area shape="rect" id="node3" href="$interfaceSCR__AIDangerReaction__DoorMovement.html" title=" " alt="" coords="213,69,373,109"/>
+<area shape="rect" id="node4" href="$interfaceSCR__AIDangerReaction__Explosion.html" title=" " alt="" coords="213,133,373,173"/>
+<area shape="rect" id="node5" href="$interfaceSCR__AIDangerReaction__GrenadeLanding.html" title=" " alt="" coords="213,197,373,237"/>
+<area shape="rect" id="node6" href="$interfaceSCR__AIDangerReaction__MeleeDamageTaken.html" title=" " alt="" coords="213,261,373,301"/>
+<area shape="rect" id="node7" href="$interfaceSCR__AIDangerReaction__ProjectileHit.html" title=" " alt="" coords="213,325,373,365"/>
+<area shape="rect" id="node8" href="$interfaceSCR__AIDangerReaction__StartedBleeding.html" title=" " alt="" coords="213,389,373,429"/>
+<area shape="rect" id="node9" href="$interfaceSCR__AIDangerReaction__Vehicle.html" title=" " alt="" coords="213,453,373,493"/>
+<area shape="rect" id="node10" href="$interfaceSCR__AIDangerReaction__VehicleHorn.html" title=" " alt="" coords="213,517,373,557"/>
+<area shape="rect" id="node11" href="$interfaceSCR__AIDangerReaction__WeaponFired.html" title=" " alt="" coords="213,581,373,621"/>
+</map>

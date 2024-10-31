@@ -1,0 +1,12 @@
+<map id="SCR_ScenarioFrameworkTask" name="SCR_ScenarioFrameworkTask">
+<area shape="rect" id="node1" title=" " alt="" coords="317,143,516,169"/>
+<area shape="rect" id="node4" href="$interfaceSCR__ScenarioFrameworkTaskArea.html" title=" " alt="" coords="564,45,791,70"/>
+<area shape="rect" id="node7" href="$interfaceSCR__TaskDefend.html" title=" " alt="" coords="615,94,739,119"/>
+<area shape="rect" id="node8" href="$interfaceSCR__TaskDeliver.html" title=" " alt="" coords="616,143,739,169"/>
+<area shape="rect" id="node9" href="$interfaceSCR__TaskDestroyObject.html" title=" " alt="" coords="594,193,761,218"/>
+<area shape="rect" id="node10" href="$interfaceSCR__TaskKill.html" title=" " alt="" coords="626,242,729,267"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseTask.html" title="A base class for tasks." alt="" coords="155,143,269,169"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,143,107,169"/>
+<area shape="rect" id="node5" href="$interfaceSCR__ScenarioFrameworkTaskClearArea.html" title=" " alt="" coords="839,5,1037,45"/>
+<area shape="rect" id="node6" href="$interfaceSCR__ScenarioFrameworkTaskExtract.html" title=" " alt="" coords="839,69,1037,109"/>
+</map>

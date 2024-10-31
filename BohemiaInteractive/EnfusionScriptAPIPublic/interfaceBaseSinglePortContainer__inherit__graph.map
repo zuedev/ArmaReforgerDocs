@@ -1,0 +1,8 @@
+<map id="BaseSinglePortContainer" name="BaseSinglePortContainer">
+<area shape="rect" id="node1" title=" " alt="" coords="102,225,269,251"/>
+<area shape="rect" id="node5" href="$interfaceSingleInputPortContainer.html" title=" " alt="" coords="5,299,171,324"/>
+<area shape="rect" id="node6" href="$interfaceSingleOutputPortContainer.html" title=" " alt="" coords="195,299,371,324"/>
+<area shape="rect" id="node2" href="$interfaceNodePortsContainer.html" title=" " alt="" coords="116,152,255,177"/>
+<area shape="rect" id="node3" href="$interfaceScriptAndConfig.html" title="Base class for classes which combine enf::Class and enf::BaseClass (in C++)." alt="" coords="128,79,243,104"/>
+<area shape="rect" id="node4" href="$interfaceManaged.html" title=" " alt="" coords="148,5,223,31"/>
+</map>

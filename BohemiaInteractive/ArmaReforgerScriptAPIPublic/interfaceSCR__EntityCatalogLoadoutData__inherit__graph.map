@@ -1,0 +1,4 @@
+<map id="SCR_EntityCatalogLoadoutData" name="SCR_EntityCatalogLoadoutData">
+<area shape="rect" id="node1" title="Info for Player Loadout." alt="" coords="5,79,212,104"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseEntityCatalogData.html" title="Base Class for Entity catalog data." alt="" coords="13,5,204,31"/>
+</map>

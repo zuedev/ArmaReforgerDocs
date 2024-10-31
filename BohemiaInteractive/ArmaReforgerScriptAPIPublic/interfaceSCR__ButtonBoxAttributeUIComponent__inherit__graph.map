@@ -1,0 +1,8 @@
+<map id="SCR_ButtonBoxAttributeUIComponent" name="SCR_ButtonBoxAttributeUIComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="99,152,343,177"/>
+<area shape="rect" id="node4" href="$interfaceSCR__ButtonBoxMultiSelectAttributeUIComponent.html" title=" " alt="" coords="27,225,209,265"/>
+<area shape="rect" id="node6" href="$interfaceSCR__TimePresetsAttributeUIComponent.html" title=" " alt="" coords="234,225,413,265"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseEditorAttributeUIComponent.html" title=" " alt="" coords="97,79,344,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="132,5,309,31"/>
+<area shape="rect" id="node5" href="$interfaceSCR__OverrideModesEditorAttributeUIComponent.html" title=" " alt="" coords="5,313,231,353"/>
+</map>

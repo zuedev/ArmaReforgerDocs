@@ -1,0 +1,8 @@
+<map id="SCR_MineInventoryItemComponent" name="SCR_MineInventoryItemComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="6,387,233,412"/>
+<area shape="rect" id="node2" href="$interfaceSCR__PlaceableInventoryItemComponent.html" title=" " alt="" coords="25,299,214,339"/>
+<area shape="rect" id="node3" href="$interfaceSCR__BaseInventoryItemComponent.html" title=" " alt="" coords="5,225,233,251"/>
+<area shape="rect" id="node4" href="$interfaceInventoryItemComponent.html" title=" " alt="" coords="37,152,201,177"/>
+<area shape="rect" id="node5" href="$interfaceGameComponent.html" title=" " alt="" coords="58,79,181,104"/>
+<area shape="rect" id="node6" title=" " alt="" coords="53,5,186,31"/>
+</map>

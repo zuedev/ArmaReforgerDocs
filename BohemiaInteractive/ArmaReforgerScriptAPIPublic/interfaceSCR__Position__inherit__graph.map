@@ -1,0 +1,12 @@
+<map id="SCR_Position" name="SCR_Position">
+<area shape="rect" id="node1" title=" " alt="" coords="155,80,257,105"/>
+<area shape="rect" id="node3" href="$interfaceSCR__SpawnPoint.html" title="Spawn point entity defines positions on which players can possibly spawn." alt="" coords="305,80,431,105"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,80,107,105"/>
+<area shape="rect" id="node4" href="$interfaceSCR__CampaignSpawnPointGroup.html" title=" " alt="" coords="479,5,697,31"/>
+<area shape="rect" id="node5" href="$interfaceSCR__DeployableSpawnPoint.html" title=" " alt="" coords="493,55,683,80"/>
+<area shape="rect" id="node7" href="$interfaceSCR__PlayerSpawnPoint.html" title=" " alt="" coords="507,104,669,129"/>
+<area shape="rect" id="node10" href="$interfaceSCR__RadioVehicleSpawnPoint.html" title=" " alt="" coords="487,153,689,179"/>
+<area shape="rect" id="node6" href="$interfaceSCR__RestrictedDeployableSpawnPoint.html" title="Basically SCR_SpawnPoint with the ability to limit respawn amount." alt="" coords="753,43,932,83"/>
+<area shape="rect" id="node8" href="$interfaceSCR__PlayerRadioSpawnPoint.html" title=" " alt="" coords="745,108,940,133"/>
+<area shape="rect" id="node9" href="$interfaceSCR__PlayerRadioSpawnPointCampaign.html" title=" " alt="" coords="988,101,1183,141"/>
+</map>

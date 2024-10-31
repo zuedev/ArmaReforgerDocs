@@ -1,0 +1,7 @@
+<map id="SCR_DescriptorDefaultsBase" name="SCR_DescriptorDefaultsBase">
+<area shape="rect" id="node1" title="Configuration of descriptor defaults." alt="" coords="194,5,386,31"/>
+<area shape="rect" id="node2" href="$interfaceSCR__DescriptorDefIcon.html" title="Descriptor icon type defaults." alt="" coords="17,79,176,104"/>
+<area shape="rect" id="node4" href="$interfaceSCR__DescriptorDefInvisible.html" title="Descriptor invisible type, for cursor interaction logic support while UI is handled by another system..." alt="" coords="201,79,379,104"/>
+<area shape="rect" id="node5" href="$interfaceSCR__DescriptorDefText.html" title="Descriptor text type defaults." alt="" coords="404,79,563,104"/>
+<area shape="rect" id="node3" href="$interfaceSCR__DescriptorDefIconText.html" title="Descriptor icon with text type defaults." alt="" coords="5,152,188,177"/>
+</map>

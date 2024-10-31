@@ -1,0 +1,4 @@
+<map id="SCR_PlaceableEntitiesRegistryFromCatalog" name="SCR_PlaceableEntitiesRegistryFromCatalog">
+<area shape="rect" id="node1" title="Allows Content browser to take entities from the catalog." alt="" coords="5,79,211,119"/>
+<area shape="rect" id="node2" href="$interfaceSCR__PlaceableEntitiesRegistry.html" title="List of entities that will be available for placing in the content browser." alt="" coords="5,5,211,31"/>
+</map>

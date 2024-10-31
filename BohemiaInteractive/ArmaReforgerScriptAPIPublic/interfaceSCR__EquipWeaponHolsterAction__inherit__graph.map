@@ -1,0 +1,9 @@
+<map id="SCR_EquipWeaponHolsterAction" name="SCR_EquipWeaponHolsterAction">
+<area shape="rect" id="node1" title="Pickup weapon to holster position, without equipping it." alt="" coords="5,372,220,397"/>
+<area shape="rect" id="node7" href="$interfaceSCR__MineEquipHolsterAction.html" title=" " alt="" coords="15,445,210,471"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseWeaponAction.html" title=" " alt="" coords="27,299,198,324"/>
+<area shape="rect" id="node3" href="$interfaceSCR__InventoryAction.html" title="modded version for to be used with the inventory 2.0" alt="" coords="41,225,185,251"/>
+<area shape="rect" id="node4" href="$interfaceScriptedUserAction.html" title=" " alt="" coords="45,152,180,177"/>
+<area shape="rect" id="node5" href="$interfaceBaseUserAction.html" title=" " alt="" coords="55,79,171,104"/>
+<area shape="rect" id="node6" title=" " alt="" coords="55,5,170,31"/>
+</map>

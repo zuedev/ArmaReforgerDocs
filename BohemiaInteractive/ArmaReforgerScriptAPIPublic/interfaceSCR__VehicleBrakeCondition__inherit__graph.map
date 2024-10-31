@@ -1,0 +1,4 @@
+<map id="SCR_VehicleBrakeCondition" name="SCR_VehicleBrakeCondition">
+<area shape="rect" id="node1" title="Returns true if vehicle&#39;s brakes are at least at specified threshold." alt="" coords="11,79,198,104"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AvailableActionCondition.html" title="A single available action condition representation." alt="" coords="5,5,204,31"/>
+</map>

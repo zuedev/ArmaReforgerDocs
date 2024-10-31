@@ -1,0 +1,6 @@
+<map id="SCR_GameGameModeStateComponent" name="SCR_GameGameModeStateComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="5,225,260,251"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseGameModeStateComponent.html" title="Base component for handling game mode states." alt="" coords="7,152,258,177"/>
+<area shape="rect" id="node3" href="$interfaceSCR__BaseGameModeComponent.html" title="Interface for game mode extending components." alt="" coords="23,79,242,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="71,5,194,31"/>
+</map>

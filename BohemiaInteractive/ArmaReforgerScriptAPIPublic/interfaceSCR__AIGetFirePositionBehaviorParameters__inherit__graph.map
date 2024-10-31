@@ -1,0 +1,6 @@
+<map id="SCR_AIGetFirePositionBehaviorParameters" name="SCR_AIGetFirePositionBehaviorParameters">
+<area shape="rect" id="node1" title=" " alt="" coords="5,225,212,265"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AIGetActionParameters.html" title="Base class of node which outputs action parameters to Behavior Tree variables." alt="" coords="12,152,205,177"/>
+<area shape="rect" id="node3" href="$interfaceSCR__AIActionTask.html" title=" " alt="" coords="42,79,175,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="53,5,164,31"/>
+</map>

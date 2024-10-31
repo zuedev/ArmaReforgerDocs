@@ -1,0 +1,7 @@
+<map id="SCR_InvEquipCB" name="SCR_InvEquipCB">
+<area shape="rect" id="node1" title=" " alt="" coords="33,313,156,339"/>
+<area shape="rect" id="node2" href="$interfaceSCR__InvCallBack.html" title=" " alt="" coords="33,240,156,265"/>
+<area shape="rect" id="node3" href="$interfaceScriptedInventoryOperationCallback.html" title=" " alt="" coords="6,152,183,192"/>
+<area shape="rect" id="node4" href="$interfaceInventoryOperationCallback.html" title=" " alt="" coords="5,79,184,104"/>
+<area shape="rect" id="node5" title=" " alt="" coords="57,5,132,31"/>
+</map>

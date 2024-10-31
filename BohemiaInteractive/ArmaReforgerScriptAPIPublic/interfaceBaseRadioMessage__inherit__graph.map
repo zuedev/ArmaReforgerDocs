@@ -1,0 +1,12 @@
+<map id="BaseRadioMessage" name="BaseRadioMessage">
+<area shape="rect" id="node1" title=" " alt="" coords="361,79,499,104"/>
+<area shape="rect" id="node3" href="$interfaceScriptedRadioMessage.html" title=" " alt="" coords="268,152,424,177"/>
+<area shape="rect" id="node10" href="$interfaceVonRadioMessage.html" title=" " alt="" coords="449,152,579,177"/>
+<area shape="rect" id="node2" title=" " alt="" coords="373,5,487,31"/>
+<area shape="rect" id="node4" href="$interfaceSCR__CampaignRadioMsg.html" title=" " alt="" coords="71,233,243,258"/>
+<area shape="rect" id="node5" href="$interfaceSCR__RequestMessage.html" title=" " alt="" coords="267,233,425,258"/>
+<area shape="rect" id="node9" href="$interfaceSCR__RequestReinforcementsMessage.html" title=" " alt="" coords="449,225,643,265"/>
+<area shape="rect" id="node6" href="$interfaceSCR__RequestEvacuationMessage.html" title=" " alt="" coords="5,313,225,339"/>
+<area shape="rect" id="node7" href="$interfaceSCR__RequestRefuelMessage.html" title=" " alt="" coords="249,313,443,339"/>
+<area shape="rect" id="node8" href="$interfaceSCR__RequestTransportMessage.html" title=" " alt="" coords="467,313,678,339"/>
+</map>

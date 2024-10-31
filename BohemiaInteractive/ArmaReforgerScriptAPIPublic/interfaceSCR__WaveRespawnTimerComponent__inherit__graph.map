@@ -1,0 +1,6 @@
+<map id="SCR_WaveRespawnTimerComponent" name="SCR_WaveRespawnTimerComponent">
+<area shape="rect" id="node1" title="Must be attached to a GameMode." alt="" coords="5,225,244,251"/>
+<area shape="rect" id="node2" href="$interfaceSCR__RespawnTimerComponent.html" title="Must be attached to a GameMode." alt="" coords="21,152,228,177"/>
+<area shape="rect" id="node3" href="$interfaceSCR__BaseGameModeComponent.html" title="Interface for game mode extending components." alt="" coords="15,79,234,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="63,5,186,31"/>
+</map>

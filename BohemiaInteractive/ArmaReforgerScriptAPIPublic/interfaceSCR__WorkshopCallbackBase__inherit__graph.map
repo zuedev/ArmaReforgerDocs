@@ -1,0 +1,11 @@
+<map id="SCR_WorkshopCallbackBase" name="SCR_WorkshopCallbackBase">
+<area shape="rect" id="node1" title=" " alt="" coords="176,205,371,230"/>
+<area shape="rect" id="node3" href="$interfaceSCR__WorkshopApiCallback__RequestPage.html" title=" " alt="" coords="439,5,623,45"/>
+<area shape="rect" id="node4" href="$interfaceSCR__WorkshopItemCallback__AskDetails.html" title=" " alt="" coords="435,69,626,109"/>
+<area shape="rect" id="node5" href="$interfaceSCR__WorkshopItemCallback__DownloadImage.html" title=" " alt="" coords="435,133,626,173"/>
+<area shape="rect" id="node6" href="$interfaceSCR__WorkshopItemCallback__LoadDependencies.html" title=" " alt="" coords="435,197,626,237"/>
+<area shape="rect" id="node7" href="$interfaceSCR__WorkshopItemCallback__LoadMyReport.html" title=" " alt="" coords="435,261,626,301"/>
+<area shape="rect" id="node8" href="$interfaceSCR__WorkshopItemCallback__LoadScenarios.html" title=" " alt="" coords="435,325,626,365"/>
+<area shape="rect" id="node9" href="$interfaceSCR__WorkshopItemCallback__Rate.html" title=" " alt="" coords="419,390,643,415"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,205,128,230"/>
+</map>

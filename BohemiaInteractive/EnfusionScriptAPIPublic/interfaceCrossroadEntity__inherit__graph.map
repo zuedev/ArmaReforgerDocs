@@ -1,0 +1,6 @@
+<map id="CrossroadEntity" name="CrossroadEntity">
+<area shape="rect" id="node1" title=" " alt="" coords="5,225,120,251"/>
+<area shape="rect" id="node2" href="$interfaceGenericEntity.html" title="Base entity class." alt="" coords="12,152,113,177"/>
+<area shape="rect" id="node3" href="$interfaceIEntity.html" title=" " alt="" coords="33,79,92,104"/>
+<area shape="rect" id="node4" href="$interfaceManaged.html" title=" " alt="" coords="25,5,100,31"/>
+</map>

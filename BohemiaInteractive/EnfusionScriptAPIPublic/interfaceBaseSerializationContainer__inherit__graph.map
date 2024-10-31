@@ -1,0 +1,12 @@
+<map id="BaseSerializationContainer" name="BaseSerializationContainer">
+<area shape="rect" id="node1" title="Base class for serialization containers." alt="" coords="128,84,307,109"/>
+<area shape="rect" id="node3" href="$interfaceBaseSerializationLoadContainer.html" title="Base class providing interface for load container." alt="" coords="355,55,561,80"/>
+<area shape="rect" id="node6" href="$interfaceBaseSerializationSaveContainer.html" title="Base class providing interface for save container." alt="" coords="355,112,561,137"/>
+<area shape="rect" id="node2" href="$interfaceManaged.html" title=" " alt="" coords="5,84,80,109"/>
+<area shape="rect" id="node4" href="$interfaceBinSerializationLoadContainer.html" title="Implementation of BaseLoadContainer to read data from json format." alt="" coords="609,5,804,31"/>
+<area shape="rect" id="node5" href="$interfaceJsonLoadContainer.html" title="Container for loading data in json format." alt="" coords="641,55,773,80"/>
+<area shape="rect" id="node7" href="$interfaceBaseJsonSerializationSaveContainer.html" title="Container for saving data in json format IMPORTANT* This should never be instantiated,..." alt="" coords="617,105,796,145"/>
+<area shape="rect" id="node10" href="$interfaceBinSerializationSaveContainer.html" title="Container for saving data in binary format." alt="" coords="609,169,804,195"/>
+<area shape="rect" id="node8" href="$interfaceJsonSaveContainer.html" title="Container for saving data in json format." alt="" coords="869,88,1001,113"/>
+<area shape="rect" id="node9" href="$interfacePrettyJsonSaveContainer.html" title="Container for saving data in pretty json format." alt="" coords="852,137,1019,163"/>
+</map>

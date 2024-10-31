@@ -1,0 +1,5 @@
+<map id="SCR_NTIconBase" name="SCR_NTIconBase">
+<area shape="rect" id="node1" title="Base zone element widget for icons/images." alt="" coords="17,79,144,104"/>
+<area shape="rect" id="node3" href="$interfaceSCR__NTIconState.html" title="Zone element for state icon." alt="" coords="17,152,144,177"/>
+<area shape="rect" id="node2" href="$interfaceSCR__NTElementBase.html" title="Nametag zone element base class, not for setup." alt="" coords="5,5,156,31"/>
+</map>

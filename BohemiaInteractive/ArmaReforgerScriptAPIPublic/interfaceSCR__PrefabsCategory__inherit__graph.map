@@ -1,0 +1,4 @@
+<map id="SCR_PrefabsCategory" name="SCR_PrefabsCategory">
+<area shape="rect" id="node1" title="Categories of prefabs and/or nested categories of prefabs." alt="" coords="17,79,169,104"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BasePrefabCategory.html" title="Base class for Prefab Spawning." alt="" coords="5,5,180,31"/>
+</map>

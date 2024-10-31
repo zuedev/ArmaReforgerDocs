@@ -1,0 +1,9 @@
+<map id="SCR_StatsPanel_PacketLoss" name="SCR_StatsPanel_PacketLoss">
+<area shape="rect" id="node1" title=" " alt="" coords="5,445,201,471"/>
+<area shape="rect" id="node2" href="$interfaceSCR__StatsPanelBase.html" title=" " alt="" coords="28,372,179,397"/>
+<area shape="rect" id="node3" href="$interfaceSCR__InfoDisplayExtended.html" title=" " alt="" coords="16,299,191,324"/>
+<area shape="rect" id="node4" href="$interfaceSCR__InfoDisplay.html" title=" " alt="" coords="44,225,163,251"/>
+<area shape="rect" id="node5" href="$interfaceGroupInfoDisplay.html" title=" " alt="" coords="43,152,163,177"/>
+<area shape="rect" id="node6" href="$interfaceBaseInfoDisplay.html" title=" " alt="" coords="46,79,161,104"/>
+<area shape="rect" id="node7" title=" " alt="" coords="46,5,161,31"/>
+</map>

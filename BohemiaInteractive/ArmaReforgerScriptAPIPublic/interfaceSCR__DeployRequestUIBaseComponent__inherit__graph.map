@@ -1,0 +1,8 @@
+<map id="SCR_DeployRequestUIBaseComponent" name="SCR_DeployRequestUIBaseComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="231,80,483,105"/>
+<area shape="rect" id="node3" href="$interfaceSCR__FactionRequestUIComponent.html" title="Component responsible for displaying list of available factions and handling faction assign requests ..." alt="" coords="543,5,769,31"/>
+<area shape="rect" id="node4" href="$interfaceSCR__GroupRequestUIComponent.html" title="Component responsible for handling group requests and visualization in deploy menu." alt="" coords="547,55,765,80"/>
+<area shape="rect" id="node5" href="$interfaceSCR__LoadoutRequestUIComponent.html" title="Component responsible for requesting and visualization of available loadouts in deploy menu." alt="" coords="542,104,770,129"/>
+<area shape="rect" id="node6" href="$interfaceSCR__SpawnPointRequestUIComponent.html" title=" " alt="" coords="531,153,781,179"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,80,183,105"/>
+</map>

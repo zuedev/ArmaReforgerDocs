@@ -1,0 +1,5 @@
+<map id="SCR_AIFollowEntityPath" name="SCR_AIFollowEntityPath">
+<area shape="rect" id="node1" title="Task that takes group and uses it path to move." alt="" coords="5,152,172,177"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AIActionTask.html" title=" " alt="" coords="22,79,155,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="33,5,144,31"/>
+</map>

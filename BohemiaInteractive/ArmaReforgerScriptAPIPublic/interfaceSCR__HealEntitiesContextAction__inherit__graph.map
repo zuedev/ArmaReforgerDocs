@@ -1,0 +1,6 @@
+<map id="SCR_HealEntitiesContextAction" name="SCR_HealEntitiesContextAction">
+<area shape="rect" id="node1" title=" " alt="" coords="5,240,213,265"/>
+<area shape="rect" id="node2" href="$interfaceSCR__SelectedEntitiesContextAction.html" title="Base container class for editor context actions which apply to selected entities." alt="" coords="11,152,207,192"/>
+<area shape="rect" id="node3" href="$interfaceSCR__BaseContextAction.html" title="Base container class for editor context actions." alt="" coords="25,79,193,104"/>
+<area shape="rect" id="node4" href="$interfaceSCR__BaseEditorAction.html" title="Base container class for all editor action types (ContextActions, WaypointActions,..." alt="" coords="31,5,188,31"/>
+</map>

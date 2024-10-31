@@ -1,0 +1,14 @@
+<map id="LightUserAction" name="LightUserAction">
+<area shape="rect" id="node1" title=" " alt="" coords="707,153,821,179"/>
+<area shape="rect" id="node6" href="$interfaceSCR__LightsDashboardUserAction.html" title=" " alt="" coords="869,5,1087,31"/>
+<area shape="rect" id="node7" href="$interfaceSCR__LightsHazardUserAction.html" title=" " alt="" coords="880,55,1076,80"/>
+<area shape="rect" id="node8" href="$interfaceSCR__LightsHiBeamsUserAction.html" title=" " alt="" coords="874,104,1082,129"/>
+<area shape="rect" id="node9" href="$interfaceSCR__LightsPresenceUserAction.html" title=" " alt="" coords="873,153,1083,179"/>
+<area shape="rect" id="node10" href="$interfaceSCR__LightsSearchLightUserAction.html" title=" " alt="" coords="885,203,1071,243"/>
+<area shape="rect" id="node11" href="$interfaceSCR__LightsTurnLeftUserAction.html" title=" " alt="" coords="877,268,1079,293"/>
+<area shape="rect" id="node12" href="$interfaceSCR__LightsTurnRightUserAction.html" title=" " alt="" coords="873,317,1083,343"/>
+<area shape="rect" id="node2" href="$interfaceBaseLightUserAction.html" title=" " alt="" coords="515,153,659,179"/>
+<area shape="rect" id="node3" href="$interfaceScriptedUserAction.html" title=" " alt="" coords="332,153,467,179"/>
+<area shape="rect" id="node4" href="$interfaceBaseUserAction.html" title=" " alt="" coords="168,153,284,179"/>
+<area shape="rect" id="node5" title=" " alt="" coords="5,153,120,179"/>
+</map>

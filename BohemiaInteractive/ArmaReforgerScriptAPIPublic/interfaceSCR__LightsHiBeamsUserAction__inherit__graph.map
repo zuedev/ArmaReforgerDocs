@@ -1,0 +1,8 @@
+<map id="SCR_LightsHiBeamsUserAction" name="SCR_LightsHiBeamsUserAction">
+<area shape="rect" id="node1" title=" " alt="" coords="5,372,213,397"/>
+<area shape="rect" id="node2" href="$interfaceLightUserAction.html" title=" " alt="" coords="52,299,167,324"/>
+<area shape="rect" id="node3" href="$interfaceBaseLightUserAction.html" title=" " alt="" coords="37,225,181,251"/>
+<area shape="rect" id="node4" href="$interfaceScriptedUserAction.html" title=" " alt="" coords="42,152,177,177"/>
+<area shape="rect" id="node5" href="$interfaceBaseUserAction.html" title=" " alt="" coords="51,79,167,104"/>
+<area shape="rect" id="node6" title=" " alt="" coords="52,5,167,31"/>
+</map>

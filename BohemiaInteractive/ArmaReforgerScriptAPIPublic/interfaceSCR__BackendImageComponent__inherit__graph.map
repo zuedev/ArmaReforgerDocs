@@ -1,0 +1,7 @@
+<map id="SCR_BackendImageComponent" name="SCR_BackendImageComponent">
+<area shape="rect" id="node1" title="This component implements basic image and loading overlay handling m_sImageWidgetName must be an Imag..." alt="" coords="115,152,323,177"/>
+<area shape="rect" id="node4" href="$interfaceSCR__ScenarioBackendImageComponent.html" title="Same as SCR_BackendImageComponent, but implements default image based on scenario." alt="" coords="5,225,199,265"/>
+<area shape="rect" id="node5" href="$interfaceSCR__WorkshopItemBackendImageComponent.html" title="Same as SCR_BackendImageComponent, but implements default image based on tag of Workshop Item." alt="" coords="223,225,450,265"/>
+<area shape="rect" id="node2" href="$interfaceSCR__ScriptedWidgetComponent.html" title=" " alt="" coords="114,79,325,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="131,5,308,31"/>
+</map>

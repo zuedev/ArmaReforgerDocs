@@ -1,0 +1,4 @@
+<map id="SCR_InVehicleTurretADSCondition" name="SCR_InVehicleTurretADSCondition">
+<area shape="rect" id="node1" title=" " alt="" coords="5,79,228,104"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AvailableActionCondition.html" title="A single available action condition representation." alt="" coords="17,5,216,31"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="SCR_InventoryDamageUIInfo" name="SCR_InventoryDamageUIInfo">
+<area shape="rect" id="node1" title=" " alt="" coords="5,152,192,177"/>
+<area shape="rect" id="node2" href="$interfaceUIInfo.html" title="UIInfo &#45; declare object, allows to define UI elements." alt="" coords="71,79,126,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="41,5,156,31"/>
+</map>

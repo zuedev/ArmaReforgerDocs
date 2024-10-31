@@ -1,0 +1,48 @@
+<map id="SCR_BaseGameModeComponentClass" name="SCR_BaseGameModeComponentClass">
+<area shape="rect" id="node1" title=" " alt="" coords="208,1080,427,1120"/>
+<area shape="rect" id="node3" href="$interfaceSCR__ArsenalManagerComponentClass.html" title=" " alt="" coords="492,37,708,77"/>
+<area shape="rect" id="node4" href="$interfaceSCR__BaseGameModeStateComponentClass.html" title=" " alt="" coords="475,101,725,141"/>
+<area shape="rect" id="node8" href="$interfaceSCR__BaseScoringSystemComponentClass.html" title=" " alt="" coords="479,165,721,205"/>
+<area shape="rect" id="node10" href="$interfaceSCR__CallsignManagerComponentClass.html" title="Manages available callsigns for each faction." alt="" coords="491,229,709,269"/>
+<area shape="rect" id="node11" href="$interfaceSCR__CampaignBuildingManagerComponentClass.html" title=" " alt="" coords="495,293,705,333"/>
+<area shape="rect" id="node12" href="$interfaceSCR__CampaignTutorialArlandComponentClass.html" title=" " alt="" coords="503,357,697,397"/>
+<area shape="rect" id="node13" href="$interfaceSCR__CommandingManagerComponentClass.html" title=" " alt="" coords="476,421,724,461"/>
+<area shape="rect" id="node14" href="$interfaceSCR__DataCollectorComponentClass.html" title=" " alt="" coords="500,485,700,525"/>
+<area shape="rect" id="node15" href="$interfaceSCR__DeployMenuBaseScreenComponentClass.html" title=" " alt="" coords="501,549,699,589"/>
+<area shape="rect" id="node18" href="$interfaceSCR__EntityCatalogManagerComponentClass.html" title="Manager for non&#45;faction specific entity catalogs as well as getters for faction specific catalogs." alt="" coords="508,613,692,653"/>
+<area shape="rect" id="node19" href="$interfaceSCR__FiringRangeScoringComponentClass.html" title=" " alt="" coords="483,677,717,717"/>
+<area shape="rect" id="node20" href="$interfaceSCR__GameModeSFManagerClass.html" title=" " alt="" coords="489,742,711,767"/>
+<area shape="rect" id="node22" href="$interfaceSCR__GameOverScreenManagerComponentClass.html" title="Handles the showing of end screen and has a config with gameover screens." alt="" coords="496,792,704,832"/>
+<area shape="rect" id="node23" href="$interfaceSCR__GroupsManagerComponentClass.html" title=" " alt="" coords="493,856,707,896"/>
+<area shape="rect" id="node24" href="$interfaceSCR__HintManagerComponentClass.html" title=" " alt="" coords="503,920,697,960"/>
+<area shape="rect" id="node25" href="$interfaceSCR__InitWeatherComponentClass.html" title=" " alt="" coords="506,984,694,1024"/>
+<area shape="rect" id="node26" href="$interfaceSCR__MapMarkerManagerComponentClass.html" title=" " alt="" coords="481,1048,719,1088"/>
+<area shape="rect" id="node27" href="$interfaceSCR__NightModeGameModeComponentClass.html" title=" " alt="" coords="475,1112,725,1152"/>
+<area shape="rect" id="node28" href="$interfaceSCR__NotificationSenderComponentClass.html" title=" " alt="" coords="487,1176,713,1216"/>
+<area shape="rect" id="node29" href="$interfaceSCR__PlayerListedAdminManagerComponentClass.html" title=" " alt="" coords="493,1240,707,1280"/>
+<area shape="rect" id="node30" href="$interfaceSCR__PlayerProfileManagerComponentClass.html" title=" " alt="" coords="511,1304,689,1344"/>
+<area shape="rect" id="node31" href="$interfaceSCR__PlayerSpawnPointManagerComponentClass.html" title=" " alt="" coords="494,1368,706,1408"/>
+<area shape="rect" id="node32" href="$interfaceSCR__PossessingManagerComponentClass.html" title=" " alt="" coords="480,1432,720,1472"/>
+<area shape="rect" id="node33" href="$interfaceSCR__ReconnectComponentClass.html" title=" " alt="" coords="491,1497,709,1522"/>
+<area shape="rect" id="node34" href="$interfaceSCR__RespawnBriefingComponentClass.html" title=" " alt="" coords="491,1547,709,1587"/>
+<area shape="rect" id="node36" href="$interfaceSCR__RespawnTimerComponentClass.html" title=" " alt="" coords="497,1611,703,1651"/>
+<area shape="rect" id="node39" href="$interfaceSCR__RestoreEditorModesComponentClass.html" title=" " alt="" coords="480,1675,720,1715"/>
+<area shape="rect" id="node40" href="$interfaceSCR__RewindComponentClass.html" title=" " alt="" coords="501,1739,699,1765"/>
+<area shape="rect" id="node41" href="$interfaceSCR__SaveLoadComponentClass.html" title=" " alt="" coords="495,1789,705,1814"/>
+<area shape="rect" id="node42" href="$interfaceSCR__SpawnProtectionComponentClass.html" title=" " alt="" coords="490,1839,710,1879"/>
+<area shape="rect" id="node43" href="$interfaceSCR__SpawnerAIGroupManagerComponentClass.html" title=" " alt="" coords="499,1903,701,1943"/>
+<area shape="rect" id="node44" href="$interfaceSCR__TimeAndWeatherHandlerComponentClass.html" title=" " alt="" coords="500,1967,700,2007"/>
+<area shape="rect" id="node45" href="$interfaceSCR__VotingManagerComponentClass.html" title=" " alt="" coords="495,2031,705,2071"/>
+<area shape="rect" id="node46" href="$interfaceSCR__XPHandlerComponentClass.html" title=" " alt="" coords="493,2095,707,2121"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,1087,160,1113"/>
+<area shape="rect" id="node5" href="$interfaceSCR__GameGameModeStateComponentClass.html" title=" " alt="" coords="773,5,1028,45"/>
+<area shape="rect" id="node6" href="$interfaceSCR__PostGameGameModeStateComponentClass.html" title=" " alt="" coords="793,69,1009,109"/>
+<area shape="rect" id="node7" href="$interfaceSCR__PreGameGameModeStateComponentClass.html" title=" " alt="" coords="796,133,1005,173"/>
+<area shape="rect" id="node9" href="$interfaceSCR__ScoringSystemComponentClass.html" title=" " alt="" coords="795,197,1006,237"/>
+<area shape="rect" id="node16" href="$interfaceSCR__DebriefingScreenComponentClass.html" title=" " alt="" coords="791,517,1011,557"/>
+<area shape="rect" id="node17" href="$interfaceSCR__WelcomeScreenComponentClass.html" title=" " alt="" coords="791,581,1010,621"/>
+<area shape="rect" id="node21" href="$interfaceSCR__GameModeCombatOpsManagerClass.html" title=" " alt="" coords="779,735,1022,775"/>
+<area shape="rect" id="node35" href="$interfaceSCR__EditorRespawnBriefingComponentClass.html" title=" " alt="" coords="807,1547,994,1587"/>
+<area shape="rect" id="node37" href="$interfaceSCR__TimedSpawnPointComponentClass.html" title=" " alt="" coords="787,1611,1014,1651"/>
+<area shape="rect" id="node38" href="$interfaceSCR__WaveRespawnTimerComponentClass.html" title=" " alt="" coords="781,1675,1020,1715"/>
+</map>

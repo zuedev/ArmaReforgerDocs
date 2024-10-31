@@ -1,0 +1,10 @@
+<map id="SCR_UniversalInventoryStorageComponentClass" name="SCR_UniversalInventoryStorageComponentClass">
+<area shape="rect" id="node1" title=" " alt="" coords="11,577,215,617"/>
+<area shape="rect" id="node2" href="$interfaceUniversalInventoryStorageComponentClass.html" title=" " alt="" coords="27,489,198,529"/>
+<area shape="rect" id="node3" href="$interfaceBaseUniversalInventoryStorageComponentClass.html" title=" " alt="" coords="13,401,213,441"/>
+<area shape="rect" id="node4" href="$interfaceScriptedBaseInventoryStorageComponentClass.html" title=" " alt="" coords="15,313,211,353"/>
+<area shape="rect" id="node5" href="$interfaceBaseInventoryStorageComponentClass.html" title=" " alt="" coords="5,225,220,265"/>
+<area shape="rect" id="node6" href="$interfaceInventoryItemComponentClass.html" title=" " alt="" coords="14,152,211,177"/>
+<area shape="rect" id="node7" href="$interfaceGameComponentClass.html" title=" " alt="" coords="35,79,191,104"/>
+<area shape="rect" id="node8" title=" " alt="" coords="29,5,196,31"/>
+</map>

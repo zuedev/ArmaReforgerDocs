@@ -1,0 +1,7 @@
+<map id="SCR_InventoryAttachmentPointUI" name="SCR_InventoryAttachmentPointUI">
+<area shape="rect" id="node1" title=" " alt="" coords="96,152,312,177"/>
+<area shape="rect" id="node4" href="$interfaceSCR__InventoryGearInspectionPointUI.html" title=" " alt="" coords="5,225,200,265"/>
+<area shape="rect" id="node5" href="$interfaceSCR__InventoryHitZoneUI.html" title=" " alt="" coords="224,233,387,258"/>
+<area shape="rect" id="node2" href="$interfaceSCR__InventoryStorageBaseUI.html" title="UI Script Inventory of type: non&#45;uniform grid storage." alt="" coords="107,79,301,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="115,5,293,31"/>
+</map>

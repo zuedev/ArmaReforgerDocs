@@ -1,0 +1,5 @@
+<map id="SCR_BaseButtonAttributeDynamicDescription" name="SCR_BaseButtonAttributeDynamicDescription">
+<area shape="rect" id="node1" title="Holds logic when a dynamic description should be shown when attributes are hovered over." alt="" coords="5,93,229,133"/>
+<area shape="rect" id="node3" href="$interfaceSCR__PlayableFactionKillingAttributeDynamicDescription.html" title="Dynamic description for SCR_PlayableFactionEditorAttribute and SCR_PlayableFactionsEditorAttribute to..." alt="" coords="24,181,211,221"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseAttributeDynamicDescription.html" title="Holds logic when a dynamic description should be shown when attributes are hovered over." alt="" coords="24,5,211,45"/>
+</map>

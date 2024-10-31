@@ -1,0 +1,5 @@
+<map id="SCR_EntityCatalogEntryCustomInfo" name="SCR_EntityCatalogEntryCustomInfo">
+<area shape="rect" id="node1" title="Entity Entry within the SCR_EntityCatalog." alt="" coords="5,167,236,192"/>
+<area shape="rect" id="node2" href="$interfaceSCR__EntityCatalogEntryNonEditable.html" title="Entity Entry within the SCR_EntityCatalog." alt="" coords="27,79,215,119"/>
+<area shape="rect" id="node3" href="$interfaceSCR__EntityCatalogEntry.html" title="Entity Entry within the SCR_EntityCatalog." alt="" coords="38,5,203,31"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="SCR_BaseSupportStationComponentClass" name="SCR_BaseSupportStationComponentClass">
+<area shape="rect" id="node1" title=" " alt="" coords="208,133,447,173"/>
+<area shape="rect" id="node3" href="$interfaceSCR__BaseDamageHealSupportStationComponentClass.html" title=" " alt="" coords="509,37,714,77"/>
+<area shape="rect" id="node6" href="$interfaceSCR__FuelSupportStationComponentClass.html" title=" " alt="" coords="495,101,728,141"/>
+<area shape="rect" id="node7" href="$interfaceSCR__LoadCasualtySupportStationComponentClass.html" title=" " alt="" coords="501,165,722,205"/>
+<area shape="rect" id="node8" href="$interfaceSCR__ResupplySupportStationComponentClass.html" title=" " alt="" coords="513,229,709,269"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,141,160,166"/>
+<area shape="rect" id="node4" href="$interfaceSCR__HealSupportStationComponentClass.html" title=" " alt="" coords="776,5,1011,45"/>
+<area shape="rect" id="node5" href="$interfaceSCR__RepairSupportStationComponentClass.html" title=" " alt="" coords="804,69,983,109"/>
+<area shape="rect" id="node9" href="$interfaceSCR__ResupplyMedicalGadgetSupportStationComponentClass.html" title=" " alt="" coords="790,229,997,269"/>
+</map>

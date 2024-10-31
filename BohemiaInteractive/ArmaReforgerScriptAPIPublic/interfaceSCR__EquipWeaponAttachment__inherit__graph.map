@@ -1,0 +1,7 @@
+<map id="SCR_EquipWeaponAttachment" name="SCR_EquipWeaponAttachment">
+<area shape="rect" id="node1" title="Equip weapon attachment." alt="" coords="5,299,209,324"/>
+<area shape="rect" id="node2" href="$interfaceSCR__InventoryAction.html" title="modded version for to be used with the inventory 2.0" alt="" coords="35,225,179,251"/>
+<area shape="rect" id="node3" href="$interfaceScriptedUserAction.html" title=" " alt="" coords="40,152,175,177"/>
+<area shape="rect" id="node4" href="$interfaceBaseUserAction.html" title=" " alt="" coords="49,79,165,104"/>
+<area shape="rect" id="node5" title=" " alt="" coords="50,5,165,31"/>
+</map>

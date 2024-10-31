@@ -1,0 +1,4 @@
+<map id="SCR_VotingElection" name="SCR_VotingElection">
+<area shape="rect" id="node1" title="Election of specific type." alt="" coords="5,79,145,104"/>
+<area shape="rect" id="node2" href="$interfaceSCR__VotingBase.html" title="Base class for voting types." alt="" coords="14,5,137,31"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="SCR_EvacuateTask" name="SCR_EvacuateTask">
+<area shape="rect" id="node1" title=" " alt="" coords="10,225,147,251"/>
+<area shape="rect" id="node2" href="$interfaceSCR__RequestedTask.html" title=" " alt="" coords="5,152,152,177"/>
+<area shape="rect" id="node3" href="$interfaceSCR__BaseTask.html" title="A base class for tasks." alt="" coords="21,79,136,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="28,5,129,31"/>
+</map>

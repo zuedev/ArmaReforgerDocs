@@ -1,0 +1,6 @@
+<map id="SCR_NameTagRulesetBase" name="SCR_NameTagRulesetBase">
+<area shape="rect" id="node1" title="Base class for nametag visiblity ruleset &#45; single tag displayed continuously." alt="" coords="130,79,315,104"/>
+<area shape="rect" id="node3" href="$interfaceSCR__NameTagRulesetFriendlies.html" title=" " alt="" coords="5,152,216,177"/>
+<area shape="rect" id="node4" href="$interfaceSCR__NameTagRulesetSingle.html" title=" " alt="" coords="241,152,431,177"/>
+<area shape="rect" id="node2" title=" " alt="" coords="185,5,260,31"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="SCR_JointBaseEntity" name="SCR_JointBaseEntity">
+<area shape="rect" id="node1" title="SCR_JointBaseEntity Class." alt="" coords="155,104,301,129"/>
+<area shape="rect" id="node3" href="$interfaceSCR__Joint6DOFEntity.html" title="SCR_Joint6DOFEntity Class." alt="" coords="363,5,513,31"/>
+<area shape="rect" id="node4" href="$interfaceSCR__JointConeTwistEntity.html" title="SCR_JointConeTwistEntity Class." alt="" coords="349,55,527,80"/>
+<area shape="rect" id="node5" href="$interfaceSCR__JointFixedEntity.html" title="SCR_JointFixedEntity Class." alt="" coords="363,104,513,129"/>
+<area shape="rect" id="node6" href="$interfaceSCR__JointHingeEntity.html" title="SCR_JointHingeEntity Class." alt="" coords="363,153,513,179"/>
+<area shape="rect" id="node7" href="$interfaceSCR__JointSliderEntity.html" title="SCR_JointSliderEntity Class." alt="" coords="363,203,513,228"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,104,107,129"/>
+</map>

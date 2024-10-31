@@ -1,0 +1,6 @@
+<map id="SCR_TreeHitZoneV2" name="SCR_TreeHitZoneV2">
+<area shape="rect" id="node1" title=" " alt="" coords="5,225,147,251"/>
+<area shape="rect" id="node2" href="$interfaceSCR__HitZone.html" title=" " alt="" coords="26,152,126,177"/>
+<area shape="rect" id="node3" href="$interfaceHitZone.html" title=" " alt="" coords="43,79,109,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="19,5,133,31"/>
+</map>

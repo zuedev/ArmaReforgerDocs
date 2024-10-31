@@ -1,0 +1,9 @@
+<map id="BaseZeroingGenerator" name="BaseZeroingGenerator">
+<area shape="rect" id="node1" title="BaseZeroingGenerator is an object used for generating zeroing information in Workbench." alt="" coords="168,80,319,105"/>
+<area shape="rect" id="node3" href="$interfaceFrontSightGLZeroingGenerator.html" title=" " alt="" coords="377,5,575,31"/>
+<area shape="rect" id="node4" href="$interfaceRearSightZeroingGenerator.html" title=" " alt="" coords="387,55,565,80"/>
+<area shape="rect" id="node5" href="$interfaceRotatingApertureZeroingGenerator.html" title=" " alt="" coords="367,104,585,129"/>
+<area shape="rect" id="node6" href="$interfaceScriptedBaseZeroingGenerator.html" title=" " alt="" coords="377,153,575,179"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,80,120,105"/>
+<area shape="rect" id="node7" href="$interfaceSCR__2DPiPScopeZeroingGenerator.html" title=" " alt="" coords="633,153,863,179"/>
+</map>

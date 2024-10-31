@@ -1,0 +1,5 @@
+<map id="SCR_SimpleTagBlockUIName" name="SCR_SimpleTagBlockUIName">
+<area shape="rect" id="node1" title=" " alt="" coords="5,152,201,177"/>
+<area shape="rect" id="node2" href="$interfaceSCR__SubBlockUIName.html" title=" " alt="" coords="24,79,183,104"/>
+<area shape="rect" id="node3" href="$interfaceSCR__UIName.html" title="Class used to hold UI name." alt="" coords="52,5,155,31"/>
+</map>

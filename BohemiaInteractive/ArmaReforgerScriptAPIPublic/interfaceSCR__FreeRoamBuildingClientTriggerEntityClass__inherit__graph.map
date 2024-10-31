@@ -1,0 +1,7 @@
+<map id="SCR_FreeRoamBuildingClientTriggerEntityClass" name="SCR_FreeRoamBuildingClientTriggerEntityClass">
+<area shape="rect" id="node1" title=" " alt="" coords="5,328,200,368"/>
+<area shape="rect" id="node2" href="$interfaceSCR__FreeRoamBuildingBaseTriggerEntityClass.html" title=" " alt="" coords="7,240,199,280"/>
+<area shape="rect" id="node3" href="$interfaceScriptedGameTriggerEntityClass.html" title=" " alt="" coords="13,152,192,192"/>
+<area shape="rect" id="node4" href="$interfaceBaseGameTriggerEntityClass.html" title=" " alt="" coords="6,79,199,104"/>
+<area shape="rect" id="node5" title=" " alt="" coords="35,5,170,31"/>
+</map>

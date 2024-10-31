@@ -1,0 +1,4 @@
+<map id="SCR_NotificationFaction" name="SCR_NotificationFaction">
+<area shape="rect" id="node1" title="Notification Faction Displays a notification: %1 = PlayerID name SCR_NotificationData: m_iParam1 = Pl..." alt="" coords="19,79,182,104"/>
+<area shape="rect" id="node2" href="$interfaceSCR__NotificationDisplayData.html" title="Used to get the display information for each notification." alt="" coords="5,5,196,31"/>
+</map>

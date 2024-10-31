@@ -1,0 +1,6 @@
+<map id="SCR_BaseDeployableInventoryItemComponent" name="SCR_BaseDeployableInventoryItemComponent">
+<area shape="rect" id="node1" title="Base class which all deployable inventory items inherit from." alt="" coords="14,79,215,119"/>
+<area shape="rect" id="node3" href="$interfaceSCR__BaseDeployableSpawnPointComponent.html" title="Base class which all deployable spawn points / radios inherit from." alt="" coords="5,167,224,207"/>
+<area shape="rect" id="node2" title=" " alt="" coords="53,5,176,31"/>
+<area shape="rect" id="node4" href="$interfaceSCR__RestrictedDeployableSpawnPointComponent.html" title="Deployable spawn point with configurable conditions." alt="" coords="25,255,204,295"/>
+</map>

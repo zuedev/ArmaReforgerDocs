@@ -1,0 +1,9 @@
+<map id="SCR_ScenarioFrameworkWaypointSmartAction" name="SCR_ScenarioFrameworkWaypointSmartAction">
+<area shape="rect" id="node1" title=" " alt="" coords="555,101,781,141"/>
+<area shape="rect" id="node4" href="$interfaceSCR__ScenarioFrameworkWaypointCaptureRelay.html" title=" " alt="" coords="829,5,1056,45"/>
+<area shape="rect" id="node5" href="$interfaceSCR__ScenarioFrameworkWaypointObservationPost.html" title=" " alt="" coords="829,69,1056,109"/>
+<area shape="rect" id="node6" href="$interfaceSCR__ScenarioFrameworkWaypointOpenGate.html" title=" " alt="" coords="829,133,1056,173"/>
+<area shape="rect" id="node7" href="$interfaceSCR__ScenarioFrameworkWaypointUserAction.html" title=" " alt="" coords="829,197,1056,237"/>
+<area shape="rect" id="node2" href="$interfaceSCR__ScenarioFrameworkWaypointScripted.html" title=" " alt="" coords="280,101,507,141"/>
+<area shape="rect" id="node3" href="$interfaceSCR__ScenarioFrameworkWaypoint.html" title=" " alt="" coords="5,109,232,134"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="SCR_BaseEditorAttributeEntry" name="SCR_BaseEditorAttributeEntry">
+<area shape="rect" id="node1" title=" " alt="" coords="5,349,205,374"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseEditorAttributeDefaultFloatValue.html" title=" " alt="" coords="261,5,471,45"/>
+<area shape="rect" id="node3" href="$interfaceSCR__BaseEditorAttributeEntrySlider.html" title=" " alt="" coords="266,69,466,109"/>
+<area shape="rect" id="node4" href="$interfaceSCR__BaseEditorAttributeEntryText.html" title=" " alt="" coords="253,134,479,159"/>
+<area shape="rect" id="node5" href="$interfaceSCR__BaseEditorAttributeEntryTimeSlider.html" title=" " alt="" coords="266,184,466,224"/>
+<area shape="rect" id="node6" href="$interfaceSCR__BaseEditorAttributeEntryUIInfo.html" title=" " alt="" coords="266,248,466,288"/>
+<area shape="rect" id="node7" href="$interfaceSCR__BaseEditorAttributeFloatStringValues.html" title=" " alt="" coords="267,312,465,352"/>
+<area shape="rect" id="node8" href="$interfaceSCR__EditorAttributeEntryBool.html" title=" " alt="" coords="268,377,464,402"/>
+<area shape="rect" id="node9" href="$interfaceSCR__EditorAttributeEntryInt.html" title=" " alt="" coords="274,426,458,451"/>
+<area shape="rect" id="node10" href="$interfaceSCR__EditorAttributeEntryIntArray.html" title=" " alt="" coords="281,476,451,516"/>
+<area shape="rect" id="node11" href="$interfaceSCR__EditorAttributeEntryOverride.html" title=" " alt="" coords="281,540,451,580"/>
+<area shape="rect" id="node12" href="$interfaceSCR__EditorAttributeEntryStringArray.html" title=" " alt="" coords="281,604,451,644"/>
+<area shape="rect" id="node13" href="$interfaceSCR__EditorAttributePresetEntry.html" title=" " alt="" coords="277,668,455,708"/>
+<area shape="rect" id="node14" href="$interfaceSCR__EditorAttributePresetMultiSelectEntry.html" title=" " alt="" coords="527,668,704,708"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="SCR_RequestReinforcementsMessage" name="SCR_RequestReinforcementsMessage">
+<area shape="rect" id="node1" title=" " alt="" coords="5,225,200,265"/>
+<area shape="rect" id="node2" href="$interfaceScriptedRadioMessage.html" title=" " alt="" coords="25,152,181,177"/>
+<area shape="rect" id="node3" href="$interfaceBaseRadioMessage.html" title=" " alt="" coords="33,79,172,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="45,5,160,31"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="SCR_EditorTaskSupportEntity" name="SCR_EditorTaskSupportEntity">
+<area shape="rect" id="node1" title=" " alt="" coords="114,152,311,177"/>
+<area shape="rect" id="node4" href="$interfaceSCR__MoveTaskSupportEntity.html" title=" " alt="" coords="5,225,199,251"/>
+<area shape="rect" id="node5" href="$interfaceSCR__TriggerTaskSupportEntity.html" title=" " alt="" coords="223,225,426,251"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseTaskSupportEntity.html" title=" " alt="" coords="116,79,309,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="162,5,263,31"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="SCR_ButtonEffectSound" name="SCR_ButtonEffectSound">
+<area shape="rect" id="node1" title="Plays a sound." alt="" coords="5,79,169,104"/>
+<area shape="rect" id="node2" href="$interfaceSCR__ButtonEffectBase.html" title="Base class for modular button effects." alt="" coords="9,5,166,31"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="SCR_VehiclePerceivableComponent" name="SCR_VehiclePerceivableComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="5,299,236,324"/>
+<area shape="rect" id="node2" href="$interfaceVehiclePerceivableComponent.html" title=" " alt="" coords="22,225,219,251"/>
+<area shape="rect" id="node3" href="$interfacePerceivableComponent.html" title=" " alt="" coords="43,152,198,177"/>
+<area shape="rect" id="node4" href="$interfaceGameComponent.html" title=" " alt="" coords="59,79,182,104"/>
+<area shape="rect" id="node5" title=" " alt="" coords="54,5,187,31"/>
+</map>

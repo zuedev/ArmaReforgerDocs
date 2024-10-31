@@ -1,0 +1,7 @@
+<map id="SCR_TimedWaypoint" name="SCR_TimedWaypoint">
+<area shape="rect" id="node1" title=" " alt="" coords="98,152,245,177"/>
+<area shape="rect" id="node4" href="$interfaceSCR__DefendWaypoint.html" title=" " alt="" coords="5,225,156,251"/>
+<area shape="rect" id="node5" href="$interfaceSCR__SuppressWaypoint.html" title=" " alt="" coords="180,225,347,251"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AIWaypoint.html" title=" " alt="" coords="110,79,233,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="127,5,216,31"/>
+</map>

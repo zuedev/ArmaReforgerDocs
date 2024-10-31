@@ -1,0 +1,5 @@
+<map id="SCR_NotificationPlayerKicked" name="SCR_NotificationPlayerKicked">
+<area shape="rect" id="node1" title="Notification Player kicked or banned SCR_NotificationData: m_iParam1 = PlayerID, m_iParam2 = kick rea..." alt="" coords="5,152,203,177"/>
+<area shape="rect" id="node2" href="$interfaceSCR__NotificationPlayer.html" title="Notification Player Displays a notification: %1 = PlayerID name SCR_NotificationData: m_iParam1 = Pla..." alt="" coords="25,79,183,104"/>
+<area shape="rect" id="node3" href="$interfaceSCR__NotificationDisplayData.html" title="Used to get the display information for each notification." alt="" coords="9,5,199,31"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="SCR_ChatMessage" name="SCR_ChatMessage">
+<area shape="rect" id="node1" title="Classes for chat messages." alt="" coords="140,5,276,31"/>
+<area shape="rect" id="node2" href="$interfaceSCR__ChatMessageGeneral.html" title="Generic messages, used by players: they originate from someone, sometimes directed to someone,..." alt="" coords="5,79,187,104"/>
+<area shape="rect" id="node4" href="$interfaceSCR__ChatMessageRadioProtocol.html" title=" " alt="" coords="211,79,429,104"/>
+<area shape="rect" id="node3" href="$interfaceSCR__ChatMessagePrivate.html" title="Private message Adds a specific receiver ID." alt="" coords="9,152,183,177"/>
+</map>

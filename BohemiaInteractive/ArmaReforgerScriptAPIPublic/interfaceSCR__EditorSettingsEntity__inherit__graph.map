@@ -1,0 +1,5 @@
+<map id="SCR_EditorSettingsEntity" name="SCR_EditorSettingsEntity">
+<area shape="rect" id="node1" title="Editor settings to override default values in SCR_EditorManagerCore." alt="" coords="5,152,177,177"/>
+<area shape="rect" id="node2" href="$interfaceSCR__EditorBaseEntity.html" title="Base editor entity which provides overridable functions." alt="" coords="14,79,169,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="41,5,142,31"/>
+</map>

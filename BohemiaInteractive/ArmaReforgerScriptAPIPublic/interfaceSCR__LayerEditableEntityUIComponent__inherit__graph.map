@@ -1,0 +1,5 @@
+<map id="SCR_LayerEditableEntityUIComponent" name="SCR_LayerEditableEntityUIComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="5,152,252,177"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseEditableEntityUIComponent.html" title="Component to manage visualisation of individual entity widget." alt="" coords="6,79,251,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="40,5,217,31"/>
+</map>

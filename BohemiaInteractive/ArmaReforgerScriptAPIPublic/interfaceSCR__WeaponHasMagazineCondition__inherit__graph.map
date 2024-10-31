@@ -1,0 +1,4 @@
+<map id="SCR_WeaponHasMagazineCondition" name="SCR_WeaponHasMagazineCondition">
+<area shape="rect" id="node1" title="Returns true if weapon has loaded magazine." alt="" coords="5,79,243,104"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AvailableActionCondition.html" title="A single available action condition representation." alt="" coords="25,5,223,31"/>
+</map>

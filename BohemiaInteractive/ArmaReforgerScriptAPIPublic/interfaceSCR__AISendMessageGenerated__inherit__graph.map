@@ -1,0 +1,42 @@
+<map id="SCR_AISendMessageGenerated" name="SCR_AISendMessageGenerated">
+<area shape="rect" id="node1" title=" " alt="" coords="164,1157,375,1182"/>
+<area shape="rect" id="node3" href="$interfaceSCR__AISendGoalMessage__Attack.html" title=" " alt="" coords="446,5,625,45"/>
+<area shape="rect" id="node4" href="$interfaceSCR__AISendGoalMessage__AttackCluster.html" title=" " alt="" coords="446,69,625,109"/>
+<area shape="rect" id="node5" href="$interfaceSCR__AISendGoalMessage__AttackClusterDone.html" title=" " alt="" coords="446,133,625,173"/>
+<area shape="rect" id="node6" href="$interfaceSCR__AISendGoalMessage__Cancel.html" title=" " alt="" coords="446,197,625,237"/>
+<area shape="rect" id="node7" href="$interfaceSCR__AISendGoalMessage__Defend.html" title=" " alt="" coords="446,261,625,301"/>
+<area shape="rect" id="node8" href="$interfaceSCR__AISendGoalMessage__FireIllumFlareAt.html" title=" " alt="" coords="446,325,625,365"/>
+<area shape="rect" id="node9" href="$interfaceSCR__AISendGoalMessage__Flee.html" title=" " alt="" coords="430,390,641,415"/>
+<area shape="rect" id="node10" href="$interfaceSCR__AISendGoalMessage__Follow.html" title=" " alt="" coords="446,440,625,480"/>
+<area shape="rect" id="node11" href="$interfaceSCR__AISendGoalMessage__GetIn.html" title=" " alt="" coords="446,504,625,544"/>
+<area shape="rect" id="node12" href="$interfaceSCR__AISendGoalMessage__GetOut.html" title=" " alt="" coords="446,568,625,608"/>
+<area shape="rect" id="node13" href="$interfaceSCR__AISendGoalMessage__Heal.html" title=" " alt="" coords="430,633,641,658"/>
+<area shape="rect" id="node14" href="$interfaceSCR__AISendGoalMessage__HealWait.html" title=" " alt="" coords="446,683,625,723"/>
+<area shape="rect" id="node15" href="$interfaceSCR__AISendGoalMessage__Investigate.html" title=" " alt="" coords="446,747,625,787"/>
+<area shape="rect" id="node16" href="$interfaceSCR__AISendGoalMessage__KeepFormation.html" title=" " alt="" coords="446,811,625,851"/>
+<area shape="rect" id="node17" href="$interfaceSCR__AISendGoalMessage__Move.html" title=" " alt="" coords="428,875,643,901"/>
+<area shape="rect" id="node18" href="$interfaceSCR__AISendGoalMessage__OpenNavlinkDoor.html" title=" " alt="" coords="446,925,625,965"/>
+<area shape="rect" id="node19" href="$interfaceSCR__AISendGoalMessage__PerformAction.html" title=" " alt="" coords="446,989,625,1029"/>
+<area shape="rect" id="node20" href="$interfaceSCR__AISendGoalMessage__PickupInventoryItems.html" title=" " alt="" coords="446,1053,625,1093"/>
+<area shape="rect" id="node21" href="$interfaceSCR__AISendGoalMessage__ProvideAmmo.html" title=" " alt="" coords="446,1117,625,1157"/>
+<area shape="rect" id="node22" href="$interfaceSCR__AISendGoalMessage__Retreat.html" title=" " alt="" coords="446,1181,625,1221"/>
+<area shape="rect" id="node23" href="$interfaceSCR__AISendGoalMessage__SeekAndDestroy.html" title=" " alt="" coords="446,1245,625,1285"/>
+<area shape="rect" id="node24" href="$interfaceSCR__AISendGoalMessage__Suppress.html" title=" " alt="" coords="446,1309,625,1349"/>
+<area shape="rect" id="node25" href="$interfaceSCR__AISendGoalMessage__ThrowGrenadeTo.html" title=" " alt="" coords="446,1373,625,1413"/>
+<area shape="rect" id="node26" href="$interfaceSCR__AISendInfoMessage__FoundCorpse.html" title=" " alt="" coords="450,1437,621,1477"/>
+<area shape="rect" id="node27" href="$interfaceSCR__AISendInfoMessage__HealFailed.html" title=" " alt="" coords="450,1501,621,1541"/>
+<area shape="rect" id="node28" href="$interfaceSCR__AISendInfoMessage__NoAmmo.html" title=" " alt="" coords="450,1565,621,1605"/>
+<area shape="rect" id="node29" href="$interfaceSCR__AISendInfoMessage__SitRep.html" title=" " alt="" coords="450,1629,621,1669"/>
+<area shape="rect" id="node30" href="$interfaceSCR__AISendInfoMessage__Target.html" title=" " alt="" coords="450,1693,621,1733"/>
+<area shape="rect" id="node31" href="$interfaceSCR__AISendInfoMessage__UnderFire.html" title=" " alt="" coords="450,1757,621,1797"/>
+<area shape="rect" id="node32" href="$interfaceSCR__AISendInfoMessage__Wounded.html" title=" " alt="" coords="450,1821,621,1861"/>
+<area shape="rect" id="node33" href="$interfaceSCR__AISendOrder__AIState.html" title=" " alt="" coords="445,1886,625,1911"/>
+<area shape="rect" id="node34" href="$interfaceSCR__AISendOrder__CombatType.html" title=" " alt="" coords="430,1935,641,1961"/>
+<area shape="rect" id="node35" href="$interfaceSCR__AISendOrder__MovementType.html" title=" " alt="" coords="423,1985,647,2010"/>
+<area shape="rect" id="node36" href="$interfaceSCR__AISendOrder__ReturnToDefault.html" title=" " alt="" coords="441,2035,630,2075"/>
+<area shape="rect" id="node37" href="$interfaceSCR__AISendOrder__Stance.html" title=" " alt="" coords="446,2099,625,2125"/>
+<area shape="rect" id="node38" href="$interfaceSCR__AISendOrder__UnitState.html" title=" " alt="" coords="440,2149,631,2174"/>
+<area shape="rect" id="node39" href="$interfaceSCR__AISendOrder__WeaponRaised.html" title=" " alt="" coords="423,2198,648,2223"/>
+<area shape="rect" id="node40" href="$interfaceSCR__AISendOrder__WeaponType.html" title=" " alt="" coords="429,2247,642,2273"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,1157,116,1182"/>
+</map>

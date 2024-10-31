@@ -1,0 +1,8 @@
+<map id="SCR_RequestedTask" name="SCR_RequestedTask">
+<area shape="rect" id="node1" title=" " alt="" coords="154,152,301,177"/>
+<area shape="rect" id="node4" href="$interfaceSCR__EvacuateTask.html" title=" " alt="" coords="5,225,143,251"/>
+<area shape="rect" id="node5" href="$interfaceSCR__RefuelTask.html" title=" " alt="" coords="167,225,287,251"/>
+<area shape="rect" id="node6" href="$interfaceSCR__TransportTask.html" title=" " alt="" coords="311,225,450,251"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseTask.html" title="A base class for tasks." alt="" coords="170,79,285,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="177,5,278,31"/>
+</map>

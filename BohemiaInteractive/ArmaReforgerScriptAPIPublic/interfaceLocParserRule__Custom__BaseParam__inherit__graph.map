@@ -1,0 +1,9 @@
+<map id="LocParserRule_Custom_BaseParam" name="LocParserRule_Custom_BaseParam">
+<area shape="rect" id="node1" title=" " alt="" coords="5,165,164,205"/>
+<area shape="rect" id="node2" href="$interfaceLocParserRule__Custom__EnumParam.html" title=" " alt="" coords="212,5,371,45"/>
+<area shape="rect" id="node3" href="$interfaceLocParserRule__Custom__HintParam.html" title=" " alt="" coords="212,69,371,109"/>
+<area shape="rect" id="node4" href="$interfaceLocParserRule__Custom__IndexParam.html" title=" " alt="" coords="212,133,371,173"/>
+<area shape="rect" id="node5" href="$interfaceLocParserRule__Custom__NotificationParam.html" title=" " alt="" coords="212,197,371,237"/>
+<area shape="rect" id="node6" href="$interfaceLocParserRule__Custom__ResourceNameParam.html" title=" " alt="" coords="212,261,371,301"/>
+<area shape="rect" id="node7" href="$interfaceLocParserRule__Custom__StringParam.html" title=" " alt="" coords="212,325,371,365"/>
+</map>

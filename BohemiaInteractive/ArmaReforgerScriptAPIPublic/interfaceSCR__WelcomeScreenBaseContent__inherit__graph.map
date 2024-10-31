@@ -1,0 +1,12 @@
+<map id="SCR_WelcomeScreenBaseContent" name="SCR_WelcomeScreenBaseContent">
+<area shape="rect" id="node1" title="Base class for screen contents." alt="" coords="168,237,395,262"/>
+<area shape="rect" id="node3" href="$interfaceSCR__DebriefingScreenBigImageContent.html" title="Class handling big image content." alt="" coords="448,5,656,45"/>
+<area shape="rect" id="node4" href="$interfaceSCR__DebriefingScreenFinishedObjectivesContent.html" title="Class handling finished mission objectives content." alt="" coords="451,69,653,109"/>
+<area shape="rect" id="node5" href="$interfaceSCR__DebriefingScreenStatisticsContent.html" title="Class handling Statistics retrieved from the DataCollector." alt="" coords="447,133,657,173"/>
+<area shape="rect" id="node6" href="$interfaceSCR__DebriefingScreenSummaryContent.html" title="Class handling summary content." alt="" coords="447,197,657,237"/>
+<area shape="rect" id="node7" href="$interfaceSCR__WelcomeScreenDynamicObjectivesContent.html" title="Class handling mission objectives that are dynamically created during the mission." alt="" coords="451,261,653,301"/>
+<area shape="rect" id="node8" href="$interfaceSCR__WelcomeScreenFactionContent.html" title="Class handling Factions that are present in the game." alt="" coords="455,325,649,365"/>
+<area shape="rect" id="node9" href="$interfaceSCR__WelcomeScreenIntroductionContent.html" title="Class handling introduction content." alt="" coords="443,389,661,429"/>
+<area shape="rect" id="node10" href="$interfaceSCR__WelcomeScreenMissionObjectivesContent.html" title="Class handling mission objectives content." alt="" coords="453,453,651,493"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,237,120,262"/>
+</map>

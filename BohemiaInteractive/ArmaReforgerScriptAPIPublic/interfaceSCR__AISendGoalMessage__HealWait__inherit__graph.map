@@ -1,0 +1,5 @@
+<map id="SCR_AISendGoalMessage_HealWait" name="SCR_AISendGoalMessage_HealWait">
+<area shape="rect" id="node1" title=" " alt="" coords="21,152,200,192"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AISendMessageGenerated.html" title=" " alt="" coords="5,79,216,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="55,5,166,31"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="SCR_DelegateFactionManagerComponent" name="SCR_DelegateFactionManagerComponent">
+<area shape="rect" id="node1" title="Manager of faction delegates &#45; entities representing available factions." alt="" coords="28,152,228,192"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseFactionManagerComponent.html" title="Base class for components attached to SCR_FactionManager." alt="" coords="5,79,251,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="67,5,189,31"/>
+</map>

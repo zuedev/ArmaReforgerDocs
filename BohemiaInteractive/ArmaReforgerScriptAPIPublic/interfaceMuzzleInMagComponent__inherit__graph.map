@@ -1,0 +1,8 @@
+<map id="MuzzleInMagComponent" name="MuzzleInMagComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="109,225,274,251"/>
+<area shape="rect" id="node5" href="$interfaceMortarMuzzleComponent.html" title=" " alt="" coords="5,299,172,324"/>
+<area shape="rect" id="node6" href="$interfaceSCR__MuzzleInMagComponent.html" title=" " alt="" coords="196,299,395,324"/>
+<area shape="rect" id="node2" href="$interfaceBaseMuzzleComponent.html" title=" " alt="" coords="111,152,271,177"/>
+<area shape="rect" id="node3" href="$interfaceGameComponent.html" title=" " alt="" coords="130,79,253,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="125,5,258,31"/>
+</map>

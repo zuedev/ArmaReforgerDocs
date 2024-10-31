@@ -1,0 +1,8 @@
+<map id="ScriptComponent" name="ScriptComponent">
+<area shape="rect" id="node1" title="Parent class for all components created in script." alt="" coords="187,80,309,105"/>
+<area shape="rect" id="node3" href="$interfaceRplExample1ComponentColorAnim.html" title=" " alt="" coords="357,5,583,31"/>
+<area shape="rect" id="node4" href="$interfaceRplExample2ComponentColorAnim.html" title=" " alt="" coords="357,55,583,80"/>
+<area shape="rect" id="node5" href="$interfaceRplExample3ComponentColorAnim.html" title=" " alt="" coords="357,104,583,129"/>
+<area shape="rect" id="node6" href="$interfaceRplExample3System.html" title=" " alt="" coords="398,153,542,179"/>
+<area shape="rect" id="node2" href="$interfaceGenericComponent.html" title=" " alt="" coords="5,80,139,105"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="SCR_WorkshopItemActionReportBase" name="SCR_WorkshopItemActionReportBase">
+<area shape="rect" id="node1" title="Action for reporting an item." alt="" coords="231,109,476,134"/>
+<area shape="rect" id="node3" href="$interfaceSCR__WorkshopItemActionAddAuthorBlock.html" title="Action for blocking author." alt="" coords="535,5,735,45"/>
+<area shape="rect" id="node4" href="$interfaceSCR__WorkshopItemActionCancelReport.html" title="Action for canceling report of an item." alt="" coords="527,69,744,109"/>
+<area shape="rect" id="node5" href="$interfaceSCR__WorkshopItemActionRemoveAuthorBlock.html" title="Action for removing author mod content blocking." alt="" coords="524,133,747,173"/>
+<area shape="rect" id="node6" href="$interfaceSCR__WorkshopItemActionReport.html" title="Action for reporting an item." alt="" coords="528,198,743,223"/>
+<area shape="rect" id="node2" href="$interfaceSCR__WorkshopItemAction.html" title=" " alt="" coords="5,109,183,134"/>
+</map>

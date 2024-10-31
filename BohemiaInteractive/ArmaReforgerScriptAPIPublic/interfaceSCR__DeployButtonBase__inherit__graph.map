@@ -1,0 +1,12 @@
+<map id="SCR_DeployButtonBase" name="SCR_DeployButtonBase">
+<area shape="rect" id="node1" title=" " alt="" coords="228,372,392,397"/>
+<area shape="rect" id="node7" href="$interfaceSCR__FactionButton.html" title=" " alt="" coords="5,445,143,471"/>
+<area shape="rect" id="node8" href="$interfaceSCR__GroupButton.html" title="Component attached to the group button." alt="" coords="167,445,296,471"/>
+<area shape="rect" id="node9" href="$interfaceSCR__LoadoutButton.html" title=" " alt="" coords="320,445,460,471"/>
+<area shape="rect" id="node10" href="$interfaceSCR__NewGroupButton.html" title=" " alt="" coords="485,445,639,471"/>
+<area shape="rect" id="node2" href="$interfaceSCR__ButtonImageComponent.html" title=" " alt="" coords="213,299,407,324"/>
+<area shape="rect" id="node3" href="$interfaceSCR__ButtonBaseComponent.html" title="Base class for any button, regardless its own content." alt="" coords="215,225,405,251"/>
+<area shape="rect" id="node4" href="$interfaceSCR__WLibComponentBase.html" title="Base class for all final Reforger interactive elements." alt="" coords="219,152,401,177"/>
+<area shape="rect" id="node5" href="$interfaceSCR__ScriptedWidgetComponent.html" title=" " alt="" coords="205,79,415,104"/>
+<area shape="rect" id="node6" title=" " alt="" coords="221,5,399,31"/>
+</map>

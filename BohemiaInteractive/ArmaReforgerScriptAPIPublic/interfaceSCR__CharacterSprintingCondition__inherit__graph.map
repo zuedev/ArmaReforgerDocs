@@ -1,0 +1,4 @@
+<map id="SCR_CharacterSprintingCondition" name="SCR_CharacterSprintingCondition">
+<area shape="rect" id="node1" title="Returns true if character is sprinting." alt="" coords="5,79,223,104"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AvailableActionCondition.html" title="A single available action condition representation." alt="" coords="15,5,213,31"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="SCR_SearchXOBFunctor" name="SCR_SearchXOBFunctor">
+<area shape="rect" id="node1" title=" " alt="" coords="5,95,172,121"/>
+<area shape="rect" id="node2" href="$interfaceSCR__SearchXOBInvalidMaskFunctor.html" title=" " alt="" coords="240,5,431,45"/>
+<area shape="rect" id="node3" href="$interfaceSCR__SearchXOBLayerMaskFunctor.html" title=" " alt="" coords="220,70,451,95"/>
+<area shape="rect" id="node4" href="$interfaceSCR__SearchXOBListAllFunctor.html" title=" " alt="" coords="234,119,437,145"/>
+<area shape="rect" id="node5" href="$interfaceSCR__SearchXOBLoadAllFunctor.html" title=" " alt="" coords="230,169,441,194"/>
+</map>

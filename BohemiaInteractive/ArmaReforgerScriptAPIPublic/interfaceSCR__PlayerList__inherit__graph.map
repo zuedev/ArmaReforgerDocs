@@ -1,0 +1,6 @@
+<map id="SCR_PlayerList" name="SCR_PlayerList">
+<area shape="rect" id="node1" title=" " alt="" coords="115,79,229,104"/>
+<area shape="rect" id="node3" href="$interfaceSCR__FactionPlayerList.html" title=" " alt="" coords="5,152,163,177"/>
+<area shape="rect" id="node4" href="$interfaceSCR__GroupPlayerList.html" title=" " alt="" coords="187,152,336,177"/>
+<area shape="rect" id="node2" title=" " alt="" coords="83,5,261,31"/>
+</map>

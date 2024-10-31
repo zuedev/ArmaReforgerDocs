@@ -1,0 +1,7 @@
+<map id="SCR_EquipNextGrenadeCB" name="SCR_EquipNextGrenadeCB">
+<area shape="rect" id="node1" title=" " alt="" coords="5,313,188,339"/>
+<area shape="rect" id="node2" href="$interfaceSCR__InvCallBack.html" title=" " alt="" coords="35,240,158,265"/>
+<area shape="rect" id="node3" href="$interfaceScriptedInventoryOperationCallback.html" title=" " alt="" coords="8,152,185,192"/>
+<area shape="rect" id="node4" href="$interfaceInventoryOperationCallback.html" title=" " alt="" coords="7,79,186,104"/>
+<area shape="rect" id="node5" title=" " alt="" coords="59,5,134,31"/>
+</map>

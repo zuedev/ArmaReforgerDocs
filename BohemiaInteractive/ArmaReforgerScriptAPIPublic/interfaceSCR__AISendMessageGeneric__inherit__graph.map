@@ -1,0 +1,8 @@
+<map id="SCR_AISendMessageGeneric" name="SCR_AISendMessageGeneric">
+<area shape="rect" id="node1" title="Class for generic nodes with extra input ports which send messages." alt="" coords="195,152,391,177"/>
+<area shape="rect" id="node4" href="$interfaceSCR__AISendGoalMessage.html" title=" " alt="" coords="5,225,184,251"/>
+<area shape="rect" id="node5" href="$interfaceSCR__AISendInfoMessage.html" title=" " alt="" coords="208,225,379,251"/>
+<area shape="rect" id="node6" href="$interfaceSCR__AISendOrder.html" title=" " alt="" coords="403,225,533,251"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AISendMessageBase.html" title="Base class for nodes sending message." alt="" coords="203,79,384,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="238,5,349,31"/>
+</map>

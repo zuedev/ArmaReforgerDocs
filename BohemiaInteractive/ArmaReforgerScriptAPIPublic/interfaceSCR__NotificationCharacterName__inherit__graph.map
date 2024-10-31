@@ -1,0 +1,4 @@
+<map id="SCR_NotificationCharacterName" name="SCR_NotificationCharacterName">
+<area shape="rect" id="node1" title="Notification to get character names Displays a notification: %1 FirstName, %2 Alias,..." alt="" coords="5,79,216,104"/>
+<area shape="rect" id="node2" href="$interfaceSCR__NotificationDisplayData.html" title="Used to get the display information for each notification." alt="" coords="15,5,206,31"/>
+</map>

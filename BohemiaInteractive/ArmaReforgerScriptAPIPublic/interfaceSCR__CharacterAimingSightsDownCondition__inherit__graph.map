@@ -1,0 +1,4 @@
+<map id="SCR_CharacterAimingSightsDownCondition" name="SCR_CharacterAimingSightsDownCondition">
+<area shape="rect" id="node1" title="Returns true if character is in ADS." alt="" coords="10,79,199,119"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AvailableActionCondition.html" title="A single available action condition representation." alt="" coords="5,5,204,31"/>
+</map>

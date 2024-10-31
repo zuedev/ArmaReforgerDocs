@@ -1,0 +1,6 @@
+<map id="SCR_SetTargetDistanceUpUserAction" name="SCR_SetTargetDistanceUpUserAction">
+<area shape="rect" id="node1" title=" " alt="" coords="5,225,212,265"/>
+<area shape="rect" id="node2" href="$interfaceScriptedUserAction.html" title=" " alt="" coords="41,152,176,177"/>
+<area shape="rect" id="node3" href="$interfaceBaseUserAction.html" title=" " alt="" coords="51,79,167,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="51,5,166,31"/>
+</map>

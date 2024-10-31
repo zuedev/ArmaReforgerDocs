@@ -1,0 +1,6 @@
+<map id="SCR_BoardingTimedWaypointClass" name="SCR_BoardingTimedWaypointClass">
+<area shape="rect" id="node1" title=" " alt="" coords="5,225,203,265"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BoardingWaypointClass.html" title=" " alt="" coords="7,152,201,177"/>
+<area shape="rect" id="node3" href="$interfaceSCR__AIWaypointClass.html" title=" " alt="" coords="26,79,182,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="43,5,165,31"/>
+</map>

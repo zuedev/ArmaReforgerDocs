@@ -1,0 +1,6 @@
+<map id="SCR_CampaignBuildingGadgetToolComponent" name="SCR_CampaignBuildingGadgetToolComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="5,225,208,265"/>
+<area shape="rect" id="node2" href="$interfaceSCR__GadgetComponent.html" title="Gadget base class." alt="" coords="25,152,189,177"/>
+<area shape="rect" id="node3" href="$interfaceScriptGameComponent.html" title=" " alt="" coords="28,79,185,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="45,5,168,31"/>
+</map>

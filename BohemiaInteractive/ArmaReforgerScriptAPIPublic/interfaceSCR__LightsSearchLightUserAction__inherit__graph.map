@@ -1,0 +1,8 @@
+<map id="SCR_LightsSearchLightUserAction" name="SCR_LightsSearchLightUserAction">
+<area shape="rect" id="node1" title=" " alt="" coords="5,372,192,412"/>
+<area shape="rect" id="node2" href="$interfaceLightUserAction.html" title=" " alt="" coords="41,299,156,324"/>
+<area shape="rect" id="node3" href="$interfaceBaseLightUserAction.html" title=" " alt="" coords="27,225,171,251"/>
+<area shape="rect" id="node4" href="$interfaceScriptedUserAction.html" title=" " alt="" coords="31,152,166,177"/>
+<area shape="rect" id="node5" href="$interfaceBaseUserAction.html" title=" " alt="" coords="41,79,157,104"/>
+<area shape="rect" id="node6" title=" " alt="" coords="41,5,156,31"/>
+</map>

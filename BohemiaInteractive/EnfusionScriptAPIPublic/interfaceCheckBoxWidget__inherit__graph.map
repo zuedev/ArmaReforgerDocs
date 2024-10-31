@@ -1,0 +1,6 @@
+<map id="CheckBoxWidget" name="CheckBoxWidget">
+<area shape="rect" id="node1" title=" " alt="" coords="5,225,128,251"/>
+<area shape="rect" id="node2" href="$interfaceUIWidget.html" title=" " alt="" coords="29,152,104,177"/>
+<area shape="rect" id="node3" href="$interfaceWidget.html" title=" " alt="" coords="35,79,98,104"/>
+<area shape="rect" id="node4" href="$interfaceManaged.html" title=" " alt="" coords="29,5,104,31"/>
+</map>

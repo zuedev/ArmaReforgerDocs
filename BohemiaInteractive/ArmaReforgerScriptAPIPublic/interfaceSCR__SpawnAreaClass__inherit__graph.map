@@ -1,0 +1,6 @@
+<map id="SCR_SpawnAreaClass" name="SCR_SpawnAreaClass">
+<area shape="rect" id="node1" title=" " alt="" coords="25,240,179,265"/>
+<area shape="rect" id="node2" href="$interfaceScriptedGameTriggerEntityClass.html" title=" " alt="" coords="13,152,191,192"/>
+<area shape="rect" id="node3" href="$interfaceBaseGameTriggerEntityClass.html" title=" " alt="" coords="5,79,199,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="35,5,169,31"/>
+</map>

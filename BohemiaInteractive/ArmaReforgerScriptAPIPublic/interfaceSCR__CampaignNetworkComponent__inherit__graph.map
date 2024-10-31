@@ -1,0 +1,4 @@
+<map id="SCR_CampaignNetworkComponent" name="SCR_CampaignNetworkComponent">
+<area shape="rect" id="node1" title="Takes care of Campaign&#45;specific server &lt;&gt; client communication and requests." alt="" coords="5,79,232,104"/>
+<area shape="rect" id="node2" title=" " alt="" coords="57,5,180,31"/>
+</map>

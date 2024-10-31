@@ -1,0 +1,51 @@
+<map id="MenuRootSubComponent" name="MenuRootSubComponent">
+<area shape="rect" id="node1" title="Widget component which is linked to menu it&#39;s part of." alt="" coords="231,1753,401,1778"/>
+<area shape="rect" id="node3" href="$interfaceSCR__AssetBrowserAccessEditorUIComponent.html" title=" " alt="" coords="461,768,676,808"/>
+<area shape="rect" id="node4" href="$interfaceSCR__AttributesEditorUIComponent.html" title=" " alt="" coords="457,833,681,858"/>
+<area shape="rect" id="node5" href="$interfaceSCR__BaseEditorUIComponent.html" title=" " alt="" coords="469,882,668,907"/>
+<area shape="rect" id="node34" href="$interfaceSCR__BaseModeEditorUIComponent.html" title=" " alt="" coords="453,1629,684,1654"/>
+<area shape="rect" id="node40" href="$interfaceSCR__BasePaginationUIComponent.html" title=" " alt="" coords="456,1678,681,1703"/>
+<area shape="rect" id="node43" href="$interfaceSCR__ButtonHintEditorUIComponent.html" title=" " alt="" coords="454,1727,683,1753"/>
+<area shape="rect" id="node44" href="$interfaceSCR__CameraInfoEditorUIComponent.html" title=" " alt="" coords="452,1777,685,1802"/>
+<area shape="rect" id="node45" href="$interfaceSCR__CompassUIComponent.html" title="Simple radial compass which will rotate based on current camera position." alt="" coords="474,1826,663,1851"/>
+<area shape="rect" id="node46" href="$interfaceSCR__EditableEntityLinkUIComponent.html" title=" " alt="" coords="449,1875,688,1901"/>
+<area shape="rect" id="node47" href="$interfaceSCR__IngameClockUIComponent.html" title="Gets the Ingame time and displays it on a UI text element." alt="" coords="464,1925,673,1950"/>
+<area shape="rect" id="node48" href="$interfaceSCR__NotificationsLogComponent.html" title="Notification UI that displays the Notification Entires Holds general functions such as scroll history..." alt="" coords="461,1974,676,1999"/>
+<area shape="rect" id="node49" href="$interfaceSCR__SessionDurationUIComponent.html" title="Displays current session duration of the gamemode." alt="" coords="454,2023,683,2049"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,1753,183,1778"/>
+<area shape="rect" id="node6" href="$interfaceSCR__AttributesButtonEditorUIComponent.html" title=" " alt="" coords="773,5,957,45"/>
+<area shape="rect" id="node7" href="$interfaceSCR__BaseContextMenuEditorUIComponent.html" title=" " alt="" coords="767,69,964,109"/>
+<area shape="rect" id="node8" href="$interfaceSCR__BaseTooltipEditorUIComponent.html" title=" " alt="" coords="747,134,983,159"/>
+<area shape="rect" id="node9" href="$interfaceSCR__BaseTooltipTargetEditorUIComponent.html" title=" " alt="" coords="768,184,963,224"/>
+<area shape="rect" id="node10" href="$interfaceSCR__BudgetEditorUIComponent.html" title=" " alt="" coords="761,249,970,274"/>
+<area shape="rect" id="node11" href="$interfaceSCR__BudgetUIComponent.html" title="Component to display budget progress." alt="" coords="778,298,953,323"/>
+<area shape="rect" id="node12" href="$interfaceSCR__CampaignBuildingServicesEditorUIComponent.html" title=" " alt="" coords="761,348,970,388"/>
+<area shape="rect" id="node13" href="$interfaceSCR__CampaignBuildingSupplyEditorUIComponent.html" title=" " alt="" coords="765,412,965,452"/>
+<area shape="rect" id="node14" href="$interfaceSCR__ContentBrowserFiltersEditorUIComponent.html" title=" " alt="" coords="773,476,957,516"/>
+<area shape="rect" id="node15" href="$interfaceSCR__CursorEditorUIComponent.html" title=" " alt="" coords="762,541,969,566"/>
+<area shape="rect" id="node16" href="$interfaceSCR__DialogEditorUIComponent.html" title=" " alt="" coords="763,590,967,615"/>
+<area shape="rect" id="node17" href="$interfaceSCR__EditAttributesEditorUIComponent.html" title=" " alt="" coords="781,640,950,680"/>
+<area shape="rect" id="node18" href="$interfaceSCR__EditableEntitySlotManagerUIComponent.html" title=" " alt="" coords="760,704,971,744"/>
+<area shape="rect" id="node19" href="$interfaceSCR__EditorStateConditionUIComponent.html" title=" " alt="" coords="778,768,953,808"/>
+<area shape="rect" id="node20" href="$interfaceSCR__HideEditorUIComponent.html" title=" " alt="" coords="768,833,963,858"/>
+<area shape="rect" id="node21" href="$interfaceSCR__LayerAutoEnterUIComponent.html" title=" " alt="" coords="753,882,977,907"/>
+<area shape="rect" id="node22" href="$interfaceSCR__LayersEditorUIComponent.html" title="Creates the elements for the layer Ui menu If a Layer is selected this menu will show which layer is ..." alt="" coords="762,931,969,957"/>
+<area shape="rect" id="node23" href="$interfaceSCR__MapEditorUIComponent.html" title=" " alt="" coords="769,981,962,1006"/>
+<area shape="rect" id="node24" href="$interfaceSCR__MouseAreaEditorUIComponent.html" title=" " alt="" coords="748,1030,983,1055"/>
+<area shape="rect" id="node25" href="$interfaceSCR__PingEditorUIComponent.html" title=" " alt="" coords="768,1079,963,1105"/>
+<area shape="rect" id="node26" href="$interfaceSCR__PlayerHubWarningEditorUIComponent.html" title=" " alt="" coords="766,1129,965,1169"/>
+<area shape="rect" id="node27" href="$interfaceSCR__PlayersListEditorUIComponent.html" title=" " alt="" coords="749,1194,982,1219"/>
+<area shape="rect" id="node28" href="$interfaceSCR__PreviewEntityEditorUIComponent.html" title=" " alt="" coords="742,1243,989,1269"/>
+<area shape="rect" id="node29" href="$interfaceSCR__QuickPlacingEditorUIComponent.html" title=" " alt="" coords="743,1293,988,1318"/>
+<area shape="rect" id="node30" href="$interfaceSCR__SelectionEditorUIComponent.html" title=" " alt="" coords="754,1342,977,1367"/>
+<area shape="rect" id="node31" href="$interfaceSCR__TooltipAreaEditorUIComponent.html" title=" " alt="" coords="749,1391,982,1417"/>
+<area shape="rect" id="node32" href="$interfaceSCR__TooltipManagerEditorUIComponent.html" title=" " alt="" coords="776,1441,955,1481"/>
+<area shape="rect" id="node33" href="$interfaceSCR__WaypointLinesEditorUIComponent.html" title=" " alt="" coords="738,1506,993,1531"/>
+<area shape="rect" id="node35" href="$interfaceSCR__AdminModeEditorUIComponent.html" title=" " alt="" coords="747,1555,984,1581"/>
+<area shape="rect" id="node36" href="$interfaceSCR__CommandModeEditorUIComponent.html" title=" " alt="" coords="736,1605,995,1630"/>
+<area shape="rect" id="node37" href="$interfaceSCR__EditModeEditorUIComponent.html" title=" " alt="" coords="754,1654,977,1679"/>
+<area shape="rect" id="node38" href="$interfaceSCR__PhotoModeEditorUIComponent.html" title=" " alt="" coords="748,1703,983,1729"/>
+<area shape="rect" id="node39" href="$interfaceSCR__SpectateModeEditorUIComponent.html" title=" " alt="" coords="739,1753,991,1778"/>
+<area shape="rect" id="node41" href="$interfaceSCR__ContentBrowserEditorUIComponent.html" title="The Content Browser Window in the Content Browser Dialog." alt="" coords="774,1803,957,1843"/>
+<area shape="rect" id="node42" href="$interfaceSCR__ExternalPaginationUIComponent.html" title=" " alt="" coords="744,1867,987,1893"/>
+</map>

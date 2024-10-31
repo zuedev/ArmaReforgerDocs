@@ -1,0 +1,4 @@
+<map id="SCR_RadialMenu" name="SCR_RadialMenu">
+<area shape="rect" id="node1" title="Radial menu class specifing behavior and interaction for circular interface Can distrubute and select..." alt="" coords="15,79,139,104"/>
+<area shape="rect" id="node2" href="$interfaceSCR__SelectionMenu.html" title="Scripted base for selection menu used in HUD." alt="" coords="5,5,148,31"/>
+</map>

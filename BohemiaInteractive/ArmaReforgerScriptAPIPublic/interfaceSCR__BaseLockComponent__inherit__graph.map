@@ -1,0 +1,6 @@
+<map id="SCR_BaseLockComponent" name="SCR_BaseLockComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="156,79,336,104"/>
+<area shape="rect" id="node3" href="$interfaceSCR__CampaignMHQLockComponent.html" title=" " alt="" coords="5,159,244,185"/>
+<area shape="rect" id="node4" href="$interfaceSCR__VehicleSpawnProtectionComponent.html" title=" " alt="" coords="269,152,466,192"/>
+<area shape="rect" id="node2" title=" " alt="" coords="185,5,307,31"/>
+</map>

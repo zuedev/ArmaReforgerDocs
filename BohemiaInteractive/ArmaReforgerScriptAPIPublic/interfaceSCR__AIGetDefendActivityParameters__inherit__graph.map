@@ -1,0 +1,6 @@
+<map id="SCR_AIGetDefendActivityParameters" name="SCR_AIGetDefendActivityParameters">
+<area shape="rect" id="node1" title=" " alt="" coords="5,225,244,251"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AIGetActionParameters.html" title="Base class of node which outputs action parameters to Behavior Tree variables." alt="" coords="28,152,221,177"/>
+<area shape="rect" id="node3" href="$interfaceSCR__AIActionTask.html" title=" " alt="" coords="58,79,191,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="69,5,180,31"/>
+</map>

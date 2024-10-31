@@ -1,0 +1,7 @@
+<map id="WorldEditorTool" name="WorldEditorTool">
+<area shape="rect" id="node1" title="Script definition class for World Editor Tool." alt="" coords="128,79,243,104"/>
+<area shape="rect" id="node3" href="$interfaceMeasureTool.html" title=" " alt="" coords="5,152,101,177"/>
+<area shape="rect" id="node4" href="$interfaceObjectImportTool.html" title=" " alt="" coords="125,152,245,177"/>
+<area shape="rect" id="node5" href="$interfaceTerrainExportTool.html" title=" " alt="" coords="269,152,392,177"/>
+<area shape="rect" id="node2" href="$interfaceManaged.html" title=" " alt="" coords="148,5,223,31"/>
+</map>

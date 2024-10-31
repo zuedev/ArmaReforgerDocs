@@ -1,0 +1,6 @@
+<map id="SCR_AIGetProvideAmmoBehaviorParameters" name="SCR_AIGetProvideAmmoBehaviorParameters">
+<area shape="rect" id="node1" title=" " alt="" coords="5,225,224,265"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AIGetActionParameters.html" title="Base class of node which outputs action parameters to Behavior Tree variables." alt="" coords="18,152,211,177"/>
+<area shape="rect" id="node3" href="$interfaceSCR__AIActionTask.html" title=" " alt="" coords="48,79,181,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="59,5,170,31"/>
+</map>

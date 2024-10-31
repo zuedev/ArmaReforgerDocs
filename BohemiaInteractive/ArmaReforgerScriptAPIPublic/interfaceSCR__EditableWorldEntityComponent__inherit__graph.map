@@ -1,0 +1,7 @@
+<map id="SCR_EditableWorldEntityComponent" name="SCR_EditableWorldEntityComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="5,299,243,324"/>
+<area shape="rect" id="node2" href="$interfaceSCR__EditableDescriptorComponent.html" title=" " alt="" coords="10,225,238,251"/>
+<area shape="rect" id="node3" href="$interfaceSCR__EditableSystemComponent.html" title=" " alt="" coords="17,152,231,177"/>
+<area shape="rect" id="node4" href="$interfaceSCR__EditableEntityComponent.html" title="Component defining editable entity." alt="" coords="23,79,225,104"/>
+<area shape="rect" id="node5" title=" " alt="" coords="63,5,185,31"/>
+</map>

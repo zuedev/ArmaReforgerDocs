@@ -1,0 +1,6 @@
+<map id="DownloadableCatalogue" name="DownloadableCatalogue">
+<area shape="rect" id="node1" title=" " alt="" coords="38,79,198,104"/>
+<area shape="rect" id="node3" href="$interfaceWorkshopApi.html" title=" " alt="" coords="5,152,105,177"/>
+<area shape="rect" id="node4" href="$interfaceWorldSaveApi.html" title=" " alt="" coords="129,152,232,177"/>
+<area shape="rect" id="node2" href="$interfaceWorkshopCatalogue.html" title=" " alt="" coords="49,5,187,31"/>
+</map>

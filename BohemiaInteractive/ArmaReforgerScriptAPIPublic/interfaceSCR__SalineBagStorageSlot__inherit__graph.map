@@ -1,0 +1,8 @@
+<map id="SCR_SalineBagStorageSlot" name="SCR_SalineBagStorageSlot">
+<area shape="rect" id="node1" title=" " alt="" coords="7,372,190,397"/>
+<area shape="rect" id="node2" href="$interfaceSCR__EquipmentStorageSlot.html" title=" " alt="" coords="5,299,192,324"/>
+<area shape="rect" id="node3" href="$interfaceEquipmentStorageSlot.html" title=" " alt="" coords="23,225,175,251"/>
+<area shape="rect" id="node4" href="$interfaceInventoryStorageSlot.html" title=" " alt="" coords="28,152,169,177"/>
+<area shape="rect" id="node5" href="$interfaceEntitySlotInfo.html" title="Adds ability to attach an object to a slot." alt="" coords="49,79,148,104"/>
+<area shape="rect" id="node6" title=" " alt="" coords="63,5,135,31"/>
+</map>

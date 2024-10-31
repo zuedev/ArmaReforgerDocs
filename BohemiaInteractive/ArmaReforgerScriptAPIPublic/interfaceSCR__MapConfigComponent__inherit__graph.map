@@ -1,0 +1,4 @@
+<map id="SCR_MapConfigComponent" name="SCR_MapConfigComponent">
+<area shape="rect" id="node1" title="Attached to BaseGameMode, used for map config selection." alt="" coords="5,79,188,104"/>
+<area shape="rect" id="node2" title=" " alt="" coords="35,5,158,31"/>
+</map>

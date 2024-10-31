@@ -1,0 +1,6 @@
+<map id="SCR_FiringRangeLineAreaClass" name="SCR_FiringRangeLineAreaClass">
+<area shape="rect" id="node1" title=" " alt="" coords="5,240,215,265"/>
+<area shape="rect" id="node2" href="$interfaceScriptedGameTriggerEntityClass.html" title=" " alt="" coords="21,152,199,192"/>
+<area shape="rect" id="node3" href="$interfaceBaseGameTriggerEntityClass.html" title=" " alt="" coords="13,79,207,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="43,5,177,31"/>
+</map>

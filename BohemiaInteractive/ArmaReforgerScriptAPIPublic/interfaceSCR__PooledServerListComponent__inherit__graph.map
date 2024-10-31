@@ -1,0 +1,6 @@
+<map id="SCR_PooledServerListComponent" name="SCR_PooledServerListComponent">
+<area shape="rect" id="node1" title="Pooled scrollable list with server entries handling." alt="" coords="5,225,224,251"/>
+<area shape="rect" id="node2" href="$interfaceSCR__PooledListComponent.html" title=" " alt="" coords="23,152,206,177"/>
+<area shape="rect" id="node3" href="$interfaceSCR__ScriptedWidgetComponent.html" title=" " alt="" coords="9,79,220,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="26,5,203,31"/>
+</map>

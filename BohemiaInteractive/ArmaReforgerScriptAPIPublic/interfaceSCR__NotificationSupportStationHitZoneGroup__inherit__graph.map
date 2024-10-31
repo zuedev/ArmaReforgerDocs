@@ -1,0 +1,4 @@
+<map id="SCR_NotificationSupportStationHitZoneGroup" name="SCR_NotificationSupportStationHitZoneGroup">
+<area shape="rect" id="node1" title="Used to display which hitzone groups are healed when using support station Param1: userRpl ID of who ..." alt="" coords="5,79,212,119"/>
+<area shape="rect" id="node2" href="$interfaceSCR__NotificationDisplayData.html" title="Used to get the display information for each notification." alt="" coords="13,5,204,31"/>
+</map>

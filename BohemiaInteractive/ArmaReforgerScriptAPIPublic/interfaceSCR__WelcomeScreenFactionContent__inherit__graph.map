@@ -1,0 +1,5 @@
+<map id="SCR_WelcomeScreenFactionContent" name="SCR_WelcomeScreenFactionContent">
+<area shape="rect" id="node1" title="Class handling Factions that are present in the game." alt="" coords="21,152,216,192"/>
+<area shape="rect" id="node2" href="$interfaceSCR__WelcomeScreenBaseContent.html" title="Base class for screen contents." alt="" coords="5,79,232,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="61,5,176,31"/>
+</map>

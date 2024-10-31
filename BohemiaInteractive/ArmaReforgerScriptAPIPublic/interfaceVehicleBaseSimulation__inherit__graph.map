@@ -1,0 +1,10 @@
+<map id="VehicleBaseSimulation" name="VehicleBaseSimulation">
+<area shape="rect" id="node1" title=" " alt="" coords="357,104,513,129"/>
+<area shape="rect" id="node4" href="$interfaceVehicleFixedWingSimulation.html" title=" " alt="" coords="577,5,765,31"/>
+<area shape="rect" id="node5" href="$interfaceVehicleHelicopterSimulation.html" title=" " alt="" coords="579,55,763,80"/>
+<area shape="rect" id="node6" href="$interfaceVehicleTrackedSimulation.html" title=" " alt="" coords="585,104,757,129"/>
+<area shape="rect" id="node7" href="$interfaceVehicleWheeledSimulation.html" title=" " alt="" coords="582,153,759,179"/>
+<area shape="rect" id="node8" href="$interfaceVehicleWheeledSimulation__SA__B.html" title=" " alt="" coords="561,203,780,228"/>
+<area shape="rect" id="node2" href="$interfaceGameComponent.html" title=" " alt="" coords="187,104,309,129"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,104,139,129"/>
+</map>

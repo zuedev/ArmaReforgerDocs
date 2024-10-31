@@ -1,0 +1,6 @@
+<map id="SCR_BaseLinkedStorageLogic" name="SCR_BaseLinkedStorageLogic">
+<area shape="rect" id="node1" title=" " alt="" coords="5,55,205,80"/>
+<area shape="rect" id="node2" href="$interfaceSCR__GetLinkedStorageChildren.html" title="This will add all children as linked storages. Use SCR_SetLinkedStorageToParent if you know the exact..." alt="" coords="255,5,462,31"/>
+<area shape="rect" id="node3" href="$interfaceSCR__MirrorLinkStorageToParent.html" title="This will try and find it&#39;s parent and add itself as a linked storage to the SCR_UniversalInventorySt..." alt="" coords="253,55,464,80"/>
+<area shape="rect" id="node4" href="$interfaceSCR__SetLinkedStorageToParent.html" title="This will try and find it&#39;s parent and add itself as a linked storage to the SCR_UniversalInventorySt..." alt="" coords="253,104,464,129"/>
+</map>

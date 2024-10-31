@@ -1,0 +1,8 @@
+<map id="BaseProjectileEffect" name="BaseProjectileEffect">
+<area shape="rect" id="node1" title=" " alt="" coords="206,79,345,104"/>
+<area shape="rect" id="node3" href="$interfaceExplosionDamageContainer.html" title=" " alt="" coords="5,152,188,177"/>
+<area shape="rect" id="node4" href="$interfaceSpawnDecalEffect.html" title=" " alt="" coords="212,152,339,177"/>
+<area shape="rect" id="node5" href="$interfaceSpawnParticleEffect.html" title=" " alt="" coords="363,152,502,177"/>
+<area shape="rect" id="node2" title=" " alt="" coords="218,5,333,31"/>
+<area shape="rect" id="node6" href="$interfaceSpawnDistanceParticleEffect.html" title=" " alt="" coords="338,225,527,251"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="SCR_EditablePlayerDelegateComponent" name="SCR_EditablePlayerDelegateComponent">
+<area shape="rect" id="node1" title="Editable entity representing a player." alt="" coords="11,152,202,192"/>
+<area shape="rect" id="node2" href="$interfaceSCR__EditableEntityComponent.html" title="Component defining editable entity." alt="" coords="5,79,208,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="45,5,168,31"/>
+</map>

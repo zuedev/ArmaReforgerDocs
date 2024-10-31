@@ -1,0 +1,4 @@
+<map id="SCR_WidgetListEntryLabel" name="SCR_WidgetListEntryLabel">
+<area shape="rect" id="node1" title="Configurable widget list entry for list label." alt="" coords="5,79,185,104"/>
+<area shape="rect" id="node2" href="$interfaceSCR__WidgetListEntry.html" title="Configurable class for widget." alt="" coords="21,5,170,31"/>
+</map>

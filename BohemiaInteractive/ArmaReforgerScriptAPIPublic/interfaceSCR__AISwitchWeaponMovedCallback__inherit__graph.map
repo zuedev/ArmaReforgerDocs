@@ -1,0 +1,6 @@
+<map id="SCR_AISwitchWeaponMovedCallback" name="SCR_AISwitchWeaponMovedCallback">
+<area shape="rect" id="node1" title=" " alt="" coords="5,240,248,265"/>
+<area shape="rect" id="node2" href="$interfaceScriptedInventoryOperationCallback.html" title=" " alt="" coords="38,152,215,192"/>
+<area shape="rect" id="node3" href="$interfaceInventoryOperationCallback.html" title=" " alt="" coords="37,79,216,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="89,5,164,31"/>
+</map>

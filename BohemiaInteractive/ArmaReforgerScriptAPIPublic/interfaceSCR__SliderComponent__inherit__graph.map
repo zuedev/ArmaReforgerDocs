@@ -1,0 +1,7 @@
+<map id="SCR_SliderComponent" name="SCR_SliderComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="38,299,193,324"/>
+<area shape="rect" id="node2" href="$interfaceSCR__ChangeableComponentBase.html" title="Base class for all widgets that can change their internal state as editbox or spinbox." alt="" coords="5,225,225,251"/>
+<area shape="rect" id="node3" href="$interfaceSCR__WLibComponentBase.html" title="Base class for all final Reforger interactive elements." alt="" coords="24,152,207,177"/>
+<area shape="rect" id="node4" href="$interfaceSCR__ScriptedWidgetComponent.html" title=" " alt="" coords="10,79,221,104"/>
+<area shape="rect" id="node5" title=" " alt="" coords="27,5,204,31"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="SCR_ReconnectComponent" name="SCR_ReconnectComponent">
+<area shape="rect" id="node1" title="Takes care of managing player reconnects in case of involuntary disconnect Authority&#45;only component a..." alt="" coords="23,152,207,177"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseGameModeComponent.html" title="Interface for game mode extending components." alt="" coords="5,79,224,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="53,5,176,31"/>
+</map>

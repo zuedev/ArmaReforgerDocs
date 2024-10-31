@@ -1,0 +1,6 @@
+<map id="CanvasWidgetBase" name="CanvasWidgetBase">
+<area shape="rect" id="node1" title="All methods working with vector work only with its x and y components, the z is always ignored." alt="" coords="5,152,140,177"/>
+<area shape="rect" id="node4" href="$interfaceCanvasWidget.html" title=" " alt="" coords="20,225,125,251"/>
+<area shape="rect" id="node2" href="$interfaceWidget.html" title=" " alt="" coords="41,79,104,104"/>
+<area shape="rect" id="node3" href="$interfaceManaged.html" title=" " alt="" coords="35,5,110,31"/>
+</map>

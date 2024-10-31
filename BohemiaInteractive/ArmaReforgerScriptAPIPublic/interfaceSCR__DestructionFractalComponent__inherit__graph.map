@@ -1,0 +1,9 @@
+<map id="SCR_DestructionFractalComponent" name="SCR_DestructionFractalComponent">
+<area shape="rect" id="node1" title="Fractal destruction component. For objects that should shatter/splinter etc." alt="" coords="5,460,233,485"/>
+<area shape="rect" id="node2" href="$interfaceSCR__DestructionDamageManagerComponent.html" title="Base destruction component, destruction types extend from this." alt="" coords="9,372,229,412"/>
+<area shape="rect" id="node3" href="$interfaceSCR__DamageManagerComponent.html" title=" " alt="" coords="9,299,229,324"/>
+<area shape="rect" id="node4" href="$interfaceDamageManagerComponent.html" title=" " alt="" coords="26,225,213,251"/>
+<area shape="rect" id="node5" href="$interfaceHitZoneContainerComponent.html" title=" " alt="" coords="26,152,213,177"/>
+<area shape="rect" id="node6" href="$interfaceGameComponent.html" title=" " alt="" coords="58,79,181,104"/>
+<area shape="rect" id="node7" title=" " alt="" coords="53,5,186,31"/>
+</map>

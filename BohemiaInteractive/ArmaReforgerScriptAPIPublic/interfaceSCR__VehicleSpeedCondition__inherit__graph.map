@@ -1,0 +1,4 @@
+<map id="SCR_VehicleSpeedCondition" name="SCR_VehicleSpeedCondition">
+<area shape="rect" id="node1" title="Returns true if current vehicle speed matches the condition." alt="" coords="9,79,200,104"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AvailableActionCondition.html" title="A single available action condition representation." alt="" coords="5,5,204,31"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="SCR_PlayerCommandingMenuBaseElement" name="SCR_PlayerCommandingMenuBaseElement">
+<area shape="rect" id="node1" title="Commanding menu base element class." alt="" coords="117,79,319,119"/>
+<area shape="rect" id="node3" href="$interfaceSCR__PlayerCommandingMenuCategoryElement.html" title="Commanding menu base element class." alt="" coords="5,167,207,207"/>
+<area shape="rect" id="node4" href="$interfaceSCR__PlayerCommandingMenuCommand.html" title="Commanding menu commanding element class." alt="" coords="231,167,432,207"/>
+<area shape="rect" id="node2" title=" " alt="" coords="181,5,255,31"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="CharacterMovementComponentClass" name="CharacterMovementComponentClass">
+<area shape="rect" id="node1" title=" " alt="" coords="10,225,213,265"/>
+<area shape="rect" id="node2" href="$interfacePawnMovementComponentClass.html" title=" " alt="" coords="5,152,217,177"/>
+<area shape="rect" id="node3" href="$interfaceGenericComponentClass.html" title=" " alt="" coords="28,79,195,104"/>
+<area shape="rect" id="node4" href="$interfaceEntityComponentPrefabData.html" title="Shared object with constant data for components from prefab." alt="" coords="18,5,205,31"/>
+</map>

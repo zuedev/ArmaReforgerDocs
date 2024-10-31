@@ -1,0 +1,9 @@
+<map id="CameraBase" name="CameraBase">
+<area shape="rect" id="node1" title=" " alt="" coords="225,79,322,104"/>
+<area shape="rect" id="node3" href="$interfacePlayerCamera.html" title=" " alt="" coords="5,152,109,177"/>
+<area shape="rect" id="node4" href="$interfaceSCR__CameraBase.html" title="Base class for scripted cameras." alt="" coords="133,152,264,177"/>
+<area shape="rect" id="node6" href="$interfaceSCR__PIPCamera.html" title=" " alt="" coords="288,152,411,177"/>
+<area shape="rect" id="node7" href="$interfaceScriptedCameraBase.html" title=" " alt="" coords="435,152,581,177"/>
+<area shape="rect" id="node2" title=" " alt="" coords="223,5,324,31"/>
+<area shape="rect" id="node5" href="$interfaceSCR__ManualCamera.html" title="Entity for managing manual camera and its components." alt="" coords="127,225,270,251"/>
+</map>

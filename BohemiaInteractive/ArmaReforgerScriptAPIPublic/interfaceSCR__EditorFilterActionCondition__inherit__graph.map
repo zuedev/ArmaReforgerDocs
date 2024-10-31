@@ -1,0 +1,4 @@
+<map id="SCR_EditorFilterActionCondition" name="SCR_EditorFilterActionCondition">
+<area shape="rect" id="node1" title="Returns true if given editor entity filter is not empty." alt="" coords="5,79,216,104"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AvailableActionCondition.html" title="A single available action condition representation." alt="" coords="11,5,210,31"/>
+</map>

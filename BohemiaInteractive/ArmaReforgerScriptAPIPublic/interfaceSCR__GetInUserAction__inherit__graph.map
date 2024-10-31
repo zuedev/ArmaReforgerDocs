@@ -1,0 +1,10 @@
+<map id="SCR_GetInUserAction" name="SCR_GetInUserAction">
+<area shape="rect" id="node1" title=" " alt="" coords="107,372,257,397"/>
+<area shape="rect" id="node7" href="$interfaceSCR__SwitchSeatAction.html" title=" " alt="" coords="5,445,164,471"/>
+<area shape="rect" id="node8" href="$interfaceSCR__TurretGetInUserAction.html" title=" " alt="" coords="189,445,373,471"/>
+<area shape="rect" id="node2" href="$interfaceSCR__CompartmentUserAction.html" title=" " alt="" coords="83,299,281,324"/>
+<area shape="rect" id="node3" href="$interfaceCompartmentUserAction.html" title=" " alt="" coords="100,225,264,251"/>
+<area shape="rect" id="node4" href="$interfaceScriptedUserAction.html" title=" " alt="" coords="115,152,249,177"/>
+<area shape="rect" id="node5" href="$interfaceBaseUserAction.html" title=" " alt="" coords="124,79,240,104"/>
+<area shape="rect" id="node6" title=" " alt="" coords="125,5,239,31"/>
+</map>

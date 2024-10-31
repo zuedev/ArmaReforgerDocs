@@ -1,0 +1,8 @@
+<map id="SCR_CharacterCommandHandlerComponent" name="SCR_CharacterCommandHandlerComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="21,299,236,339"/>
+<area shape="rect" id="node6" href="$interfaceSCR__CharacterCommandHandlerComponent__Tests.html" title=" " alt="" coords="21,387,236,427"/>
+<area shape="rect" id="node2" href="$interfaceCharacterCommandHandlerComponent.html" title=" " alt="" coords="5,225,252,251"/>
+<area shape="rect" id="node3" href="$interfaceBaseCommandHandlerComponent.html" title=" " alt="" coords="18,152,239,177"/>
+<area shape="rect" id="node4" href="$interfaceGameComponent.html" title=" " alt="" coords="67,79,190,104"/>
+<area shape="rect" id="node5" title=" " alt="" coords="62,5,195,31"/>
+</map>

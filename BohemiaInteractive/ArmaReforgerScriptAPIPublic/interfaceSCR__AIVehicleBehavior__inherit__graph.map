@@ -1,0 +1,9 @@
+<map id="SCR_AIVehicleBehavior" name="SCR_AIVehicleBehavior">
+<area shape="rect" id="node1" title=" " alt="" coords="82,299,242,324"/>
+<area shape="rect" id="node6" href="$interfaceSCR__AIGetInVehicle.html" title=" " alt="" coords="5,372,148,397"/>
+<area shape="rect" id="node7" href="$interfaceSCR__AIGetOutVehicle.html" title=" " alt="" coords="172,372,325,397"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AIBehaviorBase.html" title=" " alt="" coords="89,225,235,251"/>
+<area shape="rect" id="node3" href="$interfaceSCR__AIActionBase.html" title=" " alt="" coords="95,152,229,177"/>
+<area shape="rect" id="node4" href="$interfaceAIActionBase.html" title=" " alt="" coords="111,79,213,104"/>
+<area shape="rect" id="node5" title=" " alt="" coords="105,5,219,31"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="SCR_PrefabCategory" name="SCR_PrefabCategory">
+<area shape="rect" id="node1" title="Prefab to be spawned by SCR_PrefabsSpawnerManager." alt="" coords="20,79,165,104"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BasePrefabCategory.html" title="Base class for Prefab Spawning." alt="" coords="5,5,180,31"/>
+</map>

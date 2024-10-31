@@ -1,0 +1,6 @@
+<map id="LoadoutJacketArea" name="LoadoutJacketArea">
+<area shape="rect" id="node1" title=" " alt="" coords="12,225,145,251"/>
+<area shape="rect" id="node2" href="$interfaceLoadoutAreaType.html" title=" " alt="" coords="17,152,140,177"/>
+<area shape="rect" id="node3" href="$interfaceBaseAttachmentType.html" title=" " alt="" coords="5,79,152,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="21,5,136,31"/>
+</map>

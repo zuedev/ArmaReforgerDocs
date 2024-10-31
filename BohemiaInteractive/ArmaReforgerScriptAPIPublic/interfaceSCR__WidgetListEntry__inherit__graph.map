@@ -1,0 +1,11 @@
+<map id="SCR_WidgetListEntry" name="SCR_WidgetListEntry">
+<area shape="rect" id="node1" title="Configurable class for widget." alt="" coords="5,104,155,129"/>
+<area shape="rect" id="node2" href="$interfaceSCR__WidgetListEntryCheckBox.html" title="Configurable widget list entry for boolean values &#45; yes/no." alt="" coords="203,5,412,31"/>
+<area shape="rect" id="node3" href="$interfaceSCR__WidgetListEntryEditBox.html" title="Configurable widget list entry for various value that can be typed &#45; numbers, strings,..." alt="" coords="210,55,405,80"/>
+<area shape="rect" id="node5" href="$interfaceSCR__WidgetListEntryLabel.html" title="Configurable widget list entry for list label." alt="" coords="217,104,397,129"/>
+<area shape="rect" id="node6" href="$interfaceSCR__WidgetListEntrySelection.html" title="Configurable widget list entry list selection." alt="" coords="206,153,409,179"/>
+<area shape="rect" id="node9" href="$interfaceSCR__WidgetListEntrySlider.html" title="Configurable widget list entry for slider with ranged values." alt="" coords="216,203,399,228"/>
+<area shape="rect" id="node4" href="$interfaceSCR__WidgetListEntryEditBoxIP.html" title="IP specific entry." alt="" coords="460,55,667,80"/>
+<area shape="rect" id="node7" href="$interfaceSCR__WidgetListEntrySpinBox.html" title="Configurable widget list entry selection specific for spinbox." alt="" coords="464,153,663,179"/>
+<area shape="rect" id="node8" href="$interfaceSCR__WidgetListEntryBoolSpinBox.html" title=" " alt="" coords="715,153,939,179"/>
+</map>

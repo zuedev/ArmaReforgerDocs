@@ -1,0 +1,6 @@
+<map id="SCR_DestructibleBuildingEntityClass" name="SCR_DestructibleBuildingEntityClass">
+<area shape="rect" id="node1" title=" " alt="" coords="5,225,176,265"/>
+<area shape="rect" id="node2" href="$interfaceBuildingClass.html" title=" " alt="" coords="40,152,141,177"/>
+<area shape="rect" id="node3" href="$interfaceBaseBuildingClass.html" title=" " alt="" coords="25,79,156,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="11,5,170,31"/>
+</map>

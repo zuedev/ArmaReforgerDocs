@@ -1,0 +1,15 @@
+<map id="SCR_BaseToggleToolbarAction" name="SCR_BaseToggleToolbarAction">
+<area shape="rect" id="node1" title=" " alt="" coords="428,169,631,194"/>
+<area shape="rect" id="node4" href="$interfaceSCR__AttachToEntityToolbarAction.html" title=" " alt="" coords="695,5,879,45"/>
+<area shape="rect" id="node5" href="$interfaceSCR__BaseCommandAction.html" title=" " alt="" coords="695,70,878,95"/>
+<area shape="rect" id="node9" href="$interfaceSCR__FlashlightToolbarAction.html" title=" " alt="" coords="691,119,882,145"/>
+<area shape="rect" id="node10" href="$interfaceSCR__HintSequenceToolbarAction.html" title=" " alt="" coords="679,169,895,194"/>
+<area shape="rect" id="node11" href="$interfaceSCR__PauseGameTimeToolbarAction.html" title=" " alt="" coords="687,219,886,259"/>
+<area shape="rect" id="node12" href="$interfaceSCR__PlacingFlagToolbarAction.html" title=" " alt="" coords="685,283,888,309"/>
+<area shape="rect" id="node13" href="$interfaceSCR__ToggleLocalEditorNightModeToolbarAction.html" title=" " alt="" coords="692,333,881,373"/>
+<area shape="rect" id="node2" href="$interfaceSCR__EditorToolbarAction.html" title=" " alt="" coords="211,169,380,194"/>
+<area shape="rect" id="node3" href="$interfaceSCR__BaseEditorAction.html" title="Base container class for all editor action types (ContextActions, WaypointActions,..." alt="" coords="5,169,163,194"/>
+<area shape="rect" id="node6" href="$interfaceSCR__SpawnPointBaseCommandAction.html" title=" " alt="" coords="954,5,1169,45"/>
+<area shape="rect" id="node7" href="$interfaceSCR__TaskBaseCommandAction.html" title=" " alt="" coords="956,70,1167,95"/>
+<area shape="rect" id="node8" href="$interfaceSCR__WaypointBaseCommandAction.html" title=" " alt="" coords="943,119,1180,145"/>
+</map>

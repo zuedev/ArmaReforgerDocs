@@ -1,0 +1,5 @@
+<map id="SCR_PrefabPreviewEntity" name="SCR_PrefabPreviewEntity">
+<area shape="rect" id="node1" title="Preview entity created from entity prefab." alt="" coords="5,152,176,177"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BasePreviewEntity.html" title="Generic preview entity used to represent another entity is simplified form." alt="" coords="9,79,173,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="40,5,141,31"/>
+</map>

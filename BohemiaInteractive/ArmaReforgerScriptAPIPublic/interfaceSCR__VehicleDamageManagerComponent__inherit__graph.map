@@ -1,0 +1,10 @@
+<map id="SCR_VehicleDamageManagerComponent" name="SCR_VehicleDamageManagerComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="129,372,326,412"/>
+<area shape="rect" id="node7" href="$interfaceSCR__HelicopterDamageManagerComponent.html" title=" " alt="" coords="5,460,217,500"/>
+<area shape="rect" id="node8" href="$interfaceSCR__WheeledDamageManagerComponent.html" title=" " alt="" coords="242,460,447,500"/>
+<area shape="rect" id="node2" href="$interfaceSCR__DamageManagerComponent.html" title=" " alt="" coords="117,299,337,324"/>
+<area shape="rect" id="node3" href="$interfaceDamageManagerComponent.html" title=" " alt="" coords="134,225,321,251"/>
+<area shape="rect" id="node4" href="$interfaceHitZoneContainerComponent.html" title=" " alt="" coords="134,152,321,177"/>
+<area shape="rect" id="node5" href="$interfaceGameComponent.html" title=" " alt="" coords="166,79,289,104"/>
+<area shape="rect" id="node6" title=" " alt="" coords="161,5,294,31"/>
+</map>

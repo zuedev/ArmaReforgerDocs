@@ -1,0 +1,11 @@
+<map id="SCR_ListMenuEntryComponent" name="SCR_ListMenuEntryComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="489,84,696,109"/>
+<area shape="rect" id="node4" href="$interfaceSCR__AddonLineBaseComponent.html" title="Class for addon line button base." alt="" coords="744,55,957,80"/>
+<area shape="rect" id="node7" href="$interfaceSCR__BrowserListMenuEntryComponent.html" title=" " alt="" coords="757,105,944,145"/>
+<area shape="rect" id="node2" href="$interfaceSCR__ScriptedWidgetComponent.html" title=" " alt="" coords="231,84,441,109"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,84,183,109"/>
+<area shape="rect" id="node5" href="$interfaceSCR__AddonLineDSConfigComponent.html" title=" " alt="" coords="1008,5,1245,31"/>
+<area shape="rect" id="node6" href="$interfaceSCR__WorkshopAddonLineComponent.html" title=" " alt="" coords="1005,55,1248,80"/>
+<area shape="rect" id="node8" href="$interfaceSCR__ContentBrowser__ScenarioLineComponent.html" title=" " alt="" coords="1041,105,1212,145"/>
+<area shape="rect" id="node9" href="$interfaceSCR__ServerBrowserEntryComponent.html" title="This component handles server entry and visiualization of server data." alt="" coords="1009,169,1245,195"/>
+</map>

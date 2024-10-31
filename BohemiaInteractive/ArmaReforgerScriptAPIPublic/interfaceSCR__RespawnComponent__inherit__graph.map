@@ -1,0 +1,6 @@
+<map id="SCR_RespawnComponent" name="SCR_RespawnComponent">
+<area shape="rect" id="node1" title="Dummy communicator for RespawnSystem." alt="" coords="5,225,180,251"/>
+<area shape="rect" id="node2" href="$interfaceRespawnComponent.html" title="Respawn component is a component attached to PlayerController serving as interface for communication ..." alt="" coords="22,152,163,177"/>
+<area shape="rect" id="node3" href="$interfaceGameComponent.html" title=" " alt="" coords="31,79,154,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="26,5,159,31"/>
+</map>

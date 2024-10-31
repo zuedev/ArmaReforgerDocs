@@ -1,0 +1,16 @@
+<map id="SCR_InventorySlotUI" name="SCR_InventorySlotUI">
+<area shape="rect" id="node1" title="UI Script Inventory Slot UI Layout." alt="" coords="231,228,373,253"/>
+<area shape="rect" id="node3" href="$interfaceSCR__ArsenalInventorySlotUI.html" title=" " alt="" coords="443,5,629,31"/>
+<area shape="rect" id="node4" href="$interfaceSCR__InventoryAttachmentSlotUI.html" title=" " alt="" coords="431,55,641,80"/>
+<area shape="rect" id="node5" href="$interfaceSCR__InventoryHitZoneSlotUI.html" title=" " alt="" coords="443,104,629,129"/>
+<area shape="rect" id="node6" href="$interfaceSCR__InventorySlotGadgetUI.html" title="UI Script Inventory Slot UI Layout." alt="" coords="444,153,628,179"/>
+<area shape="rect" id="node7" href="$interfaceSCR__InventorySlotGearInspectionUI.html" title=" " alt="" coords="421,203,651,228"/>
+<area shape="rect" id="node8" href="$interfaceSCR__InventorySlotQuickSlotUI.html" title="UI Script Inventory Slot UI Layout." alt="" coords="437,252,635,277"/>
+<area shape="rect" id="node9" href="$interfaceSCR__InventorySlotStorageUI.html" title="UI Script Inventory Slot UI Layout." alt="" coords="443,301,629,327"/>
+<area shape="rect" id="node12" href="$interfaceSCR__InventorySlotWeaponSlotsUI.html" title="UI Script Inventory Slot UI Layout." alt="" coords="426,351,646,376"/>
+<area shape="rect" id="node13" href="$interfaceSCR__InventorySlotWeaponUI.html" title="UI Script Inventory Slot UI Layout." alt="" coords="441,400,631,425"/>
+<area shape="rect" id="node14" href="$interfaceSCR__SupplyInventorySlotUI.html" title=" " alt="" coords="445,449,627,475"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,228,183,253"/>
+<area shape="rect" id="node10" href="$interfaceSCR__InventorySlotLBSUI.html" title="UI Script Inventory Slot UI Layout." alt="" coords="703,273,869,299"/>
+<area shape="rect" id="node11" href="$interfaceSCR__InventorySlotStorageEmbeddedUI.html" title="UI Script Inventory Slot UI Layout." alt="" coords="699,323,873,363"/>
+</map>

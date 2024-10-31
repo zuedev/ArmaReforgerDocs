@@ -1,0 +1,9 @@
+<map id="SCR_SetEnableDamageEditorAttribute" name="SCR_SetEnableDamageEditorAttribute">
+<area shape="rect" id="node1" title=" " alt="" coords="739,69,937,109"/>
+<area shape="rect" id="node5" href="$interfaceSCR__SetEnableDamageCharacterEditorAttribute.html" title=" " alt="" coords="985,5,1205,45"/>
+<area shape="rect" id="node6" href="$interfaceSCR__SetEnableDamageOtherEditorAttribute.html" title=" " alt="" coords="997,69,1193,109"/>
+<area shape="rect" id="node7" href="$interfaceSCR__SetEnableDamageVehicleEditorAttribute.html" title=" " alt="" coords="992,133,1199,173"/>
+<area shape="rect" id="node2" href="$interfaceSCR__ValidTypeBaseValueListEditorAttribute.html" title=" " alt="" coords="493,69,691,109"/>
+<area shape="rect" id="node3" href="$interfaceSCR__BaseValueListEditorAttribute.html" title="Attribute base for slider values for other attributes to inherent from." alt="" coords="223,77,445,102"/>
+<area shape="rect" id="node4" href="$interfaceSCR__BaseEditorAttribute.html" title="Base Attribute Script for other attributes to inherent from to get and set varriables in Editor Attri..." alt="" coords="5,77,175,102"/>
+</map>

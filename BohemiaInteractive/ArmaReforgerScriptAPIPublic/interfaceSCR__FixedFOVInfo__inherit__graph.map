@@ -1,0 +1,6 @@
+<map id="SCR_FixedFOVInfo" name="SCR_FixedFOVInfo">
+<area shape="rect" id="node1" title=" " alt="" coords="15,225,150,251"/>
+<area shape="rect" id="node2" href="$interfaceScriptedSightsFOVInfo.html" title=" " alt="" coords="5,152,160,177"/>
+<area shape="rect" id="node3" href="$interfaceSightsFOVInfo.html" title="Sights FOV info is a declare object that defines individual sights magnification levels and their pro..." alt="" coords="29,79,136,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="25,5,140,31"/>
+</map>

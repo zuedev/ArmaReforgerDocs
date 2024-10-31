@@ -1,0 +1,6 @@
+<map id="SCR_SimpleKeybindDialogUI" name="SCR_SimpleKeybindDialogUI">
+<area shape="rect" id="node1" title=" " alt="" coords="5,225,196,251"/>
+<area shape="rect" id="node2" href="$interfaceSCR__KeybindDialogBase.html" title=" " alt="" coords="16,152,185,177"/>
+<area shape="rect" id="node3" href="$interfaceSCR__ConfigurableDialogUi.html" title=" " alt="" coords="13,79,188,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="12,5,189,31"/>
+</map>

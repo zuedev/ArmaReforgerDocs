@@ -1,0 +1,8 @@
+<map id="SCR_BlockUIInfo" name="SCR_BlockUIInfo">
+<area shape="rect" id="node1" title=" " alt="" coords="81,225,203,251"/>
+<area shape="rect" id="node5" href="$interfaceSCR__FormatUIInfo.html" title=" " alt="" coords="5,299,135,324"/>
+<area shape="rect" id="node6" href="$interfaceSCR__HintUIInfo.html" title=" " alt="" coords="159,299,269,324"/>
+<area shape="rect" id="node2" href="$interfaceSCR__UIInfo.html" title="Class used to hold UI information." alt="" coords="98,152,186,177"/>
+<area shape="rect" id="node3" href="$interfaceSCR__UIDescription.html" title="Class used to hold UI name and description." alt="" coords="75,79,209,104"/>
+<area shape="rect" id="node4" href="$interfaceSCR__UIName.html" title="Class used to hold UI name." alt="" coords="91,5,193,31"/>
+</map>

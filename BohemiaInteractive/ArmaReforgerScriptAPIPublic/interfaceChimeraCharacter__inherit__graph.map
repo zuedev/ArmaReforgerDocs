@@ -1,0 +1,7 @@
+<map id="ChimeraCharacter" name="ChimeraCharacter">
+<area shape="rect" id="node1" title=" " alt="" coords="22,225,149,251"/>
+<area shape="rect" id="node5" href="$interfaceSCR__ChimeraCharacter.html" title=" " alt="" coords="5,299,165,324"/>
+<area shape="rect" id="node2" href="$interfaceGameEntity.html" title=" " alt="" coords="40,152,131,177"/>
+<area shape="rect" id="node3" href="$interfaceBaseGameEntity.html" title=" " alt="" coords="25,79,146,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="35,5,136,31"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="SCR_BaseScoringSystemComponent" name="SCR_BaseScoringSystemComponent">
+<area shape="rect" id="node1" title="This component serves as a base and interface for game mode scoring system." alt="" coords="5,152,247,177"/>
+<area shape="rect" id="node4" href="$interfaceSCR__ScoringSystemComponent.html" title="This component implements logic of handling certain score limits." alt="" coords="21,225,231,251"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseGameModeComponent.html" title="Interface for game mode extending components." alt="" coords="17,79,235,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="65,5,187,31"/>
+</map>

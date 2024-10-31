@@ -1,0 +1,7 @@
+<map id="SCR_DebriefingScreenMenu" name="SCR_DebriefingScreenMenu">
+<area shape="rect" id="node1" title=" " alt="" coords="5,299,192,324"/>
+<area shape="rect" id="node2" href="$interfaceSCR__WelcomeScreenMenu.html" title="Class that handles Welcome screen menu." alt="" coords="7,225,191,251"/>
+<area shape="rect" id="node3" href="$interfaceSCR__DeployMenuBase.html" title="Base deploy menu class." alt="" coords="19,152,178,177"/>
+<area shape="rect" id="node4" href="$interfaceChimeraMenuBase.html" title="Constant variables used in various menus." alt="" coords="33,79,165,104"/>
+<area shape="rect" id="node5" title=" " alt="" coords="57,5,141,31"/>
+</map>

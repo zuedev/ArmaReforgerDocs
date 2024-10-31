@@ -1,0 +1,6 @@
+<map id="SCR_BoardingEntityWaypoint" name="SCR_BoardingEntityWaypoint">
+<area shape="rect" id="node1" title=" " alt="" coords="5,225,201,251"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BoardingWaypoint.html" title=" " alt="" coords="22,152,185,177"/>
+<area shape="rect" id="node3" href="$interfaceSCR__AIWaypoint.html" title=" " alt="" coords="42,79,165,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="59,5,148,31"/>
+</map>

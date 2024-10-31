@@ -1,0 +1,4 @@
+<map id="SCR_MuzzleTypeCondition" name="SCR_MuzzleTypeCondition">
+<area shape="rect" id="node1" title="Returns true if current muzzle&#39;s type matches specified type." alt="" coords="15,79,195,104"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AvailableActionCondition.html" title="A single available action condition representation." alt="" coords="5,5,204,31"/>
+</map>

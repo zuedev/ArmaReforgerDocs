@@ -1,0 +1,11 @@
+<map id="SCR_ScenarioFrameworkLayerTaskClass" name="SCR_ScenarioFrameworkLayerTaskClass">
+<area shape="rect" id="node1" title=" " alt="" coords="459,165,661,205"/>
+<area shape="rect" id="node4" href="$interfaceSCR__ScenarioFrameworkInventoryLoaderClass.html" title=" " alt="" coords="709,5,932,45"/>
+<area shape="rect" id="node5" href="$interfaceSCR__ScenarioFrameworkLayerTaskClearAreaClass.html" title=" " alt="" coords="719,69,922,109"/>
+<area shape="rect" id="node6" href="$interfaceSCR__ScenarioFrameworkLayerTaskDefendClass.html" title=" " alt="" coords="719,133,922,173"/>
+<area shape="rect" id="node7" href="$interfaceSCR__ScenarioFrameworkLayerTaskDeliverClass.html" title=" " alt="" coords="719,197,922,237"/>
+<area shape="rect" id="node8" href="$interfaceSCR__ScenarioFrameworkLayerTaskDestroyClass.html" title=" " alt="" coords="719,261,922,301"/>
+<area shape="rect" id="node9" href="$interfaceSCR__ScenarioFrameworkLayerTaskKillClass.html" title=" " alt="" coords="719,325,922,365"/>
+<area shape="rect" id="node2" href="$interfaceSCR__ScenarioFrameworkLayerBaseClass.html" title=" " alt="" coords="208,165,411,205"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,173,160,198"/>
+</map>

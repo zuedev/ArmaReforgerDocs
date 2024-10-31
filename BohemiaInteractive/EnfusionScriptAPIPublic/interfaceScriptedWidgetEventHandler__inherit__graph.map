@@ -1,0 +1,7 @@
+<map id="ScriptedWidgetEventHandler" name="ScriptedWidgetEventHandler">
+<area shape="rect" id="node1" title=" " alt="" coords="39,79,225,104"/>
+<area shape="rect" id="node3" href="$interfaceMenuBase.html" title="Base class for menus in menu manager order callbacks call: opening: 1) OnMenuInit &#45; called during loa..." alt="" coords="13,152,97,177"/>
+<area shape="rect" id="node5" href="$interfaceScriptedWidgetComponent.html" title=" " alt="" coords="121,152,298,177"/>
+<area shape="rect" id="node2" href="$interfaceManaged.html" title=" " alt="" coords="95,5,169,31"/>
+<area shape="rect" id="node4" href="$interfaceMessageBox.html" title=" " alt="" coords="5,225,104,251"/>
+</map>

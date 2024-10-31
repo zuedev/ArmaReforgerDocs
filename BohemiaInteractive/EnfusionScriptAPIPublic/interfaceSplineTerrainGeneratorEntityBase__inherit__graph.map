@@ -1,0 +1,7 @@
+<map id="SplineTerrainGeneratorEntityBase" name="SplineTerrainGeneratorEntityBase">
+<area shape="rect" id="node1" title=" " alt="" coords="5,299,224,324"/>
+<area shape="rect" id="node2" href="$interfaceGeneratorBaseEntity.html" title=" " alt="" coords="43,225,186,251"/>
+<area shape="rect" id="node3" href="$interfaceGenericEntity.html" title="Base entity class." alt="" coords="64,152,165,177"/>
+<area shape="rect" id="node4" href="$interfaceIEntity.html" title=" " alt="" coords="85,79,144,104"/>
+<area shape="rect" id="node5" href="$interfaceManaged.html" title=" " alt="" coords="77,5,152,31"/>
+</map>

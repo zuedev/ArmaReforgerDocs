@@ -1,0 +1,5 @@
+<map id="SCR_ExitGameWhileDownloadingDialog" name="SCR_ExitGameWhileDownloadingDialog">
+<area shape="rect" id="node1" title=" " alt="" coords="5,152,225,192"/>
+<area shape="rect" id="node2" href="$interfaceSCR__ConfigurableDialogUi.html" title=" " alt="" coords="28,79,203,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="27,5,204,31"/>
+</map>

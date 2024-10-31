@@ -1,0 +1,6 @@
+<map id="LayoutSlot" name="LayoutSlot">
+<area shape="rect" id="node1" title=" " alt="" coords="115,79,199,104"/>
+<area shape="rect" id="node3" href="$interfaceHorizontalLayoutSlot.html" title=" " alt="" coords="5,152,148,177"/>
+<area shape="rect" id="node4" href="$interfaceVerticalLayoutSlot.html" title=" " alt="" coords="173,152,301,177"/>
+<area shape="rect" id="node2" href="$interfaceAlignableSlot.html" title=" " alt="" coords="107,5,206,31"/>
+</map>

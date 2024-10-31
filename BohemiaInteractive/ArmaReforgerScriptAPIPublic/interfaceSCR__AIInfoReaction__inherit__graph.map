@@ -1,0 +1,7 @@
+<map id="SCR_AIInfoReaction" name="SCR_AIInfoReaction">
+<area shape="rect" id="node1" title=" " alt="" coords="5,109,144,134"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AIInfoReaction__FoundCorpse.html" title=" " alt="" coords="192,5,331,45"/>
+<area shape="rect" id="node3" href="$interfaceSCR__AIInfoReaction__NoAmmo.html" title=" " alt="" coords="192,69,331,109"/>
+<area shape="rect" id="node4" href="$interfaceSCR__AIInfoReaction__UnderFire.html" title=" " alt="" coords="192,133,331,173"/>
+<area shape="rect" id="node5" href="$interfaceSCR__AIInfoReaction__Wounded.html" title=" " alt="" coords="192,197,331,237"/>
+</map>

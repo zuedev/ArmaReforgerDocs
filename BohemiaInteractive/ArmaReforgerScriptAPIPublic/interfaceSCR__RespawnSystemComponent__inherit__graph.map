@@ -1,0 +1,6 @@
+<map id="SCR_RespawnSystemComponent" name="SCR_RespawnSystemComponent">
+<area shape="rect" id="node1" title="Scripted implementation that handles spawning and respawning of players." alt="" coords="5,225,225,251"/>
+<area shape="rect" id="node2" href="$interfaceRespawnSystemComponent.html" title="RespawnSystemComponent should be attached to a gamemode to handle player spawning and respawning." alt="" coords="22,152,209,177"/>
+<area shape="rect" id="node3" href="$interfaceGameComponent.html" title=" " alt="" coords="54,79,177,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="49,5,182,31"/>
+</map>

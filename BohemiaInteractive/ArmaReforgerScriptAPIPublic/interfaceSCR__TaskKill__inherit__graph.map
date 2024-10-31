@@ -1,0 +1,6 @@
+<map id="SCR_TaskKill" name="SCR_TaskKill">
+<area shape="rect" id="node1" title=" " alt="" coords="53,225,156,251"/>
+<area shape="rect" id="node2" href="$interfaceSCR__ScenarioFrameworkTask.html" title=" " alt="" coords="5,152,204,177"/>
+<area shape="rect" id="node3" href="$interfaceSCR__BaseTask.html" title="A base class for tasks." alt="" coords="47,79,162,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="54,5,155,31"/>
+</map>

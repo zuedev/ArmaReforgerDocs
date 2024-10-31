@@ -1,0 +1,13 @@
+<map id="SCR_SettingsSubMenuBase" name="SCR_SettingsSubMenuBase">
+<area shape="rect" id="node1" title=" " alt="" coords="679,153,868,179"/>
+<area shape="rect" id="node5" href="$interfaceSCR__AudioSettingsSubMenu.html" title=" " alt="" coords="929,5,1121,31"/>
+<area shape="rect" id="node6" href="$interfaceSCR__EditorSettingsSubMenu.html" title=" " alt="" coords="929,55,1122,80"/>
+<area shape="rect" id="node7" href="$interfaceSCR__GameplaySettingsSubMenu.html" title=" " alt="" coords="916,104,1135,129"/>
+<area shape="rect" id="node8" href="$interfaceSCR__InterfaceSettingsSubMenu.html" title=" " alt="" coords="921,153,1129,179"/>
+<area shape="rect" id="node9" href="$interfaceSCR__KeybindSetting.html" title=" " alt="" coords="953,203,1097,228"/>
+<area shape="rect" id="node10" href="$interfaceSCR__VideoSettingsConsoleSubMenu.html" title=" " alt="" coords="933,253,1117,293"/>
+<area shape="rect" id="node11" href="$interfaceSCR__VideoSettingsSubMenu.html" title=" " alt="" coords="929,317,1121,343"/>
+<area shape="rect" id="node2" href="$interfaceSCR__SubMenuBase.html" title=" " alt="" coords="489,153,631,179"/>
+<area shape="rect" id="node3" href="$interfaceSCR__ScriptedWidgetComponent.html" title=" " alt="" coords="231,153,441,179"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,153,183,179"/>
+</map>

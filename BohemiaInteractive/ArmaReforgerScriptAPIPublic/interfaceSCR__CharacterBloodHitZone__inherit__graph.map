@@ -1,0 +1,7 @@
+<map id="SCR_CharacterBloodHitZone" name="SCR_CharacterBloodHitZone">
+<area shape="rect" id="node1" title="Blood &#45; does not receive damage directly, only via scripted events." alt="" coords="5,299,195,324"/>
+<area shape="rect" id="node2" href="$interfaceSCR__RegeneratingHitZone.html" title=" " alt="" coords="12,225,188,251"/>
+<area shape="rect" id="node3" href="$interfaceSCR__HitZone.html" title=" " alt="" coords="50,152,150,177"/>
+<area shape="rect" id="node4" href="$interfaceHitZone.html" title=" " alt="" coords="67,79,133,104"/>
+<area shape="rect" id="node5" title=" " alt="" coords="43,5,157,31"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="SCR_CampaignMapUIElement" name="SCR_CampaignMapUIElement">
+<area shape="rect" id="node1" title=" " alt="" coords="102,225,301,251"/>
+<area shape="rect" id="node5" href="$interfaceSCR__CampaignMapUIBase.html" title=" " alt="" coords="5,299,187,324"/>
+<area shape="rect" id="node6" href="$interfaceSCR__CampaignMapUIService.html" title=" " alt="" coords="211,299,405,324"/>
+<area shape="rect" id="node2" href="$interfaceSCR__MapUIElement.html" title=" " alt="" coords="131,152,272,177"/>
+<area shape="rect" id="node3" href="$interfaceSCR__ScriptedWidgetComponent.html" title=" " alt="" coords="96,79,307,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="113,5,290,31"/>
+</map>

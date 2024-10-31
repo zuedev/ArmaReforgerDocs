@@ -1,0 +1,5 @@
+<map id="SCR_AmbientInsectsEffect" name="SCR_AmbientInsectsEffect">
+<area shape="rect" id="node1" title=" " alt="" coords="123,5,302,31"/>
+<area shape="rect" id="node2" href="$interfaceSCR__ObjectPositionalInsects.html" title="Handles looped ambient effects around specific entities." alt="" coords="5,79,199,104"/>
+<area shape="rect" id="node3" href="$interfaceSCR__RandomPositionalInsects.html" title="Spawns Insect particles around camera based on define behaviour." alt="" coords="223,79,426,104"/>
+</map>

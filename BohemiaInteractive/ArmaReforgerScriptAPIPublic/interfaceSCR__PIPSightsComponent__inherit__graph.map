@@ -1,0 +1,8 @@
+<map id="SCR_PIPSightsComponent" name="SCR_PIPSightsComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="5,372,185,397"/>
+<area shape="rect" id="node2" href="$interfaceScriptedSightsComponent.html" title=" " alt="" coords="9,299,182,324"/>
+<area shape="rect" id="node3" href="$interfaceSightsComponent.html" title=" " alt="" coords="33,225,158,251"/>
+<area shape="rect" id="node4" href="$interfaceBaseSightsComponent.html" title=" " alt="" coords="18,152,173,177"/>
+<area shape="rect" id="node5" href="$interfaceGameComponent.html" title=" " alt="" coords="34,79,157,104"/>
+<area shape="rect" id="node6" title=" " alt="" coords="29,5,162,31"/>
+</map>

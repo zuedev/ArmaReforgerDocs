@@ -1,0 +1,8 @@
+<map id="VolumeEntity" name="VolumeEntity">
+<area shape="rect" id="node1" title=" " alt="" coords="77,225,177,251"/>
+<area shape="rect" id="node5" href="$interfaceProbeVolume.html" title=" " alt="" coords="5,299,105,324"/>
+<area shape="rect" id="node6" href="$interfaceWorldOccluderEntity.html" title=" " alt="" coords="129,299,272,324"/>
+<area shape="rect" id="node2" href="$interfaceGenericEntity.html" title="Base entity class." alt="" coords="77,152,178,177"/>
+<area shape="rect" id="node3" href="$interfaceIEntity.html" title=" " alt="" coords="98,79,157,104"/>
+<area shape="rect" id="node4" href="$interfaceManaged.html" title=" " alt="" coords="90,5,165,31"/>
+</map>

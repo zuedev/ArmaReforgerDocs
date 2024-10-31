@@ -1,0 +1,7 @@
+<map id="SCR_BaseGameOverScreenInfo" name="SCR_BaseGameOverScreenInfo">
+<area shape="rect" id="node1" title=" " alt="" coords="155,5,363,31"/>
+<area shape="rect" id="node2" href="$interfaceSCR__DeathMatchGameOverScreenInfo.html" title=" " alt="" coords="5,79,253,104"/>
+<area shape="rect" id="node3" href="$interfaceSCR__FactionGameOverScreenInfo.html" title=" " alt="" coords="277,79,499,104"/>
+<area shape="rect" id="node4" href="$interfaceSCR__EditorFactionGameOverScreenInfo.html" title=" " alt="" coords="179,152,373,192"/>
+<area shape="rect" id="node5" href="$interfaceSCR__FactionVictoryGameOverScreenInfo.html" title=" " alt="" coords="398,152,599,192"/>
+</map>

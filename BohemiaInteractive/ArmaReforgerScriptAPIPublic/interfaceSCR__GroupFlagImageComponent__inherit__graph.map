@@ -1,0 +1,8 @@
+<map id="SCR_GroupFlagImageComponent" name="SCR_GroupFlagImageComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="5,372,223,397"/>
+<area shape="rect" id="node2" href="$interfaceSCR__ButtonImageComponent.html" title=" " alt="" coords="17,299,211,324"/>
+<area shape="rect" id="node3" href="$interfaceSCR__ButtonBaseComponent.html" title="Base class for any button, regardless its own content." alt="" coords="19,225,209,251"/>
+<area shape="rect" id="node4" href="$interfaceSCR__WLibComponentBase.html" title="Base class for all final Reforger interactive elements." alt="" coords="23,152,205,177"/>
+<area shape="rect" id="node5" href="$interfaceSCR__ScriptedWidgetComponent.html" title=" " alt="" coords="9,79,219,104"/>
+<area shape="rect" id="node6" title=" " alt="" coords="25,5,203,31"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="SCR_NameTagCollectorBase" name="SCR_NameTagCollectorBase">
+<area shape="rect" id="node1" title="Base class for nametag entity data collection." alt="" coords="8,79,200,104"/>
+<area shape="rect" id="node3" href="$interfaceSCR__NameTagCollectorGroup.html" title="Group nametag collector." alt="" coords="5,152,203,177"/>
+<area shape="rect" id="node2" title=" " alt="" coords="67,5,141,31"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="SCR_BoolAttributeDynamicDescription" name="SCR_BoolAttributeDynamicDescription">
+<area shape="rect" id="node1" title="Shows dynamic description if bool meets the condition." alt="" coords="7,93,190,133"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseAttributeDynamicDescription.html" title="Holds logic when a dynamic description should be shown when attributes are hovered over." alt="" coords="5,5,192,45"/>
+</map>

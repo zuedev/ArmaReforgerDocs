@@ -1,0 +1,5 @@
+<map id="SCR_WidgetListEntryEditBoxIP" name="SCR_WidgetListEntryEditBoxIP">
+<area shape="rect" id="node1" title="IP specific entry." alt="" coords="5,152,212,177"/>
+<area shape="rect" id="node2" href="$interfaceSCR__WidgetListEntryEditBox.html" title="Configurable widget list entry for various value that can be typed &#45; numbers, strings,..." alt="" coords="11,79,206,104"/>
+<area shape="rect" id="node3" href="$interfaceSCR__WidgetListEntry.html" title="Configurable class for widget." alt="" coords="34,5,183,31"/>
+</map>

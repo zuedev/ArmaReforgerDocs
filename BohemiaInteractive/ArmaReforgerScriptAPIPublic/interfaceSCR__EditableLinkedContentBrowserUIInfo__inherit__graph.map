@@ -1,0 +1,7 @@
+<map id="SCR_EditableLinkedContentBrowserUIInfo" name="SCR_EditableLinkedContentBrowserUIInfo">
+<area shape="rect" id="node1" title=" " alt="" coords="5,299,192,339"/>
+<area shape="rect" id="node2" href="$interfaceSCR__EditableEntityUIInfo.html" title=" " alt="" coords="14,225,183,251"/>
+<area shape="rect" id="node3" href="$interfaceSCR__UIInfo.html" title="Class used to hold UI information." alt="" coords="55,152,143,177"/>
+<area shape="rect" id="node4" href="$interfaceSCR__UIDescription.html" title="Class used to hold UI name and description." alt="" coords="32,79,165,104"/>
+<area shape="rect" id="node5" href="$interfaceSCR__UIName.html" title="Class used to hold UI name." alt="" coords="47,5,150,31"/>
+</map>

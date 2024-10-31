@@ -1,0 +1,6 @@
+<map id="NwkHeliMovementComponent" name="NwkHeliMovementComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="5,225,200,251"/>
+<area shape="rect" id="node2" href="$interfaceNwkMovementComponent.html" title="Base class for entity replication &#45; e.g. vehicles, characters, animals." alt="" coords="17,152,189,177"/>
+<area shape="rect" id="node3" href="$interfaceGameComponent.html" title=" " alt="" coords="41,79,164,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="36,5,169,31"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="SCR_ServicePointComponent" name="SCR_ServicePointComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="148,152,343,177"/>
+<area shape="rect" id="node4" href="$interfaceSCR__AntennaServicePointComponent.html" title=" " alt="" coords="5,225,248,251"/>
+<area shape="rect" id="node5" href="$interfaceSCR__SlotServiceComponent.html" title="Service with basic slot handling functionalities." alt="" coords="272,225,459,251"/>
+<area shape="rect" id="node2" href="$interfaceSCR__MilitaryBaseLogicComponent.html" title=" " alt="" coords="133,79,358,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="184,5,307,31"/>
+<area shape="rect" id="node6" href="$interfaceSCR__CatalogEntitySpawnerComponent.html" title="Component allowing user to request spawning entities using asset catalogs Requires ActionManager with..." alt="" coords="160,299,344,339"/>
+<area shape="rect" id="node7" href="$interfaceSCR__DefenderSpawnerComponent.html" title="Service providing group of defenders defined in faction. Requires SCR_EnableDefenderAction on ActionM..." alt="" coords="369,306,591,331"/>
+</map>

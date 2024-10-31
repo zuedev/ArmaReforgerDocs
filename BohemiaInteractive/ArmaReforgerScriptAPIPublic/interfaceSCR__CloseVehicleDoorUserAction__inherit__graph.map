@@ -1,0 +1,7 @@
+<map id="SCR_CloseVehicleDoorUserAction" name="SCR_CloseVehicleDoorUserAction">
+<area shape="rect" id="node1" title=" " alt="" coords="5,299,192,339"/>
+<area shape="rect" id="node2" href="$interfaceVehicleDoorUserAction.html" title=" " alt="" coords="21,225,177,251"/>
+<area shape="rect" id="node3" href="$interfaceScriptedUserAction.html" title=" " alt="" coords="31,152,166,177"/>
+<area shape="rect" id="node4" href="$interfaceBaseUserAction.html" title=" " alt="" coords="41,79,157,104"/>
+<area shape="rect" id="node5" title=" " alt="" coords="41,5,156,31"/>
+</map>

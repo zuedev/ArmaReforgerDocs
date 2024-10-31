@@ -1,0 +1,5 @@
+<map id="SCR_EventHandlerComponent" name="SCR_EventHandlerComponent">
+<area shape="rect" id="node1" title="Component for handling common events other scripts need to listen Feel free to add any event in the l..." alt="" coords="5,79,204,104"/>
+<area shape="rect" id="node3" href="$interfaceSCR__ServicesStatusDialogLineComponent.html" title=" " alt="" coords="15,152,194,192"/>
+<area shape="rect" id="node2" title=" " alt="" coords="16,5,193,31"/>
+</map>

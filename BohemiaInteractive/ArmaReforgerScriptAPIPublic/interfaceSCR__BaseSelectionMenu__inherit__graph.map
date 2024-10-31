@@ -1,0 +1,6 @@
+<map id="SCR_BaseSelectionMenu" name="SCR_BaseSelectionMenu">
+<area shape="rect" id="node1" title="Scripted base radial menu implementation." alt="" coords="5,225,177,251"/>
+<area shape="rect" id="node2" href="$interfaceScriptedSelectionMenu.html" title=" " alt="" coords="13,152,169,177"/>
+<area shape="rect" id="node3" href="$interfaceBaseSelectionMenu.html" title=" " alt="" coords="22,79,161,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="34,5,149,31"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="SCR_CameraBaseClass" name="SCR_CameraBaseClass">
+<area shape="rect" id="node1" title=" " alt="" coords="133,152,297,177"/>
+<area shape="rect" id="node4" href="$interfaceSCR__DebugCameraEntityClass.html" title=" " alt="" coords="5,225,211,251"/>
+<area shape="rect" id="node5" href="$interfaceSCR__ManualCameraClass.html" title=" " alt="" coords="235,225,411,251"/>
+<area shape="rect" id="node2" href="$interfaceCameraBaseClass.html" title=" " alt="" coords="149,79,280,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="147,5,282,31"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="SCR_EntityCatalogMultiList" name="SCR_EntityCatalogMultiList">
+<area shape="rect" id="node1" title="Multilist catalog for ease of use for developers." alt="" coords="5,79,188,104"/>
+<area shape="rect" id="node2" href="$interfaceSCR__EntityCatalog.html" title="Catalog that holds faction entity lists of a specific entity type." alt="" coords="29,5,164,31"/>
+</map>

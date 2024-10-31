@@ -1,0 +1,8 @@
+<map id="SCR_PlayerSpawnPoint" name="SCR_PlayerSpawnPoint">
+<area shape="rect" id="node1" title=" " alt="" coords="21,225,184,251"/>
+<area shape="rect" id="node5" href="$interfaceSCR__PlayerRadioSpawnPoint.html" title=" " alt="" coords="5,299,200,324"/>
+<area shape="rect" id="node2" href="$interfaceSCR__SpawnPoint.html" title="Spawn point entity defines positions on which players can possibly spawn." alt="" coords="40,152,165,177"/>
+<area shape="rect" id="node3" href="$interfaceSCR__Position.html" title=" " alt="" coords="51,79,154,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="52,5,153,31"/>
+<area shape="rect" id="node6" href="$interfaceSCR__PlayerRadioSpawnPointCampaign.html" title=" " alt="" coords="5,372,200,412"/>
+</map>

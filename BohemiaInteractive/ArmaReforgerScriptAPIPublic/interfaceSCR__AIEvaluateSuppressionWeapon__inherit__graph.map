@@ -1,0 +1,4 @@
+<map id="SCR_AIEvaluateSuppressionWeapon" name="SCR_AIEvaluateSuppressionWeapon">
+<area shape="rect" id="node1" title="Evaluates a weapon useful for suppressive fire at Weapon&amp;Target selector and returns the weapon,..." alt="" coords="5,79,195,119"/>
+<area shape="rect" id="node2" title=" " alt="" coords="45,5,155,31"/>
+</map>

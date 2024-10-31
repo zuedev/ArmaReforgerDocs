@@ -1,0 +1,6 @@
+<map id="SCR_ReportedAddonsDialog" name="SCR_ReportedAddonsDialog">
+<area shape="rect" id="node1" title="Show list of reported mods and provide option to cancel reports." alt="" coords="5,225,193,251"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AddonListDialog.html" title="Shows a list of addons and some text." alt="" coords="24,152,175,177"/>
+<area shape="rect" id="node3" href="$interfaceSCR__ConfigurableDialogUi.html" title=" " alt="" coords="12,79,187,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="11,5,188,31"/>
+</map>

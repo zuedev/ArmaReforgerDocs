@@ -1,0 +1,13 @@
+<map id="SCR_FieldManualPiece" name="SCR_FieldManualPiece">
+<area shape="rect" id="node1" title=" " alt="" coords="5,301,164,326"/>
+<area shape="rect" id="node2" href="$interfaceSCR__FieldManualPiece__ConfigEntry.html" title=" " alt="" coords="228,5,387,45"/>
+<area shape="rect" id="node3" href="$interfaceSCR__FieldManualPiece__ConfigEntryList.html" title=" " alt="" coords="228,69,387,109"/>
+<area shape="rect" id="node4" href="$interfaceSCR__FieldManualPiece__Header.html" title=" " alt="" coords="228,133,387,173"/>
+<area shape="rect" id="node5" href="$interfaceSCR__FieldManualPiece__Image.html" title=" " alt="" coords="228,197,387,237"/>
+<area shape="rect" id="node6" href="$interfaceSCR__FieldManualPiece__ImageGallery.html" title=" " alt="" coords="228,261,387,301"/>
+<area shape="rect" id="node7" href="$interfaceSCR__FieldManualPiece__Keybind.html" title=" " alt="" coords="228,325,387,365"/>
+<area shape="rect" id="node8" href="$interfaceSCR__FieldManualPiece__KeybindList.html" title=" " alt="" coords="228,389,387,429"/>
+<area shape="rect" id="node9" href="$interfaceSCR__FieldManualPiece__LineBreak.html" title=" " alt="" coords="228,453,387,493"/>
+<area shape="rect" id="node10" href="$interfaceSCR__FieldManualPiece__Separator.html" title=" " alt="" coords="228,517,387,557"/>
+<area shape="rect" id="node11" href="$interfaceSCR__FieldManualPiece__Text.html" title=" " alt="" coords="212,582,403,607"/>
+</map>

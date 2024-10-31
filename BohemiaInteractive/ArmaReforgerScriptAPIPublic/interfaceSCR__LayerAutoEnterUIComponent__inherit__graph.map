@@ -1,0 +1,6 @@
+<map id="SCR_LayerAutoEnterUIComponent" name="SCR_LayerAutoEnterUIComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="5,225,229,251"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseEditorUIComponent.html" title=" " alt="" coords="18,152,217,177"/>
+<area shape="rect" id="node3" href="$interfaceMenuRootSubComponent.html" title="Widget component which is linked to menu it&#39;s part of." alt="" coords="32,79,203,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="29,5,206,31"/>
+</map>

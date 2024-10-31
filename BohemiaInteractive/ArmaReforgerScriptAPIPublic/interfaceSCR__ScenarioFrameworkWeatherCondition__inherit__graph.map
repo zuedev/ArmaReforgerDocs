@@ -1,0 +1,4 @@
+<map id="SCR_ScenarioFrameworkWeatherCondition" name="SCR_ScenarioFrameworkWeatherCondition">
+<area shape="rect" id="node1" title=" " alt="" coords="9,93,229,133"/>
+<area shape="rect" id="node2" href="$interfaceSCR__ScenarioFrameworkActivationConditionBase.html" title=" " alt="" coords="5,5,232,45"/>
+</map>

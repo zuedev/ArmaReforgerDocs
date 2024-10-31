@@ -1,0 +1,5 @@
+<map id="SCR_CampaignBuildingCooldownBudgetToEvaluateData" name="SCR_CampaignBuildingCooldownBudgetToEvaluateData">
+<area shape="rect" id="node1" title=" " alt="" coords="5,93,221,133"/>
+<area shape="rect" id="node3" href="$interfaceSCR__CampaignBuildingCooldownWithRankBudgetToEvaluateData.html" title=" " alt="" coords="5,181,221,221"/>
+<area shape="rect" id="node2" href="$interfaceSCR__CampaignBuildingBudgetToEvaluateData.html" title=" " alt="" coords="13,5,214,45"/>
+</map>

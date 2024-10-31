@@ -1,0 +1,8 @@
+<map id="SCR_VONEntryRadio" name="SCR_VONEntryRadio">
+<area shape="rect" id="node1" title="VONEntry class for radio entries." alt="" coords="18,372,166,397"/>
+<area shape="rect" id="node2" href="$interfaceSCR__VONEntry.html" title="Voice over network entry data class, used for management of communication methods." alt="" coords="35,299,149,324"/>
+<area shape="rect" id="node3" href="$interfaceSCR__SelectionMenuEntry.html" title="Scripted selection menu entry based on UI info for storing data into SCR_SelectionMenu." alt="" coords="5,225,179,251"/>
+<area shape="rect" id="node4" href="$interfaceSCR__UIInfo.html" title="Class used to hold UI information." alt="" coords="48,152,136,177"/>
+<area shape="rect" id="node5" href="$interfaceSCR__UIDescription.html" title="Class used to hold UI name and description." alt="" coords="25,79,159,104"/>
+<area shape="rect" id="node6" href="$interfaceSCR__UIName.html" title="Class used to hold UI name." alt="" coords="41,5,143,31"/>
+</map>

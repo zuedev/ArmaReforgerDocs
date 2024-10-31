@@ -1,0 +1,6 @@
+<map id="SCR_KeyBlockUIName" name="SCR_KeyBlockUIName">
+<area shape="rect" id="node1" title=" " alt="" coords="13,225,171,251"/>
+<area shape="rect" id="node2" href="$interfaceSCR__DeviceBlockUIName.html" title=" " alt="" coords="5,152,179,177"/>
+<area shape="rect" id="node3" href="$interfaceSCR__SubBlockUIName.html" title=" " alt="" coords="13,79,171,104"/>
+<area shape="rect" id="node4" href="$interfaceSCR__UIName.html" title="Class used to hold UI name." alt="" coords="41,5,143,31"/>
+</map>

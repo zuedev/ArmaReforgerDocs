@@ -1,0 +1,5 @@
+<map id="CompositeDrawCommand" name="CompositeDrawCommand">
+<area shape="rect" id="node1" title="Draws all commands from internal array in order." alt="" coords="5,152,177,177"/>
+<area shape="rect" id="node2" href="$interfaceCanvasWidgetCommand.html" title=" " alt="" coords="9,79,173,104"/>
+<area shape="rect" id="node3" href="$interfaceManaged.html" title=" " alt="" coords="54,5,129,31"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="SCR_BaseTriggerComponentClass" name="SCR_BaseTriggerComponentClass">
+<area shape="rect" id="node1" title=" " alt="" coords="137,299,327,339"/>
+<area shape="rect" id="node6" href="$interfaceSCR__ExplosiveTriggerComponentClass.html" title=" " alt="" coords="5,387,221,427"/>
+<area shape="rect" id="node7" href="$interfaceSCR__PressureTriggerComponentClass.html" title=" " alt="" coords="245,387,459,427"/>
+<area shape="rect" id="node2" href="$interfaceBaseTriggerComponentClass.html" title=" " alt="" coords="137,225,327,251"/>
+<area shape="rect" id="node3" href="$interfaceBaseProjectileComponentClass.html" title=" " alt="" coords="129,152,335,177"/>
+<area shape="rect" id="node4" href="$interfaceGameComponentClass.html" title=" " alt="" coords="154,79,310,104"/>
+<area shape="rect" id="node5" title=" " alt="" coords="149,5,315,31"/>
+</map>

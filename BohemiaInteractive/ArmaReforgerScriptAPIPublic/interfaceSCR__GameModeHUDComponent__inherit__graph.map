@@ -1,0 +1,4 @@
+<map id="SCR_GameModeHUDComponent" name="SCR_GameModeHUDComponent">
+<area shape="rect" id="node1" title="Deathmatch HUD component. Expects to be attached onto SCR_GameModeDeathmatch entity." alt="" coords="5,79,221,104"/>
+<area shape="rect" id="node2" title=" " alt="" coords="52,5,175,31"/>
+</map>

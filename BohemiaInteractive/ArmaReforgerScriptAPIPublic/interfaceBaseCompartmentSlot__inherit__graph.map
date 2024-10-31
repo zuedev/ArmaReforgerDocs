@@ -1,0 +1,10 @@
+<map id="BaseCompartmentSlot" name="BaseCompartmentSlot">
+<area shape="rect" id="node1" title=" " alt="" coords="314,152,467,177"/>
+<area shape="rect" id="node4" href="$interfaceCargoCompartmentSlot.html" title=" " alt="" coords="135,225,292,251"/>
+<area shape="rect" id="node7" href="$interfacePilotCompartmentSlot.html" title=" " alt="" coords="316,225,465,251"/>
+<area shape="rect" id="node8" href="$interfaceTurretCompartmentSlot.html" title=" " alt="" coords="490,225,646,251"/>
+<area shape="rect" id="node2" href="$interfaceExtBaseCompartmentSlot.html" title=" " alt="" coords="304,79,477,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="333,5,448,31"/>
+<area shape="rect" id="node5" href="$interfaceSCR__DoctorCompartmentSlot.html" title=" " alt="" coords="5,299,200,324"/>
+<area shape="rect" id="node6" href="$interfaceSCR__PatientCompartmentSlot.html" title=" " alt="" coords="225,299,423,324"/>
+</map>

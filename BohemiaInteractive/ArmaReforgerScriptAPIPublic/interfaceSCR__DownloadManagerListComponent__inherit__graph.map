@@ -1,0 +1,6 @@
+<map id="SCR_DownloadManagerListComponent" name="SCR_DownloadManagerListComponent">
+<area shape="rect" id="node1" title="Download manager list that can group download entries into various sections." alt="" coords="5,225,255,251"/>
+<area shape="rect" id="node2" href="$interfaceSCR__SubMenuBase.html" title=" " alt="" coords="59,152,201,177"/>
+<area shape="rect" id="node3" href="$interfaceSCR__ScriptedWidgetComponent.html" title=" " alt="" coords="25,79,235,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="41,5,219,31"/>
+</map>

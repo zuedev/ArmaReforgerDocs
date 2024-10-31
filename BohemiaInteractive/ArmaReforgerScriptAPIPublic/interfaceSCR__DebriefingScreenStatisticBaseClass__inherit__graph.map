@@ -1,0 +1,8 @@
+<map id="SCR_DebriefingScreenStatisticBaseClass" name="SCR_DebriefingScreenStatisticBaseClass">
+<area shape="rect" id="node1" title="Base class that holds and handles information about statistic." alt="" coords="5,133,208,173"/>
+<area shape="rect" id="node2" href="$interfaceSCR__DebriefingScreenStatisticDeaths.html" title="Class that holds information and handles information about deaths." alt="" coords="256,5,459,45"/>
+<area shape="rect" id="node3" href="$interfaceSCR__DebriefingScreenStatisticDistanceDriven.html" title="Class that holds information and handles information about distance driven." alt="" coords="256,69,459,109"/>
+<area shape="rect" id="node4" href="$interfaceSCR__DebriefingScreenStatisticDistanceWalked.html" title="Class that holds information and handles information about distance walked." alt="" coords="256,133,459,173"/>
+<area shape="rect" id="node5" href="$interfaceSCR__DebriefingScreenStatisticKills.html" title="Class that holds information and handles information about kills." alt="" coords="256,197,459,237"/>
+<area shape="rect" id="node6" href="$interfaceSCR__DebriefingScreenStatisticShotsFired.html" title="Class that holds information and handles information about shots fired." alt="" coords="256,261,459,301"/>
+</map>

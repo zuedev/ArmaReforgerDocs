@@ -1,0 +1,4 @@
+<map id="SCR_VehicleCameraAimpoint" name="SCR_VehicleCameraAimpoint">
+<area shape="rect" id="node1" title="Defines a curve that represents different translations at different vehicle speeds." alt="" coords="5,79,200,104"/>
+<area shape="rect" id="node2" title=" " alt="" coords="65,5,140,31"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="SCR_AIVehicleUsageComponent" name="SCR_AIVehicleUsageComponent">
+<area shape="rect" id="node1" title="This component should be attached to root entity of all vehicles and static turrets which are usable ..." alt="" coords="5,79,220,104"/>
+<area shape="rect" id="node2" title=" " alt="" coords="51,5,174,31"/>
+</map>

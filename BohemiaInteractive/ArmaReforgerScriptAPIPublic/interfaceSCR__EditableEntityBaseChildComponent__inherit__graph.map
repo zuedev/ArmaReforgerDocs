@@ -1,0 +1,7 @@
+<map id="SCR_EditableEntityBaseChildComponent" name="SCR_EditableEntityBaseChildComponent">
+<area shape="rect" id="node1" title="Base class for child editable entity component." alt="" coords="176,37,372,77"/>
+<area shape="rect" id="node3" href="$interfaceSCR__EditableEntityMaterialChildComponent.html" title=" " alt="" coords="422,5,605,45"/>
+<area shape="rect" id="node4" href="$interfaceSCR__EditableEntityVisibilityChildComponent.html" title=" " alt="" coords="420,69,607,109"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,45,128,70"/>
+<area shape="rect" id="node5" href="$interfaceSCR__EditableEntityVehicleCompartmentVisibilityChildComponent.html" title=" " alt="" coords="655,69,899,109"/>
+</map>

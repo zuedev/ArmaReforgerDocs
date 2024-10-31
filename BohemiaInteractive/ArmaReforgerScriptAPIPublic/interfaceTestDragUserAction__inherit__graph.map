@@ -1,0 +1,6 @@
+<map id="TestDragUserAction" name="TestDragUserAction">
+<area shape="rect" id="node1" title=" " alt="" coords="5,225,144,251"/>
+<area shape="rect" id="node2" href="$interfaceScriptedUserAction.html" title=" " alt="" coords="7,152,142,177"/>
+<area shape="rect" id="node3" href="$interfaceBaseUserAction.html" title=" " alt="" coords="17,79,133,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="17,5,132,31"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="SCR_NTStateConfigBase" name="SCR_NTStateConfigBase">
+<area shape="rect" id="node1" title="Nametag element state config." alt="" coords="60,5,229,31"/>
+<area shape="rect" id="node2" href="$interfaceSCR__NTStateIcon.html" title="Nametag icon element state config." alt="" coords="5,79,132,104"/>
+<area shape="rect" id="node3" href="$interfaceSCR__NTStateText.html" title="Nametag text element state config." alt="" coords="157,79,285,104"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="SCR_GameModeSectorControl" name="SCR_GameModeSectorControl">
+<area shape="rect" id="node1" title="Encapsulates the team sector control game mode functionality." alt="" coords="5,225,208,251"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseGameMode.html" title=" " alt="" coords="30,152,183,177"/>
+<area shape="rect" id="node3" href="$interfaceBaseGameMode.html" title=" " alt="" coords="47,79,166,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="56,5,157,31"/>
+</map>

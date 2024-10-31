@@ -1,0 +1,8 @@
+<map id="SCR_EntityToolbarItemEditorUIComponent" name="SCR_EntityToolbarItemEditorUIComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="465,69,656,109"/>
+<area shape="rect" id="node4" href="$interfaceSCR__FactionsToolbarItemEditorUIComponent.html" title=" " alt="" coords="704,5,911,45"/>
+<area shape="rect" id="node5" href="$interfaceSCR__GroupToolbarItemEditorUIComponent.html" title=" " alt="" coords="711,69,903,109"/>
+<area shape="rect" id="node6" href="$interfaceSCR__PlayerToolbarItemEditorUIComponent.html" title=" " alt="" coords="710,133,905,173"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseToolbarItemEditorUIComponent.html" title=" " alt="" coords="231,69,417,109"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,77,183,102"/>
+</map>

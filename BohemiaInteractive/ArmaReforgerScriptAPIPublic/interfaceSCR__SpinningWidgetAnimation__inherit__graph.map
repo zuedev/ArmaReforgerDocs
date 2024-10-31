@@ -1,0 +1,4 @@
+<map id="SCR_SpinningWidgetAnimation&lt; Widget TWidget &gt;" name="SCR_SpinningWidgetAnimation&lt; Widget TWidget &gt;">
+<area shape="rect" id="node1" title="Templated animation which can be applied to different widget types. Not all widgets support SetRotati..." alt="" coords="5,93,211,133"/>
+<area shape="rect" id="node2" href="$interfaceSCR__SpinningWidgetAnimationAbstract.html" title="Abstract class of a spinning animation." alt="" coords="5,5,211,45"/>
+</map>

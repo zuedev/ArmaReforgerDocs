@@ -1,0 +1,6 @@
+<map id="EnvironmentProbeEntityClass" name="EnvironmentProbeEntityClass">
+<area shape="rect" id="node1" title=" " alt="" coords="5,225,200,251"/>
+<area shape="rect" id="node2" href="$interfaceVolumeReceiverEntityClass.html" title=" " alt="" coords="11,152,194,177"/>
+<area shape="rect" id="node3" href="$interfaceGenericEntityClass.html" title=" " alt="" coords="35,79,170,104"/>
+<area shape="rect" id="node4" href="$interfaceEntityPrefabData.html" title="Shared object with constant data for enf::EntitySource from prefab." alt="" coords="43,5,163,31"/>
+</map>

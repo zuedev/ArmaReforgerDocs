@@ -1,0 +1,10 @@
+<map id="SCR_ExplosiveChargeAction" name="SCR_ExplosiveChargeAction">
+<area shape="rect" id="node1" title=" " alt="" coords="731,77,920,102"/>
+<area shape="rect" id="node6" href="$interfaceSCR__ArmExplosiveChargeWithRemoteFuzeAction.html" title=" " alt="" coords="968,5,1171,45"/>
+<area shape="rect" id="node7" href="$interfaceSCR__ArmExplosiveChargeWithTimedFuzeAction.html" title=" " alt="" coords="968,69,1171,109"/>
+<area shape="rect" id="node8" href="$interfaceSCR__DisarmExplosiveChargeAction.html" title=" " alt="" coords="973,133,1166,173"/>
+<area shape="rect" id="node2" href="$interfaceSCR__ScriptedUserAction.html" title="A scripted action class having optional logic to check if vehicle is valid." alt="" coords="515,77,683,102"/>
+<area shape="rect" id="node3" href="$interfaceScriptedUserAction.html" title=" " alt="" coords="332,77,467,102"/>
+<area shape="rect" id="node4" href="$interfaceBaseUserAction.html" title=" " alt="" coords="168,77,284,102"/>
+<area shape="rect" id="node5" title=" " alt="" coords="5,77,120,102"/>
+</map>

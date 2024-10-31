@@ -1,0 +1,5 @@
+<map id="SCR_MilitaryBaseSystem" name="SCR_MilitaryBaseSystem">
+<area shape="rect" id="node1" title=" " alt="" coords="5,152,179,177"/>
+<area shape="rect" id="node2" href="$interfaceGameSystem.html" title=" " alt="" coords="41,79,143,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="43,5,141,31"/>
+</map>

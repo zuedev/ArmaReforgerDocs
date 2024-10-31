@@ -1,0 +1,11 @@
+<map id="SCR_SubBlockUIName" name="SCR_SubBlockUIName">
+<area shape="rect" id="node1" title=" " alt="" coords="156,104,315,129"/>
+<area shape="rect" id="node3" href="$interfaceSCR__BulletPointBlockUIName.html" title=" " alt="" coords="363,5,561,31"/>
+<area shape="rect" id="node4" href="$interfaceSCR__DeviceBlockUIName.html" title=" " alt="" coords="375,55,549,80"/>
+<area shape="rect" id="node7" href="$interfaceSCR__ImageBlockUIName.html" title=" " alt="" coords="377,104,547,129"/>
+<area shape="rect" id="node8" href="$interfaceSCR__SimpleTagBlockUIName.html" title=" " alt="" coords="364,153,560,179"/>
+<area shape="rect" id="node9" href="$interfaceSCR__TipBlockUIName.html" title=" " alt="" coords="386,203,538,228"/>
+<area shape="rect" id="node2" href="$interfaceSCR__UIName.html" title="Class used to hold UI name." alt="" coords="5,104,108,129"/>
+<area shape="rect" id="node5" href="$interfaceSCR__ActionBlockUIName.html" title=" " alt="" coords="609,31,781,56"/>
+<area shape="rect" id="node6" href="$interfaceSCR__KeyBlockUIName.html" title=" " alt="" coords="616,80,775,105"/>
+</map>

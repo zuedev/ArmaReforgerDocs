@@ -1,0 +1,8 @@
+<map id="ScriptedCommand" name="ScriptedCommand">
+<area shape="rect" id="node1" title=" " alt="" coords="254,79,383,104"/>
+<area shape="rect" id="node3" href="$interfaceCharacterCommandScripted.html" title=" " alt="" coords="14,152,199,177"/>
+<area shape="rect" id="node5" href="$interfaceSCR__CharacterCommandFly.html" title=" " alt="" coords="224,152,413,177"/>
+<area shape="rect" id="node6" href="$interfaceSCR__CharacterCommandSwim.html" title=" " alt="" coords="437,152,640,177"/>
+<area shape="rect" id="node2" href="$interfaceAnimPhysCommandScripted.html" title=" " alt="" coords="224,5,413,31"/>
+<area shape="rect" id="node4" href="$interfaceSCR__CharacterCommandLoiter.html" title=" " alt="" coords="5,225,208,251"/>
+</map>

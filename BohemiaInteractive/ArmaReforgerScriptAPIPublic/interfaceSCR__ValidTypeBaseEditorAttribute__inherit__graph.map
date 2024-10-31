@@ -1,0 +1,6 @@
+<map id="SCR_ValidTypeBaseEditorAttribute" name="SCR_ValidTypeBaseEditorAttribute">
+<area shape="rect" id="node1" title=" " alt="" coords="100,79,327,104"/>
+<area shape="rect" id="node3" href="$interfaceSCR__PositionEditorAttribute.html" title=" " alt="" coords="5,152,192,177"/>
+<area shape="rect" id="node4" href="$interfaceSCR__SnapYPositionEditorAttribute.html" title="An local attribute that dictates if position that is set is snapped to ground." alt="" coords="217,152,442,177"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseEditorAttribute.html" title="Base Attribute Script for other attributes to inherent from to get and set varriables in Editor Attri..." alt="" coords="129,5,298,31"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="BaseWeaponAimModifier" name="BaseWeaponAimModifier">
+<area shape="rect" id="node1" title=" " alt="" coords="155,79,323,104"/>
+<area shape="rect" id="node3" href="$interfaceScriptedWeaponAimModifier.html" title=" " alt="" coords="44,152,231,177"/>
+<area shape="rect" id="node6" href="$interfaceSwayWeaponAimModifier.html" title=" " alt="" coords="255,152,425,177"/>
+<area shape="rect" id="node2" title=" " alt="" coords="181,5,296,31"/>
+<area shape="rect" id="node4" href="$interfaceOnHitAimModifier.html" title="ONHIT AIM MODIFIER." alt="" coords="5,225,128,251"/>
+<area shape="rect" id="node5" href="$interfaceTestAimModifier.html" title=" " alt="" coords="152,225,267,251"/>
+</map>

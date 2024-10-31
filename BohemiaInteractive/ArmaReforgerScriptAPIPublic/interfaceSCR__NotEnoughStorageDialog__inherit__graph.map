@@ -1,0 +1,5 @@
+<map id="SCR_NotEnoughStorageDialog" name="SCR_NotEnoughStorageDialog">
+<area shape="rect" id="node1" title="There is not enough storage on your hard drive. The space required is at least %1." alt="" coords="5,152,207,177"/>
+<area shape="rect" id="node2" href="$interfaceSCR__ConfigurableDialogUi.html" title=" " alt="" coords="19,79,193,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="17,5,195,31"/>
+</map>

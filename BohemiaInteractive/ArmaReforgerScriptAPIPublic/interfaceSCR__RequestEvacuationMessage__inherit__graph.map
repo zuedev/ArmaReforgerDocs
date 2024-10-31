@@ -1,0 +1,7 @@
+<map id="SCR_RequestEvacuationMessage" name="SCR_RequestEvacuationMessage">
+<area shape="rect" id="node1" title=" " alt="" coords="5,299,225,324"/>
+<area shape="rect" id="node2" href="$interfaceSCR__RequestMessage.html" title=" " alt="" coords="37,225,194,251"/>
+<area shape="rect" id="node3" href="$interfaceScriptedRadioMessage.html" title=" " alt="" coords="37,152,193,177"/>
+<area shape="rect" id="node4" href="$interfaceBaseRadioMessage.html" title=" " alt="" coords="46,79,185,104"/>
+<area shape="rect" id="node5" title=" " alt="" coords="58,5,173,31"/>
+</map>

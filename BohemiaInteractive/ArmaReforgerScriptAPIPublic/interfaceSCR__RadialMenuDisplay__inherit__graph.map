@@ -1,0 +1,11 @@
+<map id="SCR_RadialMenuDisplay" name="SCR_RadialMenuDisplay">
+<area shape="rect" id="node1" title="Radial menu class for handling HUD part of menu." alt="" coords="94,445,261,471"/>
+<area shape="rect" id="node8" href="$interfaceSCR__MapRadialDisplay.html" title="Info display within hud manager of player controller." alt="" coords="5,519,165,544"/>
+<area shape="rect" id="node9" href="$interfaceSCR__VONRadialDisplay.html" title="Info display within hud manager of player controller." alt="" coords="189,519,352,544"/>
+<area shape="rect" id="node2" href="$interfaceSCR__SelectionMenuDisplay.html" title="Radial menu class for handling HUD part of menu." alt="" coords="85,372,270,397"/>
+<area shape="rect" id="node3" href="$interfaceSCR__InfoDisplayExtended.html" title=" " alt="" coords="90,299,265,324"/>
+<area shape="rect" id="node4" href="$interfaceSCR__InfoDisplay.html" title=" " alt="" coords="118,225,237,251"/>
+<area shape="rect" id="node5" href="$interfaceGroupInfoDisplay.html" title=" " alt="" coords="117,152,237,177"/>
+<area shape="rect" id="node6" href="$interfaceBaseInfoDisplay.html" title=" " alt="" coords="120,79,235,104"/>
+<area shape="rect" id="node7" title=" " alt="" coords="120,5,235,31"/>
+</map>

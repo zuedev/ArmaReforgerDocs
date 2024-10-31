@@ -1,0 +1,50 @@
+<map id="SCR_BaseEditorComponentClass" name="SCR_BaseEditorComponentClass">
+<area shape="rect" id="node1" title=" " alt="" coords="208,1187,427,1213"/>
+<area shape="rect" id="node3" href="$interfaceSCR__AccessKeysEditorComponentClass.html" title=" " alt="" coords="487,5,718,45"/>
+<area shape="rect" id="node4" href="$interfaceSCR__ActionsRadialMenuEditorComponentClass.html" title=" " alt="" coords="501,69,704,109"/>
+<area shape="rect" id="node5" href="$interfaceSCR__AttributesManagerEditorComponentClass.html" title=" " alt="" coords="505,133,701,173"/>
+<area shape="rect" id="node6" href="$interfaceSCR__BaseActionsEditorComponentClass.html" title=" " alt="" coords="487,197,718,237"/>
+<area shape="rect" id="node10" href="$interfaceSCR__BudgetEditorComponentClass.html" title=" " alt="" coords="504,261,701,301"/>
+<area shape="rect" id="node12" href="$interfaceSCR__CameraDataEditorComponentClass.html" title=" " alt="" coords="489,325,717,365"/>
+<area shape="rect" id="node13" href="$interfaceSCR__CameraEditorComponentClass.html" title=" " alt="" coords="502,389,703,429"/>
+<area shape="rect" id="node16" href="$interfaceSCR__CameraFiltersEditorComponentClass.html" title=" " alt="" coords="484,453,721,493"/>
+<area shape="rect" id="node17" href="$interfaceSCR__CameraParticlesEditorComponentClass.html" title=" " alt="" coords="509,517,696,557"/>
+<area shape="rect" id="node18" href="$interfaceSCR__CampaignBuildingEditorComponentClass.html" title=" " alt="" coords="505,581,700,621"/>
+<area shape="rect" id="node19" href="$interfaceSCR__CampaignBuildingPlacingObstructionEditorComponentClass.html" title=" " alt="" coords="491,645,714,685"/>
+<area shape="rect" id="node20" href="$interfaceSCR__ContentBrowserEditorComponentClass.html" title=" " alt="" coords="511,709,694,749"/>
+<area shape="rect" id="node21" href="$interfaceSCR__DebugEditorComponentClass.html" title=" " alt="" coords="506,773,699,813"/>
+<area shape="rect" id="node22" href="$interfaceSCR__DynamicSimulationEditorComponentClass.html" title=" " alt="" coords="501,837,704,877"/>
+<area shape="rect" id="node23" href="$interfaceSCR__EditorVONControllerComponentClass.html" title=" " alt="" coords="483,901,722,941"/>
+<area shape="rect" id="node24" href="$interfaceSCR__EntitiesManagerEditorComponentClass.html" title=" " alt="" coords="511,965,695,1005"/>
+<area shape="rect" id="node25" href="$interfaceSCR__FactionWarningManagerEditorComponentClass.html" title=" " alt="" coords="504,1029,701,1069"/>
+<area shape="rect" id="node26" href="$interfaceSCR__HighlightedEditorComponentClass.html" title=" " alt="" coords="493,1093,713,1133"/>
+<area shape="rect" id="node27" href="$interfaceSCR__HintEditorComponentClass.html" title=" " alt="" coords="497,1158,709,1183"/>
+<area shape="rect" id="node28" href="$interfaceSCR__InputLayoutEditorComponentClass.html" title=" " alt="" coords="491,1208,714,1248"/>
+<area shape="rect" id="node29" href="$interfaceSCR__LayersEditorComponentClass.html" title=" " alt="" coords="505,1272,700,1312"/>
+<area shape="rect" id="node30" href="$interfaceSCR__MapEditorComponentClass.html" title=" " alt="" coords="495,1337,710,1362"/>
+<area shape="rect" id="node31" href="$interfaceSCR__MenuEditorComponentClass.html" title=" " alt="" coords="492,1386,713,1411"/>
+<area shape="rect" id="node32" href="$interfaceSCR__MenuLayoutEditorComponentClass.html" title=" " alt="" coords="489,1436,716,1476"/>
+<area shape="rect" id="node33" href="$interfaceSCR__MenuOverlaysEditorComponentClass.html" title=" " alt="" coords="483,1500,722,1540"/>
+<area shape="rect" id="node34" href="$interfaceSCR__MusicEditorComponentClass.html" title=" " alt="" coords="507,1564,698,1604"/>
+<area shape="rect" id="node35" href="$interfaceSCR__PauseGameTimeEditorComponentClass.html" title=" " alt="" coords="475,1628,731,1668"/>
+<area shape="rect" id="node36" href="$interfaceSCR__PingEditorComponentClass.html" title=" " alt="" coords="495,1693,710,1718"/>
+<area shape="rect" id="node37" href="$interfaceSCR__PlacingEditorComponentClass.html" title=" " alt="" coords="503,1743,702,1783"/>
+<area shape="rect" id="node39" href="$interfaceSCR__PlayerDelegateEditorComponentClass.html" title=" " alt="" coords="513,1807,692,1847"/>
+<area shape="rect" id="node40" href="$interfaceSCR__PlayersManagerEditorComponentClass.html" title=" " alt="" coords="511,1871,695,1911"/>
+<area shape="rect" id="node41" href="$interfaceSCR__PrefabsCacheEditorComponentClass.html" title=" " alt="" coords="484,1935,721,1975"/>
+<area shape="rect" id="node42" href="$interfaceSCR__PreviewEntityEditorComponentClass.html" title=" " alt="" coords="485,1999,720,2039"/>
+<area shape="rect" id="node43" href="$interfaceSCR__ServerInfoEditorComponentClass.html" title=" " alt="" coords="497,2063,709,2103"/>
+<area shape="rect" id="node44" href="$interfaceSCR__StatesEditorComponentClass.html" title=" " alt="" coords="505,2127,700,2167"/>
+<area shape="rect" id="node45" href="$interfaceSCR__TestEditorComponentClass.html" title=" " alt="" coords="495,2191,710,2217"/>
+<area shape="rect" id="node46" href="$interfaceSCR__TransformingEditorComponentClass.html" title=" " alt="" coords="487,2241,718,2281"/>
+<area shape="rect" id="node48" href="$interfaceSCR__WorldEntityDelegateEditorComponentClass.html" title=" " alt="" coords="498,2305,707,2345"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,1187,160,1213"/>
+<area shape="rect" id="node7" href="$interfaceSCR__CommandActionsEditorComponentClass.html" title=" " alt="" coords="803,101,997,141"/>
+<area shape="rect" id="node8" href="$interfaceSCR__ContextActionsEditorComponentClass.html" title=" " alt="" coords="811,165,989,205"/>
+<area shape="rect" id="node9" href="$interfaceSCR__ToolbarActionsEditorComponentClass.html" title=" " alt="" coords="812,229,988,269"/>
+<area shape="rect" id="node11" href="$interfaceSCR__CampaignBuildingBudgetEditorComponentClass.html" title=" " alt="" coords="799,293,1001,333"/>
+<area shape="rect" id="node14" href="$interfaceSCR__CameraLimitedEditorComponentClass.html" title=" " alt="" coords="779,373,1021,413"/>
+<area shape="rect" id="node15" href="$interfaceSCR__CampaignBuildingCameraEditorComponentClass.html" title=" " alt="" coords="797,437,1003,477"/>
+<area shape="rect" id="node38" href="$interfaceSCR__CampaignBuildingPlacingEditorComponentClass.html" title=" " alt="" coords="799,1743,1001,1783"/>
+<area shape="rect" id="node47" href="$interfaceSCR__CampaignBuildingTransformingEditorComponentClass.html" title=" " alt="" coords="783,2241,1017,2281"/>
+</map>

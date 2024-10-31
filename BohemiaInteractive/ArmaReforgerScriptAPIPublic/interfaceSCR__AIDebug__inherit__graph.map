@@ -1,0 +1,4 @@
+<map id="SCR_AIDebug" name="SCR_AIDebug">
+<area shape="rect" id="node1" title="Game core which persists through whole game and stores various data for AI debugging." alt="" coords="27,79,132,104"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,153,31"/>
+</map>

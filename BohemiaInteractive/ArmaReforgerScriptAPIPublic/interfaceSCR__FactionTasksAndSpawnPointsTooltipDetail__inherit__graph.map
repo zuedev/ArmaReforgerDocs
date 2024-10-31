@@ -1,0 +1,5 @@
+<map id="SCR_FactionTasksAndSpawnPointsTooltipDetail" name="SCR_FactionTasksAndSpawnPointsTooltipDetail">
+<area shape="rect" id="node1" title=" " alt="" coords="5,167,201,207"/>
+<area shape="rect" id="node2" href="$interfaceSCR__TextAndWarningTooltipDetail.html" title=" " alt="" coords="8,79,199,119"/>
+<area shape="rect" id="node3" href="$interfaceSCR__EntityTooltipDetail.html" title=" " alt="" coords="23,5,184,31"/>
+</map>

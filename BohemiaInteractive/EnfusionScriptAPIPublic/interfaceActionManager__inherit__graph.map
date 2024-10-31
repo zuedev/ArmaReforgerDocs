@@ -1,0 +1,4 @@
+<map id="ActionManager" name="ActionManager">
+<area shape="rect" id="node1" title="ActionManager holds information about states of registered Contexts and Actions." alt="" coords="5,5,115,31"/>
+<area shape="rect" id="node2" href="$interfaceInputManager.html" title=" " alt="" coords="10,79,110,104"/>
+</map>

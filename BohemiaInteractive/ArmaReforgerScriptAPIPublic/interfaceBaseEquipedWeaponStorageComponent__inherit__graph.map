@@ -1,0 +1,9 @@
+<map id="BaseEquipedWeaponStorageComponent" name="BaseEquipedWeaponStorageComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="23,387,215,427"/>
+<area shape="rect" id="node7" href="$interfaceEquipedWeaponStorageComponent.html" title=" " alt="" coords="5,475,233,500"/>
+<area shape="rect" id="node2" href="$interfaceScriptedBaseInventoryStorageComponent.html" title=" " alt="" coords="21,299,217,339"/>
+<area shape="rect" id="node3" href="$interfaceBaseInventoryStorageComponent.html" title=" " alt="" coords="12,225,227,251"/>
+<area shape="rect" id="node4" href="$interfaceInventoryItemComponent.html" title=" " alt="" coords="37,152,201,177"/>
+<area shape="rect" id="node5" href="$interfaceGameComponent.html" title=" " alt="" coords="58,79,181,104"/>
+<area shape="rect" id="node6" title=" " alt="" coords="53,5,186,31"/>
+</map>

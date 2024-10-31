@@ -1,0 +1,7 @@
+<map id="SCR_SuppressWaypointClass" name="SCR_SuppressWaypointClass">
+<area shape="rect" id="node1" title=" " alt="" coords="5,299,204,324"/>
+<area shape="rect" id="node2" href="$interfaceSCR__TimedWaypointClass.html" title=" " alt="" coords="15,225,194,251"/>
+<area shape="rect" id="node3" href="$interfaceSCR__EntityWaypointClass.html" title=" " alt="" coords="15,152,194,177"/>
+<area shape="rect" id="node4" href="$interfaceSCR__AIWaypointClass.html" title=" " alt="" coords="27,79,183,104"/>
+<area shape="rect" id="node5" title=" " alt="" coords="43,5,166,31"/>
+</map>

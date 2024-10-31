@@ -1,0 +1,13 @@
+<map id="Decorator" name="Decorator">
+<area shape="rect" id="node1" title=" " alt="" coords="391,129,469,155"/>
+<area shape="rect" id="node5" href="$interfaceDecoTestDistanceToEntity.html" title=" " alt="" coords="525,5,701,31"/>
+<area shape="rect" id="node6" href="$interfaceDecoTestVariable.html" title=" " alt="" coords="551,55,675,80"/>
+<area shape="rect" id="node7" href="$interfaceDecoratorEntity.html" title=" " alt="" coords="557,104,669,129"/>
+<area shape="rect" id="node8" href="$interfaceDecoratorPathCompletedTest.html" title=" " alt="" coords="517,153,709,179"/>
+<area shape="rect" id="node9" href="$interfaceDecoratorScripted.html" title=" " alt="" coords="550,203,677,228"/>
+<area shape="rect" id="node10" href="$interfaceDecoratorTimedBase.html" title=" " alt="" coords="542,252,685,277"/>
+<area shape="rect" id="node2" href="$interfaceNode.html" title=" " alt="" coords="291,129,343,155"/>
+<area shape="rect" id="node3" href="$interfaceScriptAndConfig.html" title="Base class for classes which combine enf::Class and enf::BaseClass (in C++)." alt="" coords="128,129,243,155"/>
+<area shape="rect" id="node4" href="$interfaceManaged.html" title=" " alt="" coords="5,129,80,155"/>
+<area shape="rect" id="node11" href="$interfaceDecoratorTimedDangerPerception.html" title=" " alt="" coords="757,252,973,277"/>
+</map>

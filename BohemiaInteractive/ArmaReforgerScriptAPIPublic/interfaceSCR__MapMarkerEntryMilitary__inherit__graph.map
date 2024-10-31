@@ -1,0 +1,4 @@
+<map id="SCR_MapMarkerEntryMilitary" name="SCR_MapMarkerEntryMilitary">
+<area shape="rect" id="node1" title="Marker military symbol entry." alt="" coords="5,79,200,104"/>
+<area shape="rect" id="node2" href="$interfaceSCR__MapMarkerEntryConfig.html" title="Base entry config." alt="" coords="9,5,197,31"/>
+</map>

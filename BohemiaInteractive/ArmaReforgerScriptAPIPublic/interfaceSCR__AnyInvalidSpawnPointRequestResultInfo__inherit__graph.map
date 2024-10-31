@@ -1,0 +1,4 @@
+<map id="SCR_AnyInvalidSpawnPointRequestResultInfo" name="SCR_AnyInvalidSpawnPointRequestResultInfo">
+<area shape="rect" id="node1" title="Used as a catch all for when players cannot spawn at spawn point and all other checks were invalid." alt="" coords="15,93,198,133"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseSpawnPointRequestResultInfo.html" title=" " alt="" coords="5,5,208,45"/>
+</map>

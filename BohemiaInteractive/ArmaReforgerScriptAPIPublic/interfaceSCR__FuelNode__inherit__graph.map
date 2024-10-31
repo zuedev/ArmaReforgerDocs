@@ -1,0 +1,5 @@
+<map id="SCR_FuelNode" name="SCR_FuelNode">
+<area shape="rect" id="node1" title=" " alt="" coords="7,152,118,177"/>
+<area shape="rect" id="node2" href="$interfaceBaseFuelNode.html" title=" " alt="" coords="9,79,116,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,5,120,31"/>
+</map>

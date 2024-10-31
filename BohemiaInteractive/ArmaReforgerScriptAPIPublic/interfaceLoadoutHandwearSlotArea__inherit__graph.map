@@ -1,0 +1,6 @@
+<map id="LoadoutHandwearSlotArea" name="LoadoutHandwearSlotArea">
+<area shape="rect" id="node1" title=" " alt="" coords="5,225,180,251"/>
+<area shape="rect" id="node2" href="$interfaceLoadoutAreaType.html" title=" " alt="" coords="31,152,154,177"/>
+<area shape="rect" id="node3" href="$interfaceBaseAttachmentType.html" title=" " alt="" coords="19,79,166,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="35,5,150,31"/>
+</map>

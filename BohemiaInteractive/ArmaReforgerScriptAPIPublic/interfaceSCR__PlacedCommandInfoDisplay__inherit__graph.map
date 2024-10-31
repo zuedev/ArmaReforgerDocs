@@ -1,0 +1,8 @@
+<map id="SCR_PlacedCommandInfoDisplay" name="SCR_PlacedCommandInfoDisplay">
+<area shape="rect" id="node1" title=" " alt="" coords="5,372,224,397"/>
+<area shape="rect" id="node2" href="$interfaceSCR__InfoDisplayExtended.html" title=" " alt="" coords="27,299,202,324"/>
+<area shape="rect" id="node3" href="$interfaceSCR__InfoDisplay.html" title=" " alt="" coords="55,225,174,251"/>
+<area shape="rect" id="node4" href="$interfaceGroupInfoDisplay.html" title=" " alt="" coords="55,152,175,177"/>
+<area shape="rect" id="node5" href="$interfaceBaseInfoDisplay.html" title=" " alt="" coords="57,79,172,104"/>
+<area shape="rect" id="node6" title=" " alt="" coords="57,5,172,31"/>
+</map>

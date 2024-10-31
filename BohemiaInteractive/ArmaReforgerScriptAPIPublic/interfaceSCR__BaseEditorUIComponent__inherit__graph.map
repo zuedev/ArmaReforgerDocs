@@ -1,0 +1,51 @@
+<map id="SCR_BaseEditorUIComponent" name="SCR_BaseEditorUIComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="449,854,648,879"/>
+<area shape="rect" id="node4" href="$interfaceSCR__AttributesButtonEditorUIComponent.html" title=" " alt="" coords="731,29,915,69"/>
+<area shape="rect" id="node5" href="$interfaceSCR__BaseContextMenuEditorUIComponent.html" title=" " alt="" coords="725,93,922,133"/>
+<area shape="rect" id="node8" href="$interfaceSCR__BaseTooltipEditorUIComponent.html" title=" " alt="" coords="705,183,941,209"/>
+<area shape="rect" id="node11" href="$interfaceSCR__BaseTooltipTargetEditorUIComponent.html" title=" " alt="" coords="726,233,921,273"/>
+<area shape="rect" id="node14" href="$interfaceSCR__BudgetEditorUIComponent.html" title=" " alt="" coords="719,298,928,323"/>
+<area shape="rect" id="node16" href="$interfaceSCR__BudgetUIComponent.html" title="Component to display budget progress." alt="" coords="736,347,911,373"/>
+<area shape="rect" id="node17" href="$interfaceSCR__CampaignBuildingServicesEditorUIComponent.html" title=" " alt="" coords="719,397,928,437"/>
+<area shape="rect" id="node18" href="$interfaceSCR__CampaignBuildingSupplyEditorUIComponent.html" title=" " alt="" coords="723,461,923,501"/>
+<area shape="rect" id="node19" href="$interfaceSCR__ContentBrowserFiltersEditorUIComponent.html" title=" " alt="" coords="731,525,915,565"/>
+<area shape="rect" id="node20" href="$interfaceSCR__CursorEditorUIComponent.html" title=" " alt="" coords="720,590,927,615"/>
+<area shape="rect" id="node21" href="$interfaceSCR__DialogEditorUIComponent.html" title=" " alt="" coords="721,639,925,665"/>
+<area shape="rect" id="node30" href="$interfaceSCR__EditAttributesEditorUIComponent.html" title=" " alt="" coords="739,689,908,729"/>
+<area shape="rect" id="node31" href="$interfaceSCR__EditableEntitySlotManagerUIComponent.html" title=" " alt="" coords="718,753,929,793"/>
+<area shape="rect" id="node33" href="$interfaceSCR__EditorStateConditionUIComponent.html" title=" " alt="" coords="736,817,911,857"/>
+<area shape="rect" id="node34" href="$interfaceSCR__HideEditorUIComponent.html" title=" " alt="" coords="726,882,921,907"/>
+<area shape="rect" id="node35" href="$interfaceSCR__LayerAutoEnterUIComponent.html" title=" " alt="" coords="711,931,935,957"/>
+<area shape="rect" id="node36" href="$interfaceSCR__LayersEditorUIComponent.html" title="Creates the elements for the layer Ui menu If a Layer is selected this menu will show which layer is ..." alt="" coords="720,981,927,1006"/>
+<area shape="rect" id="node37" href="$interfaceSCR__MapEditorUIComponent.html" title=" " alt="" coords="727,1030,920,1055"/>
+<area shape="rect" id="node38" href="$interfaceSCR__MouseAreaEditorUIComponent.html" title=" " alt="" coords="706,1079,941,1105"/>
+<area shape="rect" id="node39" href="$interfaceSCR__PingEditorUIComponent.html" title=" " alt="" coords="726,1129,921,1154"/>
+<area shape="rect" id="node40" href="$interfaceSCR__PlayerHubWarningEditorUIComponent.html" title=" " alt="" coords="724,1179,923,1219"/>
+<area shape="rect" id="node41" href="$interfaceSCR__PlayersListEditorUIComponent.html" title=" " alt="" coords="707,1243,940,1269"/>
+<area shape="rect" id="node42" href="$interfaceSCR__PreviewEntityEditorUIComponent.html" title=" " alt="" coords="700,1293,947,1318"/>
+<area shape="rect" id="node45" href="$interfaceSCR__QuickPlacingEditorUIComponent.html" title=" " alt="" coords="701,1342,946,1367"/>
+<area shape="rect" id="node46" href="$interfaceSCR__SelectionEditorUIComponent.html" title=" " alt="" coords="712,1391,935,1417"/>
+<area shape="rect" id="node47" href="$interfaceSCR__TooltipAreaEditorUIComponent.html" title=" " alt="" coords="707,1441,940,1466"/>
+<area shape="rect" id="node48" href="$interfaceSCR__TooltipManagerEditorUIComponent.html" title=" " alt="" coords="734,1491,913,1531"/>
+<area shape="rect" id="node49" href="$interfaceSCR__WaypointLinesEditorUIComponent.html" title=" " alt="" coords="696,1555,951,1581"/>
+<area shape="rect" id="node2" href="$interfaceMenuRootSubComponent.html" title="Widget component which is linked to menu it&#39;s part of." alt="" coords="231,854,401,879"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,854,183,879"/>
+<area shape="rect" id="node6" href="$interfaceSCR__CommandActionsEditorUIComponent.html" title=" " alt="" coords="1023,5,1217,45"/>
+<area shape="rect" id="node7" href="$interfaceSCR__ContextMenuActionsEditorUIComponent.html" title=" " alt="" coords="1015,69,1225,109"/>
+<area shape="rect" id="node9" href="$interfaceSCR__ActionTooltipEditorUIComponent.html" title=" " alt="" coords="999,134,1241,159"/>
+<area shape="rect" id="node10" href="$interfaceSCR__EntityTooltipEditorUIComponent.html" title=" " alt="" coords="1000,183,1240,209"/>
+<area shape="rect" id="node12" href="$interfaceSCR__CustomTooltipTargetEditorUIComponent.html" title=" " alt="" coords="1015,233,1225,273"/>
+<area shape="rect" id="node13" href="$interfaceSCR__LinkTooltipTargetEditorUIComponent.html" title=" " alt="" coords="1026,297,1214,337"/>
+<area shape="rect" id="node15" href="$interfaceSCR__CampaignBuildingBudgetEditorUIComponent.html" title=" " alt="" coords="1019,361,1221,401"/>
+<area shape="rect" id="node22" href="$interfaceSCR__BaseToolbarEditorUIComponent.html" title=" " alt="" coords="1000,615,1240,641"/>
+<area shape="rect" id="node29" href="$interfaceSCR__ModesEditorUIComponent.html" title=" " alt="" coords="1017,665,1223,690"/>
+<area shape="rect" id="node23" href="$interfaceSCR__ActionsToolbarEditorUIComponent.html" title=" " alt="" coords="1297,512,1473,552"/>
+<area shape="rect" id="node24" href="$interfaceSCR__CommandToolbarEditorUIComponent.html" title=" " alt="" coords="1289,576,1480,616"/>
+<area shape="rect" id="node25" href="$interfaceSCR__EntitiesToolbarEditorUIComponent.html" title=" " alt="" coords="1297,640,1473,680"/>
+<area shape="rect" id="node28" href="$interfaceSCR__PlacingToolbarEditorUIComponent.html" title=" " alt="" coords="1297,704,1472,744"/>
+<area shape="rect" id="node26" href="$interfaceSCR__FactionsToolbarEditorUIComponent.html" title=" " alt="" coords="1556,612,1739,652"/>
+<area shape="rect" id="node27" href="$interfaceSCR__TaskToolbarEditorUIComponent.html" title=" " alt="" coords="1528,677,1767,702"/>
+<area shape="rect" id="node32" href="$interfaceSCR__EntitiesEditorUIComponent.html" title=" " alt="" coords="1014,761,1226,786"/>
+<area shape="rect" id="node43" href="$interfaceSCR__PlacingEditorUIComponent.html" title=" " alt="" coords="1015,1269,1225,1294"/>
+<area shape="rect" id="node44" href="$interfaceSCR__TransformingEditorUIComponent.html" title=" " alt="" coords="999,1318,1241,1343"/>
+</map>

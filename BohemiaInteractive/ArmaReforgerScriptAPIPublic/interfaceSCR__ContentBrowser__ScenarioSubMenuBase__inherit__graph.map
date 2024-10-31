@@ -1,0 +1,8 @@
+<map id="SCR_ContentBrowser_ScenarioSubMenuBase" name="SCR_ContentBrowser_ScenarioSubMenuBase">
+<area shape="rect" id="node1" title=" " alt="" coords="113,225,278,265"/>
+<area shape="rect" id="node5" href="$interfaceSCR__ContentBrowserDetails__OverviewSubMenu.html" title=" " alt="" coords="5,313,193,353"/>
+<area shape="rect" id="node6" href="$interfaceSCR__ContentBrowser__ScenarioSubMenu.html" title=" " alt="" coords="217,313,365,353"/>
+<area shape="rect" id="node2" href="$interfaceSCR__SubMenuBase.html" title=" " alt="" coords="125,152,266,177"/>
+<area shape="rect" id="node3" href="$interfaceSCR__ScriptedWidgetComponent.html" title=" " alt="" coords="90,79,301,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="107,5,284,31"/>
+</map>

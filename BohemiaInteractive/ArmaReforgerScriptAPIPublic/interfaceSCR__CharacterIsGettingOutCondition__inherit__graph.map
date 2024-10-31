@@ -1,0 +1,4 @@
+<map id="SCR_CharacterIsGettingOutCondition" name="SCR_CharacterIsGettingOutCondition">
+<area shape="rect" id="node1" title="Returns true if character is in a vehicle." alt="" coords="12,79,197,119"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AvailableActionCondition.html" title="A single available action condition representation." alt="" coords="5,5,204,31"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="SCR_PlacingToolbarEditorUIComponent" name="SCR_PlacingToolbarEditorUIComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="38,372,213,412"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseToolbarEditorUIComponent.html" title=" " alt="" coords="5,299,245,324"/>
+<area shape="rect" id="node3" href="$interfaceSCR__DialogEditorUIComponent.html" title=" " alt="" coords="23,225,227,251"/>
+<area shape="rect" id="node4" href="$interfaceSCR__BaseEditorUIComponent.html" title=" " alt="" coords="26,152,225,177"/>
+<area shape="rect" id="node5" href="$interfaceMenuRootSubComponent.html" title="Widget component which is linked to menu it&#39;s part of." alt="" coords="40,79,211,104"/>
+<area shape="rect" id="node6" title=" " alt="" coords="37,5,214,31"/>
+</map>

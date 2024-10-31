@@ -1,0 +1,6 @@
+<map id="SCR_BaseCaptureMusic" name="SCR_BaseCaptureMusic">
+<area shape="rect" id="node1" title=" " alt="" coords="5,225,172,251"/>
+<area shape="rect" id="node2" href="$interfaceScriptedMusic.html" title=" " alt="" coords="36,152,141,177"/>
+<area shape="rect" id="node3" href="$interfaceMusic.html" title=" " alt="" coords="60,79,117,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="31,5,146,31"/>
+</map>

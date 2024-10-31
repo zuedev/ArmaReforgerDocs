@@ -1,0 +1,6 @@
+<map id="SCR_DeleteAddonDependentAddonsDetected" name="SCR_DeleteAddonDependentAddonsDetected">
+<area shape="rect" id="node1" title="This dialog is shown when we want to delete an addon but some other downloaded addons depend on it." alt="" coords="5,225,197,265"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AddonListDialog.html" title="Shows a list of addons and some text." alt="" coords="26,152,177,177"/>
+<area shape="rect" id="node3" href="$interfaceSCR__ConfigurableDialogUi.html" title=" " alt="" coords="14,79,189,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="13,5,190,31"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="SCR_AIFindFirePositionBehavior" name="SCR_AIFindFirePositionBehavior">
+<area shape="rect" id="node1" title="Behavior which makes AI walk around a position while keeping beyond some minimal distance." alt="" coords="5,299,216,324"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AIBehaviorBase.html" title=" " alt="" coords="37,225,184,251"/>
+<area shape="rect" id="node3" href="$interfaceSCR__AIActionBase.html" title=" " alt="" coords="43,152,178,177"/>
+<area shape="rect" id="node4" href="$interfaceAIActionBase.html" title=" " alt="" coords="60,79,161,104"/>
+<area shape="rect" id="node5" title=" " alt="" coords="53,5,168,31"/>
+</map>

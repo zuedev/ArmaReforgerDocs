@@ -1,0 +1,6 @@
+<map id="SCR_GenericBoxEntity" name="SCR_GenericBoxEntity">
+<area shape="rect" id="node1" title="Procedural box entity." alt="" coords="120,79,279,104"/>
+<area shape="rect" id="node3" href="$interfaceSCR__CompositionValidationEntity.html" title=" " alt="" coords="5,152,191,192"/>
+<area shape="rect" id="node4" href="$interfaceSCR__DummyTargetEntity.html" title="Procedural box entity." alt="" coords="215,159,386,185"/>
+<area shape="rect" id="node2" title=" " alt="" coords="149,5,250,31"/>
+</map>

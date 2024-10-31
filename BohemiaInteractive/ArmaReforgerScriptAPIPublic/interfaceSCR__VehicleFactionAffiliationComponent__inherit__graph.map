@@ -1,0 +1,7 @@
+<map id="SCR_VehicleFactionAffiliationComponent" name="SCR_VehicleFactionAffiliationComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="17,299,211,339"/>
+<area shape="rect" id="node2" href="$interfaceSCR__FactionAffiliationComponent.html" title=" " alt="" coords="5,225,223,251"/>
+<area shape="rect" id="node3" href="$interfaceFactionAffiliationComponent.html" title=" " alt="" coords="23,152,205,177"/>
+<area shape="rect" id="node4" href="$interfaceGameComponent.html" title=" " alt="" coords="53,79,175,104"/>
+<area shape="rect" id="node5" title=" " alt="" coords="47,5,181,31"/>
+</map>

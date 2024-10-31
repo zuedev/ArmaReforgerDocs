@@ -1,0 +1,11 @@
+<map id="ScriptedSightsComponentClass" name="ScriptedSightsComponentClass">
+<area shape="rect" id="node1" title=" " alt="" coords="124,299,331,324"/>
+<area shape="rect" id="node6" href="$interfaceSCR__2DOpticsComponentClass.html" title=" " alt="" coords="5,372,215,397"/>
+<area shape="rect" id="node9" href="$interfaceSCR__PIPSightsComponentClass.html" title=" " alt="" coords="239,372,453,397"/>
+<area shape="rect" id="node2" href="$interfaceSightsComponentClass.html" title=" " alt="" coords="148,225,307,251"/>
+<area shape="rect" id="node3" href="$interfaceBaseSightsComponentClass.html" title=" " alt="" coords="133,152,321,177"/>
+<area shape="rect" id="node4" href="$interfaceGameComponentClass.html" title=" " alt="" coords="149,79,305,104"/>
+<area shape="rect" id="node5" title=" " alt="" coords="144,5,311,31"/>
+<area shape="rect" id="node7" href="$interfaceSCR__2DSightsComponentClass.html" title=" " alt="" coords="6,445,214,471"/>
+<area shape="rect" id="node8" href="$interfaceSCR__2DPIPSightsComponentClass.html" title=" " alt="" coords="12,519,208,559"/>
+</map>

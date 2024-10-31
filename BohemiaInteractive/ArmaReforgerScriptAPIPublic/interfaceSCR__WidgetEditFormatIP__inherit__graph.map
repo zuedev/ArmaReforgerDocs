@@ -1,0 +1,4 @@
+<map id="SCR_WidgetEditFormatIP" name="SCR_WidgetEditFormatIP">
+<area shape="rect" id="node1" title="Format for ip." alt="" coords="5,79,179,104"/>
+<area shape="rect" id="node2" href="$interfaceSCR__WidgetEditFormat.html" title="Classes for handling limits of configurable widget entries." alt="" coords="11,5,173,31"/>
+</map>

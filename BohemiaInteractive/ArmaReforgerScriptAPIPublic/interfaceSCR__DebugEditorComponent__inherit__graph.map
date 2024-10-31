@@ -1,0 +1,5 @@
+<map id="SCR_DebugEditorComponent" name="SCR_DebugEditorComponent">
+<area shape="rect" id="node1" title="Component to handle various debug modes for the editor." alt="" coords="5,152,199,177"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseEditorComponent.html" title="Base class for editor components." alt="" coords="9,79,195,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="41,5,163,31"/>
+</map>

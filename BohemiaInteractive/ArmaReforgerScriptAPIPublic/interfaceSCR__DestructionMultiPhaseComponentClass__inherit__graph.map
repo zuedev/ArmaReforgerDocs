@@ -1,0 +1,10 @@
+<map id="SCR_DestructionMultiPhaseComponentClass" name="SCR_DestructionMultiPhaseComponentClass">
+<area shape="rect" id="node1" title=" " alt="" coords="22,489,209,529"/>
+<area shape="rect" id="node8" href="$interfaceSCR__DestructionTireComponentClass.html" title=" " alt="" coords="11,577,220,617"/>
+<area shape="rect" id="node2" href="$interfaceSCR__DestructionDamageManagerComponentClass.html" title=" " alt="" coords="5,401,225,441"/>
+<area shape="rect" id="node3" href="$interfaceSCR__DamageManagerComponentClass.html" title=" " alt="" coords="5,313,225,353"/>
+<area shape="rect" id="node4" href="$interfaceDamageManagerComponentClass.html" title=" " alt="" coords="6,240,225,265"/>
+<area shape="rect" id="node5" href="$interfaceHitZoneContainerComponentClass.html" title=" " alt="" coords="22,152,209,192"/>
+<area shape="rect" id="node6" href="$interfaceGameComponentClass.html" title=" " alt="" coords="37,79,193,104"/>
+<area shape="rect" id="node7" title=" " alt="" coords="32,5,199,31"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="SCR_RequestedTaskSupportEntityClass" name="SCR_RequestedTaskSupportEntityClass">
+<area shape="rect" id="node1" title=" " alt="" coords="429,101,620,141"/>
+<area shape="rect" id="node4" href="$interfaceSCR__CampaignDefendTaskSupportEntityClass.html" title=" " alt="" coords="668,5,895,45"/>
+<area shape="rect" id="node5" href="$interfaceSCR__EvacuateTaskSupportEntityClass.html" title=" " alt="" coords="673,69,889,109"/>
+<area shape="rect" id="node6" href="$interfaceSCR__RefuelTaskSupportEntityClass.html" title=" " alt="" coords="682,133,881,173"/>
+<area shape="rect" id="node7" href="$interfaceSCR__TransportTaskSupportEntityClass.html" title=" " alt="" coords="690,197,873,237"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseTaskSupportEntityClass.html" title=" " alt="" coords="188,101,381,141"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,109,140,134"/>
+</map>

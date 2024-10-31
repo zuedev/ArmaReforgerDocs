@@ -1,0 +1,4 @@
+<map id="SCR_EditorCountOrMoreEntitiesSelectedActionCondition" name="SCR_EditorCountOrMoreEntitiesSelectedActionCondition">
+<area shape="rect" id="node1" title="Returns true if count or more is selected." alt="" coords="5,79,216,119"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AvailableActionCondition.html" title="A single available action condition representation." alt="" coords="11,5,210,31"/>
+</map>

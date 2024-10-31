@@ -1,0 +1,5 @@
+<map id="WorldController" name="WorldController">
+<area shape="rect" id="node1" title=" " alt="" coords="7,152,118,177"/>
+<area shape="rect" id="node2" href="$interfaceScriptAndConfig.html" title="Base class for classes which combine enf::Class and enf::BaseClass (in C++)." alt="" coords="5,79,120,104"/>
+<area shape="rect" id="node3" href="$interfaceManaged.html" title=" " alt="" coords="25,5,100,31"/>
+</map>

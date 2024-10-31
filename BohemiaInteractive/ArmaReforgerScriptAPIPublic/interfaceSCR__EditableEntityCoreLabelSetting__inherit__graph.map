@@ -1,0 +1,5 @@
+<map id="SCR_EditableEntityCoreLabelSetting" name="SCR_EditableEntityCoreLabelSetting">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,200,45"/>
+<area shape="rect" id="node2" href="$interfaceSCR__EditableEntityCoreLabelSettingExtended.html" title=" " alt="" coords="5,93,200,133"/>
+<area shape="rect" id="node3" href="$interfaceSCR__EditableEntityCampaignBuildingLabelSetting.html" title=" " alt="" coords="5,181,200,221"/>
+</map>

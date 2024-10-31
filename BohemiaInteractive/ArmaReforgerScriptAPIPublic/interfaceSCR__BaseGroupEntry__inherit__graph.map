@@ -1,0 +1,8 @@
+<map id="SCR_BaseGroupEntry" name="SCR_BaseGroupEntry">
+<area shape="rect" id="node1" title="An abstract wrapper to provide common interface for items that can be stored in a BaseGroup." alt="" coords="23,313,175,339"/>
+<area shape="rect" id="node6" href="$interfaceSCR__GroupWeaponEntry.html" title="Implementation of base group for switching that can be created via passing in a list of WeaponSlotCom..." alt="" coords="13,387,184,412"/>
+<area shape="rect" id="node2" href="$interfaceScriptedSelectionMenuEntry.html" title=" " alt="" coords="5,240,192,265"/>
+<area shape="rect" id="node3" href="$interfaceBaseScriptedSelectionMenuEntry.html" title=" " alt="" coords="5,152,192,192"/>
+<area shape="rect" id="node4" href="$interfaceBaseSelectionMenuEntry.html" title=" " alt="" coords="14,79,183,104"/>
+<area shape="rect" id="node5" title=" " alt="" coords="41,5,156,31"/>
+</map>

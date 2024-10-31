@@ -1,0 +1,4 @@
+<map id="SCR_WidgetListEntrySlider" name="SCR_WidgetListEntrySlider">
+<area shape="rect" id="node1" title="Configurable widget list entry for slider with ranged values." alt="" coords="5,79,188,104"/>
+<area shape="rect" id="node2" href="$interfaceSCR__WidgetListEntry.html" title="Configurable class for widget." alt="" coords="22,5,171,31"/>
+</map>

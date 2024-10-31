@@ -1,0 +1,6 @@
+<map id="AIDangerEvent" name="AIDangerEvent">
+<area shape="rect" id="node1" title="Event which gets broadcasted from danger&#45;causing places to AI." alt="" coords="9,225,116,251"/>
+<area shape="rect" id="node2" href="$interfaceAIMessage.html" title="Base class for all messages related to AI." alt="" coords="19,152,106,177"/>
+<area shape="rect" id="node3" href="$interfaceScriptAndConfig.html" title="Base class for classes which combine enf::Class and enf::BaseClass (in C++)." alt="" coords="5,79,120,104"/>
+<area shape="rect" id="node4" href="$interfaceManaged.html" title=" " alt="" coords="25,5,100,31"/>
+</map>

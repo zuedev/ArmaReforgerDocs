@@ -1,0 +1,5 @@
+<map id="SCR_ButtonEffectImage" name="SCR_ButtonEffectImage">
+<area shape="rect" id="node1" title="This effect modifies texture of an image." alt="" coords="23,152,186,177"/>
+<area shape="rect" id="node2" href="$interfaceSCR__ButtonEffectWidgetBase.html" title="Button effect which does something with a specific widget." alt="" coords="5,79,204,104"/>
+<area shape="rect" id="node3" href="$interfaceSCR__ButtonEffectBase.html" title="Base class for modular button effects." alt="" coords="26,5,183,31"/>
+</map>

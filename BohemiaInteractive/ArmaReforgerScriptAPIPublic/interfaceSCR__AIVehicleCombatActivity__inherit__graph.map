@@ -1,0 +1,7 @@
+<map id="SCR_AIVehicleCombatActivity" name="SCR_AIVehicleCombatActivity">
+<area shape="rect" id="node1" title="Activity which handles combat of a group if it has vehicles." alt="" coords="5,299,204,324"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AIActivityBase.html" title=" " alt="" coords="35,225,175,251"/>
+<area shape="rect" id="node3" href="$interfaceSCR__AIActionBase.html" title=" " alt="" coords="37,152,172,177"/>
+<area shape="rect" id="node4" href="$interfaceAIActionBase.html" title=" " alt="" coords="54,79,155,104"/>
+<area shape="rect" id="node5" title=" " alt="" coords="47,5,162,31"/>
+</map>

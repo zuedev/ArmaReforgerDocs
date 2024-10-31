@@ -1,0 +1,6 @@
+<map id="SCR_AICharacterStats" name="SCR_AICharacterStats">
+<area shape="rect" id="node1" title=" " alt="" coords="81,79,235,104"/>
+<area shape="rect" id="node3" href="$interfaceSCR__AISetStance.html" title=" " alt="" coords="5,152,135,177"/>
+<area shape="rect" id="node4" href="$interfaceSCR__AISetWeaponRaised.html" title=" " alt="" coords="159,152,335,177"/>
+<area shape="rect" id="node2" title=" " alt="" coords="103,5,213,31"/>
+</map>

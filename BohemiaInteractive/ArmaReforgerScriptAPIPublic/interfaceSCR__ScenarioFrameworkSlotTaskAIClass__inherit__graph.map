@@ -1,0 +1,9 @@
+<map id="SCR_ScenarioFrameworkSlotTaskAIClass" name="SCR_ScenarioFrameworkSlotTaskAIClass">
+<area shape="rect" id="node1" title=" " alt="" coords="115,343,309,383"/>
+<area shape="rect" id="node6" href="$interfaceSCR__ScenarioFrameworkSlotDefendClass.html" title=" " alt="" coords="5,431,200,471"/>
+<area shape="rect" id="node7" href="$interfaceSCR__ScenarioFrameworkSlotKillClass.html" title=" " alt="" coords="224,431,419,471"/>
+<area shape="rect" id="node2" href="$interfaceSCR__ScenarioFrameworkSlotTaskClass.html" title=" " alt="" coords="115,255,309,295"/>
+<area shape="rect" id="node3" href="$interfaceSCR__ScenarioFrameworkSlotBaseClass.html" title=" " alt="" coords="115,167,309,207"/>
+<area shape="rect" id="node4" href="$interfaceSCR__ScenarioFrameworkLayerBaseClass.html" title=" " alt="" coords="111,79,313,119"/>
+<area shape="rect" id="node5" title=" " alt="" coords="135,5,289,31"/>
+</map>

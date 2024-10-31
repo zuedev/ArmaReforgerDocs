@@ -1,0 +1,7 @@
+<map id="SCR_AIWaypointState" name="SCR_AIWaypointState">
+<area shape="rect" id="node1" title="This class represents group&#39;s processing of a waypoint." alt="" coords="128,63,283,88"/>
+<area shape="rect" id="node3" href="$interfaceSCR__AIDefendWaypointState.html" title=" " alt="" coords="345,5,540,31"/>
+<area shape="rect" id="node4" href="$interfaceSCR__DeploySmokeCoverWaypointState.html" title=" " alt="" coords="331,55,555,95"/>
+<area shape="rect" id="node5" href="$interfaceSCR__SuppressWaypointState.html" title=" " alt="" coords="344,120,541,145"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,63,80,88"/>
+</map>

@@ -1,0 +1,24 @@
+<map id="SCR_BaseTaskClass" name="SCR_BaseTaskClass">
+<area shape="rect" id="node1" title=" " alt="" coords="188,199,335,225"/>
+<area shape="rect" id="node3" href="$interfaceSCR__CampaignBaseTaskClass.html" title=" " alt="" coords="383,107,588,133"/>
+<area shape="rect" id="node7" href="$interfaceSCR__EditorTaskClass.html" title=" " alt="" coords="410,181,561,206"/>
+<area shape="rect" id="node11" href="$interfaceSCR__RequestedTaskClass.html" title=" " alt="" coords="396,249,575,274"/>
+<area shape="rect" id="node15" href="$interfaceSCR__ScenarioFrameworkTaskClass.html" title=" " alt="" coords="386,448,585,488"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,199,140,225"/>
+<area shape="rect" id="node4" href="$interfaceSCR__CampaignBuildingTaskClass.html" title=" " alt="" coords="649,5,837,45"/>
+<area shape="rect" id="node5" href="$interfaceSCR__CampaignDefendTaskClass.html" title=" " alt="" coords="636,70,851,95"/>
+<area shape="rect" id="node6" href="$interfaceSCR__CampaignTaskClass.html" title=" " alt="" coords="656,119,831,145"/>
+<area shape="rect" id="node8" href="$interfaceSCR__AttachableTaskClass.html" title=" " alt="" coords="654,169,833,194"/>
+<area shape="rect" id="node9" href="$interfaceSCR__MoveTaskClass.html" title=" " alt="" coords="925,145,1071,170"/>
+<area shape="rect" id="node10" href="$interfaceSCR__TriggerTaskClass.html" title=" " alt="" coords="920,194,1076,219"/>
+<area shape="rect" id="node12" href="$interfaceSCR__EvacuateTaskClass.html" title=" " alt="" coords="658,218,829,243"/>
+<area shape="rect" id="node13" href="$interfaceSCR__RefuelTaskClass.html" title=" " alt="" coords="667,267,820,293"/>
+<area shape="rect" id="node14" href="$interfaceSCR__TransportTaskClass.html" title=" " alt="" coords="658,317,829,342"/>
+<area shape="rect" id="node16" href="$interfaceSCR__ScenarioFrameworkTaskAreaClass.html" title=" " alt="" coords="644,367,843,407"/>
+<area shape="rect" id="node19" href="$interfaceSCR__TaskDefendClass.html" title=" " alt="" coords="665,431,822,457"/>
+<area shape="rect" id="node20" href="$interfaceSCR__TaskDeliverClass.html" title=" " alt="" coords="666,481,821,506"/>
+<area shape="rect" id="node21" href="$interfaceSCR__TaskDestroyObjectClass.html" title=" " alt="" coords="643,530,843,555"/>
+<area shape="rect" id="node22" href="$interfaceSCR__TaskKillClass.html" title=" " alt="" coords="676,579,811,605"/>
+<area shape="rect" id="node17" href="$interfaceSCR__ScenarioFrameworkTaskClearAreaClass.html" title=" " alt="" coords="899,335,1097,375"/>
+<area shape="rect" id="node18" href="$interfaceSCR__ScenarioFrameworkTaskExtractClass.html" title=" " alt="" coords="899,399,1097,439"/>
+</map>

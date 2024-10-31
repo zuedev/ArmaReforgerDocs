@@ -1,0 +1,6 @@
+<map id="SCR_GameModeCombatOpsManager" name="SCR_GameModeCombatOpsManager">
+<area shape="rect" id="node1" title=" " alt="" coords="5,225,248,251"/>
+<area shape="rect" id="node2" href="$interfaceSCR__GameModeSFManager.html" title=" " alt="" coords="31,152,222,177"/>
+<area shape="rect" id="node3" href="$interfaceSCR__BaseGameModeComponent.html" title="Interface for game mode extending components." alt="" coords="17,79,236,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="65,5,188,31"/>
+</map>

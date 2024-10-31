@@ -1,0 +1,6 @@
+<map id="SCR_WristwatchComponent" name="SCR_WristwatchComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="5,225,192,251"/>
+<area shape="rect" id="node2" href="$interfaceSCR__GadgetComponent.html" title="Gadget base class." alt="" coords="17,152,181,177"/>
+<area shape="rect" id="node3" href="$interfaceScriptGameComponent.html" title=" " alt="" coords="20,79,177,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="37,5,160,31"/>
+</map>

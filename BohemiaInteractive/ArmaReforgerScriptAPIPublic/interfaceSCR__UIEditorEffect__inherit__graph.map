@@ -1,0 +1,4 @@
+<map id="SCR_UIEditorEffect" name="SCR_UIEditorEffect">
+<area shape="rect" id="node1" title="Editor UI effect." alt="" coords="15,79,149,104"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseEditorEffect.html" title="Base class for audio&#45;visual effects." alt="" coords="5,5,159,31"/>
+</map>

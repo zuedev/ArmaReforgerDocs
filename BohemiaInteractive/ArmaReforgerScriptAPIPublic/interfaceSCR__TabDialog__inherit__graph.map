@@ -1,0 +1,8 @@
+<map id="SCR_TabDialog" name="SCR_TabDialog">
+<area shape="rect" id="node1" title="Class for tab dialogs, relies on a SCR_SuperMenuComponent placed on content layout root widget Do you..." alt="" coords="163,152,277,177"/>
+<area shape="rect" id="node4" href="$interfaceAddonsToolsUI.html" title=" " alt="" coords="5,233,115,258"/>
+<area shape="rect" id="node5" href="$interfaceSCR__DownloadManager__Dialog.html" title=" " alt="" coords="139,225,301,265"/>
+<area shape="rect" id="node6" href="$interfaceServerHostingUI.html" title=" " alt="" coords="325,233,440,258"/>
+<area shape="rect" id="node2" href="$interfaceSCR__ConfigurableDialogUi.html" title=" " alt="" coords="133,79,307,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="131,5,309,31"/>
+</map>

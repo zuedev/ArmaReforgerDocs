@@ -1,0 +1,6 @@
+<map id="SCR_AIMessage_Suppress" name="SCR_AIMessage_Suppress">
+<area shape="rect" id="node1" title=" " alt="" coords="5,225,188,251"/>
+<area shape="rect" id="node2" href="$interfaceSCR__AIMessageGoal.html" title=" " alt="" coords="23,152,171,177"/>
+<area shape="rect" id="node3" href="$interfaceSCR__AIMessageBase.html" title=" " alt="" coords="21,79,172,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="53,5,140,31"/>
+</map>

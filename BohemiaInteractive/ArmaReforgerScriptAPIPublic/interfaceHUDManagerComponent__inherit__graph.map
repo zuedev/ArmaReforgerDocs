@@ -1,0 +1,8 @@
+<map id="HUDManagerComponent" name="HUDManagerComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="22,299,187,324"/>
+<area shape="rect" id="node6" href="$interfaceSCR__HUDManagerComponent.html" title=" " alt="" coords="5,372,204,397"/>
+<area shape="rect" id="node2" href="$interfaceSCR__BaseHUDComponent.html" title=" " alt="" coords="15,225,194,251"/>
+<area shape="rect" id="node3" href="$interfaceBaseHUDComponent.html" title=" " alt="" coords="32,152,177,177"/>
+<area shape="rect" id="node4" href="$interfaceGameComponent.html" title=" " alt="" coords="43,79,166,104"/>
+<area shape="rect" id="node5" title=" " alt="" coords="38,5,171,31"/>
+</map>

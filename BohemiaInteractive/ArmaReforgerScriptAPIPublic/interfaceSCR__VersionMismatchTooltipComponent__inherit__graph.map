@@ -1,0 +1,5 @@
+<map id="SCR_VersionMismatchTooltipComponent" name="SCR_VersionMismatchTooltipComponent">
+<area shape="rect" id="node1" title="Component to handle version mismatch tooltips." alt="" coords="13,152,208,192"/>
+<area shape="rect" id="node2" href="$interfaceSCR__ScriptedWidgetComponent.html" title=" " alt="" coords="5,79,216,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="22,5,199,31"/>
+</map>
